@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8168ec06062d73d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RandomStuff/Unsortierte Ideen/Plots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "118c8afd132ec221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linklist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbc9c5e4c034799f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechaniken/Magie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a997655368dc5689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechaniken/Magische Kristalle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -58,14 +107,6 @@
             }
           },
           {
-            "id": "255760d50277eeee",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "d7c504d7e56ebc7e",
             "type": "leaf",
             "state": {
@@ -93,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Mechaniken/Magische Kristalle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Mechaniken/Magische Kristalle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Mechaniken/Magische Kristalle.md"
               }
             }
           }
@@ -157,10 +198,25 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "3e064224af4ecf70",
+  "active": "a997655368dc5689",
   "lastOpenFiles": [
+    "Mechaniken/Magie.md",
+    "Mechaniken/Magische Kristalle.md",
+    "Linklist.md",
+    "Mechaniken",
+    "Untitled.md",
+    "RandomStuff",
+    "Chromos",
+    "RandomStuff/Unsortierte Ideen/Plots.md",
+    "RandomStuff/Unsortierte Ideen/A Horror Adventure.md",
+    "RandomStuff/Unsortierte Ideen/Abentuere1.md",
+    "RandomStuff/Unsortierte Ideen/Konvergenz und Katalysten.md",
+    "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
+    "RandomStuff/Unsortierte Ideen",
+    "RandomStuff/Cyberpunk/Ideen.md",
+    "RandomStuff/Cyberpunk/Ideen für Orte.md",
+    "RandomStuff/Cyberpunk",
     "Excalidraw/Drawing 2023-06-05 20.36.08.excalidraw.md",
-    "Home.md",
     "Excalidraw",
     "Untitled.canvas"
   ]

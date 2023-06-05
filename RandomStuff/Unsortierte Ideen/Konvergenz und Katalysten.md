@@ -1,0 +1,4 @@
+
+Die Geschichte von Chromos ist festgeschrieben durch eine mehrzahle großer Ereignisse die sich Konvergenzen nennen. Diese Ereignisse können Jahrhunderte vorher vorrausgesagt werden und dennoch nicht abgewendet werden. Sie erfüllen sich auf die eine oder andere Art.
+
+Nur Menschen mit dem Segen von Noxus, der Göttin des Chaos sind in der Lage den fest geschriebenen Ablauf zu brechen und den Zeitstrom im neue Bahnen zu lenken. Dies birgt große Gefahr für alle beteiligten in sich, da die Konsequenzen der Handlungen eines Katalysen oft weitreichende Auswirkungen haben kann. Auf alle Beteiligten. Die Kirche der Ordnung sieht es als ihre religiöse Hauptaufgabe an den Strom der Zeit und vorhergesagte Prophezeiungen zu schützen und aufgehen zu lassen.
