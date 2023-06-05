@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechaniken/Magie.md",
+                "file": "Mythandras/Mechaniken/Magie.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechaniken/Magische Kristalle.md",
+                "file": "Mythandras/Das Pantheon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e3fe9311501851b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RandomStuff/Unsortierte Ideen/Zeitreise Mission.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechaniken/Magische Kristalle.md",
+                "file": "RandomStuff/Unsortierte Ideen/Zeitreise Mission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechaniken/Magische Kristalle.md",
+                "file": "RandomStuff/Unsortierte Ideen/Zeitreise Mission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechaniken/Magische Kristalle.md"
+                "file": "RandomStuff/Unsortierte Ideen/Zeitreise Mission.md"
               }
             }
           }
@@ -198,13 +210,26 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a997655368dc5689",
+  "active": "7e3fe9311501851b",
   "lastOpenFiles": [
-    "Mechaniken/Magie.md",
-    "Mechaniken/Magische Kristalle.md",
-    "Linklist.md",
-    "Mechaniken",
+    "Mythandras/MythandrasMap.excali.md",
+    "RandomStuff/Unsortierte Ideen/Zeitreise Mission.md",
+    "Mythandras/Willkommen in Mythandras, Welt des Chaos und der Ordnung im ewigen Sturm der Entropie!.md",
+    "Mythandras/Die Zeitlinien.md",
+    "Mythandras/Exos/Polus - das Reich der Prophezeiung.md",
+    "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
+    "Mythandras/Exos/Ideen.md",
+    "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
+    "Mythandras/Exos/Das Exosgebirge.md",
+    "Mythandras/Exos/Exos.md",
+    "Mythandras/Exos",
+    "Mythandras/Das Pantheon.md",
     "Untitled.md",
+    "Mythandras",
+    "Mythandras/Mechaniken/Magische Kristalle.md",
+    "Mythandras/Mechaniken/Magie.md",
+    "Linklist.md",
+    "Mythandras/Mechaniken",
     "RandomStuff",
     "Chromos",
     "RandomStuff/Unsortierte Ideen/Plots.md",
