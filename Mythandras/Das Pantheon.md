@@ -6,8 +6,8 @@
 |Chaos|Noxus|Dunkelheit|Schwarz|1|
 |Ordnung|Artemetos|Licht|Weiß|1|
 |Liebe|Nymus|Feuer|Pink|2|
-|Krieg|Exos|Wind|Rot|2|
-|Raum|Boreos|Erde|Braun|2|
+|Krieg|Exos|Erde|Rot|2|
+|Raum|Boreos|Wind|Orange|2|
 |Zeit|Arcus|Eis|Azur|2|
 |Tradition/Natur|Echelos|Fauna/Flora|Grün|3|
 |Wandel/Geist|Minus|Psi|Purpur|3|
@@ -63,7 +63,7 @@ Folgende Alfen repräsentieren Exos auf der Welt:
 |Aspekt|Name|Element|Religion|
 |---|---|---|---|
 |Stolz/Ambition|Stolz||7|
-|Jagd|Rexos||7|
+|Jagd|Rexos|||
 |Kampf/Ehre|Lanus|||
 |Angst|Rasmos|||
 |Wut/Rache|Farkos||7|
@@ -102,16 +102,13 @@ Minus ist die Göttin der Zeit, des Verstreichen alles Übles und der Ewigkeit z
 ## Raum
 
 Der Gott des Raumes, Boreos (auch Boros, Bor genannt) ist neben Minus einer der beiden Dimensions-Götter.
-
 Er steht für den Raum, die Materie, die ihn ausfüllt und die Entfernung zwischen der Materie.
-
 Folgende Alfen bezeugen seinen Einfluss:
-
 
 |Aspekt|Name|Element|Religion|
 |---|---|---|---|
 |Distanz|Kliddoion|Entfernungen||
-|Materie|Esayvakon|Stein, Sand, Erz, Atom||
+|Materie|Esayvakon|Stein, Sand, Atom||
 |Gravitation|Hathyakon|Gravitation||
 |Kopie|Chayaron|Spiegelung||
 
@@ -127,7 +124,7 @@ Folgende Alfen hegen und pflegen die Welt unter seiner Anleitung:
 |---|---|---|---|
 |Frühling|Twilks|Fruchtbarkeit|Orden der Natur|
 |Sommer|Zawngs|Ernte, Sonne|Orden der Natur|
-|Herbst|Doobs|Völlerei|Orden der Natur|
+|Herbst|Doobs|Völlerei|7,Orden der Natur|
 |Winter|Wranks|Ahnen|Orden der Natur|
 
   
@@ -153,18 +150,18 @@ Alanus der Gott der Kunst (Auch Alaniusius genannt) ist einer der vier Erschaffe
 
 Dies sind die Alfen die Alanus auf der Bühne der Welt vertreten:
 
-|Aspekt|Name|Element|Religion|
-|---|---|---|---|
-|Unterhaltung|Kraboshtagrosh|Gier|7, Zwerge: Ambossgott|
-|Poesie|Simbeshgrosh|Transmutation|Zwerge: Helmgott|
-|Malerei||||
-|Musik||||
-|Tanz||||
-|||||
+| Aspekt       | Name           | Element | Religion              |
+| ------------ | -------------- | ------- | --------------------- |
+| Unterhaltung | |         |  |
+| Poesie       |                |         |                       |
+| Malerei      |                |         |                       |
+| Musik        |                |         |                       |
+| Tanz         |                |         |                       |
+|              |                |         |                       |
 
 ## Balance
 
-|Aspekt|Name|Element|Religion|
-|---|---|---|---|
-|Erschaffung|Kraboshtagrosh|Gier|7, Zwerge: Ambossgott|
-|Erhaltung|Simbeshgrosh|Transmutation|Zwerge: Helmgott|
+| Aspekt      | Name         | Element       | Religion         |
+| ----------- | ------------ | ------------- | ---------------- |
+| Erschaffung |              |               |                  |
+| Erhaltung   || |  |
