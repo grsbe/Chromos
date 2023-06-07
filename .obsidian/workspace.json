@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Mechaniken/Magische Kristalle.md",
+                "file": "Mythandras/Exos/Sosoni Gebirgsstämme.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Mechaniken/Magische Kristalle.md",
+                "file": "Mythandras/Exos/Sosoni Gebirgsstämme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Mechaniken/Magische Kristalle.md",
+                "file": "Mythandras/Exos/Sosoni Gebirgsstämme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Mechaniken/Magische Kristalle.md"
+                "file": "Mythandras/Exos/Sosoni Gebirgsstämme.md"
               }
             }
           }
@@ -224,14 +224,16 @@
   },
   "active": "f756096a13af86e7",
   "lastOpenFiles": [
+    "Mythandras/Mechaniken/Magische Kristalle.md",
+    "Mythandras/Exos/Sosoni Gebirgsstämme.md",
+    "Arterazit.md",
+    "Mythandras/Exos/ExosMap.excali.md",
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Das Pantheon.md",
     "Linklist.md",
     "Mythandras/Exos/Das Exosgebirge.md",
-    "Mythandras/Exos/ExosMap.excali.md",
     "Mythandras/Exos/Exos.md",
     "Mythandras/MythandrasMap.excali.md",
-    "Mythandras/Exos/Sosoni Gebirgsstämme.md",
     "RandomStuff/Unsortierte Ideen/Zeitreise Mission.md",
     "Mythandras/Willkommen in Mythandras, Welt des Chaos und der Ordnung im ewigen Sturm der Entropie!.md",
     "Mythandras/Die Zeitlinien.md",
@@ -241,7 +243,6 @@
     "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
     "Mythandras/Exos",
     "Mythandras",
-    "Mythandras/Mechaniken/Magische Kristalle.md",
     "Mythandras/Mechaniken",
     "RandomStuff",
     "Chromos",
