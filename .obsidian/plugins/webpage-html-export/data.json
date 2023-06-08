@@ -7,7 +7,7 @@
   "makeNamesWebStyle": true,
   "allowFoldingHeadings": true,
   "addFilenameTitle": true,
-  "beautifyHTML": false,
+  "beautifyHTML": true,
   "customLineWidth": "",
   "contentWidth": "",
   "sidebarWidth": "",

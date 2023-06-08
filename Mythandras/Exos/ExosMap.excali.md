@@ -8,7 +8,7 @@ tags: [excalidraw]
 
 
 # Text Elements
-EXOS ^kZSRCrIu
+[[EXOS]] ^kZSRCrIu
 
 Pa'ris ^pAAtsuCC
 
@@ -62,8 +62,8 @@ Capri ^Q45Ug1U4
 	"elements": [
 		{
 			"type": "text",
-			"version": 62,
-			"versionNonce": 811434831,
+			"version": 69,
+			"versionNonce": 1410821231,
 			"isDeleted": false,
 			"id": "kZSRCrIu",
 			"fillStyle": "hachure",
@@ -76,23 +76,23 @@ Capri ^Q45Ug1U4
 			"y": -266.0234375,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 93.81597900390625,
+			"width": 123.03082275390625,
 			"height": 45,
 			"seed": 401304715,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686233732841,
-			"link": null,
+			"updated": 1686238842259,
+			"link": "[[EXOS]]",
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
-			"text": "EXOS",
-			"rawText": "EXOS",
+			"text": "📍EXOS",
+			"rawText": "[[EXOS]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "EXOS",
+			"originalText": "📍EXOS",
 			"lineHeight": 1.25,
 			"baseline": 32
 		},
@@ -27757,27 +27757,27 @@ Capri ^Q45Ug1U4
 			"pressures": []
 		},
 		{
-			"id": "uotRXgYwx6cKTuyAjLmeE",
 			"type": "freedraw",
-			"x": -783.5103848775223,
-			"y": -182.5252976190481,
-			"width": 50,
-			"height": 8.333333333333314,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 101772751,
+			"isDeleted": false,
+			"id": "uotRXgYwx6cKTuyAjLmeE",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 50,
+			"angle": 0,
+			"x": -783.5103848775223,
+			"y": -182.5252976190481,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 50,
+			"height": 8.333333333333314,
+			"seed": 1655158785,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 1655158785,
-			"version": 22,
-			"versionNonce": 101772751,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1686233747480,
 			"link": null,
 			"locked": false,
@@ -27867,12 +27867,9 @@ Capri ^Q45Ug1U4
 					-8.333333333333314
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				50,
-				-8.333333333333314
-			]
+			"pressures": []
 		}
 	],
 	"appState": {

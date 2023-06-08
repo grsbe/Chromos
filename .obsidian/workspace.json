@@ -95,14 +95,26 @@
             "id": "8cd808320e397f95",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Mythandras/Exos/ExosMap.excali.svg"
+                "file": "Mythandras/Exos/ExosMap.excali.md"
+              }
+            }
+          },
+          {
+            "id": "b1f956b35389f8c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mythandras/Exos/ExosMap.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Exos/ExosMap.excali.svg",
+                "file": "Mythandras/Exos/ExosMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Exos/ExosMap.excali.svg",
+                "file": "Mythandras/Exos/ExosMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Exos/ExosMap.excali.svg"
+                "file": "Mythandras/Exos/ExosMap.md"
               }
             }
           }
@@ -233,9 +245,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8cd808320e397f95",
+  "active": "b1f956b35389f8c6",
   "lastOpenFiles": [
-    "Mythandras/Exos/ExosMap.excali.md",
+    "Excalidraw/ExosMap 2023-06-08 17.38.55.excalidraw.md",
     "Mythandras/Das Pantheon.md",
     "Mythandras/Exos/Das Exosgebirge.md",
     "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
@@ -243,7 +255,9 @@
     "Mythandras/Exos/Ideen.md",
     "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
     "Mythandras/Exos/Polus - das Reich der Prophezeiung.md",
+    "Mythandras/Exos/ExosMap.excali.md",
     "Mythandras/Exos/Sosoni Gebirgsstämme.md",
+    "Mythandras/Exos/ExosMap.md",
     "Mythandras/Mechaniken/Magische Kristalle.md",
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/MythandrasMap.excali.md",
@@ -260,8 +274,6 @@
     "Chromos.md",
     "Mythandras/Exos/ExosMap.excali.svg",
     "Mythandras/Exos/ExosMap.excali.png",
-    "Arterazit.md",
-    "Linklist.md",
     "Mythandras/Exos",
     "Mythandras",
     "Mythandras/Mechaniken",
