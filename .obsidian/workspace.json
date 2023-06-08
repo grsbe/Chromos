@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cd808320e397f95",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Mythandras/Exos/ExosMap.excali.svg"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Exos/Sosoni Gebirgsstämme.md",
+                "file": "Mythandras/Exos/ExosMap.excali.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Exos/Sosoni Gebirgsstämme.md",
+                "file": "Mythandras/Exos/ExosMap.excali.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Exos/Sosoni Gebirgsstämme.md"
+                "file": "Mythandras/Exos/ExosMap.excali.svg"
               }
             }
           }
@@ -219,43 +229,46 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f756096a13af86e7",
+  "active": "8cd808320e397f95",
   "lastOpenFiles": [
-    "Mythandras/Mechaniken/Magische Kristalle.md",
-    "Mythandras/Exos/Sosoni Gebirgsstämme.md",
-    "Arterazit.md",
     "Mythandras/Exos/ExosMap.excali.md",
-    "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Das Pantheon.md",
-    "Linklist.md",
     "Mythandras/Exos/Das Exosgebirge.md",
-    "Mythandras/Exos/Exos.md",
-    "Mythandras/MythandrasMap.excali.md",
-    "RandomStuff/Unsortierte Ideen/Zeitreise Mission.md",
-    "Mythandras/Willkommen in Mythandras, Welt des Chaos und der Ordnung im ewigen Sturm der Entropie!.md",
-    "Mythandras/Die Zeitlinien.md",
-    "Mythandras/Exos/Polus - das Reich der Prophezeiung.md",
-    "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
-    "Mythandras/Exos/Ideen.md",
     "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
+    "Mythandras/Exos/Exos.md",
+    "Mythandras/Exos/Ideen.md",
+    "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
+    "Mythandras/Exos/Polus - das Reich der Prophezeiung.md",
+    "Mythandras/Exos/Sosoni Gebirgsstämme.md",
+    "Mythandras/Mechaniken/Magische Kristalle.md",
+    "Mythandras/Mechaniken/Magie.md",
+    "Mythandras/MythandrasMap.excali.md",
+    "Mythandras/Die Zeitlinien.md",
+    "Mythandras/Willkommen in Mythandras, Welt des Chaos und der Ordnung im ewigen Sturm der Entropie!.md",
+    "RandomStuff/Cyberpunk/Ideen für Orte.md",
+    "RandomStuff/Cyberpunk/Ideen.md",
+    "RandomStuff/Unsortierte Ideen/Abentuere1.md",
+    "RandomStuff/Unsortierte Ideen/Konvergenz und Katalysten.md",
+    "RandomStuff/Unsortierte Ideen/A Horror Adventure.md",
+    "RandomStuff/Unsortierte Ideen/Zeitreise Mission.md",
+    "RandomStuff/Unsortierte Ideen/Plots.md",
+    "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
+    "Chromos.md",
+    "Mythandras/Exos/ExosMap.excali.svg",
+    "Mythandras/Exos/ExosMap.excali.png",
+    "Arterazit.md",
+    "Linklist.md",
     "Mythandras/Exos",
     "Mythandras",
     "Mythandras/Mechaniken",
     "RandomStuff",
     "Chromos",
-    "RandomStuff/Unsortierte Ideen/Plots.md",
-    "RandomStuff/Unsortierte Ideen/A Horror Adventure.md",
-    "RandomStuff/Unsortierte Ideen/Abentuere1.md",
-    "RandomStuff/Unsortierte Ideen/Konvergenz und Katalysten.md",
-    "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "RandomStuff/Unsortierte Ideen",
-    "RandomStuff/Cyberpunk/Ideen.md",
-    "RandomStuff/Cyberpunk/Ideen für Orte.md",
     "RandomStuff/Cyberpunk",
-    "Excalidraw/Drawing 2023-06-05 20.36.08.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas"
   ]
