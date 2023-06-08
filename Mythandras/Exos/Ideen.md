@@ -1,6 +1,6 @@
 ## Allgemeines
 
-Fortbewegungsmittel: Ziplines, großes Tunnel netzwerk
+Fortbewegungsmittel: Ziplines, großes Tunnel Netzwerk.
 
   
 
