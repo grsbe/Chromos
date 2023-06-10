@@ -141,7 +141,7 @@ Folgende Alfen verändern die Welt auf ihrer Autorität:
 |Erhaltung|Simbeshgrosh|Transmutation|Zwerge: Helmgott|
 |Zerstörung|Shgrabugrosh|Vernichtung|Zwerge: Hammergott|
 |Logik|Nagaburosh|Bewusstsein||
-|Intuition|Zionosh|Unterbewusstsein||
+|Intuition|Zionosh|Unterbewusstsein/Traum|7|
 |Weisheit|Amenosh|Gedächnis||
 
 ## Kunst
