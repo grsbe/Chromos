@@ -29,7 +29,7 @@
   "zoomToFitOnOpen": true,
   "zoomToFitOnResize": true,
   "zoomToFitMaxLevel": 2,
-  "linkPrefix": "📍",
+  "linkPrefix": "",
   "urlPrefix": "🌐",
   "parseTODO": false,
   "todo": "☐",

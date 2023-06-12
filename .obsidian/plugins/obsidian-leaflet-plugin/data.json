@@ -1,5 +1,34 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Exos",
+      "lastAccessed": 1686582489095,
+      "markers": [
+        {
+          "id": "ID_c978daaa0b8a",
+          "type": "default",
+          "loc": [
+            -0.361572265625,
+            1.998046875
+          ],
+          "link": "Exos",
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Mythandras/Exos/ExosMap.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
