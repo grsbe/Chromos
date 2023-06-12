@@ -1,4 +1,4 @@
-
+## Geschichte
 Am Anfang war das Alles und Nichts, das Taros, die Verkörperung der Entropie. Als Materie und Wesen zugleich, ist es hoch energetisch geladen und perfekt in einem Raum der unerklärlichen Existenz verteilt. Es gibt weder Zeit noch Raum und auch keine anderen Naturgesetze die, die Entropie einengen würden. Taros ist der Sturm der Stille in der Nacht der Ewigkeit, die Leere die gefüllt ist mit Kraft. Auch, wenn die Entropie keinen Naturgesetzen folgt, ist sie doch die Verkörperung der Balance von Energie im Raum. Und reagiert auf Ungleichheiten mit vehementen Widerwillen. 
 
 
@@ -6,11 +6,11 @@ Wie es denn nun ist, wenn man unendlich und gleichzeitig keine Zeit zur Verfügu
 
 Uns Menschen sind nur zwei dieser Wesen als Konzepte überhaupt verständlich. Alle anderen Wesen wurden, sofort wieder von der Entropie ausgelöscht. Doch diese zwei mystischen Wesen, uns als Chaos und Ordnung oder ihre heutigen Namen Artemetos und Noxus, besaßen zusammen die Kraft dem Sturm der Entropie zu widerstehen. 
 
-Artemetos und Noxus erschufen aus ihrer Gegensätzlichkeit eine große Spannung, die der Entropie ebenbürtig war. Diese Spannung dient heute unserer Welt als Schutzschild gegen die Leere. Zwischen sich erschufen die beiden neugeborenen Götter eine Welt, die sicher ist vor der Entropie, Mythandras.
+[[Das Pantheon#Ordnung|Artemetos]] und [[Das Pantheon#Chaos|Noxus]] erschufen aus ihrer Gegensätzlichkeit eine große Spannung, die der Entropie ebenbürtig war. Diese Spannung dient heute unserer Welt als Schutzschild gegen die Leere. Zwischen sich erschufen die beiden neugeborenen Götter eine Welt, die sicher ist vor der Entropie, Mythandras.
 
 Beschützt von der Leere entstanden weitere Wesen aus purer Energie innerhalb der Schutzsphäre, geschaffen aus Chaos und Ordnung.
 
-Arcus, Göttin der Zeit und Boreos, Gott des Raumes erschufen einen Rahmen aus Raumzeit, in dem Materie andere Formen annehmen kann, als roher Energie und sich über die Zeit verändern kann.
+[[Das Pantheon#Zeit|Arcus]], Göttin der Zeit und [[Das Pantheon#Raum|Boreos]], Gott des Raumes erschufen einen Rahmen aus Raumzeit, in dem Materie andere Formen annehmen kann, als roher Energie und sich über die Zeit verändern kann.
 
 Nymus, Göttin der Liebe und Exos, Gott des Krieges erschufen einen Rahmen aus Bindungen und Karma, in dem Materie Verbindungen miteinander eingehen kann, oder sich aufspalten kann, um Neues zu erschaffen.
 
@@ -99,4 +99,4 @@ Zugewandtheit: Totales Chaos
 
 ## Byzantis
 
-ZUgehöriger Gott: Keine Zugewandtheit: Chaos
+Zugehöriger Gott: Keine Zugewandtheit: Chaos

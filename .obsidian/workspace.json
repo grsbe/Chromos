@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Mechaniken/Magie.md",
+                "file": "Mythandras/Tailenis/Tailenis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a8a2f2c53ca5bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mythandras/Exos/Exos.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,14 +121,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/MythandrasMap.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/MythandrasMap.md",
+                "file": "Mythandras/Exos/Exos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/MythandrasMap.md",
+                "file": "Mythandras/Exos/Exos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,11 +234,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/MythandrasMap.md"
+                "file": "Mythandras/Exos/Exos.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,34 +259,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "49ed8516fefb663f",
+  "active": "7a8a2f2c53ca5bee",
   "lastOpenFiles": [
-    "Mythandras/Das Pantheon.md",
+    "Mythandras/Exos/Sosoni Gebirgsstämme.md",
     "Mythandras/Exos/Exos.md",
+    "Mythandras/Tailenis/Helos.md",
+    "Mythandras/Tailenis/Tailenis.md",
+    "Mythandras/Mythandras.md",
+    "Mythandras/Das Pantheon.md",
+    "index.md",
+    "Chromos.md",
+    "Mythandras/MythandrasExcali.md",
+    "Mythandras/Tailenis",
+    "Mythandras/Mechaniken/Magie.md",
+    "Mythandras/MythandrasMap.md",
     "Mythandras/Exos/Das Exosgebirge.md",
     "Mythandras/Exos/Ideen.md",
     "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
     "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
     "Mythandras/Exos/ExosMap.md",
     "Mythandras/Exos/Polus - das Reich der Prophezeiung.md",
-    "Mythandras/Exos/Sosoni Gebirgsstämme.md",
     "Mythandras/Exos/ExosExcal.md",
     "Mythandras/Die Zeitlinien.md",
-    "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Mythandras/Mechaniken/Magische Kristalle.md",
-    "Mythandras/Willkommen in Mythandras, Welt des Chaos und der Ordnung im ewigen Sturm der Entropie!.md",
-    "Mythandras/MythandrasExcali.md",
-    "Mythandras/MythandrasMap.md",
     "RandomStuff/Unsortierte Ideen/A Horror Adventure.md",
     "RandomStuff/Unsortierte Ideen/Konvergenz und Katalysten.md",
     "RandomStuff/Unsortierte Ideen/Plots.md",
     "RandomStuff/Unsortierte Ideen/Abentuere1.md",
     "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
-    "RandomStuff/Unsortierte Ideen/Zeitreise Mission.md",
-    "RandomStuff/Cyberpunk/Ideen für Orte.md",
-    "RandomStuff/Cyberpunk/Ideen.md",
-    "index.md",
     "Mythandras/MythandrasExcali.svg",
     "Mythandras/Exos/ExosExcal.svg",
     "Dockerfile",
@@ -287,7 +301,6 @@
     "Chromos",
     "RandomStuff/Unsortierte Ideen",
     "RandomStuff/Cyberpunk",
-    "Excalidraw",
     "Untitled.canvas"
   ]
 }
