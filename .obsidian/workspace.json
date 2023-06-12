@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/ExosMap.md",
+                "file": "Mythandras/MythandrasMap.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Exos/ExosMap.md",
+                "file": "Mythandras/MythandrasMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Exos/ExosMap.md",
+                "file": "Mythandras/MythandrasMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Exos/ExosMap.md"
+                "file": "Mythandras/MythandrasMap.md"
               }
             }
           }
@@ -248,23 +248,23 @@
   },
   "active": "49ed8516fefb663f",
   "lastOpenFiles": [
-    "Mythandras/Exos/Exos.md",
-    "Mythandras/Exos/ExosMap.md",
-    "Mythandras/MythandrasExcali.svg",
-    "Mythandras/Exos/ExosExcal.md",
-    "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
-    "Mythandras/Exos/Ideen.md",
     "Mythandras/Das Pantheon.md",
+    "Mythandras/Exos/Exos.md",
     "Mythandras/Exos/Das Exosgebirge.md",
+    "Mythandras/Exos/Ideen.md",
+    "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
     "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
+    "Mythandras/Exos/ExosMap.md",
     "Mythandras/Exos/Polus - das Reich der Prophezeiung.md",
     "Mythandras/Exos/Sosoni Gebirgsstämme.md",
+    "Mythandras/Exos/ExosExcal.md",
     "Mythandras/Die Zeitlinien.md",
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Mythandras/Mechaniken/Magische Kristalle.md",
     "Mythandras/Willkommen in Mythandras, Welt des Chaos und der Ordnung im ewigen Sturm der Entropie!.md",
     "Mythandras/MythandrasExcali.md",
+    "Mythandras/MythandrasMap.md",
     "RandomStuff/Unsortierte Ideen/A Horror Adventure.md",
     "RandomStuff/Unsortierte Ideen/Konvergenz und Katalysten.md",
     "RandomStuff/Unsortierte Ideen/Plots.md",
@@ -274,6 +274,7 @@
     "RandomStuff/Cyberpunk/Ideen für Orte.md",
     "RandomStuff/Cyberpunk/Ideen.md",
     "index.md",
+    "Mythandras/MythandrasExcali.svg",
     "Mythandras/Exos/ExosExcal.svg",
     "Dockerfile",
     "docker-compose.yml",

@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "Exos",
-      "lastAccessed": 1686582489095,
+      "lastAccessed": 1686583330200,
       "markers": [
         {
           "id": "ID_c978daaa0b8a",
@@ -12,6 +12,230 @@
             1.998046875
           ],
           "link": "Exos",
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_393ab9aabbaa",
+          "type": "default",
+          "loc": [
+            0.87060546875,
+            1.87890625
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea38c97bca8a",
+          "type": "default",
+          "loc": [
+            0.94091796875,
+            2.39453125
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98ea082a0a89",
+          "type": "default",
+          "loc": [
+            1.20654296875,
+            1.59765625
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9d9da58bb49",
+          "type": "default",
+          "loc": [
+            1.09716796875,
+            1.26171875
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bebeba93a78",
+          "type": "default",
+          "loc": [
+            0.62060546875,
+            0.91796875
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_599abb6ae9ab",
+          "type": "default",
+          "loc": [
+            0.21435546875,
+            0.80078125
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58dbe90b3ba8",
+          "type": "default",
+          "loc": [
+            -0.23876953125,
+            0.79296875
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab686a298998",
+          "type": "default",
+          "loc": [
+            -0.53564453125,
+            0.91015625
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_796bdaf8fa6b",
+          "type": "default",
+          "loc": [
+            -0.81689453125,
+            1.11328125
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_092a3a6b6a58",
+          "type": "default",
+          "loc": [
+            -0.92626953125,
+            1.39453125
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8d9fb9b09a9",
+          "type": "default",
+          "loc": [
+            -0.89501953125,
+            1.76953125
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b79bb7858d8",
+          "type": "default",
+          "loc": [
+            -0.65625,
+            2.0625
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f838ca697a8b",
+          "type": "default",
+          "loc": [
+            -0.37158203125,
+            2.21484375
+          ],
+          "layer": "%5B%5BExosExcal.svg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18c8fabb3b8a",
+          "type": "default",
+          "loc": [
+            -1.26220703125,
+            1.16015625
+          ],
           "layer": "%5B%5BExosExcal.svg%5D%5D",
           "mutable": true,
           "command": false,
