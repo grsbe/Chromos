@@ -1,7 +1,7 @@
 {
   "inlineCSS": false,
   "inlineJS": false,
-  "inlineImages": true,
+  "inlineImages": false,
   "includePluginCSS": "obsidian-excalidraw-plugin",
   "includeSvelteCSS": true,
   "makeNamesWebStyle": true,

@@ -15758,10 +15758,10 @@ Glaswüste ^JR2b3xMv
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 599.125,
-		"scrollY": 638.678485576923,
+		"scrollX": 567.25,
+		"scrollY": 534.5506310096154,
 		"zoom": {
-			"value": 0.65
+			"value": 0.8
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

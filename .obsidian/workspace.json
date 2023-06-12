@@ -92,27 +92,19 @@
             }
           },
           {
-            "id": "8cd808320e397f95",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mythandras/Exos/ExosMap.excali.md"
-              }
-            }
-          },
-          {
             "id": "b1f956b35389f8c6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/ExosMap.excali.md"
+                "file": "Mythandras/Exos/Ideen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Exos/ExosMap.excali.md",
+                "file": "Mythandras/Exos/Ideen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Exos/ExosMap.excali.md",
+                "file": "Mythandras/Exos/Ideen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Exos/ExosMap.excali.md"
+                "file": "Mythandras/Exos/Ideen.md"
               }
             }
           }
@@ -245,23 +237,22 @@
   },
   "active": "b1f956b35389f8c6",
   "lastOpenFiles": [
-    "Mythandras/Exos/ExosMap.md",
-    "Excalidraw/ExosMap 2023-06-08 17.38.55.excalidraw.md",
     "Mythandras/Das Pantheon.md",
     "Mythandras/Exos/Exos.md",
     "Mythandras/Exos/Das Exosgebirge.md",
-    "Mythandras/Exos/ExosMap.excali.md",
     "Mythandras/Exos/Ideen.md",
     "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
     "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
+    "Mythandras/Exos/ExosMap.md",
     "Mythandras/Exos/Polus - das Reich der Prophezeiung.md",
     "Mythandras/Exos/Sosoni Gebirgsstämme.md",
+    "Mythandras/Exos/ExosExcal.md",
     "Mythandras/Die Zeitlinien.md",
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Mythandras/Mechaniken/Magische Kristalle.md",
     "Mythandras/Willkommen in Mythandras, Welt des Chaos und der Ordnung im ewigen Sturm der Entropie!.md",
-    "Mythandras/MythandrasMap.excali.md",
+    "Mythandras/MythandrasExcali.md",
     "RandomStuff/Unsortierte Ideen/A Horror Adventure.md",
     "RandomStuff/Unsortierte Ideen/Konvergenz und Katalysten.md",
     "RandomStuff/Unsortierte Ideen/Plots.md",
@@ -271,6 +262,9 @@
     "RandomStuff/Cyberpunk/Ideen für Orte.md",
     "RandomStuff/Cyberpunk/Ideen.md",
     "index.md",
+    "Mythandras/Exos/ExosExcal.svg",
+    "Mythandras/MythandrasExcali.svg",
+    "Excalidraw/ExosMap 2023-06-08 17.38.55.excalidraw.md",
     "Dockerfile",
     "docker-compose.yml",
     "Mythandras/Exos/ExosMap.excali.svg",

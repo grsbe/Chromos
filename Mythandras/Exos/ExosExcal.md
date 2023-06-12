@@ -76,7 +76,7 @@ Capri ^Q45Ug1U4
 			"y": -266.0234375,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 123.03082275390625,
+			"width": 143.24566650390625,
 			"height": 45,
 			"seed": 401304715,
 			"groupIds": [],
@@ -27758,8 +27758,8 @@ Capri ^Q45Ug1U4
 		},
 		{
 			"type": "freedraw",
-			"version": 22,
-			"versionNonce": 101772751,
+			"version": 61,
+			"versionNonce": 531132966,
 			"isDeleted": false,
 			"id": "uotRXgYwx6cKTuyAjLmeE",
 			"fillStyle": "hachure",
@@ -27768,8 +27768,8 @@ Capri ^Q45Ug1U4
 			"roughness": 1,
 			"opacity": 50,
 			"angle": 0,
-			"x": -783.5103848775223,
-			"y": -182.5252976190481,
+			"x": -838.5103848775223,
+			"y": -170.85863095238147,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 50,
@@ -27778,7 +27778,7 @@ Capri ^Q45Ug1U4
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686233747480,
+			"updated": 1686580641286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -27887,7 +27887,7 @@ Capri ^Q45Ug1U4
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1218.5103848775223,
+		"scrollX": 1373.5103848775223,
 		"scrollY": 499.11383928571473,
 		"zoom": {
 			"value": 0.6000000000000001
