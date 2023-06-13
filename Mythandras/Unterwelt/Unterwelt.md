@@ -1,1 +1,1 @@
-Die Unterwelt ist eine Welt der Ordung 
+Die Unterwelt ist das de facto Domain von [[Das Pantheon#Ordnung|Artemet]], dem Gott der Ordnung. Die Unterwelt ist in mehrere Areale unterteilt die alle ihren jeweiligen Zugang auch [[Abgründe]] genannt, zur Oberwelt besitzen.

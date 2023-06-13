@@ -15,3 +15,7 @@ Warum?? Vllt Alien invasion in 13 Jahren, die AI muss alle Power sammeln die mac
 Etwa 69% der Erde gehört der AI, im restlichen Gebiet scharren sich die Menschen zusammen
 
 Das meiste Menschenland etwa 80% ist Wasteland. Die meisten Meschen leben in Städten. Die Oberschicht versucht sich möglichst sicher zu verschanzen, und verwaltet diktatorisch die restlichen Menschen. Eine Rebellengruppe wehrt sich heftigst, gleichzeitig muss das Land vor der AI beschützt werden.
+
+## Digital Dystopia
+Eine Naturkatastrophe / Entropiekatastrophe hat 95% der echten Mittelerde zerstört. Magier existieren quasi nicht mehr und sind nicht in der Lage zu zaubern. Verbliebene Magier und vorallem Technologiegenies haben digitale Taschenwelten erschaffen in der die Weltbevölkerung in Sicherheit gebracht wurde.
+Die digitale Welt besteht aus Kuppelwelten die für einzelne Serverkomplexe stehen. Die Bevölkerung weiß nicht dass sie digitalisiert wurden. In der Digitalen Welt sind Menschen wieder in der Lage Magie zu wirken. Die Kuppeln sind über Züge verbunden in denen die Passagiere ihr Bewusstsein verlieren während sie von Servern transferiert werden.

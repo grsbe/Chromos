@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Unterwelt/Unterwelt.md",
+                "file": "Cyberpunk/Ideen.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Unterwelt/Unterwelt.md",
+                "file": "Cyberpunk/Ideen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Unterwelt/Unterwelt.md",
+                "file": "Cyberpunk/Ideen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,12 +246,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Unterwelt/Unterwelt.md"
+                "file": "Cyberpunk/Ideen.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -273,33 +273,38 @@
   },
   "active": "35b7c162b62aa61a",
   "lastOpenFiles": [
-    "Mythandras/Unterwelt",
-    "Mythandras/Exos/Exos.md",
-    "Mythandras/Unterwelt/Unterwelt.md",
-    "Mythandras/Exos/Sosoni Gebirgsstämme.md",
-    "Mythandras/Tailenis/Helos.md",
-    "Mythandras/Tailenis/Tailenis.md",
-    "Mythandras/Mythandras.md",
     "Mythandras/Das Pantheon.md",
-    "index.md",
-    "Chromos.md",
-    "Mythandras/MythandrasExcali.md",
-    "Mythandras/Tailenis",
-    "Mythandras/Mechaniken/Magie.md",
-    "Mythandras/MythandrasMap.md",
+    "Mythandras/Die Zeitlinien.md",
     "Mythandras/Exos/Das Exosgebirge.md",
+    "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
+    "Mythandras/Exos/Exos.md",
+    "Mythandras/Exos/ExosExcal.md",
+    "Mythandras/Exos/ExosMap.md",
     "Mythandras/Exos/Ideen.md",
     "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
-    "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
-    "Mythandras/Exos/ExosMap.md",
     "Mythandras/Exos/Polus - das Reich der Prophezeiung.md",
-    "Mythandras/Exos/ExosExcal.md",
-    "Mythandras/Die Zeitlinien.md",
-    "Mythandras/Mechaniken/Rassen in Mythandras.md",
+    "Mythandras/Exos/Sosoni Gebirgsstämme.md",
+    "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Mechaniken/Magische Kristalle.md",
+    "Mythandras/Mechaniken/Rassen in Mythandras.md",
+    "Mythandras/Mythandras.md",
+    "Mythandras/MythandrasExcali.md",
+    "Mythandras/MythandrasMap.md",
+    "Mythandras/Tailenis/Helos.md",
+    "Mythandras/Tailenis/Tailenis.md",
+    "Mythandras/Unterwelt/Unterwelt.md",
+    "Mythandras/Narakan/Narakan.md",
+    "Mythandras/Milis/Milis.md",
+    "Mythandras/Abgründe.md",
+    "index.md",
+    "Chromos.md",
     "RandomStuff/Unsortierte Ideen/A Horror Adventure.md",
-    "RandomStuff/Unsortierte Ideen/Konvergenz und Katalysten.md",
-    "RandomStuff/Unsortierte Ideen/Plots.md",
+    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
+    "Pics",
+    "Mythandras/Milis",
+    "Mythandras/Narakan",
+    "Mythandras/Unterwelt",
+    "Mythandras/Tailenis",
     "Mythandras/MythandrasExcali.svg",
     "Mythandras/Exos/ExosExcal.svg",
     "Dockerfile",
@@ -309,10 +314,6 @@
     "Mythandras/Exos",
     "Mythandras",
     "Mythandras/Mechaniken",
-    "RandomStuff",
-    "Chromos",
-    "RandomStuff/Unsortierte Ideen",
-    "RandomStuff/Cyberpunk",
     "Untitled.canvas"
   ]
 }
