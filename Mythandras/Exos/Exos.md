@@ -7,7 +7,7 @@ Der Kontinent ist benannt nach dem gleichnamigen Gott des Krieges und Wettkampfs
 
 Das definierende Landmerkmal von Exos ist [[Das Exosgebirge|das Exosgebirge]], das der Region ihren Namen gibt.
 
-Das Gebirge repräsentiert eine der sieben Säulen zwischen der Unterwelt, der Mittelwelt und dem Himmel. Die Spitze des Gebirges ragt bis in den Himmel.
+Das Gebirge repräsentiert eine der sieben Säulen zwischen der [[Unterwelt]], der Mittelwelt und dem Himmel. Die Spitze des Gebirges ragt bis in den Himmel.
 
 ## Die Regionen
 
