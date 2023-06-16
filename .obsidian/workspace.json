@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyberpunk/Ideen.md",
+                "file": "Mythandras/Mythandras.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyberpunk/Ideen.md",
+                "file": "Mythandras/Mythandras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyberpunk/Ideen.md",
+                "file": "Mythandras/Mythandras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyberpunk/Ideen.md"
+                "file": "Mythandras/Mythandras.md"
               }
             }
           }
@@ -273,6 +273,10 @@
   },
   "active": "35b7c162b62aa61a",
   "lastOpenFiles": [
+    "Mythandras/MythandrasExcali.svg",
+    "Mythandras/MythandrasExcali.md",
+    "Mythandras/Tailenis/Tailenis.md",
+    "Cyberpunk/Ideen.md",
     "Mythandras/Das Pantheon.md",
     "Mythandras/Die Zeitlinien.md",
     "Mythandras/Exos/Das Exosgebirge.md",
@@ -288,24 +292,19 @@
     "Mythandras/Mechaniken/Magische Kristalle.md",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Mythandras/Mythandras.md",
-    "Mythandras/MythandrasExcali.md",
     "Mythandras/MythandrasMap.md",
     "Mythandras/Tailenis/Helos.md",
-    "Mythandras/Tailenis/Tailenis.md",
     "Mythandras/Unterwelt/Unterwelt.md",
     "Mythandras/Narakan/Narakan.md",
     "Mythandras/Milis/Milis.md",
     "Mythandras/Abgründe.md",
     "index.md",
-    "Chromos.md",
-    "RandomStuff/Unsortierte Ideen/A Horror Adventure.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics",
     "Mythandras/Milis",
     "Mythandras/Narakan",
     "Mythandras/Unterwelt",
     "Mythandras/Tailenis",
-    "Mythandras/MythandrasExcali.svg",
     "Mythandras/Exos/ExosExcal.svg",
     "Dockerfile",
     "docker-compose.yml",
