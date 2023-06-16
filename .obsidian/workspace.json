@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Mythandras.md",
+                "file": "Mythandras/MythandrasMap.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Mythandras.md",
+                "file": "Mythandras/MythandrasMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Mythandras.md",
+                "file": "Mythandras/MythandrasMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Mythandras.md"
+                "file": "Mythandras/MythandrasMap.md"
               }
             }
           }
@@ -273,17 +273,20 @@
   },
   "active": "35b7c162b62aa61a",
   "lastOpenFiles": [
+    "Mythandras/Mythandras.md",
     "Mythandras/MythandrasExcali.svg",
     "Mythandras/MythandrasExcali.md",
+    "Mythandras/Exos/ExosExcal.md",
+    "Mythandras/Exos/ExosExcal.svg",
+    "Mythandras/Exos/ExosMap.md",
+    "Mythandras/Exos/Exos.md",
+    "Mythandras/MythandrasMap.md",
     "Mythandras/Tailenis/Tailenis.md",
     "Cyberpunk/Ideen.md",
     "Mythandras/Das Pantheon.md",
     "Mythandras/Die Zeitlinien.md",
     "Mythandras/Exos/Das Exosgebirge.md",
     "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
-    "Mythandras/Exos/Exos.md",
-    "Mythandras/Exos/ExosExcal.md",
-    "Mythandras/Exos/ExosMap.md",
     "Mythandras/Exos/Ideen.md",
     "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
     "Mythandras/Exos/Polus - das Reich der Prophezeiung.md",
@@ -291,8 +294,6 @@
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Mechaniken/Magische Kristalle.md",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
-    "Mythandras/Mythandras.md",
-    "Mythandras/MythandrasMap.md",
     "Mythandras/Tailenis/Helos.md",
     "Mythandras/Unterwelt/Unterwelt.md",
     "Mythandras/Narakan/Narakan.md",
@@ -305,7 +306,6 @@
     "Mythandras/Narakan",
     "Mythandras/Unterwelt",
     "Mythandras/Tailenis",
-    "Mythandras/Exos/ExosExcal.svg",
     "Dockerfile",
     "docker-compose.yml",
     "Mythandras/Exos/ExosMap.excali.svg",

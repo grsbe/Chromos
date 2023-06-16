@@ -62,8 +62,8 @@ Capri ^Q45Ug1U4
 	"elements": [
 		{
 			"type": "text",
-			"version": 70,
-			"versionNonce": 1971729402,
+			"version": 71,
+			"versionNonce": 1958458341,
 			"isDeleted": false,
 			"id": "kZSRCrIu",
 			"fillStyle": "hachure",
@@ -82,8 +82,8 @@ Capri ^Q45Ug1U4
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686581596861,
-			"link": "[[EXOS]]",
+			"updated": 1686910721003,
+			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 1,
@@ -27887,10 +27887,10 @@ Capri ^Q45Ug1U4
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 675.024852105918,
-		"scrollY": 57.71014196378026,
+		"scrollX": 1128.8308976980352,
+		"scrollY": 454.92603323620506,
 		"zoom": {
-			"value": 0.9068713028089204
+			"value": 0.65
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
