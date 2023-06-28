@@ -92,12 +92,12 @@ Die Göttin der Zeit, Arcus (auch Arkius genannt) ist neben Boreos eine der beid
 
 Minus ist die Göttin der Zeit, des Verstreichen alles Übles und der Ewigkeit zwischen jedem Anfang und jedem Ende.
 
-|Aspekt|Name|Element|Religion|
-|---|---|---|---|
-|Zukunft|Phenet|Profezeihung|Orden der Zeit|
-|Gegenwart|Anet|Allseherei|Orden der Zeit|
-|Vergangenheit|Synet|Eis|Orden der Zeit|
-|Traum, Fantasie, Faulheit|Drenet|Schlaf|Drachenkult|
+| Aspekt                    | Name   | Element      | Religion       |
+| ------------------------- | ------ | ------------ | -------------- |
+| Zukunft                   | Phenet | Prophezeiung | Orden der Zeit |
+| Gegenwart                 | Anet   | Allseherei   | Orden der Zeit |
+| Vergangenheit             | Synet  | Eis          | Orden der Zeit |
+| Traum, Fantasie, Faulheit | Drenet | Schlaf       | Drachenkult    |
 
 ## Raum
 
@@ -107,9 +107,9 @@ Folgende Alfen bezeugen seinen Einfluss:
 
 |Aspekt|Name|Element|Religion|
 |---|---|---|---|
-|Distanz|Kliddoion|Entfernungen||
-|Materie|Esayvakon|Stein, Sand, Atom||
-|Gravitation|Hathyakon|Gravitation||
+|Distanz|Kliddoion|Teleportation||
+|Materie|Esayvakon|Magnetismus||
+|Beschleunigung|Hathyakon|Gravitation||
 |Kopie|Chayaron|Spiegelung||
 
 
