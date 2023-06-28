@@ -1,4 +1,5 @@
-
+Ein Gott sein heißt eine Personifikation einer Naturkraft zu sein. Diese völlige Kontrolle dieser einen Naturkraft wird auch Aspekt genannt. Die alten Götter und Alfen besaßen generell ihre Aspekte seit ihrer Geburt oder Entstehung. Die neuen Götter erlangen ihren Aspekt erst nach ihrer Geburt im Laufe ihres Lebens.
+# Die alten Götter
 ## Die 10 Hauptgötter
 
 | Aspekt | Name | Element | Farbe | Generation |
@@ -134,7 +135,6 @@ Minus, die Göttin der Veränderung und des Geistes (auch Minusius, Mina, Migras
 
 Folgende Alfen verändern die Welt auf ihrer Autorität:
 
-
 |Aspekt|Name|Element|Religion|
 |---|---|---|---|
 |Erschaffung|Kraboshtagrosh|Gier|7, Zwerge: Ambossgott|
@@ -150,18 +150,24 @@ Alanus der Gott der Kunst (Auch Alaniusius genannt) ist einer der vier Erschaffe
 
 Dies sind die Alfen die Alanus auf der Bühne der Welt vertreten:
 
-| Aspekt       | Name           | Element | Religion              |
-| ------------ | -------------- | ------- | --------------------- |
-| Unterhaltung | |         |  |
-| Poesie       |                |         |                       |
-| Malerei      |                |         |                       |
-| Musik        |                |         |                       |
-| Tanz         |                |         |                       |
-|              |                |         |                       |
+| Aspekt           | Name | Element | Religion |
+| ---------------- | ---- | ------- | -------- |
+| Poesie           | Jom  | Zunge |          |
+| Malerei | Shar | Augen    |          |
+| Musik            | Lin  | Ohren   |          |
+| Tanz             | Ina  | Haut  |          |
+| Erschaffung      | Bik  |  Hand       |          |
 
 ## Balance
 
-| Aspekt      | Name         | Element       | Religion         |
-| ----------- | ------------ | ------------- | ---------------- |
-| Erschaffung |              |               |                  |
-| Erhaltung   || |  |
+Eos der Gott der Balance (auch Soeos genannt) ist einer der vier Erschaffer-Götter. Er steht für den Ausgleich, die Waagschale des Mächtegleichgewichts und als Vermittler unter den Göttern. Mit Eos wird immer zu gleichen Teilen Hoffnung und Hoffnungslosigkeit in der Welt bestehen bleiben. Balance erhält die Welt und bewahrt sie vor dem Untergang.
+
+Eos wird von den Zwillingen des Zwielichts unterstützt:  
+
+| Aspekt          | Name     | Element          | Religion                 |
+| --------------- | -------- | ---------------- | ------------------------ |
+| Licht im Dunkel | Luraarul | Zunehmender Mond | Zwillinge des Zwielichts |
+| Dunkel im Licht | Arullura | Abnehmender Mond | Zwillinge des Zwielichts |
+
+
+# Die Neuen Götter
