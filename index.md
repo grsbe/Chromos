@@ -6,3 +6,4 @@ Fantasy Magiewelt deren zentrales Feature verwirrende Zeitlinien ausmacht.
 
 ## [[Ideen|Cyperpunk]]
 Generic Cyberpunk Welt mit Magie und AI. Hier passiert noch nicht so viel.
+

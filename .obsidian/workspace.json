@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/MythandrasMap.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/MythandrasMap.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/MythandrasMap.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/MythandrasMap.md"
+                "file": "index.md"
               }
             }
           }
@@ -265,14 +265,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "35b7c162b62aa61a",
   "lastOpenFiles": [
+    "Chromos.md",
+    "index.md",
+    "Mythandras/MythandrasMap.md",
     "Mythandras/Mythandras.md",
     "Mythandras/MythandrasExcali.svg",
     "Mythandras/MythandrasExcali.md",
@@ -280,7 +283,6 @@
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/Exos/ExosMap.md",
     "Mythandras/Exos/Exos.md",
-    "Mythandras/MythandrasMap.md",
     "Mythandras/Tailenis/Tailenis.md",
     "Cyberpunk/Ideen.md",
     "Mythandras/Das Pantheon.md",
@@ -299,7 +301,6 @@
     "Mythandras/Narakan/Narakan.md",
     "Mythandras/Milis/Milis.md",
     "Mythandras/Abgründe.md",
-    "index.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics",
     "Mythandras/Milis",
