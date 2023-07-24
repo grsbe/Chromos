@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "bd4544c0e975cbee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WONDERWALL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a997655368dc5689",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Die Zeitlinien.md",
+                "file": "WONDERWALL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Die Zeitlinien.md",
+                "file": "WONDERWALL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Die Zeitlinien.md"
+                "file": "WONDERWALL.md"
               }
             }
           }
@@ -271,13 +283,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35b7c162b62aa61a",
+  "active": "bd4544c0e975cbee",
   "lastOpenFiles": [
+    "Mythandras/Die Zeitlinien.md",
+    "WONDERWALL.md",
     "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "Mythandras/Mythandras.md",
     "Mythandras/MythandrasExcali.md",
     "Mythandras/MythandrasExcali.svg",
-    "Mythandras/Die Zeitlinien.md",
     "Mythandras/Myxis",
     "Mythandras/Das Pantheon.md",
     "Mythandras/Abgründe und Aufstiege.md",
@@ -301,7 +314,6 @@
     "Mythandras/Mechaniken/Magische Kristalle.md",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Mythandras/Tailenis/Helos.md",
-    "Mythandras/Narakan/Narakan.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics",
     "Mythandras/Milis",
