@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "bd4544c0e975cbee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WONDERWALL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a997655368dc5689",
             "type": "leaf",
             "state": {
@@ -152,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -218,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WONDERWALL.md",
+                "file": "Mythandras/Die Zeitlinien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WONDERWALL.md",
+                "file": "Mythandras/Die Zeitlinien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WONDERWALL.md"
+                "file": "Mythandras/Die Zeitlinien.md"
               }
             }
           }
@@ -277,23 +265,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "webpage-html-export:Export Vault to HTML": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd4544c0e975cbee",
+  "active": "35b7c162b62aa61a",
   "lastOpenFiles": [
-    "Mythandras/Die Zeitlinien.md",
-    "WONDERWALL.md",
-    "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "Mythandras/Mythandras.md",
-    "Mythandras/MythandrasExcali.md",
     "Mythandras/MythandrasExcali.svg",
+    "Mythandras/MythandrasExcali.md",
+    "Mythandras/Abgründe und Aufstiege.md",
+    "WONDERWALL.md",
+    "Mythandras/Die Zeitlinien.md",
+    "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "Mythandras/Myxis",
     "Mythandras/Das Pantheon.md",
-    "Mythandras/Abgründe und Aufstiege.md",
     "Mythandras/Unterwelt/Unterwelt.md",
     "Mythandras/MythandrasMap.md",
     "index.md",
@@ -313,7 +301,6 @@
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Mechaniken/Magische Kristalle.md",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
-    "Mythandras/Tailenis/Helos.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics",
     "Mythandras/Milis",

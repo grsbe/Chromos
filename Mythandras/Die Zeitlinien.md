@@ -24,6 +24,7 @@ Einige Dinge bleiben in allen Zeitlinien gleich:
 ### Ausgang: Die Dunkelelfen gewinnen: Zeitlinie der Freiheit
 
 - Die Dunkelelfen ersetzen alle 8 Untergötter und schaffen die Welt neu:
+- Alle Hauptgötter und manche Untergötter werden in die Welt selbst gebannt
 - Die Göttin des Chaos wacht aus dem Himmel über die Welt und der Gott der Ordnung aus der Unterwelt aus
 - Das Mittelreich schwächt Alfen soweit dass sie nicht in der Lage sind Naturgesetze zu beeinflussen
 - Die Welt ist ein ganzes, eine Kugel im All der Entropie, umgeben von Monden, der Sonne und den fliegenden Inseln die vom Boden aus wie Sterne aussehen.
