@@ -11,9 +11,22 @@ Das Gebirge repräsentiert eine der sieben Säulen zwischen der [[Unterwelt]], d
 
 ## Die Regionen
 
-### Imperium
-
+### [[Imperium]]
 Kriegerischer Staat des Lichts, Hauptstadt Pa’ris. Wird angeführt von einem supreme Herrscher des Lichts. Der Herrscher hat einen Aspekt der Götter nach der Exoschallenge aufgenommen. Sein Ziel ist die Unsterblichkeit,  Aufstieg in das Reich der Götter. Der Staat nimmt Sklaven zum Minenabbau in den Untergrund
 
 ### [[Sosoni Gebirgsstämme]]
 Friedlebende Meister der Elementarmagie, deren Kultur sich um ihren mythischen Kristallorakel dreht.
+
+### [[Polus - das Reich der Prophezeiung]]
+
+### [[die Brückenstadt Abraxus Dualis]]
+Eine Brückenstadt aus Zwergen, Gnomen und Menschen, die besten Erfinder und Mechaniker der Welt
+
+
+## Angriffe auf die Region
+
+- Nordmänner/Eiselementare aus Soras, die im Winter das zugefrorene Meer überqueren und in Polus einfallen
+- Orkarmee aus Myxia
+- Windmagier diebe aus Narakan, die Raum und Hit and Run mäßig alles klauen was sie finden und sich raus teleportieren
+- Tailenis Piraten (komplette Feiglinge)
+- 
