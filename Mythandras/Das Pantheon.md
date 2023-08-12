@@ -172,3 +172,11 @@ Eos wird von den Zwillingen des Zwielichts unterstützt:
 
 # Die Neuen Götter
 
+#### Neutral/Positive Götter
+Licht gott
+Babus der Weingott
+Dominierungsgott
+Glücksgott
+Geschäftsgott
+
+Zwillinge der Balance
