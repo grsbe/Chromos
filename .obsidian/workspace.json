@@ -59,11 +59,19 @@
             "id": "35b7c162b62aa61a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Mythandras/Mechaniken/Rassen in Mythandras.md",
-                "mode": "source",
-                "source": false
+                "file": "Mythandras/Exos/ExosExcal.md"
+              }
+            }
+          },
+          {
+            "id": "68f0b6bf940d4667",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
               }
             }
           },
@@ -140,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Mechaniken/Rassen in Mythandras.md",
+                "file": "Mythandras/Exos/ExosExcal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Mechaniken/Rassen in Mythandras.md",
+                "file": "Mythandras/Exos/ExosExcal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Mechaniken/Rassen in Mythandras.md"
+                "file": "Mythandras/Exos/ExosExcal.md"
               }
             }
           }
@@ -271,14 +279,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35b7c162b62aa61a",
+  "active": "68f0b6bf940d4667",
   "lastOpenFiles": [
+    "Mythandras/Exos/ExosExcal.svg",
+    "Mythandras/Das Pantheon.md",
+    "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Exos/Exos.md",
     "Mythandras/Exos/Imperium.md",
     "Mythandras/Exos/ExosExcal.md",
     "Mythandras/Exos/ExosMap.md",
-    "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/Die Zeitlinien.md",
     "Mythandras/Mythandras.md",
     "Mythandras/MythandrasExcali.svg",
@@ -287,7 +297,6 @@
     "WONDERWALL.md",
     "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "Mythandras/Myxis",
-    "Mythandras/Das Pantheon.md",
     "Mythandras/Unterwelt/Unterwelt.md",
     "Mythandras/MythandrasMap.md",
     "index.md",
@@ -300,8 +309,6 @@
     "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
     "Mythandras/Exos/Polus - das Reich der Prophezeiung.md",
     "Mythandras/Exos/Sosoni Gebirgsstämme.md",
-    "Mythandras/Mechaniken/Magische Kristalle.md",
-    "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics",
     "Mythandras/Milis",
