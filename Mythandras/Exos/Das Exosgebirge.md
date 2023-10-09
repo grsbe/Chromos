@@ -5,7 +5,7 @@ Wer den Hauptberg erklimmt bekommt den innersten Wunsch eines Wesens erfüllt un
 
 Um das Tor im Hauptberg zu erklimmen muss man jedoch vorher die 6 Heralde erklommen haben. Nur dann öffnet sich das Tor im Hauptberg.
 
-## The 6 mountains around the Exosmountains:
+## Die 6 Exosberge um das Exosgebirge:
 
 1. Unten rechts, Si'ris:
    Archangel Mirael: He inhabits the mountain of fire and tests mortals on their courage and bravery. He carries a sword and represents the ideal of strength.
