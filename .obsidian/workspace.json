@@ -59,10 +59,8 @@
             "id": "35b7c162b62aa61a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mythandras/Exos/ExosExcal.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -81,9 +79,11 @@
             "id": "46589ad315c45d43",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Exos/Das Exosgebirge.md",
+                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Exos/Das Exosgebirge.md",
+                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Exos/Das Exosgebirge.md"
+                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md"
               }
             }
           }
@@ -285,14 +285,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "46589ad315c45d43",
   "lastOpenFiles": [
+    "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
+    "Chromos.md",
     "Mythandras/Exos/ExosExcal.md",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/Exos/ExosMap.md",
@@ -314,12 +316,10 @@
     "Mythandras/MythandrasExcali.md",
     "Mythandras/Abgründe und Aufstiege.md",
     "WONDERWALL.md",
-    "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "Mythandras/Myxis",
     "Mythandras/Unterwelt/Unterwelt.md",
     "Mythandras/MythandrasMap.md",
     "index.md",
-    "Chromos.md",
     "Mythandras/Tailenis/Tailenis.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics",
