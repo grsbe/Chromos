@@ -226,7 +226,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +242,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,9 +263,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -291,7 +287,40 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "46589ad315c45d43",
+  "floating": {
+    "id": "61ccc0627f96aac9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "74c6f94764d253f8",
+        "type": "window",
+        "children": [
+          {
+            "id": "4ba8b128119e1440",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8f0cffdf8c942a1e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 573,
+        "y": 626,
+        "width": 802,
+        "height": 402,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8f0cffdf8c942a1e",
   "lastOpenFiles": [
     "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "Chromos.md",
