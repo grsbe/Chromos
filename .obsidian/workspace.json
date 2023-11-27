@@ -296,12 +296,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1a7dd65592ef177f",
+  "floating": {
+    "id": "5c9d02d15031e0fb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f339d884336625c1",
+        "type": "window",
+        "children": [
+          {
+            "id": "f90ce0a1f4f39410",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6640f3ed2d6990b0",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6d4a9b17cfa6eb59",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 573,
+        "y": 626,
+        "width": 802,
+        "height": 402,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6d4a9b17cfa6eb59",
   "lastOpenFiles": [
     "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "Chromos.md",
