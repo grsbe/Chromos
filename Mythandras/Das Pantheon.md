@@ -172,11 +172,21 @@ Eos wird von den Zwillingen des Zwielichts unterstützt:
 
 # Die Neuen Götter
 
-#### Neutral/Positive Götter
-Licht gott
-Babus der Weingott
-Dominierungsgott
-Glücksgott
-Geschäftsgott
+### Neutral/Positive Götter
+#### Gott der Versuchung
 
-Zwillinge der Balance
+
+
+#### Babus der Weingott
+
+#### Dominierungsgott
+
+#### Glücksgott
+
+
+
+#### Lura und Arul, Zwillinge der Balance
+Wurden ersetzt während der Götterkriege
+
+#### Baha, Gott der Wünsche
+Auferstandener Gott

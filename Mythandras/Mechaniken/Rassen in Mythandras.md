@@ -12,12 +12,12 @@
 
 ## Himmels Rassen
 
-| Rasse         |     |
+| Rasse           |     |
 | --------------- | --- |
 | Engel           |     |
 | Drachen         |     |
 | Drachenmenschen |     |
-|                 |     |
+| Vielarmige      |     |
 
 
 ## Unterwelt Rassen

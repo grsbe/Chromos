@@ -91,9 +91,11 @@
             "id": "1a7dd65592ef177f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Mythandras/Das Pantheon.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -236,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
+                "file": "Mythandras/Das Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
+                "file": "Mythandras/Das Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md"
+                "file": "Mythandras/Das Pantheon.md"
               }
             }
           }
@@ -334,17 +336,18 @@
           }
         ],
         "direction": "vertical",
-        "x": 573,
-        "y": 626,
-        "width": 802,
-        "height": 402,
+        "x": 572,
+        "y": 625,
+        "width": 806,
+        "height": 407,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "6d4a9b17cfa6eb59",
+  "active": "1a7dd65592ef177f",
   "lastOpenFiles": [
+    "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "Chromos.md",
     "Mythandras/Exos/ExosExcal.md",
@@ -359,7 +362,6 @@
     "Mythandras/Exos/Sosoni Gebirgsstämme.md",
     "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
     "Mythandras/Das Pantheon.md",
-    "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Exos/Exos.md",
     "Mythandras/Die Zeitlinien.md",
