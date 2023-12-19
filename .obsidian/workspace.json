@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Das Pantheon.md",
+                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Das Pantheon.md",
+                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Das Pantheon.md"
+                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md"
               }
             }
           }
@@ -331,22 +331,22 @@
                   "state": {}
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
         "x": 572,
-        "y": 625,
-        "width": 806,
-        "height": 407,
+        "y": 624,
+        "width": 808,
+        "height": 415,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "1a7dd65592ef177f",
+  "active": "6640f3ed2d6990b0",
   "lastOpenFiles": [
+    "Mythandras/Das Pantheon.md",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "Chromos.md",
@@ -361,7 +361,6 @@
     "Mythandras/Exos/Polus - das Reich der Prophezeiung.md",
     "Mythandras/Exos/Sosoni Gebirgsstämme.md",
     "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
-    "Mythandras/Das Pantheon.md",
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Exos/Exos.md",
     "Mythandras/Die Zeitlinien.md",
@@ -379,14 +378,4 @@
     "Pics",
     "Mythandras/Milis",
     "Mythandras/Narakan",
-    "Mythandras/Unterwelt",
-    "Mythandras/Tailenis",
-    "Dockerfile",
-    "docker-compose.yml",
-    "Mythandras/Exos/ExosMap.excali.svg",
-    "Mythandras/Exos/ExosMap.excali.png",
-    "Mythandras/Exos",
-    "Mythandras",
-    "Untitled.canvas"
-  ]
-}
+    "Myth

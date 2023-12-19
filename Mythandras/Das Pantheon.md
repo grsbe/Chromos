@@ -186,7 +186,10 @@ Eos wird von den Zwillingen des Zwielichts unterstützt:
 
 
 #### Lura und Arul, Zwillinge der Balance
-Wurden ersetzt während der Götterkriege
+Sind implodiert und wurden ersetzt während der Götterkriege
 
-#### Baha, Gott der Wünsche
+#### Baha, Gott der Wünsche und Versuchungen
 Auferstandener Gott
+
+Objektive: Bring Menschen zum Wünschen, jedes Gebet bei dem
+Offen:
