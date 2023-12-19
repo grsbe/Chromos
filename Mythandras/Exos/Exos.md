@@ -1,7 +1,7 @@
 
 Willkommen in Exos, auch der gespaltene Kontinent genannt. Das Land wird dominiert vom Exos Gebirge, auch die Säulen des Himmels genannt, dessen schneebedeckte Spitzen förmlich in das Himmelreich hineinragen. Im Schatten des Gebirges liegt ein weitausladender Bergbereich der in eine erbittert umkämpfte Hochebene übergeht, die schließlich in mildere flache Küstenbuchten ausufert.
 
-Der Kontinent ist benannt nach dem gleichnamigen Gott des Krieges und Wettkampfs Exos.
+Der Kontinent ist benannt nach dem gleichnamigen Gott der Erde Exos.
 
 80% des Kontinents bestehen aus wilden ungesicherten Wäldern, Prärie-ebenen und Gebirgskluften, voll mit mystischen Dungeons, energiegeladene Manastürme, magischen und nicht-magischen Bestien und arkanen Ruinen einer vergessenen Zivilisation. Durch das Land ziehen sich halbwegs gesicherte Wege die, die verschiedenen Nationen des Landes verbinden.
 

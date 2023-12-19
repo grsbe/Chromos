@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
+                "file": "Mythandras/Mechaniken/Magie.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,8 +171,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
+                "file": "Mythandras/Mechaniken/Magie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
+                "file": "Mythandras/Mechaniken/Magie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RandomStuff/Unsortierte Ideen/Startcharaktere.md"
+                "file": "Mythandras/Mechaniken/Magie.md"
               }
             }
           }
@@ -303,52 +302,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "5c9d02d15031e0fb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f339d884336625c1",
-        "type": "window",
-        "children": [
-          {
-            "id": "f90ce0a1f4f39410",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6640f3ed2d6990b0",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "6d4a9b17cfa6eb59",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 572,
-        "y": 624,
-        "width": 808,
-        "height": 415,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6640f3ed2d6990b0",
+  "active": "3e064224af4ecf70",
   "lastOpenFiles": [
+    "Mythandras/Myxis/Myxia.md",
+    "Mythandras/Exos/Exos.md",
+    "Adventures/Ideas Mythandras.md",
+    "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
+    "Adventures",
     "Mythandras/Das Pantheon.md",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
-    "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "Chromos.md",
     "Mythandras/Exos/ExosExcal.md",
     "Mythandras/Exos/ExosExcal.svg",
@@ -362,7 +324,6 @@
     "Mythandras/Exos/Sosoni Gebirgsstämme.md",
     "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
     "Mythandras/Mechaniken/Magie.md",
-    "Mythandras/Exos/Exos.md",
     "Mythandras/Die Zeitlinien.md",
     "Mythandras/Mythandras.md",
     "Mythandras/MythandrasExcali.svg",
@@ -373,9 +334,17 @@
     "Mythandras/Unterwelt/Unterwelt.md",
     "Mythandras/MythandrasMap.md",
     "index.md",
-    "Mythandras/Tailenis/Tailenis.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics",
     "Mythandras/Milis",
     "Mythandras/Narakan",
-    "Myth
+    "Mythandras/Unterwelt",
+    "Mythandras/Tailenis",
+    "Dockerfile",
+    "docker-compose.yml",
+    "Mythandras/Exos/ExosMap.excali.svg",
+    "Mythandras/Exos/ExosMap.excali.png",
+    "Mythandras/Exos",
+    "Untitled.canvas"
+  ]
+}
