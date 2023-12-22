@@ -70,4 +70,4 @@ Materialien/Pflanzen und Natur werden weiter verarbeitet um temporäre oder perm
 
 ### Götteranbetung
 
-Manche Geister sind so mächtig dass sie mit einer großzahl an Wesen Verträge eingehen können
+Manche Geister sind so mächtig dass sie mit einer Großzahl an Wesen Verträge eingehen können

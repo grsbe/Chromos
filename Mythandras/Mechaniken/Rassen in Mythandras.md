@@ -1,3 +1,11 @@
+
+## Göttliche Rassen
+| Rasse                      |
+| -------------------------- |
+| Engel/Helldieneralf        |
+| Verbrannte/Dunkeldieneralf |
+| Alf/niederer Gott                        |
+
 ## Göttergebundene Rassen
 
 | Rasse          | Alf            | Herkunft |
@@ -5,19 +13,21 @@
 | Menschen       | Stolz/Ambition | Exos     |
 | Elfen          | Lust/Harmonie  | Milis    |
 | Zwerge         | Gier           | Exos     |
-| Grüne          | Neid           | Myxia    |
+| Vielarmige         | Neid           | Myxia    |
 | Daimon         | Wut            | Azsh     |
-| Wassermenschen | Traum          | Nixis    | 
+| Wassermenschen | Traum          | Nixis    |
 | Lycan          | Völlerei       | Lycan    |
+
 
 ## Himmels Rassen
 
 | Rasse           |     |
 | --------------- | --- |
-| Engel           |     |
+|                 |     |
 | Drachen         |     |
 | Drachenmenschen |     |
-| Vielarmige      |     |
+|     |     |
+| Engelhafte                |     |
 
 
 ## Unterwelt Rassen
@@ -27,3 +37,4 @@
 | Elementare Humanoide |     |
 |                      |     |
 
+## Myxia-Mutierte

@@ -4,11 +4,9 @@ A wild sheep chase
 Automaton on a rampage
 Standed in the Eclipse
 
+Saving a small litte child (the child)
 
-## Longer Questlines
-
-
-## Main Campaign
+## Longer Questlines 
 ### Exos
 (Prehestoric) Landing in Exos
 
@@ -23,5 +21,7 @@ Trapped in Narakan
 
 ### Tailenis
 Building up a Traderbusiness
-## 
-# Ideas Tu
+Die Geisterinsel
+### Unterwelt
+Reise in die Unterwelt über Geisterinsel/Exosgeb/Sorasgletscher etc.
+# Ideas Taijima
