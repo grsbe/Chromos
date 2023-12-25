@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Chp 1.md",
+                "file": "RandomStuff/Worldbuilding premises.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Chp 1.md",
+                "file": "RandomStuff/Worldbuilding premises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Chp 1.md",
+                "file": "RandomStuff/Worldbuilding premises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Chp 1.md"
+                "file": "RandomStuff/Worldbuilding premises.md"
               }
             }
           }
@@ -317,11 +317,12 @@
   },
   "active": "9ef6f62a23b9bfe6",
   "lastOpenFiles": [
+    "Adventures/Ideas Mythandras.md",
+    "RandomStuff/Worldbuilding premises.md",
+    "Books/Chp 1.md",
     "Mythandras/Exos/Parador.md",
     "Mythandras/Exos/Natya.md",
     "Mythandras/Mechaniken/Magie.md",
-    "Books/Chp 1.md",
-    "Adventures/Ideas Mythandras.md",
     "Books",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Mythandras/Myxis/Myxia.md",
@@ -348,7 +349,6 @@
     "Mythandras/Abgründe und Aufstiege.md",
     "WONDERWALL.md",
     "Mythandras/Myxis",
-    "Mythandras/Unterwelt/Unterwelt.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics",
     "Mythandras/Milis",
