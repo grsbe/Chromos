@@ -9,6 +9,8 @@ Magie ist im Grunde Autorität oder Kontrolle über Mana eines Element oder eine
 ## Karma
 
 Neben der Materiellen Welt ist jedes Seelenbesessene Wesen in der Geisterwelt mit seiner Umgebung verbunden. 
+Diese Verbindungsstränge basieren auf Karma, je verknüpfter 
+
 ## Wahre Magie
 
 Jedes Wesen je nach dem wie viel Autorität die Eltern besaßen, wird mit gewissen Blutlinienfähigkeiten geboren, die es dem Kind erlauben, instinktiv zu einem gewissen Teil auf die Autorität der Eltern zuzugreifen. Genauso stärkt das Aufwachsen in der manareichen Umgebung eines Elements die Autorität über das Element. Bei Tierwesen ist dieser Bias stark ausgeprägt.
@@ -17,10 +19,7 @@ Auch die Persönlichkeit ist entscheidend, zu welchen Elementen eine Person Affi
 
 Elemente sind ein Fragment der Ordnung.
 
-  
-
 Wenn Autorität die Stärke beschreibt mit der ein Element kontrolliert werden kann, dann beschreiben Kerne die Menge die ein bestimmter Elementenmix aus Mana aufgenommen werden kann. Jede Person kann sich auf mehrere Kerne oder einen Kern konzentrieren, abhängig ihrer Affinität.
-
   
 
  Es gibt 6 Arten Mana zu beeinflussen:
