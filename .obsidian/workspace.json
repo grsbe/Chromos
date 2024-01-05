@@ -37,9 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Shop.md",
+                "file": "Mythandras/Exos/Händlerbund.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "55454b79a17a97e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
               }
             }
           },
@@ -172,18 +182,6 @@
             }
           },
           {
-            "id": "b1f956b35389f8c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mythandras/Exos/ExosMap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "49ed8516fefb663f",
             "type": "leaf",
             "state": {
@@ -196,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Shop.md",
+                "file": "Mythandras/Exos/Händlerbund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Shop.md",
+                "file": "Mythandras/Exos/Händlerbund.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Shop.md"
+                "file": "Mythandras/Exos/Händlerbund.md"
               }
             }
           }
@@ -327,39 +325,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4998c67c1914998c",
+  "active": "55454b79a17a97e9",
   "lastOpenFiles": [
-    "Adventures/Ideas Mythandras.md",
+    "Mythandras/Exos/Exos.md",
+    "Mythandras/Exos/Händlerbund.md",
+    "Mythandras/Exos/ExosExcal.md",
+    "Mythandras/Exos/ExosExcal.svg",
+    "Mythandras/Exos/Natya.md",
+    "Mythandras/MythandrasExcali.md",
+    "Mythandras/MythandrasMap.md",
+    "Mythandras/MythandrasExcali.svg",
+    "Mythandras/Exos/ExosMap.md",
+    "Adventures/A wild sheep chase.md",
+    "Mythandras/Exos/Polaris - das Reich der Prophezeiung.md",
     "Adventures/Shop.md",
+    "Adventures/Ideas Mythandras.md",
     "Untitled.md",
     "RandomStuff/Worldbuilding premises.md",
     "Books/Chp 1.md",
     "Mythandras/Exos/Parador.md",
-    "Mythandras/Exos/Natya.md",
     "Mythandras/Mechaniken/Magie.md",
     "Books",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Mythandras/Myxis/Myxia.md",
     "Taijima/Taijima.md",
     "Taijima",
-    "Mythandras/Exos/Exos.md",
     "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "Adventures",
     "Mythandras/Das Pantheon.md",
     "Chromos.md",
-    "Mythandras/Exos/ExosExcal.md",
-    "Mythandras/Exos/ExosExcal.svg",
-    "Mythandras/Exos/ExosMap.md",
     "Mythandras/Exos/Ideen.md",
     "Mythandras/Exos/Imperium.md",
     "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
-    "Mythandras/Exos/Polus - das Reich der Prophezeiung.md",
     "Mythandras/Exos/Sosoni Gebirgsstämme.md",
-    "Mythandras/Exos/die Brückenstadt Abraxus Dualis.md",
-    "Mythandras/Die Zeitlinien.md",
-    "Mythandras/Mythandras.md",
-    "Mythandras/MythandrasExcali.svg",
-    "Mythandras/MythandrasExcali.md",
     "Mythandras/Myxis",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics",

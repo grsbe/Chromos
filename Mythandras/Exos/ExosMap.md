@@ -1,3 +1,0 @@
-
-![[ExosExcal.svg]]
-

@@ -1,1 +1,0 @@
-![[MythandrasExcali.svg]]

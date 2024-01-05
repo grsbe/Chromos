@@ -17,7 +17,7 @@ Kriegerischer Staat des Lichts, Hauptstadt Pa’ris. Wird angeführt von einem s
 ### [[Sosoni Gebirgsstämme]]
 Friedlebende Meister der Elementarmagie, deren Kultur sich um ihren mythischen Kristallorakel dreht.
 
-### [[Polus - das Reich der Prophezeiung]]
+### [[Polaris - das Reich der Prophezeiung]]
 
 ### [[die Brückenstadt Abraxus Dualis]]
 Eine Brückenstadt aus Zwergen, Gnomen und Menschen, die besten Erfinder und Mechaniker der Welt
