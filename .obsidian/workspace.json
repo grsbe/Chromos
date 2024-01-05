@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/Händlerbund.md",
+                "file": "Mythandras/Exos/Händlerküste/Händlerküste.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Mechaniken/Untitled.md",
+                "file": "Mythandras/Mechaniken/Magie.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/Das Exosgebirge.md",
+                "file": "Mythandras/Exos/Exosgebirge/Das Exosgebirge.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/Das Exosgebirge.md",
+                "file": "Mythandras/Exos/Exosgebirge/Das Exosgebirge.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/Sosoni Gebirgsstämme.md",
+                "file": "Mythandras/Exos/Exosgebirge/Sosoni Gebirgsstämme.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Mechaniken/Untitled.md",
+                "file": "Mythandras/Mechaniken/Magie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Mechaniken/Untitled.md",
+                "file": "Mythandras/Mechaniken/Magie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Mechaniken/Untitled.md"
+                "file": "Mythandras/Mechaniken/Magie.md"
               }
             }
           }
@@ -329,25 +329,36 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
-    "Mythandras/Mechaniken/Magie.md",
-    "Mythandras/Mechaniken/Untitled.md",
+    "Mythandras/Mechaniken/Lumisbaum.md",
+    "Mythandras/Exos/Pa'Ris/Pa'Ris.md",
+    "Mythandras/Exos/Va'Nis/Va'ris.md",
+    "Mythandras/Exos/Sidaris/Si'Ris.md",
+    "Mythandras/Exos/Exoskarte.md",
+    "Mythandras/Exos/Sidaris",
+    "Mythandras/Exos/Händlerküste/Goyamo.md",
+    "Mythandras/Exos/Va'Nis",
+    "Mythandras/Exos/Fe'Ris",
+    "Mythandras/Exos/Polaris",
+    "Mythandras/Exos/Pa'Ris",
+    "Adventures/Shops.md",
+    "Mythandras/Exos/Exosgebirge",
+    "Mythandras/Exos/Händlerküste",
     "Adventures/A wild sheep chase.md",
+    "Mythandras/Exos/Händlerküste/Händlerküste.md",
+    "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Exos/Exos.md",
-    "Mythandras/Exos/Händlerbund.md",
-    "Mythandras/Exos/ExosExcal.md",
     "Mythandras/Exos/ExosExcal.svg",
-    "Mythandras/Exos/Natya.md",
+    "Mythandras/Exos/Händlerküste/Natya.md",
     "Mythandras/MythandrasExcali.md",
     "Mythandras/MythandrasMap.md",
     "Mythandras/MythandrasExcali.svg",
     "Mythandras/Exos/ExosMap.md",
-    "Mythandras/Exos/Polaris - das Reich der Prophezeiung.md",
-    "Adventures/Shop.md",
+    "Mythandras/Exos/Polaris/Polaris - das Reich der Prophezeiung.md",
     "Adventures/Ideas Mythandras.md",
     "Untitled.md",
     "RandomStuff/Worldbuilding premises.md",
     "Books/Chp 1.md",
-    "Mythandras/Exos/Parador.md",
+    "Mythandras/Exos/Fe'Ris/Parador.md",
     "Books",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Mythandras/Myxis/Myxia.md",
@@ -356,18 +367,7 @@
     "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
     "Adventures",
     "Mythandras/Das Pantheon.md",
-    "Chromos.md",
-    "Mythandras/Exos/Ideen.md",
-    "Mythandras/Exos/Imperium.md",
-    "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
-    "Mythandras/Myxis",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
-    "Pics",
-    "Mythandras/Milis",
-    "Mythandras/Narakan",
-    "Mythandras/Unterwelt",
-    "Mythandras/Tailenis",
-    "Dockerfile",
     "Mythandras/Exos/ExosMap.excali.svg",
     "Mythandras/Exos/ExosMap.excali.png",
     "Untitled.canvas"

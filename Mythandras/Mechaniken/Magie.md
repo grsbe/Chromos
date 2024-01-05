@@ -1,12 +1,14 @@
+(Die Bezeichnungen können sich noch verändern)
 
 Wie funktioniert Magie in Mythandrias?
 
-Jedes Objekt/Lebewesen/Materie sind Elemente zuzuschreiben. Diese Energie wird als Mana quantifiziert. Mana haftet und steckt in Materie und Lebewesen und wird als Aura leicht ausgestrahlt.
+Jedes Objekt/Lebewesen/Materie sind Elemente zuzuschreiben. Diese Energiemenge in der diese Elemente quantifiziert werden wird Mana genannt. Mana haftet und steckt in Materie und Lebewesen und wird je nach Leitfähigkeit als Aura leicht ausgestrahlt.
 
-Magie ist im Grunde Autorität über ein Element in der Umgebung. Die Autorität erlaubt es dem magiefähigen Wesen das Mana dieses Elements in der Umgebung zu beeinflussen, zu kontrollieren, zu absorbieren oder zu erschaffen.
+Magie ist im Grunde Autorität oder Kontrolle über Mana eines Element oder einer Elementunterklasse in der Umgebung. Die Autorität erlaubt es dem magiefähigen Wesen das Mana dieses Elements in der Umgebung zu beeinflussen, zu kontrollieren, zu absorbieren oder zu erschaffen.
 
-  
+## Karma
 
+Neben der Materiellen Welt ist jedes Seelenbesessene Wesen in der Geisterwelt mit seiner Umgebung verbunden. 
 ## Wahre Magie
 
 Jedes Wesen je nach dem wie viel Autorität die Eltern besaßen, wird mit gewissen Blutlinienfähigkeiten geboren, die es dem Kind erlauben, instinktiv zu einem gewissen Teil auf die Autorität der Eltern zuzugreifen. Genauso stärkt das Aufwachsen in der manareichen Umgebung eines Elements die Autorität über das Element. Bei Tierwesen ist dieser Bias stark ausgeprägt.
