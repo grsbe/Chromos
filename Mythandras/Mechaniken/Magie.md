@@ -11,7 +11,7 @@ Magie ist im Grunde Autorität oder Kontrolle über Mana eines Element oder eine
 Neben der Materiellen Welt ist jedes Seelenbesessene Wesen in der Geisterwelt mit seiner Umgebung verbunden. 
 Diese Verbindungsstränge basieren auf Karma, je verknüpfter 
 
-## Wahre Magie
+## Affinität
 
 Jedes Wesen je nach dem wie viel Autorität die Eltern besaßen, wird mit gewissen Blutlinienfähigkeiten geboren, die es dem Kind erlauben, instinktiv zu einem gewissen Teil auf die Autorität der Eltern zuzugreifen. Genauso stärkt das Aufwachsen in der manareichen Umgebung eines Elements die Autorität über das Element. Bei Tierwesen ist dieser Bias stark ausgeprägt.
 
