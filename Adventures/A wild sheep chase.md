@@ -2,7 +2,7 @@
 ## Scene 1: In der Taverne
 
 Einleittext:
-Eine steife Brise strömt über das Land und trägt den ferne Mövenschreie mit sich. Der Wind zieht sanft aber stetig durch die Verästelungen eines uralten magischen hohlen Baumes. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus im Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken" und liegt am Rande eines Fischerörtchens, dem Dorf Gardinsen.
+Eine steife Brise strömt über das Land und trägt den allbekannten liebsamen Klängen von empörten Mövenschreien mit sich. Die Meeresluft zieht aufbrausend durch die Verästelungen eines uralten magischen hohlen Baumes am Rande eines kleinen Fischerörtchens namens Gardinen. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus im Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken".
 Der Gasthof
 Unsere Helden
 Es ist morgens, die Crew ist auf der Durchreise an der Händlerküste im Dorf Gardisen

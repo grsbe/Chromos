@@ -47,9 +47,11 @@
             "id": "55454b79a17a97e9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Mythandras/Mechaniken/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -260,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Exos/Händlerbund.md",
+                "file": "Mythandras/Mechaniken/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Exos/Händlerbund.md",
+                "file": "Mythandras/Mechaniken/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Exos/Händlerbund.md"
+                "file": "Mythandras/Mechaniken/Untitled.md"
               }
             }
           }
@@ -319,14 +321,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "webpage-html-export:Export Vault to HTML": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
+    "Mythandras/Mechaniken/Magie.md",
+    "Mythandras/Mechaniken/Untitled.md",
+    "Adventures/A wild sheep chase.md",
     "Mythandras/Exos/Exos.md",
     "Mythandras/Exos/Händlerbund.md",
     "Mythandras/Exos/ExosExcal.md",
@@ -336,7 +341,6 @@
     "Mythandras/MythandrasMap.md",
     "Mythandras/MythandrasExcali.svg",
     "Mythandras/Exos/ExosMap.md",
-    "Adventures/A wild sheep chase.md",
     "Mythandras/Exos/Polaris - das Reich der Prophezeiung.md",
     "Adventures/Shop.md",
     "Adventures/Ideas Mythandras.md",
@@ -344,7 +348,6 @@
     "RandomStuff/Worldbuilding premises.md",
     "Books/Chp 1.md",
     "Mythandras/Exos/Parador.md",
-    "Mythandras/Mechaniken/Magie.md",
     "Books",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Mythandras/Myxis/Myxia.md",
@@ -357,7 +360,6 @@
     "Mythandras/Exos/Ideen.md",
     "Mythandras/Exos/Imperium.md",
     "Mythandras/Exos/Pa'Ris, die Stadt des Lichts und Hauptstadt des Imperiums.md",
-    "Mythandras/Exos/Sosoni Gebirgsstämme.md",
     "Mythandras/Myxis",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics",
