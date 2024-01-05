@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RandomStuff/Worldbuilding premises.md",
+                "file": "Adventures/Ideas Mythandras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4998c67c1914998c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Shop.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RandomStuff/Worldbuilding premises.md",
+                "file": "Adventures/Shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RandomStuff/Worldbuilding premises.md",
+                "file": "Adventures/Shop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RandomStuff/Worldbuilding premises.md"
+                "file": "Adventures/Shop.md"
               }
             }
           }
@@ -315,9 +327,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ef6f62a23b9bfe6",
+  "active": "4998c67c1914998c",
   "lastOpenFiles": [
     "Adventures/Ideas Mythandras.md",
+    "Adventures/Shop.md",
+    "Untitled.md",
     "RandomStuff/Worldbuilding premises.md",
     "Books/Chp 1.md",
     "Mythandras/Exos/Parador.md",
@@ -346,8 +360,6 @@
     "Mythandras/Mythandras.md",
     "Mythandras/MythandrasExcali.svg",
     "Mythandras/MythandrasExcali.md",
-    "Mythandras/Abgründe und Aufstiege.md",
-    "WONDERWALL.md",
     "Mythandras/Myxis",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics",
