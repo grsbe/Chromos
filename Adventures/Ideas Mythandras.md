@@ -4,7 +4,7 @@ Think in Scenes and Interactables, 3 Challenges, Traps per Scene
 A wild sheep chase
 Automaton on a rampage
 Standed in the Eclipse
-
+Einen Kult der einen Dämonen beschwören will aufhalten
 Saving a small litte child (the child)
 
 ## Longer Questlines 
