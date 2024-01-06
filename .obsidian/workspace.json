@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Mechaniken/Magie.md",
+                "file": "Adventures/A wild sheep chase.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Mechaniken/Magie.md",
+                "file": "Adventures/A wild sheep chase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Mechaniken/Magie.md",
+                "file": "Adventures/A wild sheep chase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Mechaniken/Magie.md"
+                "file": "Adventures/A wild sheep chase.md"
               }
             }
           }
@@ -329,6 +329,7 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
+    "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Mechaniken/Lumisbaum.md",
     "Mythandras/Exos/Pa'Ris/Pa'Ris.md",
     "Mythandras/Exos/Va'Nis/Va'ris.md",
@@ -345,7 +346,6 @@
     "Mythandras/Exos/Händlerküste",
     "Adventures/A wild sheep chase.md",
     "Mythandras/Exos/Händlerküste/Händlerküste.md",
-    "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Exos/Exos.md",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/Exos/Händlerküste/Natya.md",
