@@ -36,6 +36,13 @@ Kontext:
 ## Scene 3: Ambush auf dem Weg zum Turm
 
 Kleiner smarter goblin Grok und ein Bär Brok und ein paar Wölfe Wronk, Brik und Olaf. Der Bär und die Wölfe sind gepolymorphed.
+
+Brok 1 https://5e.tools/bestiary.html#brown%20bear_mm
+Grok 1/4 https://5e.tools/bestiary.html#goblin_mm
+Wolf 1/4 https://5e.tools/bestiary.html#wolf_mm
+
+Level 1: Grok und 2 (+ optional ein hidender) Wolf
+Level 2: Grok Brok plus 1 Wolf
 ## Szene 4: Die Magierturmtür
 
 Wald auf dem Weg dahin
@@ -111,4 +118,8 @@ Faluzivis der Magier Novize
 Personality: Paranoid, ...
 kramt gerade in einer Kiste und sucht Gegenständen die zu etwas nützlich sind
 
--2. Phase: Er verwandelt sein Bett in einen Drachenbett
+Kampfstart:
+
+Er verwandelt das Bett in einen BettDrachen
+und verwandelt Bücher und blätter in 
+1-2 kleine Papierratten (1/4) https://5e.tools/bestiary.html#swarm%20of%20rats_mm
