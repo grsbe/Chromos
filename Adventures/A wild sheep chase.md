@@ -6,15 +6,16 @@
 Einleittext:
 Eine steife Brise strömt über das Land und trägt den allbekannten liebsamen Klängen von empörten Mövenschreien mit sich. Die Meeresluft zieht aufbrausend durch die Verästelungen eines uralten magischen hohlen Baumes (ein [[Lumisbaum]] ) am Rande eines kleinen Fischerörtchens namens Gardisen. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus im Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken".
 
-Es ist morgens, die Crew ist auf der Durchreise an der [[Händlerküste]] nach [[Natya]].
+Es ist morgens, die Crew ist auf der Durchreise an der [[Händlerküste]] nach einer Stadt namens [[Natya]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wollte.
 
 Infos:
 - Die Charaktere kennen sich schon
 - Die Charaktere stellen sich jeweils vor
 - Wie könnten sich die Charaktere getroffen haben?
+- Was machen die Charaktere gerade
 
 Interactibles:
-- Die Barmaid kommt vorbei
+- Die Barmaid kommt vorbei (halb Schweizerisch, kann ich ihnen was zu trinken/essen anbieten?)
 - Speisekarte:
 	- Birkentee
 	- Fisch des Tages
@@ -27,25 +28,30 @@ Einleittext:
 
 
 Kontext:
+- Das Schaf heißt Faaschad und ist ein Magier der Transmutationsschule aus der Gegend. Er wurde von seinem Schüler mit einem Stab der Polymorpie in ein Schaf verzaubert
 - Das Schaf ist bereit alles als Belohnung anzubieten, 20 Gold, Spellscrolls, Beziehungen für die Magierschule in Polaris/Polus
 - Das Schaf hat nicht mehr viel Zeit, er schätzt wenn der Tag vorüber ist, wird er permanent zum Schaf
 
 
 ## Scene 3: Ambush auf dem Weg zum Turm
 
-Groß und starker Bugbear und kleiner schwacher aber smarter Goblin plus verzauberte papier kraniche??
-Kleiner smarter goblin und ein Bär und ein paar Wölfe. Der Bär und die Wölfe sind verzaubert
+Kleiner smarter goblin Grok und ein Bär Brok und ein paar Wölfe Wronk, Brik und Olaf. Der Bär und die Wölfe sind gepolymorphed.
 ## Szene 4: Die Magierturmtür
+
+Wald auf dem Weg dahin
 
 Optional Encounter:
 Zwei Steingolemns bewachen die Tür und patrollieren um den Turm. Irgendwie müsste man die ablenken können
 
 Encounter: 
 In den Steinturm ist eine Runde Tür eingebaut, mit ständig verändernden Runen die sich im Kreis im die Tür bewegen. Als ihr euch der Tür nähert, erscheint ein Gesicht und frägt nach dem Passwort.
+"Ich bin die Rätseltür des großen mächtigen weltunterwerfenden zauberhaften Magiers Faaschad. Nenn mir das Passwort du mögest eintreten."
+Personality: Loud booming ent like voice, bist du dir sicher dass das die richtige Antwort ist???
 Die Tür frägt nach dem Passwort, damit die Crew eintreten darf. Das Schaf ist erst peinlich berührt und gibt dann das Codewort "lassmichrein" weiter.
 Der Code ist allerdings falsch, der Magierschüler hat das Passwort geändert. Wenn ihr das Passwort zurücksetzen wollt müsst ihr drei Rätsel lösen die nur der Besitzer der Tür lösen kann.
+"..."
 
-(Jedes falsch beantwortete Rätsel verwandelt den Antwortgeber in die eigentliche Lösung des Rätsels)
+(Jedes falsch beantwortete Rätsel verwandelt den Antwortgeber in die eigentliche Lösung des Rätsels, dc14 wis saving throw, nach einem Tag permanent)
 Rätsel 1:
 
 Rätsel2:
@@ -69,15 +75,14 @@ Einführungstext:
 
 
 Erdgeschoss:
-Ein Großer Tisch in der Mitte, Küche mit Ofen am Rand, gemütlicher Sessel
-- Verzauberte papier kraniche halten rat ab was sie tun sollen
-
-Keller:
+Ein Großer Tisch Am Rand, Küche mit Ofen am Rand, gemütlicher Sessel
+Bücher wurden aus Regalen geworfen
 - Ein kaputter Käfig mit Schafswolleresten am Rand
 - Ein paar jammernde Schleimwesen
-- Ein großer Tisch mit Scrolls und einer menge hochwertigem Forschungsmaterial
+-
 
-1.ter Stock
+## 2.ter Raum
+ Ein großer Tisch mit Scrolls und einer menge hochwertigem Forschungsmaterial
 - Überall liegen Scrolls rum zu schwachen random Zaubern:
 	- http://www.ironworksforum.com/forum/showthread.php?t=93444
 	- Flower bloom
@@ -93,15 +98,17 @@ Keller:
 	- Bigbys insulting hand
 	- Blind self
 	- Power word pun
-	- moon blast
+	- moon blast scheint Mondlicht auf eine Stelle
 
 - Random magische Items die hier rumliegen könnten
 	- Useless: https://theniftynerd.com/general-geekiness/useless-magic-items-dungeons-dragons/
 	- Usefull: https://www.thievesguild.cc/tables/trinkets-magic
 
-## Szene Bossfight: 4ter Stock
+## Szene Bossfight: 3ter Raum
 
-Falvis der Magier Novize
-
+Breiterer Raum
+Faluzivis der Magier Novize
+Personality: Paranoid, ...
+kramt gerade in einer Kiste und sucht Gegenständen die zu etwas nützlich sind
 
 -2. Phase: Er verwandelt sein Bett in einen Drachenbett
