@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Ideas Mythandras.md",
+                "file": "Adventures/Enemy Statblocks/Ahmad Noke.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Ideas Mythandras.md",
+                "file": "Adventures/Enemy Statblocks/Ahmad Noke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Ideas Mythandras.md",
+                "file": "Adventures/Enemy Statblocks/Ahmad Noke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Ideas Mythandras.md"
+                "file": "Adventures/Enemy Statblocks/Ahmad Noke.md"
               }
             }
           }
@@ -311,7 +311,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -329,6 +330,10 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
+    "Adventures/Untitled.md",
+    "Adventures/Enemy Statblocks/Ahmad Noke.md",
+    "Adventures/Enemy Statblocks",
+    "Adventures/Ideas Mythandras.md",
     "Adventures/A wild sheep chase.md",
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Mechaniken/Lumisbaum.md",
@@ -354,7 +359,6 @@
     "Mythandras/MythandrasExcali.svg",
     "Mythandras/Exos/ExosMap.md",
     "Mythandras/Exos/Polaris/Polaris - das Reich der Prophezeiung.md",
-    "Adventures/Ideas Mythandras.md",
     "Untitled.md",
     "RandomStuff/Worldbuilding premises.md",
     "Books/Chp 1.md",
@@ -364,9 +368,6 @@
     "Mythandras/Myxis/Myxia.md",
     "Taijima/Taijima.md",
     "Taijima",
-    "RandomStuff/Unsortierte Ideen/Startcharaktere.md",
-    "Adventures",
-    "Mythandras/Das Pantheon.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Mythandras/Exos/ExosMap.excali.svg",
     "Mythandras/Exos/ExosMap.excali.png",
