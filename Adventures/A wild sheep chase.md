@@ -8,7 +8,7 @@
 Einleittext:
 Eine steife Brise strömt über das Land und trägt den allbekannten liebsamen Klängen von empörten Mövenschreien mit sich. Die Meeresluft zieht aufbrausend durch die Verästelungen eines uralten magischen hohlen Baumes (ein [[Lumisbaum]] ) am Rande eines kleinen Fischerörtchens namens Gardisen. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus im Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken".
 
-Es ist morgens, die Crew ist auf der Durchreise an der [[Händlerküste]] nach einer Stadt namens [[Natya]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wollte.
+Es ist morgens, die Crew ist auf der Durchreise an der [[Ha'Ris]] nach einer Stadt namens [[Natya]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wollte.
 
 Gain 3 Extra temporäre hitpoints, fürs übernachten im heiligen Baum
 

@@ -8,7 +8,7 @@
 7. Glitter
 8. Distribute Butter (Verteilt Butter perfekt aufs Brot)
 9. Anger Deity
-10. Talk with the fishes
+10. Powerword Bloom
 11. Disguise undead
 12. Detect Ground
 13. Charm undead

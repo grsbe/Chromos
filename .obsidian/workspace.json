@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/Händlerküste/Händlerküste.md",
+                "file": "Mythandras/Exos/Händlerküste/Ha'Ris.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Items/Useless magical spells.md",
+                "file": "Mythandras/Exos/Exos.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Items/Useless magical spells.md",
+                "file": "Mythandras/Exos/Exos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Items/Useless magical spells.md",
+                "file": "Mythandras/Exos/Exos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Items/Useless magical spells.md"
+                "file": "Mythandras/Exos/Exos.md"
               }
             }
           }
@@ -330,14 +330,14 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
+    "Mythandras/Exos/Händlerküste/Ha'Ris.md",
+    "Adventures/Items/Useless magical spells.md",
     "Mythandras/Exos/Händlerküste/Natya.md",
     "Mythandras/Exos/Exoskarte.md",
     "Mythandras/Exos/Händlerküste/Goyamo.md",
-    "Mythandras/Exos/Händlerküste/Händlerküste.md",
     "Adventures/A wild sheep chase.md",
     "Adventures/Enemy Statblocks/Bed Wyrmling.md",
     "Adventures/Enemy Statblocks/Ahmad Noke.md",
-    "Adventures/Items/Useless magical spells.md",
     "Adventures/Items",
     "Adventures/Untitled.md",
     "Adventures/Enemy Statblocks",
