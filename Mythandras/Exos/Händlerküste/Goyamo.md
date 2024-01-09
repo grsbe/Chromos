@@ -1,1 +1,1 @@
-Händlerstadt im Händlerbund
+Händlerstadt im Händlerbund, größerer Hafen an einem Fluss

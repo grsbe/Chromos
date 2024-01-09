@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Ahmad Noke.md",
+                "file": "Adventures/Items/Useless magical spells.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Ahmad Noke.md",
+                "file": "Adventures/Items/Useless magical spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Ahmad Noke.md",
+                "file": "Adventures/Items/Useless magical spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Ahmad Noke.md"
+                "file": "Adventures/Items/Useless magical spells.md"
               }
             }
           }
@@ -330,19 +330,24 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
-    "Adventures/Untitled.md",
+    "Mythandras/Exos/Händlerküste/Natya.md",
+    "Mythandras/Exos/Exoskarte.md",
+    "Mythandras/Exos/Händlerküste/Goyamo.md",
+    "Mythandras/Exos/Händlerküste/Händlerküste.md",
+    "Adventures/A wild sheep chase.md",
+    "Adventures/Enemy Statblocks/Bed Wyrmling.md",
     "Adventures/Enemy Statblocks/Ahmad Noke.md",
+    "Adventures/Items/Useless magical spells.md",
+    "Adventures/Items",
+    "Adventures/Untitled.md",
     "Adventures/Enemy Statblocks",
     "Adventures/Ideas Mythandras.md",
-    "Adventures/A wild sheep chase.md",
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Mechaniken/Lumisbaum.md",
     "Mythandras/Exos/Pa'Ris/Pa'Ris.md",
     "Mythandras/Exos/Va'Nis/Va'ris.md",
     "Mythandras/Exos/Sidaris/Si'Ris.md",
-    "Mythandras/Exos/Exoskarte.md",
     "Mythandras/Exos/Sidaris",
-    "Mythandras/Exos/Händlerküste/Goyamo.md",
     "Mythandras/Exos/Va'Nis",
     "Mythandras/Exos/Fe'Ris",
     "Mythandras/Exos/Polaris",
@@ -350,10 +355,8 @@
     "Adventures/Shops.md",
     "Mythandras/Exos/Exosgebirge",
     "Mythandras/Exos/Händlerküste",
-    "Mythandras/Exos/Händlerküste/Händlerküste.md",
     "Mythandras/Exos/Exos.md",
     "Mythandras/Exos/ExosExcal.svg",
-    "Mythandras/Exos/Händlerküste/Natya.md",
     "Mythandras/MythandrasExcali.md",
     "Mythandras/MythandrasMap.md",
     "Mythandras/MythandrasExcali.svg",
@@ -365,9 +368,6 @@
     "Mythandras/Exos/Fe'Ris/Parador.md",
     "Books",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
-    "Mythandras/Myxis/Myxia.md",
-    "Taijima/Taijima.md",
-    "Taijima",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Mythandras/Exos/ExosMap.excali.svg",
     "Mythandras/Exos/ExosMap.excali.png",

@@ -1,12 +1,16 @@
 
-
-
+- Charakterbögen
+- Story und Umgebung ist nicht set in stone
+- Bitte Feedback am Ende, ich mach das zum ersten Mal
+- 
 ## Scene 1: In der Taverne
 
 Einleittext:
 Eine steife Brise strömt über das Land und trägt den allbekannten liebsamen Klängen von empörten Mövenschreien mit sich. Die Meeresluft zieht aufbrausend durch die Verästelungen eines uralten magischen hohlen Baumes (ein [[Lumisbaum]] ) am Rande eines kleinen Fischerörtchens namens Gardisen. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus im Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken".
 
 Es ist morgens, die Crew ist auf der Durchreise an der [[Händlerküste]] nach einer Stadt namens [[Natya]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wollte.
+
+Gain 3 Extra temporäre hitpoints, fürs übernachten im heiligen Baum
 
 Infos:
 - Die Charaktere kennen sich schon
@@ -28,9 +32,11 @@ Einleittext:
 
 
 Kontext:
-- Das Schaf heißt Faaschad und ist ein Magier der Transmutationsschule aus der Gegend. Er wurde von seinem Schüler mit einem Stab der Polymorpie in ein Schaf verzaubert
-- Das Schaf ist bereit alles als Belohnung anzubieten, 20 Gold, Spellscrolls, Beziehungen für die Magierschule in Polaris/Polus
-- Das Schaf hat nicht mehr viel Zeit, er schätzt wenn der Tag vorüber ist, wird er permanent zum Schaf
+- Das Schaf heißt Faschaad Wunder und ist ein Magier der Transmutationsschule aus der Gegend. Er wurde von seinem Schüler mit einem Stab der Polymorpie in ein Schaf verzaubert
+- Das Schaf ist bereit alles als Belohnung anzubieten, 50 Gold, Spellscrolls, Beziehungen für die Magierschule in Polaris/Polus
+- Das Schaf ist seit einem Monat ein Schaf. Der Goblin Grok hat vergessen seinen Käfig zu schließen
+- Teilt weitere Infos, dass Faluzivatius sein Schüler vor einem Monat seinen eigenen Stab of true polymorph gegen ihn gerichtet hat und seitdem ihn in einem Käfig gehalten wird.
+- Faluzivatius wird unterstützt von einem Goblin Grok den er für alle Alltagsaufgaben einsetzt
 
 
 ## Scene 3: Ambush auf dem Weg zum Turm
@@ -48,7 +54,7 @@ Level 2: Grok Brok plus 1 Wolf
 Wald auf dem Weg dahin
 
 Optional Encounter:
-Zwei Steingolemns bewachen die Tür und patrollieren um den Turm. Irgendwie müsste man die ablenken können
+Zwei Raben sitzen auf der Tür. Sind die gefährlich (je nachdem sinds einfach nur Raben lol)
 
 Encounter: 
 In den Steinturm ist eine Runde Tür eingebaut, mit ständig verändernden Runen die sich im Kreis im die Tür bewegen. Als ihr euch der Tür nähert, erscheint ein Gesicht und frägt nach dem Passwort.
@@ -74,11 +80,11 @@ Wer bin ich? (Katze)
 
 
 
-## Szene 5: Im Turm
+## Szene 5: Im Haus
 
 Einführungstext:
 Überall liegen Scrolls herum, scheinbar wahllos herum geworfen. Es führt eine Treppe in den Keller und eine schlängelnde wacklige Wendeltreppe nach oben.
-(Perception 15, man hört von oben den Lehrling fluchen)
+(Perception 15, man hört von vorn den Lehrling fluchen und an magischen Zaubern arbeiten)
 
 
 Erdgeschoss:
@@ -90,23 +96,8 @@ Bücher wurden aus Regalen geworfen
 
 ## 2.ter Raum
  Ein großer Tisch mit Scrolls und einer menge hochwertigem Forschungsmaterial
-- Überall liegen Scrolls rum zu schwachen random Zaubern:
-	- http://www.ironworksforum.com/forum/showthread.php?t=93444
-	- Flower bloom
-	- Powerword Beard
-	- Grapejuicify
-	- Bitterfy (make Tee bitter)
-	- Talk with swordfishes
-	- Disguise undead
-	- Detect Ground
-	- Charm undead
-	- Fireballs
-	- Acid Trip
-	- Bigbys insulting hand
-	- Blind self
-	- Power word pun
-	- moon blast scheint Mondlicht auf eine Stelle
-
+- Überall liegen Scrolls/learnable spells rum zu schwachen random Zaubern:
+	- [[Useless magical spells]]
 - Random magische Items die hier rumliegen könnten
 	- Useless: https://theniftynerd.com/general-geekiness/useless-magic-items-dungeons-dragons/
 	- Usefull: https://www.thievesguild.cc/tables/trinkets-magic
@@ -114,12 +105,34 @@ Bücher wurden aus Regalen geworfen
 ## Szene Bossfight: 3ter Raum
 
 Breiterer Raum
-Faluzivis der Magier Novize
-Personality: Paranoid, ...
-kramt gerade in einer Kiste und sucht Gegenständen die zu etwas nützlich sind
+Faluzivatius der Magier Novize
+Personality: Paranoid, Angeber, der Magier hat ihm nur nutzlose Zauber beigebracht und die ganzen tollen für sich behalten
+kramt arbeitet an einem neuen Zauber.
+In der mitte des Raumes ist ein Dämon in einem magischen Zirkel eingefangen
 
+- Fordert auf, dass die Truppe ihm unverzüglich das Schaf überreichen, wenn ihr auf eure Sicherheit irgendeinen Wert legt
+- Frägt nach Grok, ist sichtlich bekümmert wenn es Grok nicht gut ergangen ist
+- Bietet eine ähnliche Summe wie der magier bzw cooles magisches Item an im Austausch für das Schaf + Forschungsmaterial
+- Hält permanent des Wand of true polymorph
 Kampfstart:
+Faluzivatius verwandelt Bücher und blätter in 
+1-3 kleine Papierratten (1/4) https://5e.tools/bestiary.html#swarm%20of%20rats_mm
+sind die Papierratten tot verwandelt er das Bett in einen [[Bed Wyrmling]]
+## Szene Conclusion
+Flauzivatius wird versuchen den Wand of true polymorph auf sich selber anzuwenden. Und komplett failen und sich in einen Glibberschleim verwandelt der umherschleimt und Dinge angreift (+1 to hit, 1dmg)
 
-Er verwandelt das Bett in einen BettDrachen
-und verwandelt Bücher und blätter in 
-1-2 kleine Papierratten (1/4) https://5e.tools/bestiary.html#swarm%20of%20rats_mm
+Die Party kann entscheiden ob sie nun den Stab auf das Schaf abfeuern um zu versuchen ihn zurück zuverwandeln oder nicht.
+
+Arcana DC13:
+Der Stab hat 1d4+1 uses per day
+Der Stab ist heavily modified, seltsame runen in eisernen Bändern wurden um den Stab gewickelt die unheilvoll flackern und Knackstellen sind über den ganzen Stab sichtbar die unangenehme Aura von sich geben. Energiefunken springen aus Knackstellen aus dem Stab auf den Boden und transmutieren den Boden ein bisschen. (Der Steinboden ist jetzt metallisch z.B.)
+
+Auch nachdem das Schaaf sich über die Risiken bewusst ist will er dass die Party ihn zurückverwandelt.
+Mit Persuation DC15 lässt er sich überzeugen als Schaf weiter zu leben. Er ist unhappy aber akzeptiert dass er in der Schuld der Party steht. Er zieht eine Robe über und arbeitet daran, dass er irgendwann zurück verwandelt wird
+
+Faschaad will im Falle dass er stirbt, dass die Party seinen Kollegen in der Magierschule von Polus bescheid gibt.
+
+Pass Arcana DC16 um den Stab erfolgreich zu benutzen
+Das Schaf kann versuchen zu resisten (Wis save)
+DC 5-15: Das Schaf wird zu einem anderen Tier (http://themansegaming.blogspot.com/2018/10/100-random-animal-table.html)
+0-5: Glibberschleim und der Stab explodiert 1d12 force dmg within 10ft
