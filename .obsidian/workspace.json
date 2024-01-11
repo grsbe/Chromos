@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/Exos.md",
+                "file": "Taijima/Taijima.md",
                 "mode": "source",
                 "source": false
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Exos/Exos.md",
+                "file": "Taijima/Taijima.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Exos/Exos.md",
+                "file": "Taijima/Taijima.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Exos/Exos.md"
+                "file": "Taijima/Taijima.md"
               }
             }
           }
@@ -330,10 +330,15 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
+    "Cyberpunk/Ideen.md",
+    "Cyberpunk/Ideen für Orte.md",
+    "Adventures/Ideas Mythandras.md",
+    "Mythandras/Exos/Exoskarte.md",
+    "Mythandras/Exos/Händlerküste/Natya.md",
+    "Mythandras/Exos/Exos.md",
+    "Mythandras/Das Pantheon.md",
     "Mythandras/Exos/Händlerküste/Ha'Ris.md",
     "Adventures/Items/Useless magical spells.md",
-    "Mythandras/Exos/Händlerküste/Natya.md",
-    "Mythandras/Exos/Exoskarte.md",
     "Mythandras/Exos/Händlerküste/Goyamo.md",
     "Adventures/A wild sheep chase.md",
     "Adventures/Enemy Statblocks/Bed Wyrmling.md",
@@ -341,7 +346,6 @@
     "Adventures/Items",
     "Adventures/Untitled.md",
     "Adventures/Enemy Statblocks",
-    "Adventures/Ideas Mythandras.md",
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Mechaniken/Lumisbaum.md",
     "Mythandras/Exos/Pa'Ris/Pa'Ris.md",
@@ -355,7 +359,6 @@
     "Adventures/Shops.md",
     "Mythandras/Exos/Exosgebirge",
     "Mythandras/Exos/Händlerküste",
-    "Mythandras/Exos/Exos.md",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/MythandrasExcali.md",
     "Mythandras/MythandrasMap.md",
@@ -364,10 +367,7 @@
     "Mythandras/Exos/Polaris/Polaris - das Reich der Prophezeiung.md",
     "Untitled.md",
     "RandomStuff/Worldbuilding premises.md",
-    "Books/Chp 1.md",
-    "Mythandras/Exos/Fe'Ris/Parador.md",
     "Books",
-    "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Mythandras/Exos/ExosMap.excali.svg",
     "Mythandras/Exos/ExosMap.excali.png",
