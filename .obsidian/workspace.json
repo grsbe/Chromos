@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taijima/Klassenübersicht.md",
+                "file": "Taijima/Stats.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taijima/Klassenübersicht.md",
+                "file": "Taijima/Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taijima/Klassenübersicht.md",
+                "file": "Taijima/Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taijima/Klassenübersicht.md"
+                "file": "Taijima/Stats.md"
               }
             }
           }
@@ -342,8 +342,9 @@
   },
   "active": "1561474136f11bff",
   "lastOpenFiles": [
-    "Taijima/SpellsOrSkills.md",
     "Taijima/Klassenübersicht.md",
+    "Taijima/Stats.md",
+    "Taijima/SpellsOrSkills.md",
     "Taijima/Damagetypes.md",
     "Taijima/Taijima.md",
     "Mythandras/Exos/Händlerküste/Goyamo.md",
@@ -370,7 +371,6 @@
     "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Mechaniken/Lumisbaum.md",
     "Mythandras/Exos/Pa'Ris/Pa'Ris.md",
-    "Mythandras/Exos/Va'Nis/Va'ris.md",
     "Mythandras/Exos/Sidaris",
     "Mythandras/Exos/Va'Nis",
     "Mythandras/Exos/Fe'Ris",

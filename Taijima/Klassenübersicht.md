@@ -38,5 +38,7 @@ Paths: Necromant, AOE
 Main Mechanic: Inflexible Nuking Damage, Zero Survivability
 
 ## Tank
-Paths: Warden, Bruiser
+Paths: Warden, Diver
 
+## Fighter
+Paths: Berzerker, 
