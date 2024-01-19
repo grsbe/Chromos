@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/Händlerküste/Goyamo.md",
+                "file": "Taijima/Klassenübersicht.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Exos/Händlerküste/Goyamo.md",
+                "file": "Taijima/Klassenübersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Exos/Händlerküste/Goyamo.md",
+                "file": "Taijima/Klassenübersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Exos/Händlerküste/Goyamo.md"
+                "file": "Taijima/Klassenübersicht.md"
               }
             }
           }
@@ -342,6 +342,11 @@
   },
   "active": "1561474136f11bff",
   "lastOpenFiles": [
+    "Taijima/SpellsOrSkills.md",
+    "Taijima/Klassenübersicht.md",
+    "Taijima/Damagetypes.md",
+    "Taijima/Taijima.md",
+    "Mythandras/Exos/Händlerküste/Goyamo.md",
     "Adventures/Ideas Mythandras.md",
     "Haven/Haven.md",
     "Haven/HavenMap.md",
@@ -350,14 +355,12 @@
     "Haven/HavenMap.svg",
     "index.md",
     "Chromos.md",
-    "Taijima/Taijima.md",
     "Mythandras/Exos/Exoskarte.md",
     "Mythandras/Exos/Händlerküste/Natya.md",
     "Mythandras/Exos/Exos.md",
     "Mythandras/Das Pantheon.md",
     "Mythandras/Exos/Händlerküste/Ha'Ris.md",
     "Adventures/Items/Useless magical spells.md",
-    "Mythandras/Exos/Händlerküste/Goyamo.md",
     "Adventures/A wild sheep chase.md",
     "Adventures/Enemy Statblocks/Bed Wyrmling.md",
     "Adventures/Enemy Statblocks/Ahmad Noke.md",
@@ -368,13 +371,11 @@
     "Mythandras/Mechaniken/Lumisbaum.md",
     "Mythandras/Exos/Pa'Ris/Pa'Ris.md",
     "Mythandras/Exos/Va'Nis/Va'ris.md",
-    "Mythandras/Exos/Sidaris/Si'Ris.md",
     "Mythandras/Exos/Sidaris",
     "Mythandras/Exos/Va'Nis",
     "Mythandras/Exos/Fe'Ris",
     "Mythandras/Exos/Polaris",
     "Mythandras/Exos/Pa'Ris",
-    "Adventures/Shops.md",
     "Mythandras/Exos/Exosgebirge",
     "Mythandras/Exos/Händlerküste",
     "Mythandras/Exos/ExosExcal.svg",
