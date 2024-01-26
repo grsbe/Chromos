@@ -8,6 +8,7 @@ Standed in the Eclipse of a storm
 Einen Kult der einen Dämonen beschwören will aufhalten
 Saving a small litte child (the child)
 
+Ein Mord in Flowerew
 ## Longer Questlines 
 
 ### Weltumfassend
