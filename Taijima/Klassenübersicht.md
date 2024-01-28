@@ -7,7 +7,7 @@ Damage
 - Midrange: Autoaim damage
 - Mid/Longrange: Charged shot auf weak points
 Utility
-- scan to reveal enemy info
+- scangun to reveal enemy info
 Gameloop: Aimen, Schießen, Bewegen
 Sidegameloop: Crafting guns and ammuition from recources, build together your tools and mecha stuff. Assemble Gun from parts
 Telegrahed Attacks: Keep Distance/Roll out/Camoflage
@@ -33,6 +33,7 @@ Utility:
 - Massive situational Debuffs
 - Information about Area/Enemies/Light
 Gameloop: Keep Range, Coordinate Team with Buffs and Shields
+Sidegameloop: Collect library books
 Telegraphed Attacks: Invul dodge into shadows, extreme high movement
 
 ## Tank
@@ -40,3 +41,7 @@ Paths: Warden, Diver
 
 ## Fighter
 Paths: Berzerker, 
+
+## Summoner
+Collect Beasts on each level, max 5 active
+most flexible role, but weak without beasts
