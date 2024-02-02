@@ -1,24 +1,24 @@
 
-## Gunslinger
+## Gunslinger/Atillery/Spearthrower
 Paths: agile DPS, tanky turret
 Main Mechanik: Weakpoints
 Damage
-- Shortrange: Shotgun
+- Shortrange: Shotgunesque
 - Midrange: Autoaim damage
 - Mid/Longrange: Charged shot auf weak points
 Utility
 - scangun to reveal enemy info
 Gameloop: Aimen, Schießen, Bewegen
 Sidegameloop: Crafting guns and ammuition from recources, build together your tools and mecha stuff. Assemble Gun from parts
-Telegrahed Attacks: Keep Distance/Roll out/Camoflage
+Telegrahed Attacks: Keep Distance/Roll out/Tactical Movement
 
 ## Assassin
 Paths: Duelist, Hitman
 Main Mechanic: Hit and Run
 Damage
-- Melee: Daggers
-- Ranged: Blowdarts, Magical shots
-Gameloop: Shadow/Invis, Stalk, Hit, Run, Apply debuffs
+- Melee: Daggers, Swords
+- Ranged: Blowdarts, Magical shots, either high windup or low damage with debuff
+Gameloop: Shadow/Invis, Stalk, Hit, Run, Apply debuffs, kill enemy specialists or dps
 Sidegameloop: Gather Herbs, Poisons, Curses to enchant or apply
 Telegraphed Attacks: Invul dodge into shadows or Parrys, extreme high movement
 
