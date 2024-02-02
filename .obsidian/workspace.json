@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taijima/Klassenübersicht.md",
+                "file": "Books/Unsortiert 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taijima/Klassenübersicht.md",
+                "file": "Books/Unsortiert 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taijima/Klassenübersicht.md",
+                "file": "Books/Unsortiert 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taijima/Klassenübersicht.md"
+                "file": "Books/Unsortiert 1.md"
               }
             }
           }
@@ -342,10 +342,12 @@
   },
   "active": "1561474136f11bff",
   "lastOpenFiles": [
+    "Books/Chp 1.md",
+    "Books/Unsortiert 1.md",
+    "Taijima/Klassenübersicht.md",
     "Adventures/Ideas Mythandras.md",
     "Mythandras/Das Pantheon.md",
     "Taijima/Stats.md",
-    "Taijima/Klassenübersicht.md",
     "Taijima/SpellsOrSkills.md",
     "Taijima/Damagetypes.md",
     "Taijima/Taijima.md",
@@ -369,8 +371,6 @@
     "Adventures/Untitled.md",
     "Adventures/Enemy Statblocks",
     "Mythandras/Mechaniken/Magie.md",
-    "Mythandras/Mechaniken/Lumisbaum.md",
-    "Mythandras/Exos/Pa'Ris/Pa'Ris.md",
     "Mythandras/Exos/Sidaris",
     "Mythandras/Exos/Va'Nis",
     "Mythandras/Exos/Fe'Ris",

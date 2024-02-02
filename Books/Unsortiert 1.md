@@ -1,0 +1,1 @@
+Ideen. Wünsche. Träume. Was macht ein allmächtiger Gott mit seiner Zeit. Mehr Zeit erschaffen? Mit der mächtigen Geste einer illusorischen Hand wachsen gewaltige Berge
