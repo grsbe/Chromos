@@ -5,4 +5,15 @@ Im folgenden, eine Übersicht über alle Level. Geplant wären natürlich 100, d
 Kristallpalast
 Eisuntergrund
 Feuerhölle
+Bibliothek des endlosen Wissens
+-
+Kristallpalast 
 
+Sandmeer 
+Düsterwald 
+Unendliche Bibliothek 
+Lavameer 
+Sandmeer 
+Ewigeis Wüste 
+Unterweltmeer 
+Traumparadies 
