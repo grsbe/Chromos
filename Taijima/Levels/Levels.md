@@ -16,7 +16,11 @@ Traumparadies
 
 
 ## Die Oberwelt
-
+Exosgebirge mit 6 Spitzen
+Narakanlabyrith
+Milliswald
+Myxia
+Tailenis
 ## Aufstiege (secret level)
 Exosspitze
 Weltenbaum

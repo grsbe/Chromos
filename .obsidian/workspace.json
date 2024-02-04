@@ -59,11 +59,9 @@
             "id": "1561474136f11bff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Taijima/Levels/Levels.md",
-                "mode": "source",
-                "source": false
+                "file": "Mythandras/MythandrasExcali.md"
               }
             }
           },
@@ -274,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taijima/Levels/Levels.md",
+                "file": "Mythandras/MythandrasExcali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taijima/Levels/Levels.md",
+                "file": "Mythandras/MythandrasExcali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taijima/Levels/Levels.md"
+                "file": "Mythandras/MythandrasExcali.md"
               }
             }
           }
@@ -342,8 +340,9 @@
   },
   "active": "1561474136f11bff",
   "lastOpenFiles": [
-    "Mythandras/Abgründe und Aufstiege.md",
+    "Chromos.md",
     "Taijima/Levels/Levels.md",
+    "Mythandras/Abgründe und Aufstiege.md",
     "Taijima/Damagetypes.md",
     "Mythandras/Unterwelt/Unterwelt.md",
     "Books/Unsortiert 1.md",
@@ -362,7 +361,6 @@
     "Haven/Ideen für Orte.md",
     "Haven/HavenMap.svg",
     "index.md",
-    "Chromos.md",
     "Mythandras/Exos/Exoskarte.md",
     "Mythandras/Exos/Händlerküste/Natya.md",
     "Mythandras/Exos/Exos.md",
