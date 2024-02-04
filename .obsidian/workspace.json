@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Unsortiert 1.md",
+                "file": "Taijima/Levels/Levels.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Unsortiert 1.md",
+                "file": "Taijima/Levels/Levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Unsortiert 1.md",
+                "file": "Taijima/Levels/Levels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Unsortiert 1.md"
+                "file": "Taijima/Levels/Levels.md"
               }
             }
           }
@@ -342,8 +342,10 @@
   },
   "active": "1561474136f11bff",
   "lastOpenFiles": [
-    "Books/Chp 1.md",
     "Books/Unsortiert 1.md",
+    "Taijima/Levels/Levels.md",
+    "Taijima/Levels",
+    "Books/Chp 1.md",
     "Taijima/Klassenübersicht.md",
     "Adventures/Ideas Mythandras.md",
     "Mythandras/Das Pantheon.md",
@@ -370,7 +372,6 @@
     "Adventures/Items",
     "Adventures/Untitled.md",
     "Adventures/Enemy Statblocks",
-    "Mythandras/Mechaniken/Magie.md",
     "Mythandras/Exos/Sidaris",
     "Mythandras/Exos/Va'Nis",
     "Mythandras/Exos/Fe'Ris",
@@ -380,7 +381,6 @@
     "Mythandras/Exos/Händlerküste",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/MythandrasExcali.svg",
-    "Books",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Mythandras/Exos/ExosMap.excali.svg",
     "Mythandras/Exos/ExosMap.excali.png",
