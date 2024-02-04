@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Satzgemälde 1.md",
+                "file": "Mythandras/Das Pantheon.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Satzgemälde 1.md",
+                "file": "Mythandras/Das Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Satzgemälde 1.md",
+                "file": "Mythandras/Das Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Satzgemälde 1.md"
+                "file": "Mythandras/Das Pantheon.md"
               }
             }
           }
@@ -344,6 +344,9 @@
   "lastOpenFiles": [
     "Books/Unsortiert 1.md",
     "Books/Satzgemälde 1.md",
+    "Taijima/Taijima.md",
+    "Adventures/A wild sheep chase.md",
+    "Adventures/Enemy Statblocks/Bed Wyrmling.md",
     "Books/Chp 1.md",
     "Mythandras/Die Zeitlinien.md",
     "Mythandras/Abgründe und Aufstiege.md",
@@ -358,7 +361,6 @@
     "Mythandras/Das Pantheon.md",
     "Taijima/Stats.md",
     "Taijima/SpellsOrSkills.md",
-    "Taijima/Taijima.md",
     "Mythandras/Exos/Händlerküste/Goyamo.md",
     "Haven/Haven.md",
     "Haven/HavenMap.md",
@@ -368,8 +370,6 @@
     "index.md",
     "Mythandras/Exos/Exoskarte.md",
     "Mythandras/Exos/Händlerküste/Natya.md",
-    "Mythandras/Exos/Exos.md",
-    "Mythandras/Exos/Händlerküste/Ha'Ris.md",
     "Adventures/Items",
     "Adventures/Enemy Statblocks",
     "Mythandras/Exos/Sidaris",

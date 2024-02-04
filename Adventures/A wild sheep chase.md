@@ -78,8 +78,6 @@ Bin schlau wie ein Fuchs und wild wie ein Tiger.
 Im Kampf mit dem Wollknäuel bin ich immer der Sieger!  
 Wer bin ich? (Katze)
 
-
-
 ## Szene 5: Im Haus
 
 Einführungstext:
