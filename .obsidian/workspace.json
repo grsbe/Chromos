@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Das Pantheon.md",
+                "file": "Books/Chp 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Das Pantheon.md",
+                "file": "Books/Chp 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Das Pantheon.md",
+                "file": "Books/Chp 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Das Pantheon.md"
+                "file": "Books/Chp 1.md"
               }
             }
           }
@@ -344,6 +344,7 @@
   "lastOpenFiles": [
     "Books/Unsortiert 1.md",
     "Books/Satzgemälde 1.md",
+    "Mythandras/Das Pantheon.md",
     "Taijima/Taijima.md",
     "Adventures/A wild sheep chase.md",
     "Adventures/Enemy Statblocks/Bed Wyrmling.md",
@@ -358,7 +359,6 @@
     "Taijima/Levels",
     "Taijima/Klassenübersicht.md",
     "Adventures/Ideas Mythandras.md",
-    "Mythandras/Das Pantheon.md",
     "Taijima/Stats.md",
     "Taijima/SpellsOrSkills.md",
     "Mythandras/Exos/Händlerküste/Goyamo.md",
