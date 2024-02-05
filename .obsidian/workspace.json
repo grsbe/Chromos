@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Chp 1.md",
+                "file": "Haven/Megacorps.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Chp 1.md",
+                "file": "Haven/Megacorps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Chp 1.md",
+                "file": "Haven/Megacorps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Chp 1.md"
+                "file": "Haven/Megacorps.md"
               }
             }
           }
@@ -340,15 +340,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1561474136f11bff",
+  "active": "45e57a3bd0642c3c",
   "lastOpenFiles": [
-    "Books/Unsortiert 1.md",
+    "Haven/Ideen für Orte.md",
+    "Haven/HavenMap.md",
+    "Haven/Haven.md",
+    "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
+    "Adventures/A wild sheep chase.md",
+    "Adventures/Enemy Statblocks/Faluzivatius.md",
+    "Adventures/Ideas Mythandras.md",
+    "Adventures/Enemy Statblocks/Bed Wyrmling.md",
     "Books/Satzgemälde 1.md",
+    "Books/Soras 1.md",
+    "Books/Soras 2.md",
+    "Books/Unsortiert 1.md",
     "Mythandras/Das Pantheon.md",
     "Taijima/Taijima.md",
-    "Adventures/A wild sheep chase.md",
-    "Adventures/Enemy Statblocks/Bed Wyrmling.md",
-    "Books/Chp 1.md",
     "Mythandras/Die Zeitlinien.md",
     "Mythandras/Abgründe und Aufstiege.md",
     "Mythandras/MythandrasExcali.md",
@@ -358,18 +365,11 @@
     "Mythandras/Unterwelt/Unterwelt.md",
     "Taijima/Levels",
     "Taijima/Klassenübersicht.md",
-    "Adventures/Ideas Mythandras.md",
     "Taijima/Stats.md",
     "Taijima/SpellsOrSkills.md",
     "Mythandras/Exos/Händlerküste/Goyamo.md",
-    "Haven/Haven.md",
-    "Haven/HavenMap.md",
     "Haven/Megacorps.md",
-    "Haven/Ideen für Orte.md",
     "Haven/HavenMap.svg",
-    "index.md",
-    "Mythandras/Exos/Exoskarte.md",
-    "Mythandras/Exos/Händlerküste/Natya.md",
     "Adventures/Items",
     "Adventures/Enemy Statblocks",
     "Mythandras/Exos/Sidaris",

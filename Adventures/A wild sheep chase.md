@@ -106,16 +106,17 @@ Breiterer Raum
 Faluzivatius der Magier Novize
 Personality: Paranoid, Angeber, der Magier hat ihm nur nutzlose Zauber beigebracht und die ganzen tollen für sich behalten
 kramt arbeitet an einem neuen Zauber.
-In der mitte des Raumes ist ein Dämon in einem magischen Zirkel eingefangen
+In der Mitte des Raumes ist ein [[DisplacerKitten.jpg]] in einem magischen Zirkel eingefangen (Katze mit Menschenohren lol)
 
 - Fordert auf, dass die Truppe ihm unverzüglich das Schaf überreichen, wenn ihr auf eure Sicherheit irgendeinen Wert legt
 - Frägt nach Grok, ist sichtlich bekümmert wenn es Grok nicht gut ergangen ist
 - Bietet eine ähnliche Summe wie der magier bzw cooles magisches Item an im Austausch für das Schaf + Forschungsmaterial
 - Hält permanent des Wand of true polymorph
 Kampfstart:
-Faluzivatius verwandelt Bücher und blätter in 
+[[Faluzivatius]] verwandelt Bücher und blätter in 
 1-3 kleine Papierratten (1/4) https://5e.tools/bestiary.html#swarm%20of%20rats_mm
 sind die Papierratten tot verwandelt er das Bett in einen [[Bed Wyrmling]]
+Wird das [[DisplacerKitten.jpg]] freigelassen wendet es sich entweder gegen die Party oder gegen Faluzivatius, je nachdem wer grad gewinnt.
 ## Szene Conclusion
 Flauzivatius wird versuchen den Wand of true polymorph auf sich selber anzuwenden. Und komplett failen und sich in einen Glibberschleim verwandelt der umherschleimt und Dinge angreift (+1 to hit, 1dmg)
 

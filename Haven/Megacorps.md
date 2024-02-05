@@ -18,5 +18,5 @@ Energie
 ## Makiaville
 Unterhaltung
 
-## Trix
-Künstliches Leben, Magie
+## Araziel
+Künstliches Leben, Magie, "Safe AI", oberste Regierung, diejenigen mit der actual Macht.
