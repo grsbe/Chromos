@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Ideas Mythandras.md",
+                "file": "Mythandras/Unterwelt/Unendliche Bibliothek.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Ideas Mythandras.md",
+                "file": "Mythandras/Unterwelt/Unendliche Bibliothek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Ideas Mythandras.md",
+                "file": "Mythandras/Unterwelt/Unendliche Bibliothek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Ideas Mythandras.md"
+                "file": "Mythandras/Unterwelt/Unendliche Bibliothek.md"
               }
             }
           }
@@ -152,8 +152,11 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
-    "Mythandras/Exos/Exoskarte.md",
+    "Mythandras/Abgründe und Aufstiege.md",
+    "Mythandras/Unterwelt/Unendliche Bibliothek.md",
+    "Mythandras/Unterwelt/Unterwelt.md",
     "Adventures/Ideas Mythandras.md",
+    "Mythandras/Exos/Exoskarte.md",
     "Mythandras/Exos/Exosgebirge/Das Exosgebirge.md",
     "RandomStuff/Unsortierte Ideen/Plots.md",
     "Adventures/Shops.md",
@@ -161,7 +164,6 @@
     "index.md",
     "Chromos.md",
     "Haven/Megacorps.md",
-    "Mythandras/Abgründe und Aufstiege.md",
     "Haven/Ideen für Orte.md",
     "Haven/HavenMap.md",
     "Haven/Haven.md",
@@ -177,8 +179,6 @@
     "Taijima/Taijima.md",
     "Mythandras/Die Zeitlinien.md",
     "Mythandras/MythandrasExcali.md",
-    "Taijima/Levels/Levels.md",
-    "Taijima/Damagetypes.md",
     "Taijima/Levels",
     "Haven/HavenMap.svg",
     "Adventures/Items",
