@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Unterwelt/Unendliche Bibliothek.md",
+                "file": "Mythandras/Exos/Fe'Ris/Parador.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Unterwelt/Unendliche Bibliothek.md",
+                "file": "Mythandras/Exos/Fe'Ris/Parador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Unterwelt/Unendliche Bibliothek.md",
+                "file": "Mythandras/Exos/Fe'Ris/Parador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Unterwelt/Unendliche Bibliothek.md"
+                "file": "Mythandras/Exos/Fe'Ris/Parador.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
-    "Mythandras/Abgründe und Aufstiege.md",
+    "Mythandras/Exos/Sidaris/Si'Ris.md",
     "Mythandras/Unterwelt/Unendliche Bibliothek.md",
+    "Mythandras/Abgründe und Aufstiege.md",
     "Mythandras/Unterwelt/Unterwelt.md",
     "Adventures/Ideas Mythandras.md",
     "Mythandras/Exos/Exoskarte.md",
@@ -178,7 +179,6 @@
     "Mythandras/Das Pantheon.md",
     "Taijima/Taijima.md",
     "Mythandras/Die Zeitlinien.md",
-    "Mythandras/MythandrasExcali.md",
     "Taijima/Levels",
     "Haven/HavenMap.svg",
     "Adventures/Items",
