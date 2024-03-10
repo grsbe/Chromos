@@ -4,11 +4,13 @@ Think in Scenes and Interactables, 3 Challenges, Traps per Scene
 A wild sheep chase
 What a cat-astrophy
 Automaton on a rampage
-Standed in the Eclipse of a storm
+Standed in the Eclipse of a storm -Wer hat den Sturm beschworen
 Einen Kult der einen Dämonen beschwören will aufhalten
-Saving a small litte child (the child)
+Saving a small litte prophecy child (the child) das Kind dass die Welt retten soll mit der holy party
 
-Ein Mord in Flowa
+Ein Mord in Flowa - Werwolf verfolgungsjagd
+
+Ein Horror-Disco Haus mit Rätseln die Tanzen erfordern
 ## Longer Questlines 
 
 ### Weltumfassend

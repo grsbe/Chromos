@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/Fe'Ris/Parador.md",
+                "file": "Mythandras/Exos/Exos - Timeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Exos/Fe'Ris/Parador.md",
+                "file": "Mythandras/Exos/Exos - Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Exos/Fe'Ris/Parador.md",
+                "file": "Mythandras/Exos/Exos - Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Exos/Fe'Ris/Parador.md"
+                "file": "Mythandras/Exos/Exos - Timeline.md"
               }
             }
           }
@@ -152,11 +152,13 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
+    "Adventures/Ideas Mythandras.md",
+    "Mythandras/Exos/Exos - Timeline.md",
+    "Mythandras/Exos/Fe'Ris/Parador.md",
     "Mythandras/Exos/Sidaris/Si'Ris.md",
     "Mythandras/Unterwelt/Unendliche Bibliothek.md",
     "Mythandras/Abgründe und Aufstiege.md",
     "Mythandras/Unterwelt/Unterwelt.md",
-    "Adventures/Ideas Mythandras.md",
     "Mythandras/Exos/Exoskarte.md",
     "Mythandras/Exos/Exosgebirge/Das Exosgebirge.md",
     "RandomStuff/Unsortierte Ideen/Plots.md",
@@ -177,8 +179,6 @@
     "Books/Soras 2.md",
     "Books/Unsortiert 1.md",
     "Mythandras/Das Pantheon.md",
-    "Taijima/Taijima.md",
-    "Mythandras/Die Zeitlinien.md",
     "Taijima/Levels",
     "Haven/HavenMap.svg",
     "Adventures/Items",
