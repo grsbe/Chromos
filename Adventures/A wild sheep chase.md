@@ -24,6 +24,9 @@ Interactibles:
 	- Birkentee
 	- Fisch des Tages
 	- Eintopf
+- Rumours
+	- Der Polymorph Zauberer in der Gegend wurde schon länger nicht mehr in der Gegend gesehen und öffnet seine Tür nicht
+	- 
 
 
 ## Scene 2: Das Schaf
@@ -49,15 +52,16 @@ Wolf 1/4 https://5e.tools/bestiary.html#wolf_mm
 
 Level 1: Grok und 2 (+ optional ein hidender) Wolf
 Level 2: Grok Brok plus 1 Wolf
-## Szene 4: Die Magierturmtür
+## Szene 4: Die Magierhütte
 
 Wald auf dem Weg dahin
 
 Optional Encounter:
 Zwei Raben sitzen auf der Tür. Sind die gefährlich (je nachdem sinds einfach nur Raben lol)
 
+
 Encounter: 
-In den Steinturm ist eine Runde Tür eingebaut, mit ständig verändernden Runen die sich im Kreis im die Tür bewegen. Als ihr euch der Tür nähert, erscheint ein Gesicht und frägt nach dem Passwort.
+In das Haus ist eine Runde Tür eingebaut, mit ständig verändernden Runen die sich im Kreis im die Tür bewegen. Als ihr euch der Tür nähert, erscheint ein Gesicht und frägt nach dem Passwort.
 "Ich bin die Rätseltür des großen mächtigen weltunterwerfenden zauberhaften Magiers Faaschad. Nenn mir das Passwort du mögest eintreten."
 Personality: Loud booming ent like voice, bist du dir sicher dass das die richtige Antwort ist???
 Die Tür frägt nach dem Passwort, damit die Crew eintreten darf. Das Schaf ist erst peinlich berührt und gibt dann das Codewort "lassmichrein" weiter.
@@ -79,21 +83,21 @@ Im Kampf mit dem Wollknäuel bin ich immer der Sieger!
 Wer bin ich? (Katze)
 
 ## Szene 5: Im Haus
-
+Das Haus ist in einem Berg
 Einführungstext:
-Überall liegen Scrolls herum, scheinbar wahllos herum geworfen. Es führt eine Treppe in den Keller und eine schlängelnde wacklige Wendeltreppe nach oben.
+Überall liegen Scrolls herum, scheinbar wahllos herum geworfen. Es führt eine Treppe in den Keller und eine Tür in einen schlängelnden Gang weiter in den Berg.
 (Perception 15, man hört von vorn den Lehrling fluchen und an magischen Zaubern arbeiten)
 
 
 Erdgeschoss:
 Ein Großer Tisch Am Rand, Küche mit Ofen am Rand, gemütlicher Sessel
 Bücher wurden aus Regalen geworfen
-- Ein kaputter Käfig mit Schafswolleresten am Rand
-- Ein paar jammernde Schleimwesen
--
+- Ein kaputter Käfig mit Schafswolleresten am Rand und Heu
 
-## 2.ter Raum
- Ein großer Tisch mit Scrolls und einer menge hochwertigem Forschungsmaterial
+## 2.ter Raum Keller:
+- Hauptsächlich leer, rußiger Steinraum mit schlängelnden Runen (Investigation: Hier wurden Experimente durchgeführt)
+
+ Ein großer Tisch mit Scrolls und einer menge hochwertigem Forschungsmaterial am Rand
 - Überall liegen Scrolls/learnable spells rum zu schwachen random Zaubern:
 	- [[Useless magical spells]]
 - Random magische Items die hier rumliegen könnten
