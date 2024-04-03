@@ -14,11 +14,12 @@ Marker für enemies
 ## Scene 1: In der Taverne
 
 Einleittext:
-Eine steife Brise strömt über das Land und trägt den allbekannten liebsamen Klängen von empörten Mövenschreien mit sich. Die Meeresluft zieht aufbrausend durch die Verästelungen eines uralten magischen hohlen Baumes (ein [[Lumisbaum]] ) am Rande eines kleinen Fischerörtchens namens Gardisen. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus im Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken".
+Eine friedliche Brise strömt über das Land und trägt den allbekannten liebsamen Klängen von empörten Mövenschreien mit sich. Die Meeresluft zieht aufbrausend durch die Verästelungen eines uralten magischen hohlen Baumes (ein [[Lumisbaum]] ) am Rande eines kleinen Fischerörtchens namens Gardisen. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann (Luzifatis) seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus in einem Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken".
 
-Es ist morgens, die Crew ist auf der Durchreise an der [[Ha'Ris]] nach einer Stadt namens [[Natya]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wollte.
+Es ist morgens, die Crew ist auf der Durchreise an der [[Ha'Ris]] Küste nach einer Stadt namens [[Natya]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wolltet. Ihr kennt euch bereits und habt ein bis zwei Abenteuer hinter euch gebracht. Entlaufene Katzen gerettet, eine Untoten an einem Friedhof bekämpft und brennt darauf mehr und herausfordernde Abenteuer zu erleben.
 
-Gain 3 Extra temporäre hitpoints, fürs übernachten im heiligen Baum
+Nach der Übernachtung im verzauberten Baum fühlt ihr wie heilige beschützende Energie euch durchströmt.
+ - Gain 5 extra temporäre hitpoints, fürs übernachten im heiligen Baum
 
 Infos:
 - Die Charaktere kennen sich schon
@@ -27,7 +28,7 @@ Infos:
 - Was machen die Charaktere gerade
 
 Interactibles:
-- Die Barmaid kommt vorbei (halb Schweizerisch, kann ich ihnen was zu trinken/essen anbieten?)
+- Die Barmaid (Filly) kommt vorbei (halb Schweizerisch, kann ich ihnen was zu trinken/essen anbieten?)
 - Speisekarte:
 	- Birkentee
 	- Fisch des Tages
@@ -40,7 +41,7 @@ Interactibles:
 ## Scene 2: Das Schaf
 
 Einleittext:
-
+Gerade als du in den ersten genüßlichen Bissen nimmt
 
 Kontext:
 - Das Schaf heißt Faschaad Wunder und ist ein Magier der Transmutationsschule aus der Gegend. Er wurde von seinem Schüler mit einem Stab der Polymorpie in ein Schaf verzaubert
@@ -97,13 +98,13 @@ Einführungstext:
 (Perception 15, man hört von vorn den Lehrling fluchen und an magischen Zaubern arbeiten)
 
 
-Erdgeschoss:
+### Erdgeschoss:
 Ein Großer Tisch Am Rand, Küche mit Ofen am Rand, gemütlicher Sessel
 Bücher wurden aus Regalen geworfen
 - Ein kaputter Käfig mit Schafswolleresten am Rand und Heu
 
-## 2.ter Raum Keller:
-- Hauptsächlich leer, rußiger Steinraum mit schlängelnden Runen (Investigation: Hier wurden Experimente durchgeführt)
+### 2.ter Raum Keller:
+- In der Mitte hauptsächlich leer, rußiger Steinraum mit schlängelnden Runen und ein Alchemie set in der Ecke (Investigation: Hier wurden Experimente durchgeführt, finde zwei Heiltränke)
 
  Ein großer Tisch mit Scrolls und einer menge hochwertigem Forschungsmaterial am Rand
 - Überall liegen Scrolls/learnable spells rum zu schwachen random Zaubern:
@@ -112,7 +113,7 @@ Bücher wurden aus Regalen geworfen
 	- Useless: https://theniftynerd.com/general-geekiness/useless-magic-items-dungeons-dragons/
 	- Usefull: https://www.thievesguild.cc/tables/trinkets-magic
 
-## Szene Bossfight: 3ter Raum
+### Szene Bossfight: 3ter Raum
 
 Breiterer Raum
 Faluzivatius der Magier Novize
