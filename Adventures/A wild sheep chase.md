@@ -44,7 +44,7 @@ Einleittext:
 Gerade als du in den ersten genüßlichen Bissen nimmt
 
 Kontext:
-- Das Schaf heißt Faschaad Wunder und ist ein Magier der Transmutationsschule aus der Gegend. Er wurde von seinem Schüler mit einem Stab der Polymorpie in ein Schaf verzaubert
+- Das Schaf heißt Faschaad und ist ein Magier der Transmutationsschule aus der Gegend. Er wurde von seinem Schüler mit einem Stab der Polymorpie in ein Schaf verzaubert
 - Das Schaf ist bereit alles als Belohnung anzubieten, 50 Gold, Spellscrolls, Beziehungen für die Magierschule in Polaris/Polus
 - Das Schaf ist seit einem Monat ein Schaf. Der Goblin Grok hat vergessen seinen Käfig zu schließen
 - Teilt weitere Infos, dass Faluzivatius sein Schüler vor einem Monat seinen eigenen Stab of true polymorph gegen ihn gerichtet hat und seitdem ihn in einem Käfig gehalten wird.
@@ -68,58 +68,70 @@ Wald auf dem Weg dahin
 Optional Encounter:
 Zwei Raben sitzen auf der Tür. Sind die gefährlich (je nachdem sinds einfach nur Raben lol)
 
-
 Encounter: 
-In das Haus ist eine Runde Tür eingebaut, mit ständig verändernden Runen die sich im Kreis im die Tür bewegen. Als ihr euch der Tür nähert, erscheint ein Gesicht und frägt nach dem Passwort.
-"Ich bin die Rätseltür des großen mächtigen weltunterwerfenden zauberhaften Magiers Faaschad. Nenn mir das Passwort du mögest eintreten."
+In das Haus ist eine Runde Tür eingebaut, mit ständig verändernden Runen die sich im Kreis im die Tür bewegen. Als ihr euch der Tür nähert, erscheint ein Gesicht auf der und frägt nach dem Passwort.
+"Ich bin die Rätseltür des großen mächtigen weltunterwerfenden zauberhaften extravaganten unbeschreiblichen , hust, Magiers Faschaad. Nenn mir das Passwort und du mögest eintreten."
 Personality: Loud booming ent like voice, bist du dir sicher dass das die richtige Antwort ist???
-Die Tür frägt nach dem Passwort, damit die Crew eintreten darf. Das Schaf ist erst peinlich berührt und gibt dann das Codewort "lassmichrein" weiter.
+Die Tür frägt nach dem Passwort, damit die Crew eintreten darf. Das Schaf ist erst peinlich berührt und gibt dann das Codewort "himbeer törtchen" weiter.
 Der Code ist allerdings falsch, der Magierschüler hat das Passwort geändert. Wenn ihr das Passwort zurücksetzen wollt müsst ihr drei Rätsel lösen die nur der Besitzer der Tür lösen kann.
 "..."
 
-(Jedes falsch beantwortete Rätsel verwandelt den Antwortgeber in die eigentliche Lösung des Rätsels, dc14 wis saving throw, nach einem Tag permanent)
-Rätsel 1:
-
+(Jedes falsch beantwortete Rätsel verwandelt den Antwortgeber in die eigentliche Lösung des Rätsels, dc15 wis saving throw, nach einem Tag permanent)
 Rätsel2:
+ICH HAB` VIER FLÜGEL UND SECHS BEINE,  
+aber HAARE UND OHREN HAB ICH KEINE.
+
+SO LEBE ICH IN WALD UND WIESEN,  
+DORT KANN DIE SONNE ICH GENIEßEN
+Wer bin ich?
+(Marienkäfer)
+
+Rätsel3:
 Nicht einmal der stärkste Mensch ist zum hochheben in der Lage,  
 was ich tagaus, tagein auf meinem Rücken trage.  
 Wer bin ich? (Schnecke)
-Rätsel3:
-Ich mag nicht ganz so das Warme, dafür habe ich 5 Arme. Wer bin ich? (Seestern)
 Rätsel4:
+Ich mag nicht ganz so das Warme, dafür habe ich 5 Arme. Wer bin ich? (Seestern)
+Rätsel1:
 Bin schlau wie ein Fuchs und wild wie ein Tiger.  
 Im Kampf mit dem Wollknäuel bin ich immer der Sieger!  
 Wer bin ich? (Katze)
 
+
 ## Szene 5: Im Haus
 Das Haus ist in einem Berg
 Einführungstext:
-Überall liegen Scrolls herum, scheinbar wahllos herum geworfen. Es führt eine Treppe in den Keller und eine Tür in einen schlängelnden Gang weiter in den Berg.
+Überall liegen Scrolls herum, scheinbar wahllos herum geworfen. 
 (Perception 15, man hört von vorn den Lehrling fluchen und an magischen Zaubern arbeiten)
-
-
 ### Erdgeschoss:
 Ein Großer Tisch Am Rand, Küche mit Ofen am Rand, gemütlicher Sessel
 Bücher wurden aus Regalen geworfen
 - Ein kaputter Käfig mit Schafswolleresten am Rand und Heu
+Ein Gang führt in einen Flur der sich in drei unterschiedliche Türen öffnet. Die Tür nach vorne ist zugesperrt (Perception 10 man hört ihn fluchen)
+An den Wänden sind magische Fakeln die keinen Rauch und keine Wärme produzieren
+### Raum nach rechts:
+- In der Mitte hauptsächlich leer, rußiger Steinraum mit schlängelnden Runen und ein Alchemie set in der Ecke (Investigation: Hier wurden Experimente durchgeführt, finde zwei Heiltränke ein kleiner und ein großer 2d4+2 und 4d4 + 4)
+- In der Mitte des Tisches steht ein faszinierender bläulich funkelnder Potion (Arkane Kunde 10: Er gibt einen Spellslot zurück)
+- Ein Glibberschleim fiebt ein bisschen und rutscht auf dem Boden umher (flieht wenn angegriffen) (Animal Handling 10 um ihn zu befrienden)
 
-### 2.ter Raum Keller:
-- In der Mitte hauptsächlich leer, rußiger Steinraum mit schlängelnden Runen und ein Alchemie set in der Ecke (Investigation: Hier wurden Experimente durchgeführt, finde zwei Heiltränke)
-
+### Raum nach links:
  Ein großer Tisch mit Scrolls und einer menge hochwertigem Forschungsmaterial am Rand
+ Jede Wand ist besetzt mit riesigen Bücherregalen
 - Überall liegen Scrolls/learnable spells rum zu schwachen random Zaubern:
 	- [[Useless magical spells]]
 - Random magische Items die hier rumliegen könnten
 	- Useless: https://theniftynerd.com/general-geekiness/useless-magic-items-dungeons-dragons/
 	- Usefull: https://www.thievesguild.cc/tables/trinkets-magic
 
-### Szene Bossfight: 3ter Raum
+Im zweiten Raum findet man (Investigation 5) einen Schlüssel in einem Bücher regal verscheckt
+### Szene Bossfight: Raum nach vorn
 
 Breiterer Raum
 Faluzivatius der Magier Novize
 Personality: Paranoid, Angeber, der Magier hat ihm nur nutzlose Zauber beigebracht und die ganzen tollen für sich behalten
 kramt arbeitet an einem neuen Zauber.
 In der Mitte des Raumes ist ein [[DisplacerKitten.jpg]] in einem magischen Zirkel eingefangen (Katze mit Menschenohren lol)
+An der Seite steht ein ausladendes Bett, die Wände sind bedeckt mit Bücherregalen
 
 - Fordert auf, dass die Truppe ihm unverzüglich das Schaf überreichen, wenn ihr auf eure Sicherheit irgendeinen Wert legt
 - Frägt nach Grok, ist sichtlich bekümmert wenn es Grok nicht gut ergangen ist
