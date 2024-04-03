@@ -16,11 +16,13 @@ Marker für enemies
 Einleittext:
 Eine friedliche Brise strömt über das Land und trägt den allbekannten liebsamen Klängen von empörten Mövenschreien mit sich. Die Meeresluft zieht aufbrausend durch die Verästelungen eines uralten magischen hohlen Baumes (ein [[Lumisbaum]] ) am Rande eines kleinen Fischerörtchens namens Gardisen. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann (Luzifatis) seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus in einem Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken".
 
-Es ist morgens, die Crew ist auf der Durchreise an der [[Ha'Ris]] Küste nach einer Stadt namens [[Natya]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wolltet. Ihr kennt euch bereits und habt ein bis zwei Abenteuer hinter euch gebracht. Entlaufene Katzen gerettet, eine Untoten an einem Friedhof bekämpft und brennt darauf mehr und herausfordernde Abenteuer zu erleben.
+Es ist morgens, das Team ist auf der Durchreise an der [[Ha'Ris]] Küste nach einer Stadt namens [[Natya]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wolltet. Ihr kennt euch bereits da ihr alle im selben Dorf aufgewachsen seit und habt ein bis zwei Abenteuer hinter euch gebracht. Entlaufene Katzen gerettet, eine Untoten an einem Friedhof bekämpft und brennt darauf mehr und herausfordernde Abenteuer zu erleben.
 
 Nach der Übernachtung im verzauberten Baum fühlt ihr wie heilige beschützende Energie euch durchströmt.
  - Gain 5 extra temporäre hitpoints, fürs übernachten im heiligen Baum
 
+
+In der Bar geht die Barmaid tüchtig ihrer Arbeit nach und bringt gerade einen großen Braten an den Tisch eines Zwergen.
 Infos:
 - Die Charaktere kennen sich schon
 - Die Charaktere stellen sich jeweils vor
@@ -54,6 +56,8 @@ Kontext:
 ## Scene 3: Ambush auf dem Weg zum Turm
 
 Kleiner smarter goblin Grok und ein Bär Brok und ein paar Wölfe Wronk, Brik und Olaf. Der Bär und die Wölfe sind gepolymorphed.
+
+Die Augen der Wölfe sind von großen 
 
 Brok 1 https://5e.tools/bestiary.html#brown%20bear_mm
 Grok 1/4 https://5e.tools/bestiary.html#goblin_mm
