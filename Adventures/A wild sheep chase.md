@@ -1,4 +1,12 @@
 
+# Zeug zum Drucken?
+
+Character sheets
+Marker for Characters
+Marker für enemies
+
+# Am ende
+
 - Charakterbögen
 - Story und Umgebung ist nicht set in stone
 - Bitte Feedback am Ende, ich mach das zum ersten Mal
