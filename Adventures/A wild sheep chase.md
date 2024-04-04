@@ -167,8 +167,8 @@ An der Seite steht ein ausladendes Bett, die Wände sind bedeckt mit Bücherrega
 - Hält permanent des Wand of true polymorph
 Kampfstart:
 [[Faluzivatius]] verwandelt Bücher und blätter in 
-1 kleine Papierrattenschwärme (1/4) (nur 15 hitpoints) https://5e.tools/bestiary.html#swarm%20of%20rats_mm
-2 Papier ratten: https://5e.tools/bestiary.html#giant%20rat_mm
+0 kleine Papierrattenschwärme (1/4) (nur 15 hitpoints) https://5e.tools/bestiary.html#swarm%20of%20rats_mm
+3 Papier ratten: https://5e.tools/bestiary.html#giant%20rat_mm
 sind die Papierratten tot verwandelt er das Bett in einen [[Bed Wyrmling]]
 Wird das [[DisplacerKitten.jpg]] freigelassen wendet es sich entweder gegen die Party oder gegen Faluzivatius, je nachdem wer grad gewinnt oder nett zu ihm ist.
 ## Szene Conclusion
