@@ -43,8 +43,18 @@ Interactibles:
 ## Scene 2: Das Schaf
 
 Einleittext:
-Gerade als du in den ersten genüßlichen Bissen nimmt
+Gerade als du in den ersten genüßlichen Bissen nimmst stürmt ein Schaf in die Bar und sucht das Team auf. Es trägt eine mystische Schriftrolle in der Hand (Arkane Kunde 5: Scroll of Animal Speaking) Ermuntert die Party die Scroll zu benutzen.
 
+Das Schaf pleaded.
+- Ohne eure Hilfe bin ich verloren. Faluzivatius hat viele Helfer und Anhänger die er verzaubert hat und die mich jagen.
+- Ich bin eigentlich ein großer mächtiger Magier. Meine Spezialität liegt in der Transmutationsmagie. Mein größter Schatz ist mein Staff of True Polymorph
+- Mein Schüler hat eines Abends als ich tief in Meditation war um einen speziellen Potion herzustellen den Stab gegen mich gerichtet.
+- Ich wollte ihn konfrontieren was es sich dabei gedacht hat aber alles was raus kam war ein Baaah
+- Ich war über einen Monat gefangen :( und konnte heute finally enkommen, Grok, ein Goblin diener von Faluzivatius hat vergessen den Käfig zuzusperren nachdem er mir Heu gegeben hat.
+- Ich bin allerdings immer noch nicht sicher. Er und weitere Diener folgen mir um mich wieder einzufangen.
+- Ich brauche den Stab um zurückverwandelt zu werden.
+- Bitte helft mir ohne eure Hilfe bin ich verloren
+- Ich kann euch Schätze anbieten und Gold und Beziehungen an der Magierschule in Polus oder in der Hauptstadt
 Kontext:
 - Das Schaf heißt Faschaad und ist ein Magier der Transmutationsschule aus der Gegend. Er wurde von seinem Schüler mit einem Stab der Polymorpie in ein Schaf verzaubert
 - Das Schaf ist bereit alles als Belohnung anzubieten, 50 Gold, Spellscrolls, Beziehungen für die Magierschule in Polaris/Polus
@@ -57,20 +67,34 @@ Kontext:
 
 Kleiner smarter goblin Grok und ein Bär Brok und ein paar Wölfe Wronk, Brik und Olaf. Der Bär und die Wölfe sind gepolymorphed.
 
+lv1: Grok und ein Wolf lauern euch auf im Wald (Davor Perception: 15 um sie zu bemerken, 18 um sie actually zu sehen)
+Die beiden verstecken sich in einem Busch (Natur 10: Der Wolf hat mit seiner Nase das Schaf gerochen probably)
+Der Wolf sieht seltsam intelligent aus.
+
+Grok:
+- Ihr habt da ein schönes Schaf eingefangen. Das Schaf gehört meinem Meister Faluzivatius und ist ihm leider ausgebüxt.
+- Das Schaf ist von großen sentimentalen Wert für meinen Meister
+- Mein Meister ist aber überaus großzügig. Ihr bekommt Finderlohn 15 Gold?
+- Lasst das Schaf gehen und genießt euren Stress freien entspannten Nachmittag.
+- (Perception 20 um schleichenden Wolf hinter euch zu sehen.)
+
 Die Augen der Wölfe sind von großen 
 
 Brok 1 https://5e.tools/bestiary.html#brown%20bear_mm
 Grok 1/4 https://5e.tools/bestiary.html#goblin_mm
 Wolf 1/4 https://5e.tools/bestiary.html#wolf_mm
 
-Level 1: Grok und 2 (+ optional ein hidender) Wolf
+Level 1: Grok und 1 (+ optional ein bis zwei hidender) Wolf
 Level 2: Grok Brok plus 1 Wolf
+
+Der hidende Wolf wird versuchen das Schaf zu schnappen und abzuhauen.
 ## Szene 4: Die Magierhütte
 
 Wald auf dem Weg dahin
 
 Optional Encounter:
 Zwei Raben sitzen auf der Tür. Sind die gefährlich (je nachdem sinds einfach nur Raben lol)
+Raben können auch beim botanischen Garten neben dem Haus sein
 
 Encounter: 
 In das Haus ist eine Runde Tür eingebaut, mit ständig verändernden Runen die sich im Kreis im die Tür bewegen. Als ihr euch der Tür nähert, erscheint ein Gesicht auf der und frägt nach dem Passwort.

@@ -1,0 +1,17 @@
+|# Pony<br><br>[MM](https://5e.tools/book.html#mm,page:335 "Monster Manual") [p335](https://5e.tools/book.html#mm,page:335 "Page 335")|   |   |   |   |   |
+|---|---|---|---|---|---|
+|_Medium Beast, Unaligned_|   |   |   |   |   |
+||   |   |   |   |   |
+|\|Armor Class\|   \|Hit Points\|   \|Speed\|   \|Challenge\|   \|PB\|<br>\|---\|---\|---\|---\|---\|---\|---\|---\|---\|<br>\|10\|   \|11 (2d8 + 2)\|   \|40 ft.\|   \|1/8 (25 XP)\|   \||   |   |   |   |   |
+
+|                                                                                                                      |         |         |        |         |        |
+| -------------------------------------------------------------------------------------------------------------------- | ------- | ------- | ------ | ------- | ------ |
+| \|   \|<br>\|---\|<br>\|+2\|                                                                                         |         |         |        |         |        |
+|                                                                                                                      |         |         |        |         |        |
+| STR                                                                                                                  | DEX     | CON     | INT    | WIS     | CHA    |
+| 15 (+2)                                                                                                              | 10 (+0) | 13 (+1) | 18(+4) | 12 (+1) | 7 (-2) |
+|                                                                                                                      |         |         |        |         |        |
+| **Senses** passive Perception 10<br><br>**Languages** —                                                              |         |         |        |         |        |
+| ### Actions                                                                                                          |         |         |        |         |        |
+| Hooves.<br><br>_Melee Weapon Attack:_ +4 to hit<br>, reach 5 ft., one target. <br>_Hit:_ 7 (2d4 + 2) bludgeoning dmg |         |         |        |         |        |
+|                                                                                                                      |         |         |        |         |        |
