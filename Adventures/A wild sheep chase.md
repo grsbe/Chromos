@@ -157,6 +157,11 @@ Im zweiten Raum findet man (Investigation 5) einen Schlüssel in einem Bücher r
 Breiterer Raum
 Faluzivatius der Magier Novize
 Personality: Paranoid, Angeber, der Magier hat ihm nur nutzlose Zauber beigebracht und die ganzen tollen für sich behalten
+- 10 Jahre hat er mich wie einen persönlichen Diener behandelt. 
+- Die Grundlagen sind das wichtigste in der Magie und so
+- Transmutationssmagie sei gefährlich, jetzt siehst du mal wie gefählich transmutationsmagie ist mein Meister
+- 
+
 kramt arbeitet an einem neuen Zauber.
 In der Ecke des Raumes ist ein [[DisplacerKitten.jpg]] in einem magischen Zirkel eingefangen (Katze mit Menschenohren lol,  der versuch aus einer Katze einen Menschen zu machen)
 An der Seite steht ein ausladendes Bett, die Wände sind bedeckt mit Bücherregalen
