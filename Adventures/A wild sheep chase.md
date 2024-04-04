@@ -16,21 +16,23 @@ Marker für enemies
 Einleittext:
 Eine friedliche Brise strömt über das Land und trägt den allbekannten liebsamen Klängen von empörten Mövenschreien mit sich. Die Meeresluft zieht aufbrausend durch die Verästelungen eines uralten magischen hohlen Baumes (ein [[Lumisbaum]] ) am Rande eines kleinen Fischerörtchens namens Gardisen. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann (Luzifatis) seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus in einem Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken".
 
-Es ist morgens, das Team ist auf der Durchreise an der [[Ha'Ris]] Küste nach einer Stadt namens [[Natya]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wolltet. Ihr kennt euch bereits da ihr alle im selben Dorf aufgewachsen seit und habt ein bis zwei Abenteuer hinter euch gebracht. Entlaufene Katzen gerettet, eine Untoten an einem Friedhof bekämpft und brennt darauf mehr und herausfordernde Abenteuer zu erleben.
+Es ist morgens, das Team ist auf der Durchreise an der [[Ha'Ris]] Küste in Richtung einer Stadt namens [[Natya]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wollt. Ihr kennt euch bereits da ihr alle in einer Ähnlichen Gegend aufgewachsen seit und habt ein bis zwei Abenteuer hinter euch gebracht. Entlaufene Katzen gerettet, eine Untoten an einem Friedhof bekämpft und brennt darauf mehr und herausfordernde Abenteuer zu erleben.
 
 Nach der Übernachtung im verzauberten Baum fühlt ihr wie heilige beschützende Energie euch durchströmt.
- - Gain 5 extra temporäre hitpoints, fürs übernachten im heiligen Baum
+ - Gain 3 extra temporäre hitpoints, fürs übernachten im heiligen Baum
 
 
-In der Bar geht die Barmaid tüchtig ihrer Arbeit nach und bringt gerade einen großen Braten an den Tisch eines Zwergen.
+In der Bar geht die Barmaid tüchtig ihrer Arbeit nach und bringt gerade einen großen Braten an den Tisch von drei Abentreurern. Die Abenteurer sinnieren über vergangenes und überlegen welche zukünftigen Abenteuer sie wohl erleben werden.
+Ein Abenteurer, ein Zwerg beißt gerade genüßlich in einen Hühnchenbraten
 Infos:
 - Die Charaktere kennen sich schon
 - Die Charaktere stellen sich jeweils vor
 - Wie könnten sich die Charaktere getroffen haben?
 - Was machen die Charaktere gerade
 
+In der Bar befindet sich noch ein Barkeeper, und vereinzelte einsässige Fischer oder in dunkle Abenteurer.
 Interactibles:
-- Die Barmaid (Filly) kommt vorbei (halb Schweizerisch, kann ich ihnen was zu trinken/essen anbieten?)
+- Die Barmaid (Filly) kommt vorbei (, kann ich ihnen was zu trinken/essen anbieten?)
 - Speisekarte:
 	- Birkentee
 	- Fisch des Tages
@@ -44,6 +46,11 @@ Interactibles:
 
 Einleittext:
 Gerade als du in den ersten genüßlichen Bissen nimmst stürmt ein Schaf in die Bar und sucht das Team auf. Es trägt eine mystische Schriftrolle in der Hand (Arkane Kunde 5: Scroll of Animal Speaking) Ermuntert die Party die Scroll zu benutzen.
+
+Hufe, verunsicherte Ausrufe von draußen und ein Schaf schreddert in den Gasthof hinein
+Schaf schaut normal aus in jeder hinsicht, aber es trägt ein Pergament in seinem Mund.
+Der Barkeeper will nichts damit zu tun haben.
+Das Schauf schaut sich um und dreht sich zielsicher leicht verzweifelt zu euch und landet vor 
 
 Das Schaf pleaded.
 - Ohne eure Hilfe bin ich verloren. Faluzivatius hat viele Helfer und Anhänger die er verzaubert hat und die mich jagen.
