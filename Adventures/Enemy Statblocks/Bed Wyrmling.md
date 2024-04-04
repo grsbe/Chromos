@@ -1,6 +1,6 @@
 Medium Humanoid, Neutral Evil
-**Armor Class** 14 (Natural
-**Hit Points** 18-27-45 (5d8 + 5)
+**Armor Class** 12 (Natural) 
+**Hit Points** 18-27-45 (5d8 + 5) (35)
 **Speed** 30ft  fly 30ft
 
 | Str | Dex | Con | Int | Wis | Cha |

@@ -54,7 +54,7 @@ Das Schaf pleaded.
 - Ich bin allerdings immer noch nicht sicher. Er und weitere Diener folgen mir um mich wieder einzufangen.
 - Ich brauche den Stab um zurückverwandelt zu werden.
 - Bitte helft mir ohne eure Hilfe bin ich verloren
-- Ich kann euch Schätze anbieten und Gold und Beziehungen an der Magierschule in Polus oder in der Hauptstadt
+- Ich kann euch Schätze anbieten und Gold und Beziehungen an der Magierschule in Polus oder in der Hauptstadt (30 Gold, Tränke, Magische Spells Scrolls)
 Kontext:
 - Das Schaf heißt Faschaad und ist ein Magier der Transmutationsschule aus der Gegend. Er wurde von seinem Schüler mit einem Stab der Polymorpie in ein Schaf verzaubert
 - Das Schaf ist bereit alles als Belohnung anzubieten, 50 Gold, Spellscrolls, Beziehungen für die Magierschule in Polaris/Polus
@@ -104,7 +104,7 @@ Die Tür frägt nach dem Passwort, damit die Crew eintreten darf. Das Schaf ist 
 Der Code ist allerdings falsch, der Magierschüler hat das Passwort geändert. Wenn ihr das Passwort zurücksetzen wollt müsst ihr drei Rätsel lösen die nur der Besitzer der Tür lösen kann.
 "..."
 
-(Jedes falsch beantwortete Rätsel verwandelt den Antwortgeber in die eigentliche Lösung des Rätsels, dc15 wis saving throw, nach einem Tag permanent)
+(Jedes falsch beantwortete Rätsel verwandelt den Antwortgeber in die eigentliche Lösung des Rätsels, dc15 wis saving throw, nach ner Stunde wieder weg, )
 Rätsel2:
 ICH HAB` VIER FLÜGEL UND SECHS BEINE,  
 aber HAARE UND OHREN HAB ICH KEINE.
@@ -158,7 +158,7 @@ Breiterer Raum
 Faluzivatius der Magier Novize
 Personality: Paranoid, Angeber, der Magier hat ihm nur nutzlose Zauber beigebracht und die ganzen tollen für sich behalten
 kramt arbeitet an einem neuen Zauber.
-In der Mitte des Raumes ist ein [[DisplacerKitten.jpg]] in einem magischen Zirkel eingefangen (Katze mit Menschenohren lol)
+In der Ecke des Raumes ist ein [[DisplacerKitten.jpg]] in einem magischen Zirkel eingefangen (Katze mit Menschenohren lol,  der versuch aus einer Katze einen Menschen zu machen)
 An der Seite steht ein ausladendes Bett, die Wände sind bedeckt mit Bücherregalen
 
 - Fordert auf, dass die Truppe ihm unverzüglich das Schaf überreichen, wenn ihr auf eure Sicherheit irgendeinen Wert legt
@@ -167,9 +167,10 @@ An der Seite steht ein ausladendes Bett, die Wände sind bedeckt mit Bücherrega
 - Hält permanent des Wand of true polymorph
 Kampfstart:
 [[Faluzivatius]] verwandelt Bücher und blätter in 
-1-3 kleine Papierratten (1/4) https://5e.tools/bestiary.html#swarm%20of%20rats_mm
+1 kleine Papierrattenschwärme (1/4) (nur 15 hitpoints) https://5e.tools/bestiary.html#swarm%20of%20rats_mm
+2 Papier ratten: https://5e.tools/bestiary.html#giant%20rat_mm
 sind die Papierratten tot verwandelt er das Bett in einen [[Bed Wyrmling]]
-Wird das [[DisplacerKitten.jpg]] freigelassen wendet es sich entweder gegen die Party oder gegen Faluzivatius, je nachdem wer grad gewinnt.
+Wird das [[DisplacerKitten.jpg]] freigelassen wendet es sich entweder gegen die Party oder gegen Faluzivatius, je nachdem wer grad gewinnt oder nett zu ihm ist.
 ## Szene Conclusion
 Flauzivatius wird versuchen den Wand of true polymorph auf sich selber anzuwenden. Und komplett failen und sich in einen Glibberschleim verwandelt der umherschleimt und Dinge angreift (+1 to hit, 1dmg)
 

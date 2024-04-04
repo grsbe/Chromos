@@ -14,8 +14,8 @@ Medium Humanoid, Neutral Evil
 **Spellcasting** 
 Noke is a lvl 2 WIzard and casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12, spells to hit +4)
 
-Cantrips: Ray of frost, Prestidigitation, Message, Mending
-First level: Expeditious Retreat, Thunderwave
+Cantrips: Ray of frost, Prestidigitation, Message, Mending, Gust
+First level: Expeditious Retreat, Thunderwave, Grease
 Second level: Enlarge/Reduce
 
 ---
