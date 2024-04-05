@@ -1,4 +1,6 @@
 Ein Gott sein heißt eine Personifikation einer Naturkraft zu sein. Diese völlige Kontrolle dieser einen Naturkraft wird auch Aspekt genannt. Die alten Götter und Alfen besaßen generell ihre Aspekte seit ihrer Geburt oder Entstehung. Die neuen Götter erlangen ihren Aspekt erst nach ihrer Geburt im Laufe ihres Lebens.
+In der [[Die Zeitlinien#Ausgang Die Dunkelelfen gewinnen Zeitlinie der Freiheit|Zeitlinie der Freiheit]] sind die Götter als Konzepte und Ideen nicht in der Lage direkt auf die Welt Einfluss zunehmen sondern müssen durch Anhänger gewirkt werden.
+Die Götter befinden sich hauptsächlich in der Geisterwelt oder um Himmel oder der Unterwelt.
 # Die alten Götter
 ## Die 10 Hauptgötter
 
@@ -85,8 +87,6 @@ Folgende Alfen führen ihren Willen aus.
 |Freundschaft|Homine|||
 |Neid|Zarine||7|
 
-  
-
 ## Zeit
 
 Die Göttin der Zeit, Arcus (auch Arkius genannt) ist neben Boreos eine der beiden Dimensions-Götter.
@@ -146,7 +146,7 @@ Folgende Alfen verändern die Welt auf ihrer Autorität:
 
 ## Kunst
 
-Alanus der Gott der Kunst (Auch Alaniusius genannt) ist einer der vier Erschaffer-Götter. Er steht für Exzess, für die Hingabe an die Eleganz, dem Vermengen von Chaos und Ordnung zur Erschaffung des ultimativen Kunstwerkes. Er ist ein Gott der mit dem Leben seiner Anhänger selbst Gemälde auf der Welt erzeichnet.
+Alanus der Gott der Kunst (Auch Alaniusius genannt) ist einer der vier Erschaffer-Götter. Er steht für Exzess, für die Hingabe an die Eleganz, dem Vermengen von Chaos und Ordnung zur Erschaffung des ultimativen Kunstwerkes. Er ist ein Gott der mit dem Leben seiner Anhänger selbst Gemälde auf der Welt erzeichnet. Er steht für die Seele und die Energie die in jedem Lebewesen steckt.
 
 Dies sind die Alfen die Alanus auf der Bühne der Welt vertreten:
 
@@ -168,28 +168,3 @@ Eos wird von den Zwillingen des Zwielichts unterstützt:
 | --------------- | -------- | ---------------- | ------------------------ |
 | Licht im Dunkel | Luraarul | Zunehmender Mond | Zwillinge des Zwielichts |
 | Dunkel im Licht | Arullura | Abnehmender Mond | Zwillinge des Zwielichts |
-
-
-# Die Neuen Götter
-
-### Neutral/Positive Götter
-#### Gott der Versuchung
-
-
-
-#### Babus der Weingott
-
-#### Dominierungsgott
-
-#### Glücksgott
-
-
-
-#### Lura und Arul, Zwillinge der Balance
-Sind implodiert und wurden ersetzt während der Götterkriege
-
-#### Bubus Baha, Gott der Wünsche und Versuchungen
-Auferstandener Gott
-
-Objektive: Bring Menschen zum Wünschen, jedes Gebet bei dem
-Offen:

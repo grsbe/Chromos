@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Items/Random magische Effekte.md",
+                "file": "Mythandras/Phantheon/Die neuen Götter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Items/Random magische Effekte.md",
+                "file": "Mythandras/Phantheon/Die neuen Götter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Items/Random magische Effekte.md",
+                "file": "Mythandras/Phantheon/Die neuen Götter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Items/Random magische Effekte.md"
+                "file": "Mythandras/Phantheon/Die neuen Götter.md"
               }
             }
           }
@@ -152,13 +152,17 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
+    "Mythandras/Phantheon/Das alte Pantheon.md",
+    "Mythandras/Phantheon/Die neuen Götter.md",
+    "Mythandras/Phantheon",
+    "Mythandras/Exos/Fe'Ris/Parador.md",
+    "Adventures/Items/Random magische Effekte.md",
     "Adventures/Organisations/Amazin.md",
     "Adventures/Untitled",
     "Mythandras/Exos/Exosgebirge/Abraxus.md",
     "Mythandras/MythandrasExcali.md",
     "Adventures/Organisations/Untitled",
     "Mythandras/Mythandras.md",
-    "Adventures/Items/Random magische Effekte.md",
     "Adventures/Organisations",
     "Untitled",
     "Adventures/Untitled.md",
@@ -171,10 +175,8 @@
     "Adventures/Ideas Mythandras.md",
     "Adventures/Enemy Statblocks/Schaf.md",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
-    "Mythandras/Das Pantheon.md",
     "Adventures/Shops.md",
     "Mythandras/Exos/Exos - Timeline.md",
-    "Mythandras/Exos/Fe'Ris/Parador.md",
     "Mythandras/Exos/Sidaris/Si'Ris.md",
     "Mythandras/Unterwelt/Unendliche Bibliothek.md",
     "Mythandras/Abgründe und Aufstiege.md",
@@ -188,7 +190,6 @@
     "Adventures/Items",
     "Adventures/Enemy Statblocks",
     "Mythandras/Exos/Sidaris",
-    "Mythandras/Exos/Va'Nis",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/MythandrasExcali.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
