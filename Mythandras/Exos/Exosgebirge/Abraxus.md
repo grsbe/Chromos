@@ -12,3 +12,6 @@ Abraxus ist weltoffener und weniger kompetetiv als die Hauptstadt des Imperiums.
 ## Die Erkundergilde
 
 Aleyxandrius Frisenius' größter Traum ist es ein Luftschiff zu bauen das in der Lage ist zu den Monden zu reisen. Friseniuses Erkunder bereisen und berichten über die ganze Welt Mithrandras und bringen Geschichten, Legenden, Wissen und Abhandlungen über die Natur und die Magie nach Exos. Die Erkundergilde ist ein beliebter und begehrter Arbeitgeber für Abenteurer. Erkunden und dafür bezahlt werden ist der Traum schlecht hin für viele Überlebenskünstler.
+
+## Amazin
+Hersteller von magischen konstrukten, siehe [[Adventures/Organisations/Amazin|Amazin]]

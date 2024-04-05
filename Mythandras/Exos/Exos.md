@@ -19,7 +19,7 @@ Friedlebende Meister der Elementarmagie, deren Kultur sich um ihren mythischen K
 
 ### [[Polaris - das Reich der Prophezeiung]]
 
-### [[die Brückenstadt Abraxus Dualis]]
+### [[Abraxus]]
 Eine Brückenstadt aus Zwergen, Gnomen und Menschen, die besten Erfinder und Mechaniker der Welt
 
 
