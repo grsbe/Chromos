@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Phantheon/Die neuen Götter.md",
+                "file": "Adventures/Moral dilemma.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Phantheon/Die neuen Götter.md",
+                "file": "Adventures/Moral dilemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Phantheon/Die neuen Götter.md",
+                "file": "Adventures/Moral dilemma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Phantheon/Die neuen Götter.md"
+                "file": "Adventures/Moral dilemma.md"
               }
             }
           }
@@ -152,8 +152,11 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
-    "Mythandras/Phantheon/Das alte Pantheon.md",
+    "Chromos.md",
+    "Adventures/Moral dilemma.md",
+    "RandomStuff/Warhammer",
     "Mythandras/Phantheon/Die neuen Götter.md",
+    "Mythandras/Phantheon/Das alte Pantheon.md",
     "Mythandras/Phantheon",
     "Mythandras/Exos/Fe'Ris/Parador.md",
     "Adventures/Items/Random magische Effekte.md",
@@ -165,7 +168,6 @@
     "Mythandras/Mythandras.md",
     "Adventures/Organisations",
     "Untitled",
-    "Adventures/Untitled.md",
     "Adventures/NPCs/Amazin.md",
     "Adventures/Items/Useless magical spells.md",
     "Adventures/NPCs",
@@ -184,12 +186,10 @@
     "Mythandras/Exos/Exoskarte.md",
     "Mythandras/Exos/Exosgebirge/Das Exosgebirge.md",
     "RandomStuff/Unsortierte Ideen/Plots.md",
-    "index.md",
     "Taijima/Levels",
     "Haven/HavenMap.svg",
     "Adventures/Items",
     "Adventures/Enemy Statblocks",
-    "Mythandras/Exos/Sidaris",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/MythandrasExcali.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
