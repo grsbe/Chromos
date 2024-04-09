@@ -11,6 +11,8 @@ Saving a small litte prophecy child (the child) das Kind dass die Welt retten so
 Ein Mord in Flowa - Werwolf verfolgungsjagd
 
 Ein Horror-Disco Haus mit Rätseln die Tanzen erfordern
+
+Eingeschneite Hütte mit magischem Artefakt oder verwunschener Person die ihre magie nicht kontrollieren kann.
 ## Longer Questlines 
 
 ### Weltumfassend
@@ -24,6 +26,8 @@ Quests in Abraxxus für einen Erfinder
 The Demonking on the Exosmountain
 
 Exosabyss in den Exosminen (Als Gefangene)
+
+Einen Gott wieder auferstanden lassen oh nein.
 ### Soras
 Erkundung der Geisterinsel
 

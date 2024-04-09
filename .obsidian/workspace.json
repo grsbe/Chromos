@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Moral dilemma.md",
+                "file": "Adventures/Organisations/Polus magier gilde der Zukunft.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Moral dilemma.md",
+                "file": "Adventures/Organisations/Polus magier gilde der Zukunft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Moral dilemma.md",
+                "file": "Adventures/Organisations/Polus magier gilde der Zukunft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Moral dilemma.md"
+                "file": "Adventures/Organisations/Polus magier gilde der Zukunft.md"
               }
             }
           }
@@ -152,8 +152,11 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
-    "Chromos.md",
+    "Adventures/A wild sheep chase.md",
+    "Adventures/Organisations/Polus magier gilde der Zukunft.md",
+    "Adventures/Ideas Mythandras.md",
     "Adventures/Moral dilemma.md",
+    "Chromos.md",
     "RandomStuff/Warhammer",
     "Mythandras/Phantheon/Die neuen Götter.md",
     "Mythandras/Phantheon/Das alte Pantheon.md",
@@ -171,10 +174,8 @@
     "Adventures/NPCs/Amazin.md",
     "Adventures/Items/Useless magical spells.md",
     "Adventures/NPCs",
-    "Adventures/A wild sheep chase.md",
     "Adventures/Enemy Statblocks/Bed Wyrmling.md",
     "Adventures/Enemy Statblocks/Faluzivatius.md",
-    "Adventures/Ideas Mythandras.md",
     "Adventures/Enemy Statblocks/Schaf.md",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
     "Adventures/Shops.md",
@@ -185,7 +186,6 @@
     "Mythandras/Unterwelt/Unterwelt.md",
     "Mythandras/Exos/Exoskarte.md",
     "Mythandras/Exos/Exosgebirge/Das Exosgebirge.md",
-    "RandomStuff/Unsortierte Ideen/Plots.md",
     "Taijima/Levels",
     "Haven/HavenMap.svg",
     "Adventures/Items",
