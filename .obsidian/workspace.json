@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Organisations/Polus magier gilde der Zukunft.md",
+                "file": "Adventures/WrittenOut/Frozen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Organisations/Polus magier gilde der Zukunft.md",
+                "file": "Adventures/WrittenOut/Frozen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Organisations/Polus magier gilde der Zukunft.md",
+                "file": "Adventures/WrittenOut/Frozen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Organisations/Polus magier gilde der Zukunft.md"
+                "file": "Adventures/WrittenOut/Frozen.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,8 +152,11 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
-    "Adventures/A wild sheep chase.md",
+    "Adventures/WrittenOut",
     "Adventures/Organisations/Polus magier gilde der Zukunft.md",
+    "Adventures/WrittenOut/Frozen.md",
+    "Adventures/Organisations/Amazin.md",
+    "Adventures/WrittenOut/A wild sheep chase.md",
     "Adventures/Ideas Mythandras.md",
     "Adventures/Moral dilemma.md",
     "Chromos.md",
@@ -163,8 +166,6 @@
     "Mythandras/Phantheon",
     "Mythandras/Exos/Fe'Ris/Parador.md",
     "Adventures/Items/Random magische Effekte.md",
-    "Adventures/Organisations/Amazin.md",
-    "Adventures/Untitled",
     "Mythandras/Exos/Exosgebirge/Abraxus.md",
     "Mythandras/MythandrasExcali.md",
     "Adventures/Organisations/Untitled",
@@ -184,8 +185,6 @@
     "Mythandras/Unterwelt/Unendliche Bibliothek.md",
     "Mythandras/Abgründe und Aufstiege.md",
     "Mythandras/Unterwelt/Unterwelt.md",
-    "Mythandras/Exos/Exoskarte.md",
-    "Mythandras/Exos/Exosgebirge/Das Exosgebirge.md",
     "Taijima/Levels",
     "Haven/HavenMap.svg",
     "Adventures/Items",
