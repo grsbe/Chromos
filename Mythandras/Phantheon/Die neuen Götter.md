@@ -6,9 +6,10 @@ Diese Götter verbinden aktiv das Geisterreich mit der materialen Welt und wirke
 Alte Götter sind auf das Geisterreich beschränkt und wirken dort durch ihre Naturgesetze.
 Neue Götter sind in der Geisterwelt ein Gott und üben doch als eigenständiges Wesen ihren Einfluss auf die materiellen Welt aus.
 
-Die Alten Götter werden sehr selten direkt angebetet, es ist schwierig eine Verbindung mit einem Wesen herzustellen dass über der Zeit steht, dennoch gibt es auch hier einige legendäre Auserwählte. Meist wird ein Champion oder Kreis aus auserwählten Alfen angebetet die dem Alten Gott vorstehen und dennoch zumindest teilweise der Zeit gebunden sind.
+Die Alten Götter werden sehr selten direkt angebetet, es ist schwierig eine Verbindung mit einem Wesen herzustellen dass über der Zeit steht, dennoch gibt es auch hier einige legendäre Auserwählte. Meist wird ein Champion oder Kreis aus auserwählten Alfen angebetet die dem Alten Gott vorstehen und dennoch zumindest teilweise durch Zeit und Raum gebunden sind.
 
-Es gibt drei Arten von 
+Es gibt drei Arten von neuen Göttern:
+- 
 
 #### Gott der Versuchung Baha Batos
 Verbindet die materielle Welt über einen Abrund
