@@ -9,3 +9,13 @@ Politische Intriegen in Pa'ris
 - Paris ausbauen
 - Abraxus ausbauen
 - Die 
+
+Whats cool tho
+- epic moments where the heros shine
+- politische intriegen
+- plot twists
+- coole evil und nette charaktere
+- relatable charaktere
+
+
+visualisiere die epischen oder coolen momente
