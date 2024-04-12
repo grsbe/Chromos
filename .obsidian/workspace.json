@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/WrittenOut/Frozen.md",
+                "file": "Adventures/WrittenOut/The Campagne.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/WrittenOut/Frozen.md",
+                "file": "Adventures/WrittenOut/The Campagne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/WrittenOut/Frozen.md",
+                "file": "Adventures/WrittenOut/The Campagne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/WrittenOut/Frozen.md"
+                "file": "Adventures/WrittenOut/The Campagne.md"
               }
             }
           }
@@ -152,9 +152,10 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
+    "Adventures/WrittenOut/Frozen.md",
+    "Adventures/WrittenOut/The Campagne.md",
     "Adventures/WrittenOut",
     "Adventures/Organisations/Polus magier gilde der Zukunft.md",
-    "Adventures/WrittenOut/Frozen.md",
     "Adventures/Organisations/Amazin.md",
     "Adventures/WrittenOut/A wild sheep chase.md",
     "Adventures/Ideas Mythandras.md",
