@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/WrittenOut/The Campagne.md",
+                "file": "Mythandras/Phantheon/Die neuen Götter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/WrittenOut/The Campagne.md",
+                "file": "Mythandras/Phantheon/Die neuen Götter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/WrittenOut/The Campagne.md",
+                "file": "Mythandras/Phantheon/Die neuen Götter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/WrittenOut/The Campagne.md"
+                "file": "Mythandras/Phantheon/Die neuen Götter.md"
               }
             }
           }
@@ -152,8 +152,10 @@
   },
   "active": "55454b79a17a97e9",
   "lastOpenFiles": [
+    "Mythandras/Phantheon/Das alte Pantheon.md",
+    "Adventures/WrittenOut/The Campagne in Exos.md",
+    "Mythandras/Phantheon/Die neuen Götter.md",
     "Adventures/WrittenOut/Frozen.md",
-    "Adventures/WrittenOut/The Campagne.md",
     "Adventures/WrittenOut",
     "Adventures/Organisations/Polus magier gilde der Zukunft.md",
     "Adventures/Organisations/Amazin.md",
@@ -162,8 +164,6 @@
     "Adventures/Moral dilemma.md",
     "Chromos.md",
     "RandomStuff/Warhammer",
-    "Mythandras/Phantheon/Die neuen Götter.md",
-    "Mythandras/Phantheon/Das alte Pantheon.md",
     "Mythandras/Phantheon",
     "Mythandras/Exos/Fe'Ris/Parador.md",
     "Adventures/Items/Random magische Effekte.md",
