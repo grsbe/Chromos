@@ -19,3 +19,6 @@ Whats cool tho
 
 
 visualisiere die epischen oder coolen momente
+
+die kleinen Ungerechtigkeiten am Anfang
+- ein magier der über die Unsterblichkeit sinniert während er verfluchte Bauer abweist
