@@ -5,3 +5,7 @@ Ein Gott aus uralter Zeit ersteht neu auf und die Party muss verhindern dass er 
 - Lore: Erklärung der Geisterwelt
 - Lore: Götterkrieg geschichte
 
+Politische Intriegen in Pa'ris
+- Paris ausbauen
+- Abraxus ausbauen
+- Die 
