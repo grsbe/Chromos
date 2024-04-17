@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Phantheon/Die neuen Götter.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f0e09c9b7e37b2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Phantheon/Die neuen Götter.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Phantheon/Die neuen Götter.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Phantheon/Die neuen Götter.md"
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md"
               }
             }
           }
@@ -150,11 +163,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55454b79a17a97e9",
+  "active": "8f0e09c9b7e37b2f",
   "lastOpenFiles": [
+    "Adventures/WrittenOut/Insel des Wahnsinns.md",
+    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Excalidraw",
+    "Mythandras/Phantheon/Die neuen Götter.md",
     "Mythandras/Phantheon/Das alte Pantheon.md",
     "Adventures/WrittenOut/The Campagne in Exos.md",
-    "Mythandras/Phantheon/Die neuen Götter.md",
     "Adventures/WrittenOut/Frozen.md",
     "Adventures/WrittenOut",
     "Adventures/Organisations/Polus magier gilde der Zukunft.md",
@@ -184,12 +200,9 @@
     "Mythandras/Exos/Exos - Timeline.md",
     "Mythandras/Exos/Sidaris/Si'Ris.md",
     "Mythandras/Unterwelt/Unendliche Bibliothek.md",
-    "Mythandras/Abgründe und Aufstiege.md",
-    "Mythandras/Unterwelt/Unterwelt.md",
     "Taijima/Levels",
     "Haven/HavenMap.svg",
     "Adventures/Items",
-    "Adventures/Enemy Statblocks",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/MythandrasExcali.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
