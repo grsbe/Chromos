@@ -8,4 +8,4 @@ Fantasy Magiewelt deren zentrales Feature verwirrende Zeitlinien ausmacht.
 Generic Cyberpunk Welt mit Magie und AI. Hier passiert noch nicht so viel.
 
 ## [[Taijima]]
-Fantasy Magiewelt in der die Geschichte Mythandras ein anderes Ende nimmt
+Fantasy Magiewelt in der die Geschichte Mythandras ein anderes Ende nimmt.
