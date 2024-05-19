@@ -4,7 +4,7 @@ Intro: Die Party segelt gerade durch das Thaymeer, wurde angeheuert als Kurier. 
 
 In der Ferne ist ein Unwetter, die Matrosen haben das Schiff bereits so gut es geht wetterfest gemacht und warten nun darauf da durch zu fahren.
 
-
+Es nieselt bereits leise, doch keiner der Matrosen schenkt dem leichten Regen Beachtung. Die Wolken bilden schemenhafte wechselhafte Formen, die ständig in sich verwoben ein unheilvolles Zwielicht bilden.
 
 Ein Matrose (Niels) erzählt gerade eine Matrosen Horrorgeschichte:
 _Regen._
@@ -26,15 +26,16 @@ _Leiser Nieselregen beginnt das Deck zu benetzen als das Schiff geradewegs auf e
 
 ##### Erster Maat: Timmy
 
-##### Schiffskoch
+##### Schiffskoch Svelte
 
-##### Schiffsarzt
+##### Schiffsarzt Angus
 
-##### Generic Matrose 1:
+##### Generic Matrose 1: Marlin
 
-##### Generic Matrose 2:
+##### Generic Matrose 2: Remus
 
 ##### Ideen für weitere Matrosen
+Ralf, Viola, Darvin, Schogart
 
 ### Interactibles auf dem Schiff
 
