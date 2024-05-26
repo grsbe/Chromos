@@ -2,6 +2,8 @@
 ## Intro
 Intro: Die Party segelt gerade durch das Thaymeer, wurde angeheuert als Kurier. In letzter Zeit verschwinden immer wieder Sendungen, und die Party soll das Schiff beschützen.
 
+Das Schiff fährt von einer der Hauptinseln Marekaz weiter nach Elianos um Ware zu transportieren.
+
 In der Ferne ist ein Unwetter, die Matrosen haben das Schiff bereits so gut es geht wetterfest gemacht und warten nun darauf da durch zu fahren.
 
 Es nieselt bereits leise, doch keiner der Matrosen schenkt dem leichten Regen Beachtung. Die Wolken bilden schemenhafte wechselhafte Formen, die ständig in sich verwoben ein unheilvolles Zwielicht bilden.
@@ -24,6 +26,9 @@ _Leiser Nieselregen beginnt das Deck zu benetzen als das Schiff geradewegs auf e
 
 ##### Matrose: Niels
 
+##### Seenavigatorin: Miranda
+
+
 ##### Erster Maat: Timmy
 
 ##### Schiffskoch Svelte
@@ -34,10 +39,15 @@ _Leiser Nieselregen beginnt das Deck zu benetzen als das Schiff geradewegs auf e
 
 ##### Generic Matrose 2: Remus
 
-##### Ideen für weitere Matrosen
-Ralf, Viola, Darvin, Schogart
+##### Freie Passagiere
+Ralf : Braun, Spitzbart, hat ultra Angst vor der See (was wenn da Kraken)
+Viola
+, Darvin, Schogart
 
 ### Interactibles auf dem Schiff
+**Deck**
+- den Boden schrubben
+- Das Schiff seefest machen (mithelfen: Segel reffen, Dinge festbinden)
 
 ## Akt 1: Der Sturm
 
