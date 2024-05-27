@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/Mechanics/Fishing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/Mechanics/Fishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/Mechanics/Fishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md"
+                "file": "Adventures/Mechanics/Fishing.md"
               }
             }
           }
@@ -152,9 +152,12 @@
   },
   "active": "13dc70c2e0a1780e",
   "lastOpenFiles": [
+    "Adventures/Mechanics/Gambling.md",
+    "Adventures/Mechanics/Fishing.md",
+    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/Mechanics",
     "index.md",
     "Adventures/WrittenOut/The Campagne in Exos.md",
-    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/WrittenOut/Insel des Wahnsinns.md",
     "Excalidraw",
     "Mythandras/Phantheon/Die neuen Götter.md",
@@ -184,12 +187,9 @@
     "Adventures/Enemy Statblocks/Faluzivatius.md",
     "Adventures/Enemy Statblocks/Schaf.md",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
-    "Adventures/Shops.md",
-    "Mythandras/Exos/Exos - Timeline.md",
-    "Mythandras/Exos/Sidaris/Si'Ris.md",
+    "Adventures/Mechanics/Shops.md",
     "Taijima/Levels",
     "Haven/HavenMap.svg",
-    "Adventures/Items",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/MythandrasExcali.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
