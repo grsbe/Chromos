@@ -9,8 +9,10 @@ Jeder Wurf -10 wird auf den finalen Wurf mit aufaddiert:
 4. Dexterity -10 um die Angel zielsicher an einen guten Platz zu werfen.
 5. Wettereffekt (-25 bis +25 + special fish)
 
+1: Immediate Rubbish
+20: Glitzernder- Präfix
 
-
+Start at -25
 d100
 0. rubish
 1. rubish
