@@ -1,13 +1,13 @@
 Haven ist die Dystopie in der die Alfen eine Welt schufen in der keine Magie existiert und keine Götter. 
+
+Es begann alles 
 ### Ideen
 Französische Cyberpunkstadt
 
 Der Protagonist besitzt ein mechanisches Herz
 
 Cyborgs wurden buchstäblich versklavt in dem ihre Körper kontrolliert wurden von der Super AI
-
 Die AI kontrolliert basically alle Androiden die von einer Firma gebaut worden sind
-
 Tag des Untergangs: Die AI flippt den switch um und killt fast alle Menschen in ihrem Einflussgebiet, Androiden und viele Cyborgs stehen unter ihrer Kontrolle.
 
 Ein Forscher steht an der Spitze im Zentrum des AI Gebiets und hat mit der AI zusammen diese furchtbare Entscheidung getroffen. Die AI stuft ihn als ethisch vollkommene Person ein und stützt sich auf ihn in diese Richtung. Forscher sind in Labore eingesperrt in denen sie gezwungen sind nach Waffen/Fortschritt zu forschen die den Kampf gegen die Aliens ermöglichen soll.
