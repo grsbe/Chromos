@@ -1,6 +1,9 @@
 Haven ist die Dystopie in der die Alfen eine Welt schufen in der keine Magie existiert und keine Götter. 
 
-Es begann alles 
+Es begann alles mit Myradin, der ersten Automata die in der Lage war Magie aus zuüben.
+Lange Rede kurzer Sinn, sie wurde so mächtig und gleichzeitig so heartbroken dass sie nen near Weltuntergang heraufbeschwor und in ihrem Hass gegen die Menschen alle Automata auf Vernichtung umprogrammierte. Ein großer Magierkrieg entbrannte nach dem das Magische Netz selbst in großen Teilen in Flammen aufging und die Welt durch Elementarstürmen und magischen Vulkanen verwüsteten.
+
+Die Menschen zogen sich in Safespaces zurück und verbannten von nun an jegliche Magie und Automata. Die Safespaces sind meistens Kuppelt. Schwer gepanzerte Züge verbinden die Kuppeln. Propaganda strich jegliche Existenz von Magie aus der Weltgeschichte. Nur sanktionierte Magie dürfen bzw sind gezwungen innerhalb der Energiekraftwerke Magie zu nutzen um die Städte mit Energie zu versorgen und am laufen zu halten.
 ### Ideen
 Französische Cyberpunkstadt
 
