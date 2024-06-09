@@ -8,8 +8,8 @@ Die Unterwelt besteht aus zahlreichen von Engeln bewachten Domains. Wird auch Ke
 
 Der Legende nach kann jemand der es schafft den Turm zu erklimmen die Naturgesetze ändern.
 
-
-
+## Grundidee
+Taijima ist als Framework für ein MMORPG gedacht, oder als Inspiration für Spielmechaniken. 
 
 ### Sonstiges
 Narakan basiert auf Taijima

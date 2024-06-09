@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haven/Haven.md",
+                "file": "Taijima/Klassenübersicht.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haven/Haven.md",
+                "file": "Taijima/Klassenübersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haven/Haven.md",
+                "file": "Taijima/Klassenübersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haven/Haven.md"
+                "file": "Taijima/Klassenübersicht.md"
               }
             }
           }
@@ -152,6 +152,12 @@
   },
   "active": "13dc70c2e0a1780e",
   "lastOpenFiles": [
+    "Taijima/Cores.md",
+    "Taijima/Levels/Levels.md",
+    "Taijima/Taijima.md",
+    "Taijima/Klassenübersicht.md",
+    "Taijima/Damagetypes.md",
+    "Haven/Haven.md",
     "index.md",
     "Adventures/Mechanics/Fishing.md",
     "Adventures/Mechanics/Gambling.md",
@@ -180,14 +186,8 @@
     "Mythandras/Mythandras.md",
     "Adventures/Organisations",
     "Untitled",
-    "Adventures/NPCs/Amazin.md",
-    "Adventures/Items/Useless magical spells.md",
     "Adventures/NPCs",
-    "Adventures/Enemy Statblocks/Bed Wyrmling.md",
-    "Adventures/Enemy Statblocks/Faluzivatius.md",
-    "Adventures/Enemy Statblocks/Schaf.md",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
-    "Adventures/Mechanics/Shops.md",
     "Taijima/Levels",
     "Haven/HavenMap.svg",
     "Mythandras/Exos/ExosExcal.svg",

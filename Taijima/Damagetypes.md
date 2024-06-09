@@ -8,4 +8,5 @@ Mind
 Holy/Radiant
 Necrotic/Evil
 Energy/Electric
+Warping/Magic
 

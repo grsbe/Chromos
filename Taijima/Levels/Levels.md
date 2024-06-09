@@ -21,6 +21,9 @@ Narakanlabyrith
 Milliswald
 Myxia
 Tailenis
+Nixis
+Azsh
+
 ## Aufstiege (secret level)
 Exosspitze
 Weltenbaum

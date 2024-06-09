@@ -1,7 +1,7 @@
 
 ## Gunslinger/Atillery/Spearthrower
 Paths: agile DPS, tanky turret
-Main Mechanik: Weakpoints
+Main Mechanik: Weakpoints, Piercing/Bouncing
 Damage
 - Shortrange: Shotgunesque
 - Midrange: Autoaim damage
@@ -13,8 +13,8 @@ Sidegameloop: Crafting guns and ammuition from recources, build together your to
 Telegrahed Attacks: Keep Distance/Roll out/Tactical Movement
 
 ## Assassin
-Paths: Duelist, Hitman
-Main Mechanic: Hit and Run
+Paths: Duelist (Parry), Hitman (Dodge)
+Main Mechanic: Hit and Run. High single target dps
 Damage
 - Melee: Daggers, Swords
 - Ranged: Blowdarts, Magical shots, either high windup or low damage with debuff
@@ -33,15 +33,21 @@ Utility:
 - Massive situational Debuffs
 - Information about Area/Enemies/Light
 Gameloop: Keep Range, Coordinate Team with Buffs and Shields
-Sidegameloop: Collect library books
+Sidegameloop: Collect library books to craft combined spells
 Telegraphed Attacks: Invul dodge into shadows, extreme high movement
 
 ## Tank
 Paths: Warden, Diver
 
+Sidegameloop: Cooking
+
 ## Fighter
-Paths: Berzerker, 
+Paths: Berzerker (AoE Melee), Commander
+
+Sidegameloop: Smithing
 
 ## Summoner
 Collect Beasts on each level, max 5 active
 most flexible role, but weak without beasts
+
+SIdegameloop: Tame and collect beasts, even breed them to combine traits
