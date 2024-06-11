@@ -37,7 +37,7 @@ Leitet und speichert Emotionen
 
 ## Examit
 
-Leitet und speichert körperliche Kraft und mentale Willenskraft
+Leitet und speichert körperliche Kraft
 
 ## Eonit
 
@@ -45,4 +45,4 @@ Transmutiert Materie
 
 ## Borolit
 
-Lebenskraft, Seelen, Schicksal, Wissen, Zeit, Raum, Mana, Balance, Kreativität,
+Speichert Mana
