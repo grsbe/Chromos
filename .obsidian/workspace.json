@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f511dfaee66e86e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +161,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "13dc70c2e0a1780e",
+  "active": "5f511dfaee66e86e",
   "lastOpenFiles": [
     "Taijima/Cores.md",
     "Taijima/Levels/Levels.md",
