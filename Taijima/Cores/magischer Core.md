@@ -23,5 +23,13 @@ Wasser
 Erde 
 Luft
 
-Heilig/Licht
-Dunkel
+Heilig
+Chaos
+
+Eis
+
+Flora
+Psi
+Energie
+
+
