@@ -26,10 +26,6 @@ Luft
 Heilig
 Chaos
 
-Eis
 
-Flora
-Psi
-Energie
 
 
