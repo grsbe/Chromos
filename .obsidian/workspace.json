@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taijima/Klassenübersicht.md",
+                "file": "Taijima/Cores/magischer Core.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5f511dfaee66e86e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taijima/Klassenübersicht.md",
+                "file": "Taijima/Cores/magischer Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taijima/Klassenübersicht.md",
+                "file": "Taijima/Cores/magischer Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taijima/Klassenübersicht.md"
+                "file": "Taijima/Cores/magischer Core.md"
               }
             }
           }
@@ -161,12 +150,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f511dfaee66e86e",
+  "active": "13dc70c2e0a1780e",
   "lastOpenFiles": [
-    "Taijima/Cores.md",
+    "Taijima/Cores/Cores.md",
+    "Taijima/Cores/magischer Core.md",
+    "Taijima/Cores",
+    "Taijima/Klassenübersicht.md",
     "Taijima/Levels/Levels.md",
     "Taijima/Taijima.md",
-    "Taijima/Klassenübersicht.md",
     "Taijima/Damagetypes.md",
     "Haven/Haven.md",
     "index.md",
@@ -192,14 +183,11 @@
     "Mythandras/Exos/Fe'Ris/Parador.md",
     "Adventures/Items/Random magische Effekte.md",
     "Mythandras/Exos/Exosgebirge/Abraxus.md",
-    "Mythandras/MythandrasExcali.md",
     "Adventures/Organisations/Untitled",
-    "Mythandras/Mythandras.md",
     "Adventures/Organisations",
     "Untitled",
     "Adventures/NPCs",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
-    "Taijima/Levels",
     "Haven/HavenMap.svg",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/MythandrasExcali.svg",
