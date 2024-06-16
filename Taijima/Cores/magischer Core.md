@@ -22,8 +22,9 @@ Feuer
 Wasser 
 Erde 
 Luft
+Blitz
 
-Heilig
+Heilig (Ordnung)
 Chaos
 
 
