@@ -41,8 +41,9 @@ _Leiser Nieselregen beginnt das Deck zu benetzen als das Schiff geradewegs auf e
 
 ##### Freie Passagiere
 Ralf : Braun, Spitzbart, hat ultra Angst vor der See (was wenn da Kraken)
-Viola
-, Darvin, Schogart
+Viola (Elfe): Will Schätze suchen, Elfen-Archologin
+Darvin (Mensch): Auf Handelsreise um Verträge zwischen Inseln auszuhandeln
+Schogart : 
 
 ### Interactibles auf dem Schiff
 **Deck**
@@ -58,7 +59,7 @@ Viola
 ## Akt 2: Shipcrashed
 ### Am Strand
 ### In der Höhle
-
+Ein Podest mit einer Map der Insel.
 ###
 
 ## Akt 3: Am Gipfel
