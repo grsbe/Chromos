@@ -68,8 +68,19 @@ Verschwunden: Yan, Miranda, Angus
 ## Der Berg
 Es gibt vier Eingänge zum Berg, gekennzeichnet mit Tieren:
 Norden: Echse, Osten: Schlange, Süden: Käfer, Westen: Ziege
+
+Im Berg befindet sich ein Labyrinth. Wir spielen Memory 5x5 oder 6x6, einzelne Karten signalisieren Gegner, Ausgänge oder Schätze. Es müssen mindestens drei Paare gezogen werden damit ein Ausgang benutzt werden kann. Der ist allerdings dann permanent frei (für Intelligenz DC 10 um den Rückweg zu nutzen). Für die Mitte plus 4 Ausgänge sind also 12 Paare nötig, (der erste Eingang ist gratis) Dazu 2 Gegner Encounter, 2 Schätze und den Raben Mann
+
+Einzelne Karten geben auch lore wieder oder schaurige Erzählungen.
+
+### Raben Mann
+Der Weg führt in eine kleine lichtbeschienene Höhle in der ein Mann im Rabenkostüm (oder ist es ein Kostüm?) sitzt. Er trägt eine schwarze Rabenmaske und einen schwarzen Umhang der nur aus schwarzen Federn genäht scheint.
+"Tretet ein meine "
 ### In der Höhle unter der Treppe zum Gipfel
-Ein Podest mit einer Map der Insel.
+Ein Podest mit einer Map der Insel, steht in der Mitte. Dazu liegen überall Runen herum die in Einbuchtungen auf dem Podest gelegt werden können
+
+Pink-weiße Quarzähnliche Adern durchziehen stärker die Wände. aufmerksame Abenteurer hören leise Schreie im Kopf wenn sie die Adern berühren. (DC 18 Perception)
+An den Wänden befindet sich eine Wandmalerei, die darstellt wie frühere Ahnen ihre weisesten Seelen dem Kristall geopfert haben um auf ewig im Orakel die Ahnen befragen zu können. 
 ###
 
 ## Akt 3: Am Gipfel
