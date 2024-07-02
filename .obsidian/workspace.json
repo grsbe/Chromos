@@ -23,11 +23,9 @@
             "id": "1357f0ae3d27ba10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
-                "mode": "source",
-                "source": false
+                "file": "Adventures/WrittenOut/Insel des Wahnsinns.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/WrittenOut/Insel des Wahnsinns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/WrittenOut/Insel des Wahnsinns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md"
+                "file": "Adventures/WrittenOut/Insel des Wahnsinns.md"
               }
             }
           }
@@ -166,6 +164,7 @@
   },
   "active": "1357f0ae3d27ba10",
   "lastOpenFiles": [
+    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/Ideas Mythandras.md",
     "Taijima/Cores/Element Kombinationen und Base Fähigkeiten.md",
     "Taijima/Cores/magischer Core.md",
@@ -185,7 +184,6 @@
     "index.md",
     "Adventures/Mechanics/Fishing.md",
     "Adventures/Mechanics/Gambling.md",
-    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/Mechanics",
     "Adventures/WrittenOut/The Campagne in Exos.md",
     "Adventures/WrittenOut/Insel des Wahnsinns.md",
