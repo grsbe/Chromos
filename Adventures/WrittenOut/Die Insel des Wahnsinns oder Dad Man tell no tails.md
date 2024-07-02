@@ -43,7 +43,7 @@ _Leiser Nieselregen beginnt das Deck zu benetzen als das Schiff geradewegs auf e
 Ralf : Braun, Spitzbart, hat ultra Angst vor der See (was wenn da Kraken)
 Viola (Elfe): Will Schätze suchen, Elfen-Archologin
 Darvin (Mensch): Auf Handelsreise um Verträge zwischen Inseln auszuhandeln
-Schogart : 
+Schogart (Schweinemensch): Auf Weltreise als Barde
 
 ### Interactibles auf dem Schiff
 **Deck**
@@ -58,7 +58,17 @@ Schogart :
 
 ## Akt 2: Shipcrashed
 ### Am Strand
-### In der Höhle
+Das Schiff ist an einem Felsen verschollen, allerdings noch tief im Wasser, es nieselt nur noch leicht. Die Überlebenden schaffen sich ans Ufer über Holzbretter. Ein schiefer Stein ragt aus dem Sandboden, in den ein Symbol wie ein F eingeritzt ist und verspricht Schutz.
+
+Okay: Niels, Timmy
+Verletzt: Viola, Ralf, Darvin
+Nicht ansprechbar: Svelte, Marlin, Remus, Schogart
+Verschwunden: Yan, Miranda, Angus
+
+## Der Berg
+Es gibt vier Eingänge zum Berg, gekennzeichnet mit Tieren:
+Norden: Echse, Osten: Schlange, Süden: Käfer, Westen: Ziege
+### In der Höhle unter der Treppe zum Gipfel
 Ein Podest mit einer Map der Insel.
 ###
 

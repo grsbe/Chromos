@@ -23,9 +23,11 @@
             "id": "1357f0ae3d27ba10",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Adventures/WrittenOut/Insel des Wahnsinns.md"
+                "file": "Adventures/EncounterTables/Labyrinth Encounter.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/WrittenOut/Insel des Wahnsinns.md",
+                "file": "Adventures/EncounterTables/Labyrinth Encounter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/WrittenOut/Insel des Wahnsinns.md",
+                "file": "Adventures/EncounterTables/Labyrinth Encounter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/WrittenOut/Insel des Wahnsinns.md"
+                "file": "Adventures/EncounterTables/Labyrinth Encounter.md"
               }
             }
           }
@@ -164,7 +166,13 @@
   },
   "active": "1357f0ae3d27ba10",
   "lastOpenFiles": [
+    "Adventures/EncounterTables/Dschungel Encounter.md",
+    "Adventures/EncounterTables/Labyrinth Encounter.md",
+    "Adventures/WrittenOut/Frozen.md",
+    "Adventures/EncounterTables",
+    "Adventures/NPCs/Amazin.md",
     "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/WrittenOut/Insel des Wahnsinns.md",
     "Adventures/Ideas Mythandras.md",
     "Taijima/Cores/Element Kombinationen und Base Fähigkeiten.md",
     "Taijima/Cores/magischer Core.md",
@@ -186,20 +194,14 @@
     "Adventures/Mechanics/Gambling.md",
     "Adventures/Mechanics",
     "Adventures/WrittenOut/The Campagne in Exos.md",
-    "Adventures/WrittenOut/Insel des Wahnsinns.md",
     "Excalidraw",
     "Mythandras/Phantheon/Die neuen Götter.md",
-    "Adventures/WrittenOut/Frozen.md",
     "Adventures/WrittenOut",
-    "Adventures/Organisations/Polus magier gilde der Zukunft.md",
-    "Adventures/Organisations/Amazin.md",
-    "Adventures/WrittenOut/A wild sheep chase.md",
     "RandomStuff/Warhammer",
     "Mythandras/Phantheon",
     "Adventures/Organisations/Untitled",
     "Adventures/Organisations",
     "Untitled",
-    "Adventures/NPCs",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
     "Haven/HavenMap.svg",
     "Mythandras/Exos/ExosExcal.svg",
