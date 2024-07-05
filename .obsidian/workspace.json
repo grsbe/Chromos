@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a103c90347d10f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +174,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1357f0ae3d27ba10",
+  "active": "9a103c90347d10f6",
   "lastOpenFiles": [
     "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/EncounterTables/Labyrinth Encounter.md",
