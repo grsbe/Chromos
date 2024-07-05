@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/EncounterTables/Labyrinth Encounter.md",
+                "file": "Adventures/Mechanics/Fishing.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9a103c90347d10f6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/EncounterTables/Labyrinth Encounter.md",
+                "file": "Adventures/Mechanics/Fishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/EncounterTables/Labyrinth Encounter.md",
+                "file": "Adventures/Mechanics/Fishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/EncounterTables/Labyrinth Encounter.md"
+                "file": "Adventures/Mechanics/Fishing.md"
               }
             }
           }
@@ -174,14 +164,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9a103c90347d10f6",
+  "active": "1357f0ae3d27ba10",
   "lastOpenFiles": [
-    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
-    "Adventures/EncounterTables/Labyrinth Encounter.md",
+    "Adventures/NPCs/Amazin.md",
     "Adventures/EncounterTables/Dschungel Encounter.md",
+    "Adventures/EncounterTables/Labyrinth Encounter.md",
+    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/WrittenOut/Frozen.md",
     "Adventures/EncounterTables",
-    "Adventures/NPCs/Amazin.md",
     "Adventures/WrittenOut/Insel des Wahnsinns.md",
     "Adventures/Ideas Mythandras.md",
     "Taijima/Cores/Element Kombinationen und Base Fähigkeiten.md",

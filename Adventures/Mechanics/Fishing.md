@@ -4,15 +4,15 @@ Es muss nicht eine Person alle Würfe machen sondern man kann sich gegenseitig h
 Jeder Wurf -10 wird auf den finalen Wurf mit aufaddiert:
 
 1. Wisdomwurf -10 um guten Fischplatz auszuwählen
-2. Angelqualität bestimmen (-5 bis +25)
-3. Köderqualität bestimmen (-5 bis +25)
+2. Angelqualität bestimmen (-5 bis +25) (10)
+3. Köderqualität bestimmen (-5 bis +25) (10)
 4. Dexterity -10 um die Angel zielsicher an einen guten Platz zu werfen.
-5. Wettereffekt (-25 bis +25 + special fish)
+5. Wettereffekt (-25 bis +25 + special fish) (0)
 
 1: Immediate Rubbish
-20: Glitzernder- Präfix
+20: Glitzernder- Präfix, and ignore minus
 
-Start at -25
+Start at 0
 d100
 0. rubish
 1. rubish
@@ -21,14 +21,14 @@ d100
 4. -10
 5. +0
 6. -15
-7. bad
+7. -5
 8. -10
 9. -15
 10. +0
 11. bad
 12. -15
 13. bad
-14. bad
+14. -5
 15. -15
 16. -10
 17. bad
@@ -40,78 +40,97 @@ d100
 23. mid
 24. -15
 25. +0
-26. f
+26. mid
 27. -15
 28. -10
-29. f
+29. mid
 30. -15
-31. f
+31. mid
 32. -10
 33. -15
-34. f
+34. mid
 35. +0
 36. -15
-37. f
-38. f
+37. mid
+38. mid
 39. -15
 40. -10
-41.  
+41.  mid
 42. -15
-43. f
+43. mid
 44. -10
 45. -15
-46. f
-47. f
+46. mid
+47. mid
 48. -15
-49. f
+49. -5
 50. +0
 51. -15
 52. -10
-53. f
+53. great
 54. -15
 55. +0
 56. -10
 57. -15
-58. f
-59. f
+58. great
+59. great
 60. -15
-61. f
-62. f
+61. great
+62. great
 63. -15
 64. -10
 65. +0
 66. -15
-67. f
+67. great
 68. -10
 69. -15
 70. +0
-71. f
+71. great
 72. -15
-73. f
-74. f
+73. great
+74. great
 75. -15
 76. -10
-77. f
+77. -5
 78. -15
-79. f
+79. rare
 80. -10
 81. -15
-82. f
-83. f
+82. rare
+83. rare
 84. -15
 85. +0
-86. f
+86. rare
 87. -15
 88. -10
-89. f
+89. rare
 90. -15
-91. f
+91. -5
 92. -10
 93. -15
-94. f
+94. epic
 95. +0
 96. -15
-97. f
-98. f
+97. epic
+98. epic
 99. -15
-100. Legendary
+100. legendary
+
+Namen
+https://perchance.org/fish-species
+
+Fischklassen:
+
+Rubbish: Schuhe, Buch,
+Bad/Common, Giftig, Exaustion, Verlangsamung, Rülpsen
+Mid, Well sated +1 bonus on next skill check
+Rare, 
+Epic
+Legendary, Fliegen, Sinnesorgan (Augen/Ohren) hat True perception, +1d4 random stat, Elementar breathe attack, Speed, Treasure artifact
+
+
+
+
+
+
+
