@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/EncounterTables/Dschungel Encounter.md",
+                "file": "Taijima/Cores/magischer Core.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1357f0ae3d27ba10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Items/Tables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/EncounterTables/Dschungel Encounter.md",
+                "file": "Adventures/Items/Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/EncounterTables/Dschungel Encounter.md",
+                "file": "Adventures/Items/Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/EncounterTables/Dschungel Encounter.md"
+                "file": "Adventures/Items/Tables.md"
               }
             }
           }
@@ -134,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,48 +158,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "13dc70c2e0a1780e",
+  "active": "1357f0ae3d27ba10",
   "lastOpenFiles": [
-    "Adventures/EncounterTables/Labyrinth Encounter.md",
+    "Adventures/Mechanics/Fishing.md",
+    "Adventures/Items/Tables.md",
     "Adventures/EncounterTables/Dschungel Encounter.md",
+    "Adventures/EncounterTables/Labyrinth Encounter.md",
     "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/Mechanics/Gambling.md",
+    "Adventures/Items/Useless magical spells.md",
+    "Adventures/Items/Random magische Effekte.md",
+    "Adventures/NPCs/Amazin.md",
+    "Adventures/WrittenOut/Frozen.md",
+    "Adventures/EncounterTables",
     "Adventures/WrittenOut/Insel des Wahnsinns.md",
-    "Adventures/WrittenOut/The Campagne in Exos.md",
-    "Taijima/Cores/magischer Core.md",
+    "Adventures/Ideas Mythandras.md",
     "Taijima/Cores/Element Kombinationen und Base Fähigkeiten.md",
+    "Taijima/Cores/magischer Core.md",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.md",
+    "Mythandras/Phantheon/Das alte Pantheon.md",
+    "Mythandras/Mechaniken/Magie.md",
+    "Mythandras/Mechaniken/Lumisbaum.md",
+    "Mythandras/Mechaniken/Rassen in Mythandras.md",
+    "Mythandras/Mechaniken/Magische Kristalle.md",
     "Taijima/Cores/Cores.md",
     "Taijima/Cores",
-    "Adventures/Mechanics/Shops.md",
-    "Adventures/Mechanics/Gambling.md",
-    "Adventures/Mechanics/Fishing.md",
+    "Taijima/Klassenübersicht.md",
+    "Taijima/Levels/Levels.md",
+    "Taijima/Taijima.md",
+    "Taijima/Damagetypes.md",
+    "Haven/Haven.md",
     "Adventures/Mechanics",
-    "Adventures/EncounterTables",
     "Excalidraw",
-    "Mythandras/Phantheon/Die neuen Götter.md",
-    "Mythandras/Phantheon/Das alte Pantheon.md",
-    "Adventures/WrittenOut/Frozen.md",
     "Adventures/WrittenOut",
-    "Adventures/Organisations/Polus magier gilde der Zukunft.md",
-    "Adventures/Organisations/Amazin.md",
-    "Adventures/WrittenOut/A wild sheep chase.md",
-    "Adventures/Ideas Mythandras.md",
-    "Adventures/Moral dilemma.md",
-    "Chromos.md",
     "RandomStuff/Warhammer",
     "Mythandras/Phantheon",
-    "Mythandras/Exos/Fe'Ris/Parador.md",
-    "Adventures/Items/Random magische Effekte.md",
-    "Mythandras/Exos/Exosgebirge/Abraxus.md",
-    "Mythandras/MythandrasExcali.md",
     "Adventures/Organisations/Untitled",
-    "Mythandras/Mythandras.md",
     "Adventures/Organisations",
     "Untitled",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",

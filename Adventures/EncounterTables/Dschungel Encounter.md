@@ -9,3 +9,11 @@ Schlange
 Netzseilfalle
 Falling Pits
 Vereinzelte Hasen
+
+
+
+
+
+
+Magical Plants:
+https://www.reddit.com/r/d100/comments/cjnrex/d100_fantasy_plants/

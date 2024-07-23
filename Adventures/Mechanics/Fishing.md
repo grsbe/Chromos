@@ -121,11 +121,14 @@ https://perchance.org/fish-species
 
 Fischklassen:
 
-Rubbish: Schuhe, Buch,
+MagicEffects
+https://www.reddit.com/r/d100/comments/kpqfhg/lets_build_magical_plantsherbs_and_their_effects/?chainedPosts=t3_cjnrex
+
+Rubbish: Schuhe, Buch (smut?),
 Bad/Common, Giftig, Exaustion, Verlangsamung, Rülpsen
 Mid, Well sated +1 bonus on next skill check
-Rare, 
-Epic
+Rare, well sated, scjatzkarte in flasche?
+Epic speak fish, hover, speed, fire breath,
 Legendary, Fliegen, Sinnesorgan (Augen/Ohren) hat True perception, +1d4 random stat, Elementar breathe attack, Speed, Treasure artifact
 
 

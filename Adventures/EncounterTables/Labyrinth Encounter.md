@@ -1,4 +1,11 @@
 
+Paare:
+unterwasserfluss
+markierungen im Stein
+
+
+
+
 ### Rabenmann Corvus (Champion der Freiheit und des Chaos)
 "Tretet ein, werte Wanderer," beginnt er mit einer Stimme, die sowohl sanft als auch eindringlich klingt. "Lasst euch nicht von meinem Anblick täuschen, denn in diesen Hallen findet ihr mehr als das Auge erblicken kann. Ich bin Corvus, der Hüter der verborgenen Schätze und der Wächter des Wissens vergangener Zeiten."
 
