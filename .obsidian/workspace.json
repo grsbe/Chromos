@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "336aa95689aeb63c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +174,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1357f0ae3d27ba10",
+  "active": "336aa95689aeb63c",
   "lastOpenFiles": [
     "Adventures/Mechanics/Fishing.md",
     "Adventures/Items/Tables.md",
