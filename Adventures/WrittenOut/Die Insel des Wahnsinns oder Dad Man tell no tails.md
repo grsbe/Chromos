@@ -43,16 +43,18 @@ Will die Welt erforsche, ihr großer Traum ist ihr eigenes Schiff mit dem sie di
 Neugierig, Entschlossen Beschützend
 
 ##### Schiffskoch und Matrose Svelte
+Braune Locken, Große Locke auf der Stirn Großes Lächeln
 Liebt fische und bereitet sie auf alle möglichen arten vor
 Hat sich verschuldet in Naraka aus dem Süden und ist auf Schiffen geflohen
 
 ##### Generic Matrose 1: Angus
+Spitzbart, dicklich
 Liebt Angeln und Schrimps, hat immer Angel dabei
 stoisch, hat seine Frau verloren, seitdem wollte er neues sehen
 
 ##### Freie Passagiere
 Ralf : Braun, Spitzbart, hat ultra Angst vor der See (was wenn da Kraken), händler
-Viola (Elfe): Will Schätze suchen, Elfen-Archologin die die Geschichte der Welt erkunden möchte. hat von Artefakten auf Elianos gehört (das in der Lage sein soll Seelen zu manipulieren?)
+Viola (Elfe): Violette Haare, Runde Brille, Will Schätze suchen, Elfen-Archologin die die Geschichte der Welt erkunden möchte. hat von Artefakten auf Elianos gehört (das in der Lage sein soll Seelen zu manipulieren?)
 Schogart (Schweinemensch): Auf Weltreise als Barde, will die Helden auf Elianor besuchen
 
 ### Interactibles auf dem Schiff
