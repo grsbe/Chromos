@@ -1,29 +1,22 @@
 Medium Humanoid, Neutral Evil
-**Armor Class** 10 (13 with armor)
-**Hit Points** 18-33-52 (6d8 + 6)
+**Armor Class** 11 
+**Hit Points** 25 
 **Speed** 30ft  
 
-| Str    | Dex    | Con    | Int    | Wis    | Cha    |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-| 12(+1) | 12(+1) | 13(+1) | 14(+2) | 10(+0) | 11(+0) |
+| Str    | Dex    | Con    | Int    | Wis   | Cha    |
+| ------ | ------ | ------ | ------ | ----- | ------ |
+| 12(+1) | 12(+1) | 14(+2) | 10(+2) | 8(-1) | 11(+0) |
 **Senses** passive Perception 10
-**Languages** Common, Elven, Draconic
-**Challenge** hopefully 1/2
+**Languages** Common
+**Challenge**  1/2
 
 ---
-**Spellcasting** 
-Eith is a lvl 2 WIzard and casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12, spells to hit +4)
+Multiattack.
+The thug makes two melee attacks.
+Scimitar
+_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
 
-Cantrips: Ray of frost, Gust, Absorb Elements, Shocking Grasp
-First level: Thunderwave, Grease
-Second level: Enlarge/Reduce
+Blowdart.
+_Ranged Weapon Attack:_ +5 to hit, range 30/60 ft., one target. _Hit:_ 1 piercing damage.
+the target must succeed on a DC 14 Constitution saving throw or fall asleep.
 
----
-**Actions**
-**Dagger** *Melee or ranged weapon attack: +5 to hit, reach 5 ft. or
-range 20/60 ft., one target. Hit: 4 (1 d4 + 2) piercing damage.*
-
-**Shocking Grasp** *Melee or ranged weapon attack: +5 to hit, reach 5 ft. or
-range 20/60 ft., one target. Hit: 4 (1 d4 + 2) piercing damage.
-
-Lair Actions

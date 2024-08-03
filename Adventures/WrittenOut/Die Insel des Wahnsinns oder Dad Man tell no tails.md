@@ -35,6 +35,7 @@ Emotion: Caring but trocken
 Von den Thai Inseln Mykonis auf der Suche nach indigener roher Magie
 Blaue Schleife, die die dunkelblauen Haare zurückhalten
 Neugierig, Einfühlsam
+Gibt eine Speak to Scorpion Scroll
 
 ##### Erster Maatin: Tinnie
 Aus Exos, Halbelfin +Dex, -Con  rote Haare stark muskulär und beschützend
@@ -141,6 +142,16 @@ Statue, Schogard und Svelte liegen da, verletzt, Svelte verartzet Schogards bein
 Bei 7: Angler Neff Angelt fröhlich vor sich hin
 Wird versuchen Hilfe anzubieten, das Team in ihr Camp zu locken und herauszufinden
 
+
+Bei 6: Schrein mit Icon wie auf Niels 
+Getrocknetes Blut auf einem Steinblock
+## Szene: Im Kannibalen Camp
+Falls friedly: Mick läd die Truppe zum Essen ein und versichert Leute loszuschicken die die anderen sicher ins Camp führen
+Beim Banket ist das ganze Dorf beteiligt, es gibt allerdings Menschenfleisch 
+
+Vor dem Mahl, im Kreis vereint, Ehren wir, was uns heut' vereint. Eith, du Gott der Einigkeit, Segne uns in Harmonie und Heiterkeit. Lass uns spüren, was dich ehrt, Dass Einheit unser Mahl beschert. In Dankbarkeit sei's dir geweiht, Eith, du Gott der Ganzheit und Einheit.
+
+
 ## Szene: Amberg und Labyrinth
 Es gibt vier Eingänge zum Berg, der östliche liegt allerdings im Wasser
 
@@ -148,7 +159,7 @@ Im Berg befindet sich ein Labyrinth. Wir spielen Memory 5x5 oder 6x6, einzelne K
 
 Einzelne Karten geben auch lore wieder oder schaurige Erzählungen.
 
-Der Berg ist definitiv Menschen bearbeitet, und zeigt 
+Der Berg ist definitiv Menschen bearbeitet
 ### Raben Mann
 Der Weg führt in eine kleine lichtbeschienene Höhle in der ein Mann im Rabenkostüm (oder ist es ein Kostüm?) sitzt. Er trägt eine schwarze Rabenmaske und einen schwarzen Umhang der nur aus schwarzen Federn genäht scheint.
 "Tretet ein meine "
@@ -157,6 +168,9 @@ Ein Podest mit einer Map der Insel, steht in der Mitte. Dazu liegen überall Run
 
 Pink-weiße Quarzähnliche Adern durchziehen stärker die Wände. aufmerksame Abenteurer hören leise Schreie im Kopf wenn sie die Adern berühren. (DC 18 Perception)
 An den Wänden befindet sich eine Wandmalerei, die darstellt wie frühere Ahnen ihre weisesten Seelen dem Kristall geopfert haben um auf ewig im Orakel die Ahnen befragen zu können. 
-###
+
+
+Ein weg hinter der Tür führt zum schiff 
 
 ## Akt 3: Am Gipfel
+Eith empfängt sie, und will sie konvertieren beantwortet fragen falls welche gestellt werden dann endboss fight

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Eith.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Eith.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Eith.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Eith.md"
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md"
               }
             }
           }
@@ -166,22 +166,24 @@
   },
   "active": "1357f0ae3d27ba10",
   "lastOpenFiles": [
-    "Adventures/Mechanics/Fishing.md",
-    "Adventures/Items/Useless magical spells.md",
-    "Adventures/Items/Random magische Effekte.md",
-    "Adventures/Items/Tables.md",
+    "Adventures/EncounterTables/Dschungel Encounter.md",
+    "Adventures/Enemy Statblocks/Snakes.md",
+    "Adventures/Enemy Statblocks/Skorpion.md",
     "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
-    "Adventures/Enemy Statblocks/Schaf.md",
+    "Adventures/WrittenOut/Insel des Wahnsinns.md",
     "Adventures/Enemy Statblocks/Cannibal.md",
     "Adventures/Enemy Statblocks/Eith.md",
+    "Adventures/Items/Useless magical spells.md",
+    "Adventures/Items/Random magische Effekte.md",
+    "Adventures/Mechanics/Fishing.md",
+    "Adventures/Items/Tables.md",
+    "Adventures/Enemy Statblocks/Schaf.md",
     "Adventures/Enemy Statblocks/Faluzivatius.md",
     "Adventures/WrittenOut/The Campagne in Exos.md",
-    "Adventures/WrittenOut/Insel des Wahnsinns.md",
     "Adventures/Mechanics/Gambling.md",
     "Adventures/WrittenOut/Frozen.md",
     "Mythandras/Exos/Exoskarte.md",
     "Adventures/WrittenOut/A wild sheep chase.md",
-    "Adventures/EncounterTables/Dschungel Encounter.md",
     "Adventures/EncounterTables/Labyrinth Encounter.md",
     "Adventures/NPCs/Amazin.md",
     "Adventures/EncounterTables",
@@ -191,8 +193,6 @@
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.md",
     "Mythandras/Phantheon/Das alte Pantheon.md",
     "Mythandras/Mechaniken/Magie.md",
-    "Mythandras/Mechaniken/Lumisbaum.md",
-    "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Taijima/Cores",
     "Adventures/Mechanics",
     "Excalidraw",
