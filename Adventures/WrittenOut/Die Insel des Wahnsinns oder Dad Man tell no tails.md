@@ -21,43 +21,46 @@ _Leiser Nieselregen beginnt das Deck zu benetzen als das Schiff geradewegs auf e
 
 ### NPCs auf dem Schiff
 
-##### Kapitän: Yan Stögerlei
+##### Kapitän: Yan
 Mensch, M, Wis+, Dex-, Entschlossen
 Braune Halbglatze mit Steampunkbrille auf dem Kopf, Kapitänsfransen auf der Schulter
 Goal: Geld verdienen für seine Familie daheim und die Crew
 Bond: Familie, Crew, hasst Piraten Ezekil
 Who: 
 ##### Matrose: Niels
+Narbe über einem Auge, sieht aber noch aus beiden, Hat ein Amulett mit merkwürdigem Symbol
+Emotion: Caring but trocken
 
 ##### Seenavigatorin: Miranda
 Von den Thai Inseln Mykonis auf der Suche nach indigener roher Magie
+Blaue Schleife, die die dunkelblauen Haare zurückhalten
+Neugierig, Einfühlsam
 
 ##### Erster Maatin: Tinnie
+Aus Exos, Halbelfin +Dex, -Con  rote Haare stark muskulär und beschützend
+Will die Welt erforsche, ihr großer Traum ist ihr eigenes Schiff mit dem sie die Welt bereisen kann.
+Neugierig, Entschlossen Beschützend
 
 ##### Schiffskoch und Matrose Svelte
+Liebt fische und bereitet sie auf alle möglichen arten vor
+Hat sich verschuldet in Naraka aus dem Süden und ist auf Schiffen geflohen
 
-##### Schiffsarzt und Matrose Angus
-Hat sich verschuldet aus dem Süden und ist auf Schiffe geflohen
-
-##### Generic Matrose 1: Marlin
+##### Generic Matrose 1: Angus
 Liebt Angeln und Schrimps, hat immer Angel dabei
-##### Generic Matrose 2: Remus
-Ist nicht sehr gesprächich
-
+stoisch, hat seine Frau verloren, seitdem wollte er neues sehen
 
 ##### Freie Passagiere
-Ralf : Braun, Spitzbart, hat ultra Angst vor der See (was wenn da Kraken)
-Viola (Elfe): Will Schätze suchen, Elfen-Archologin
-Darvia (Mensch): Auf Handelsreise um Verträge zwischen Inseln auszuhandeln
-Schogart (Schweinemensch): Auf Weltreise als Barde
+Ralf : Braun, Spitzbart, hat ultra Angst vor der See (was wenn da Kraken), händler
+Viola (Elfe): Will Schätze suchen, Elfen-Archologin die die Geschichte der Welt erkunden möchte. hat von Artefakten auf Elianos gehört (das in der Lage sein soll Seelen zu manipulieren?)
+Schogart (Schweinemensch): Auf Weltreise als Barde, will die Helden auf Elianor besuchen
 
 ### Interactibles auf dem Schiff
 **Deck**
 - Fischen
 - Gamblen
 - Mit Leuten reden
-
 ## Akt 1: Der Sturm
+Yan verkündet dass das Schiff sicher gemacht werden soll. Der Sturm ist unausweichlich, er hat sich mit Miranda besprochen
 
 (Persuation 15) lieber außenrum segeln, -> der sturm wird aktiv auf das Schiff zu fliegen
 
@@ -65,18 +68,71 @@ Das Schiff wetterfest machen! Der Kapitän wird Aufforderungen raushauen an die 
 
 Segelreffen: DC 10 Str
 Dinge fest binden: Wis 5
-Die Mitfahrer beruhigen:  
+Die Mitfahrer beruhigen:  Überzeugen etc DC 5
 
+
+
+"""
+Die düstere See war ein endloser, wogender Teppich aus pechschwarzem Wasser, der in der Ferne vom drohenden Himmel fast nahtlos umschlungen wurde. Das alte, stolze Schiff kämpfte sich durch die aufgebrachte See, die Wellen schnaubten und knurrten wie wütende Bestien. Der Wind heulte durch die Takelage, ließ die Segel wie wild aufschreien und peitschte den Regen wie nadelspitze Geschosse auf die Deckplanken.
+
+Am Horizont zuckten die ersten Blitze, durchbrachen die Dunkelheit wie flammende Speere und warfen gespenstische Schatten über das Deck. Der Sturm zog mit erschreckender Geschwindigkeit heran, als ob die Elemente selbst das Schiff verschlingen wollten. Die Wellen türmten sich immer höher auf, gewaltige Wasserwände, die drohend über dem Schiff zusammenschlugen.
+
+Der Himmel öffnete sich und entließ ein Inferno aus Blitzen und Donner. Ein gleißender Blitz traf den Hauptmast, ein blendender Blitz, der das Holz zersplitterte und ein ohrenbetäubendes Krachen hinterließ. 
+Perception 10: Große Welle von rechts, 20: Der Kapitän wird auch getroffen und 
+
+Funken stoben in alle Richtungen, als der Mast in sich zusammenbrach und das Deck unter der Wucht ächzte und stöhnte. Der Geruch von verbranntem Holz und Ozongeruch mischte sich mit der salzigen Gischt.
+Dex 10 falls jemand ausweichen muss
+
+Die Matrosen schrien gegen den Sturm an, ihre Stimmen wurden vom krachenden Wind verschluckt.
+Sie klammerten sich verzweifelt an die Reling und die Taue, doch die Gewalt der Natur ließ ihnen keine Chance. Eine gigantische Welle bäumte sich vor dem Bug auf, erhob sich zu einer unvorstellbaren Höhe und stürzte mit brutaler Macht herab. Das Schiff ächzte und stöhnte, als die Welle es zur Seite riss, Wasser über das Deck schwappte und alles in ein chaotisches Durcheinander verwandelte.
+
+DC 15 str um sich festzuhalten
+DC 15 dex
+
+Ein weiterer Blitz erhellte die Szenerie, als das Schiff endgültig zu kentern begann. Die Welt schien still zu stehen, bevor das tosende Wasser alles verschlang. Die Matrosen wurden wie Spielzeugfiguren in die tobenden Fluten geschleudert, ihre Schreie verloren sich in der unbändigen Gewalt der See. 
+
+Die unermüdlichen Wellen schleuderten das Schiff gegen messerscharfen Klippen, die wie die Zähne eines uralten Seeungeheuers aus dem Wasser ragten und wie aus dem Nichts vor dem Schiff auftauchten. Das donnernde Krachen von Holz, das unter der gewaltigen Wucht splitterte, hallte durch die Nacht. Jeder Aufprall war wie ein gewaltiger Hammerschlag, der das Schiff erbarmungslos in Stücke riss.
+
+DC 15 dex/str
+
+Das Schiff, halb zerbrochen, trieb von den unbändigen Wellen hin und her geworfen, in Richtung einer finsteren, felsigen Insel, die wie eine bedrohliche Silhouette aus der Dunkelheit aufragte. Der Wind schrie und pfiff, peitschte Regen und Gischt unermüdlich gegen das erschütterte Wrack.
+DC 10 PErception: Das Schiff wird zerbersten
+Was macht ihr (etwa 10 sek noch übrig)
+Der Bug des Schiffes traf zuerst auf die Felsen, zerschellte und brach auseinander, als ob er aus Streichhölzern bestünde. Splitter und Trümmer flogen in alle Richtungen, während das Wrack gegen die Klippen gedrückt und von den Wellen zurückgezogen wurde, nur um erneut aufgeschmettert zu werden. Das Deck zerbarst, Planken wurden in die Höhe geschleudert, und die Takelage verfing sich in den scharfen Felszacken, zerrissen und zerrten an den letzten Überresten des stolzen Schiffes.
+
+Mit jedem erneuten Aufprall verformte sich der Rumpf weiter, bis schließlich die gesamte Struktur nachgab und das Schiff in zwei Hälften zerbrach.
 ## Akt 2: Shipcrashed
-### Am Strand
-Das Schiff ist an einem Felsen verschollen, allerdings noch tief im Wasser, es nieselt nur noch leicht. Die Überlebenden schaffen sich ans Ufer über Holzbretter. Ein schiefer Stein ragt aus dem Sandboden, in den ein Symbol wie ein F eingeritzt ist und verspricht Schutz.
+### Scene: Am Strand
+Das Schiff ist an einem Felsen verschollen, allerdings noch tief im Wasser, es nieselt nur noch leicht. Ihr befindet euch jetzt im Auge des Sturmes, der um die Insel herum hinwegfegt. 
+Was tut ihr?
 
+Die Überlebenden schaffen sich ans Ufer über Holzbretter. Ein schiefer Stein ragt aus dem Sandboden, in den ein Symbol wie ein F eingeritzt ist und verspricht Schutz.
+
+Bei 1: 
 Okay: Niels, Tinnie
-Verletzt: Viola, Ralf, Darvin
-Nicht ansprechbar: Svelte, Marlin, Remus, Schogart
-Verschwunden: Yan, Miranda, Angus
+Verletzt: Viola, Ralf, Angus
 
-## Der Berg
+Bei 2: 
+Verletzt: Schogart,
+
+Bei 
+
+
+Verschwunden: Yan, Miranda, (Yan ist tot, Miranda und Svelte)
+
+
+# Genereller Ablauf hier:
+Das Team sollte sich um die Verletzten kümmern und die verschwundenen suchen. Tinnie wird sehr stark dafür plädojieren. Insbesondere will sie dass ihr den Kapitän wieder findet, der Tot bei den Kannibalen aufgeschwemmt wurde.
+
+### Szene in den Wald:
+
+Encounter: Schlangen und Mäuse
+Encounter: Fallen
+
+DC 18: Ihr seid nicht allen, hier sind Menschen spuren
+
+
+## Szene: Amberg
 Es gibt vier Eingänge zum Berg, gekennzeichnet mit Tieren:
 Norden: Echse, Osten: Schlange, Süden: Käfer, Westen: Ziege
 
