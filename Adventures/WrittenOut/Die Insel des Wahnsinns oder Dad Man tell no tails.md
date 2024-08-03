@@ -128,6 +128,8 @@ Prio: Unterschlupf, Essen, Erkundung
 
 Ab Nachmittags suchen die Kannibalen aktiv, nachdem sie Miranda und Ralf festgenommen und eingesperrt haben, Bei Sonnenuntergang finden sie das Lager
 Niels wird aktiv sich wegschleichen um nach Essen zu suchen um die Kannibalen zu alarmieren, wenn er das nicht schafft finden die Kannibalen das Lager erst am nächsten Tag
+
+Die Kannibalen Ambushen die Helden Abends mit Fallen
 ### Szene im Wald:
 
 Encounter: Schlangen und Mäuse, Beeren
@@ -135,13 +137,11 @@ Nur Richtung 6: Encounter: Fallen
 
 DC 18: Ihr seid nicht allen, hier sind Menschen spuren
 
-
 Bei 2
 Statue, Schogard und Svelte liegen da, verletzt, Svelte verartzet Schogards bein und ist bereit das Lager auch zu versorgen
 
 Bei 7: Angler Neff Angelt fröhlich vor sich hin
 Wird versuchen Hilfe anzubieten, das Team in ihr Camp zu locken und herauszufinden
-
 
 Bei 6: Schrein mit Icon wie auf Niels 
 Getrocknetes Blut auf einem Steinblock

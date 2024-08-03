@@ -13,3 +13,5 @@ Ertappen sich gegenseitig beide passiert roleplay lol.
 Jeder setzt eigenen DC für dexterity check, wer den höchsten gewinnt kriegt den Preis, wer verliert kriegt 1d4-1 dmg
 
 # Darts
+
+![[Pasted image 20240804010822.png]]

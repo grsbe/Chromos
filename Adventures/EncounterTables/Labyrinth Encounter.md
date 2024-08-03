@@ -6,7 +6,7 @@ markierungen im Stein
 
 
 
-### Rabenmann Corvus (Champion der Freiheit und des Chaos)
+### Rabenmann Corvus Trix(Champion der Freiheit und des Chaos)
 "Tretet ein, werte Wanderer," beginnt er mit einer Stimme, die sowohl sanft als auch eindringlich klingt. "Lasst euch nicht von meinem Anblick täuschen, denn in diesen Hallen findet ihr mehr als das Auge erblicken kann. Ich bin Corvus, der Hüter der verborgenen Schätze und der Wächter des Wissens vergangener Zeiten."
 
 Er erhebt sich langsam, sein Umhang raschelt leise, als die Federn sich bewegen. "Es ist selten, dass sich die Wege der Sterblichen mit den meinen kreuzen. Doch ihr, die ihr diesen Pfad beschritten habt, seid wohl würdig, die Geheimnisse meiner Sammlung zu ergründen."
@@ -46,7 +46,7 @@ Mit einem letzten, geheimnisvollen Lächeln zieht er sich zurück und lässt den
 #### **Feder des Rabengottes**
 
 - **Beschreibung:** Eine einzelne schwarze Feder, die schimmerndes, magisches Licht ausstrahlt.
-- **Effekt:** Einmal pro Tag kann der Träger als Bonus aktion springen und ist in der Lage für die seine Mobility zu gleiten (also Mobility = Fliegen aber nur abwärts)
+- **Effekt:** Einmal pro Tag kann der Träger als Bonus aktion springen aktivieren und ist in der Lage für die seine Mobility zu gleiten (also Mobility = Fliegen aber nur abwärts)
 
 ### Beim Verkauf
 

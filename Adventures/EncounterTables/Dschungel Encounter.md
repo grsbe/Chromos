@@ -13,7 +13,7 @@ Fallen:
 Netzseilfalle
 Pitfall
 
-Bei beiden: Es wird einer gefangen
+Bei beiden: Es wird einer gefangen, dann tauchen 5-6 Kannibale auf
 
 
 Magical Plants: für effekte
