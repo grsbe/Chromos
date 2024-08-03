@@ -124,13 +124,22 @@ Verschwunden und Tot: Yan
 Das Team sollte sich um die Verletzten kümmern und die verschwundenen suchen. Tinnie wird sehr stark dafür plädojieren. Insbesondere will sie dass ihr den Kapitän wieder findet, der Tot bei den Kannibalen aufgeschwemmt wurde.
 
 Prio: Unterschlupf, Essen, Erkundung
-### Szene in den Wald:
+
+Ab Nachmittags suchen die Kannibalen aktiv, nachdem sie Miranda und Ralf festgenommen und eingesperrt haben, Bei Sonnenuntergang finden sie das Lager
+Niels wird aktiv sich wegschleichen um nach Essen zu suchen um die Kannibalen zu alarmieren, wenn er das nicht schafft finden die Kannibalen das Lager erst am nächsten Tag
+### Szene im Wald:
 
 Encounter: Schlangen und Mäuse, Beeren
 Nur Richtung 6: Encounter: Fallen
 
 DC 18: Ihr seid nicht allen, hier sind Menschen spuren
 
+
+Bei 2
+Statue, Schogard und Svelte liegen da, verletzt, Svelte verartzet Schogards bein und ist bereit das Lager auch zu versorgen
+
+Bei 7: Angler Neff Angelt fröhlich vor sich hin
+Wird versuchen Hilfe anzubieten, das Team in ihr Camp zu locken und herauszufinden
 
 ## Szene: Amberg und Labyrinth
 Es gibt vier Eingänge zum Berg, der östliche liegt allerdings im Wasser
