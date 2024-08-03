@@ -10,8 +10,7 @@ Es nieselt bereits leise, doch keiner der Matrosen schenkt dem leichten Regen Be
 
 Ein Matrose (Niels) erzählt gerade eine Matrosen Horrorgeschichte:
 _Regen._
-
-_"Horcht auf, Jungs und Mädels, denn ich habe eine Geschichte, die euch das Blut in den Adern gefrieren lassen wird", "Es ist eine Geschichte so alt wie das Meer selbst, von einer Insel, die vom Wahnsinn und der Verzweiflung verflucht ist."
+ "Es ist eine Geschichte so alt wie das Meer selbst, von einer Insel, die vom Wahnsinn und der Verzweiflung verflucht ist."
 "Es gibt Gerüchte unter den Seeleuten von einer verlassenen Insel, die von Zeit und Vernunft vergessen wurde", "Sie nennen sie die Insel des Wahnsinns, ein Ort, an dem die Luft von Bosheit trieft und die Bäume Flüche in den Wind flüstern."
 "Der Legende nach, begann alles vor langer langer Zeit mit Regen. Mit einem .. unnatürlichen Sturm. Man sagt wenn man genau hinhört, flüsterte der Sturm einem die Schreie seiner Opfer zu, während das knirschende Schiff langsam aber sicher seinen letzten Wellenritt vollbrachte und wie eine Marionette in die Untiefen der Insel des Wahnsinns zerschellt.
 Die Gruppe von Seeleuten strandete also an diesem verfluchten Ufer", "Zuerst dachten sie, es sei ein Segen, eine Zuflucht vor den Gefahren des Meeres. Aber als die Tage zu Wochen und die Wochen zu Monaten wurden und sie verzweifelt nach Rettung beteten, begannen sie etwas... Seltsames an der Insel zu spüren."
@@ -23,44 +22,56 @@ _Leiser Nieselregen beginnt das Deck zu benetzen als das Schiff geradewegs auf e
 ### NPCs auf dem Schiff
 
 ##### Kapitän: Yan Stögerlei
-
+Mensch, M, Wis+, Dex-, Entschlossen
+Braune Halbglatze mit Steampunkbrille auf dem Kopf, Kapitänsfransen auf der Schulter
+Goal: Geld verdienen für seine Familie daheim und die Crew
+Bond: Familie, Crew, hasst Piraten Ezekil
+Who: 
 ##### Matrose: Niels
 
 ##### Seenavigatorin: Miranda
+Von den Thai Inseln Mykonis auf der Suche nach indigener roher Magie
 
+##### Erster Maatin: Tinnie
 
-##### Erster Maat: Timmy
+##### Schiffskoch und Matrose Svelte
 
-##### Schiffskoch Svelte
-
-##### Schiffsarzt Angus
+##### Schiffsarzt und Matrose Angus
+Hat sich verschuldet aus dem Süden und ist auf Schiffe geflohen
 
 ##### Generic Matrose 1: Marlin
-
+Liebt Angeln und Schrimps, hat immer Angel dabei
 ##### Generic Matrose 2: Remus
+Ist nicht sehr gesprächich
+
 
 ##### Freie Passagiere
 Ralf : Braun, Spitzbart, hat ultra Angst vor der See (was wenn da Kraken)
 Viola (Elfe): Will Schätze suchen, Elfen-Archologin
-Darvin (Mensch): Auf Handelsreise um Verträge zwischen Inseln auszuhandeln
+Darvia (Mensch): Auf Handelsreise um Verträge zwischen Inseln auszuhandeln
 Schogart (Schweinemensch): Auf Weltreise als Barde
 
 ### Interactibles auf dem Schiff
 **Deck**
-- den Boden schrubben
-- Das Schiff seefest machen (mithelfen: Segel reffen, Dinge festbinden)
+- Fischen
+- Gamblen
+- Mit Leuten reden
 
 ## Akt 1: Der Sturm
 
 (Persuation 15) lieber außenrum segeln, -> der sturm wird aktiv auf das Schiff zu fliegen
 
+Das Schiff wetterfest machen! Der Kapitän wird Aufforderungen raushauen an die Crew und auch an das Team um das Schiff wetterfest zu machen.
 
+Segelreffen: DC 10 Str
+Dinge fest binden: Wis 5
+Die Mitfahrer beruhigen:  
 
 ## Akt 2: Shipcrashed
 ### Am Strand
 Das Schiff ist an einem Felsen verschollen, allerdings noch tief im Wasser, es nieselt nur noch leicht. Die Überlebenden schaffen sich ans Ufer über Holzbretter. Ein schiefer Stein ragt aus dem Sandboden, in den ein Symbol wie ein F eingeritzt ist und verspricht Schutz.
 
-Okay: Niels, Timmy
+Okay: Niels, Tinnie
 Verletzt: Viola, Ralf, Darvin
 Nicht ansprechbar: Svelte, Marlin, Remus, Schogart
 Verschwunden: Yan, Miranda, Angus

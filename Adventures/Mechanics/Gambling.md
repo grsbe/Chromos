@@ -8,7 +8,6 @@ Bei jedem Wurf hat jeder Spieler die Chance mit Slight of Hand das Ergebnis zu v
 Bei fail gewinnt automatisch der Gegner das Spiel oder der Spieler muss versuchen sich rauszureden.
 Ertappen sich gegenseitig beide passiert roleplay lol.
 
-
 # Messergame
 
 Jeder setzt eigenen DC für dexterity check, wer den höchsten gewinnt kriegt den Preis, wer verliert kriegt 1d4-1 dmg
