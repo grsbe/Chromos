@@ -1,9 +1,9 @@
 
+# Szene 1: Intro auf dem Schiff
+
 ## Intro
 Intro: Die Party segelt gerade durch das Thaymeer, wurde angeheuert als Kurier. In letzter Zeit verschwinden immer wieder Sendungen, und die Party soll das Schiff beschützen.
-
-Das Schiff fährt von einer der Hauptinseln Marekaz weiter nach Elianos um Ware zu transportieren.
-
+Das Schiff fährt von Natya aus (wo die Party ihr letztes Abenteuer hatte weiter nach nach Norden zu einer Insel namens Elianos um Ware zu transportieren.
 In der Ferne ist ein Unwetter, die Matrosen haben das Schiff bereits so gut es geht wetterfest gemacht und warten nun darauf da durch zu fahren.
 
 Es nieselt bereits leise, doch keiner der Matrosen schenkt dem leichten Regen Beachtung. Die Wolken bilden schemenhafte wechselhafte Formen, die ständig in sich verwoben ein unheilvolles Zwielicht bilden.

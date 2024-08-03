@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Items/Tables.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Items/Tables.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Items/Tables.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Items/Tables.md"
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md"
               }
             }
           }
@@ -166,11 +166,13 @@
   },
   "active": "1357f0ae3d27ba10",
   "lastOpenFiles": [
-    "Adventures/Mechanics/Fishing.md",
+    "Mythandras/Exos/Exoskarte.md",
+    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/WrittenOut/A wild sheep chase.md",
     "Adventures/Items/Tables.md",
+    "Adventures/Mechanics/Fishing.md",
     "Adventures/EncounterTables/Dschungel Encounter.md",
     "Adventures/EncounterTables/Labyrinth Encounter.md",
-    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/Mechanics/Gambling.md",
     "Adventures/Items/Useless magical spells.md",
     "Adventures/Items/Random magische Effekte.md",
@@ -192,8 +194,6 @@
     "Taijima/Klassenübersicht.md",
     "Taijima/Levels/Levels.md",
     "Taijima/Taijima.md",
-    "Taijima/Damagetypes.md",
-    "Haven/Haven.md",
     "Adventures/Mechanics",
     "Excalidraw",
     "Adventures/WrittenOut",
