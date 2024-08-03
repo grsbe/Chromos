@@ -110,36 +110,36 @@ Die Überlebenden schaffen sich ans Ufer über Holzbretter. Ein schiefer Stein r
 
 Bei 1: 
 Okay: Niels, Tinnie
-Verletzt: Viola, Ralf, Angus
+Verletzt: Viola,  Angus
 
 Bei 2: 
-Verletzt: Schogart,
+Verletzt: Schogart, Svelte
 
-Bei 
+Bei 3: Miranda, Ralf,
 
-
-Verschwunden: Yan, Miranda, (Yan ist tot, Miranda und Svelte)
+Verschwunden und Tot: Yan
 
 
 # Genereller Ablauf hier:
 Das Team sollte sich um die Verletzten kümmern und die verschwundenen suchen. Tinnie wird sehr stark dafür plädojieren. Insbesondere will sie dass ihr den Kapitän wieder findet, der Tot bei den Kannibalen aufgeschwemmt wurde.
 
+Prio: Unterschlupf, Essen, Erkundung
 ### Szene in den Wald:
 
-Encounter: Schlangen und Mäuse
-Encounter: Fallen
+Encounter: Schlangen und Mäuse, Beeren
+Nur Richtung 6: Encounter: Fallen
 
 DC 18: Ihr seid nicht allen, hier sind Menschen spuren
 
 
-## Szene: Amberg
-Es gibt vier Eingänge zum Berg, gekennzeichnet mit Tieren:
-Norden: Echse, Osten: Schlange, Süden: Käfer, Westen: Ziege
+## Szene: Amberg und Labyrinth
+Es gibt vier Eingänge zum Berg, der östliche liegt allerdings im Wasser
 
 Im Berg befindet sich ein Labyrinth. Wir spielen Memory 5x5 oder 6x6, einzelne Karten signalisieren Gegner, Ausgänge oder Schätze. Es müssen mindestens drei Paare gezogen werden damit ein Ausgang benutzt werden kann. Der ist allerdings dann permanent frei (für Intelligenz DC 10 um den Rückweg zu nutzen). Für die Mitte plus 4 Ausgänge sind also 12 Paare nötig, (der erste Eingang ist gratis) Dazu 2 Gegner Encounter, 2 Schätze und den Raben Mann
 
 Einzelne Karten geben auch lore wieder oder schaurige Erzählungen.
 
+Der Berg ist definitiv Menschen bearbeitet, und zeigt 
 ### Raben Mann
 Der Weg führt in eine kleine lichtbeschienene Höhle in der ein Mann im Rabenkostüm (oder ist es ein Kostüm?) sitzt. Er trägt eine schwarze Rabenmaske und einen schwarzen Umhang der nur aus schwarzen Federn genäht scheint.
 "Tretet ein meine "
