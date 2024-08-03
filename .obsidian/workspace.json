@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Items/Useless magical spells.md",
+                "file": "Adventures/Enemy Statblocks/Eith.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Items/Useless magical spells.md",
+                "file": "Adventures/Enemy Statblocks/Eith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Items/Useless magical spells.md",
+                "file": "Adventures/Enemy Statblocks/Eith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Items/Useless magical spells.md"
+                "file": "Adventures/Enemy Statblocks/Eith.md"
               }
             }
           }
@@ -166,8 +166,9 @@
   },
   "active": "1357f0ae3d27ba10",
   "lastOpenFiles": [
-    "Adventures/Items/Random magische Effekte.md",
+    "Adventures/Mechanics/Fishing.md",
     "Adventures/Items/Useless magical spells.md",
+    "Adventures/Items/Random magische Effekte.md",
     "Adventures/Items/Tables.md",
     "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/Enemy Statblocks/Schaf.md",
@@ -176,7 +177,6 @@
     "Adventures/Enemy Statblocks/Faluzivatius.md",
     "Adventures/WrittenOut/The Campagne in Exos.md",
     "Adventures/WrittenOut/Insel des Wahnsinns.md",
-    "Adventures/Mechanics/Fishing.md",
     "Adventures/Mechanics/Gambling.md",
     "Adventures/WrittenOut/Frozen.md",
     "Mythandras/Exos/Exoskarte.md",
