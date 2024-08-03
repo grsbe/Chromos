@@ -34,7 +34,7 @@ Mit einem letzten, geheimnisvollen Lächeln zieht er sich zurück und lässt den
 #### **Stein des Geisterraben**
 
 - **Beschreibung:** Ein kleiner, glatt polierter Stein, in dem das Bild eines Raben eingraviert ist.
-- **Effekt:** Der Träger kann einmal pro Woche einen Geisterraben beschwören, der für 8 Stunden als Bote oder Spion dient
+- **Effekt:** Der Träger kann einmal pro Woche einen Geisterraben beschwören, der für 1 Stunden als Bote oder Spion dient
 #### **Elixier des Rabenblicks**
 
 - **Beschreibung:** Ein kleines Fläschchen mit einer dunklen, schimmernden Flüssigkeit.
