@@ -147,13 +147,22 @@ Wird versuchen Hilfe anzubieten, das Team in ihr Camp zu locken und herauszufind
 
 Bei 6: Schrein mit Icon wie auf Niels 
 Getrocknetes Blut auf einem Steinblock
+
+Bei 14 Haus mit gefangenen und letzter Stein
 ## Szene: Im Kannibalen Camp
 Falls friedly: Mick läd die Truppe zum Essen ein und versichert Leute loszuschicken die die anderen sicher ins Camp führen
 Beim Banket ist das ganze Dorf beteiligt, es gibt allerdings Menschenfleisch 
 
 Vor dem Mahl, im Kreis vereint, Ehren wir, was uns heut' vereint. Eith, du Gott der Einigkeit, Segne uns in Harmonie und Heiterkeit. Lass uns spüren, was dich ehrt, Dass Einheit unser Mahl beschert. In Dankbarkeit sei's dir geweiht, Eith, du Gott der Ganzheit und Einheit.
 
+Falls nicht friendly: Fight until death All are sleep/incapacitated
+Die Kannibalen versuchen instantly sie zu incapacitaten mit Gift knives, 7-9 Cannibals
 
+Stealthy? Sollte möglich sein
+
+Bei Incapacitation werden sie plus die Gefangenen in die Arena verfrachtet und am Abend gegen den Riesen Skorpion gestellt.
+
+Sollte alles scheitern springt der Prinz in die Arena und will alle alleine fighten und stolpert.
 ## Szene: Amberg und Labyrinth
 Es gibt vier Eingänge zum Berg, der östliche liegt allerdings im Wasser
 
@@ -172,7 +181,9 @@ Pink-weiße Quarzähnliche Adern durchziehen stärker die Wände. aufmerksame Ab
 An den Wänden befindet sich eine Wandmalerei, die darstellt wie frühere Ahnen ihre weisesten Seelen dem Kristall geopfert haben um auf ewig im Orakel die Ahnen befragen zu können. 
 
 
-Ein weg hinter der Tür führt zum schiff 
+Ein weg hinter der Tür führt zum escape schiff 
 
 ## Akt 3: Am Gipfel
 Eith empfängt sie, und will sie konvertieren beantwortet fragen falls welche gestellt werden dann endboss fight
+
+Eith absorbiert die Seelen aus dem Stein der von der ganzen Insel aus Seele absorbiert
