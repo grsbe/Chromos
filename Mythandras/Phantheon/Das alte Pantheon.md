@@ -4,18 +4,18 @@ Die Götter befinden sich hauptsächlich in der Geisterwelt oder um Himmel oder 
 # Die alten Götter
 ## Die 10 Hauptgötter
 
-| Aspekt | Name | Element | Farbe | Generation |
-| ------ | ---- | ------- | ----- | ---------- |
-|Chaos|Noxus|Dunkelheit|Schwarz|1|
-|Ordnung|Artemetos|Licht|Weiß|1|
-|Liebe|Nymus|Feuer|Pink|2|
-|Krieg|Exos|Erde|Rot|2|
-|Raum|Boreos|Wind|Orange|2|
-|Zeit|Arcus|Eis|Azur|2|
-|Tradition/Natur|Echelos|Fauna/Flora|Grün|3|
-|Wandel/Geist|Minus|Psi|Purpur|3|
-|Kunst|Alanus|Energie|Wechselnd|3|
-|Balance|Eos|Wasser|Grau|3|
+| Aspekt          | Name      | Element     | Farbe     | Generation |
+| --------------- | --------- | ----------- | --------- | ---------- |
+| Chaos           | Noxus     | Dunkelheit  | Schwarz   | 1          |
+| Ordnung         | Artemetos | Licht       | Weiß      | 1          |
+| Liebe           | Nymus     | Feuer       | Pink      | 2          |
+| Krieg           | Exos      | Erde        | Rot       | 2          |
+| Raum            | Boreos    | Wind        | Orange    | 2          |
+| Zeit            | Arcus     | Eis         | Azur      | 2          |
+| Tradition/Natur | Echelos   | Fauna/Flora | Grün      | 3          |
+| Wandel/Geist    | Minus     | Psi         | Purpur    | 3          |
+| Kunst           | Alanus    | Energie     | Wechselnd | 3          |
+| Balance         | Eos       | Wasser      | Grau      | 3          |
 
 Die Namenendung verrät das Geschlecht (dem sich die Götter näher fühlen, btw die Lebe:
 - -us: weiblich
