@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md"
+                "file": "Adventures/Enemy Statblocks/Cannibal - Matrose.md"
               }
             }
           }
@@ -166,13 +166,13 @@
   },
   "active": "1357f0ae3d27ba10",
   "lastOpenFiles": [
-    "Mythandras/Phantheon/Das alte Pantheon.md",
     "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
-    "Adventures/Mechanics/Gambling.md",
-    "Adventures/Mechanics/Fishing.md",
-    "Adventures/Items/Tables.md",
-    "Adventures/EncounterTables/Dschungel Encounter.md",
     "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
+    "Mythandras/Phantheon/Das alte Pantheon.md",
+    "Adventures/Items/Tables.md",
+    "Adventures/Mechanics/Fishing.md",
+    "Adventures/Mechanics/Gambling.md",
+    "Adventures/EncounterTables/Dschungel Encounter.md",
     "Adventures/WrittenOut/A wild sheep chase.md",
     "Adventures/EncounterTables/Labyrinth Encounter.md",
     "Adventures/Enemy Statblocks/Eith.md",
