@@ -3,7 +3,8 @@ Paare:
 unterwasserfluss
 markierungen im Stein
 
-
+Lootgoblin
+Crazy Cannibals
 
 
 ### Rabenmann Corvus Trix(Champion der Freiheit und des Chaos)
