@@ -3,10 +3,16 @@ Paare:
 unterwasserfluss
 markierungen im Stein
 
+Lootgoblin
+Crazy Cannibals fight encounter
+Loot with Lore
+Schrein mit Erinnerungsstein
+Schatzkarte auf der Insel mit noch mehr lore
+
+Kannibalen auf der Insel die die Eingänge succesive belauern
 
 
-
-### Rabenmann Corvus Trix(Champion der Freiheit und des Chaos)
+### Rabenmann Corvus Trix(Gott der Freiheit und des Chaos)
 "Tretet ein, werte Wanderer," beginnt er mit einer Stimme, die sowohl sanft als auch eindringlich klingt. "Lasst euch nicht von meinem Anblick täuschen, denn in diesen Hallen findet ihr mehr als das Auge erblicken kann. Ich bin Corvus, der Hüter der verborgenen Schätze und der Wächter des Wissens vergangener Zeiten."
 
 Er erhebt sich langsam, sein Umhang raschelt leise, als die Federn sich bewegen. "Es ist selten, dass sich die Wege der Sterblichen mit den meinen kreuzen. Doch ihr, die ihr diesen Pfad beschritten habt, seid wohl würdig, die Geheimnisse meiner Sammlung zu ergründen."
