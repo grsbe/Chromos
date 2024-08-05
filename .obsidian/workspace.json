@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Cannibal - Matrose.md"
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "1357f0ae3d27ba10",
   "lastOpenFiles": [
-    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
+    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Mythandras/Phantheon/Das alte Pantheon.md",
     "Adventures/Items/Tables.md",
     "Adventures/Mechanics/Fishing.md",
