@@ -14,7 +14,7 @@ Jeder Master kann Mana aus den Kinderwelten beziehen. Der oberster Herrscher hat
 
 ## Herrscher
 
-Die Herrscherin von Narakan ist Nayuta, die Göttin der Dominanz, Champion des Boreos, Master der Kettenmagie.
+Die Herrscherin von Narakan ist Nayuta, die Göttin der Dominanz, Champion des Boreos. (No Kink intended hier, like was soll ich denn machen um es zu unkinken :(   
 
 Sie residiert in der Taschenwelt der Bronzestadt, die bis auf persönliche Diener und die Elitemagier Boreos nahezu leer ist.
 
@@ -28,7 +28,7 @@ Ohne die Taschenwelten befindet sich in der Mitte der Wüste der Abyss in die Un
 
 Die Bronzestadt ist in Bereiche aufgeteilt die jeweils einem Eliteuntertanen oder Nayuta selbst gehört. Jeder Bereich besitzt mehrere Eingänge in Taschenwelten die in weitere Taschenwelten führen.
 
-Bereits ab der dritten Tiefebene im Taschenwelt Labyrith ist es unbekannt wie tief man sich befindet. Willkommen in der Hölle.
+Bereits ab der dritten Tiefebene im Taschenwelt Labyrith ist es unbekannt wie tief man sich befindet. Willkommen in der echten Hölle dieser Welt.
 
 ## Soziales
 
