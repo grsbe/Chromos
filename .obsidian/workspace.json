@@ -11,28 +11,13 @@
             "id": "13dc70c2e0a1780e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Taijima/Cores/magischer Core.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1357f0ae3d27ba10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mythandras/Exos/Exosgebirge/Somi Soni Gebirgsstämme.md",
-                "mode": "source",
-                "source": false
+                "file": "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Exos/Exosgebirge/Somi Soni Gebirgsstämme.md",
+                "file": "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Exos/Exosgebirge/Somi Soni Gebirgsstämme.md",
+                "file": "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Exos/Exosgebirge/Somi Soni Gebirgsstämme.md"
+                "file": "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png"
               }
             }
           }
@@ -164,8 +149,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1357f0ae3d27ba10",
+  "active": "13dc70c2e0a1780e",
   "lastOpenFiles": [
+    "Pics/Pasted image 20240804010822.png",
+    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
+    "Taijima/Cores/magischer Core.md",
+    "Mythandras/Exos/Exosgebirge/Somi Soni Gebirgsstämme.md",
     "Mythandras/Exos/Fe'Ris/Parador.md",
     "Mythandras/Exos/Va'Nis/Va'ris.md",
     "Mythandras/Exos/Sidaris/Si'Ris.md",
@@ -189,10 +178,6 @@
     "Mythandras/Die Zeitlinien.md",
     "conflict-files-obsidian-git.md",
     "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
-    "Adventures/Items/Tables.md",
-    "Adventures/Mechanics/Fishing.md",
-    "Adventures/Mechanics/Gambling.md",
-    "Pasted image 20240804010822.png",
     "Adventures/EncounterTables",
     "Taijima/Cores",
     "Adventures/Mechanics",
@@ -207,7 +192,6 @@
     "Haven/HavenMap.svg",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/MythandrasExcali.svg",
-    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Mythandras/Exos/ExosMap.excali.svg",
     "Mythandras/Exos/ExosMap.excali.png",
     "Untitled.canvas"
