@@ -11,9 +11,11 @@
             "id": "13dc70c2e0a1780e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png"
+                "file": "Pics/pictest.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
+                "file": "Pics/pictest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
+                "file": "Pics/pictest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png"
+                "file": "Pics/pictest.md"
               }
             }
           }
@@ -151,8 +153,9 @@
   },
   "active": "13dc70c2e0a1780e",
   "lastOpenFiles": [
-    "Pics/Pasted image 20240804010822.png",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
+    "Pics/pictest.md",
+    "Pics/Pasted image 20240804010822.png",
     "Taijima/Cores/magischer Core.md",
     "Mythandras/Exos/Exosgebirge/Somi Soni Gebirgsstämme.md",
     "Mythandras/Exos/Fe'Ris/Parador.md",
@@ -177,7 +180,6 @@
     "Mythandras/Exos/Exos.md",
     "Mythandras/Die Zeitlinien.md",
     "conflict-files-obsidian-git.md",
-    "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
     "Adventures/EncounterTables",
     "Taijima/Cores",
     "Adventures/Mechanics",
