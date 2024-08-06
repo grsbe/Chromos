@@ -11,15 +11,26 @@
             "id": "13dc70c2e0a1780e",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Mythandras/Mythandras.excalidraw.svg"
+              }
+            }
+          },
+          {
+            "id": "a1fa0bee19c4a7c0",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Pics/pictest.md",
+                "file": "Mythandras/Mythandrasmap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pics/pictest.md",
+                "file": "Mythandras/Mythandrasmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pics/pictest.md",
+                "file": "Mythandras/Mythandrasmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pics/pictest.md"
+                "file": "Mythandras/Mythandrasmap.md"
               }
             }
           }
@@ -151,10 +162,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "13dc70c2e0a1780e",
+  "active": "a1fa0bee19c4a7c0",
   "lastOpenFiles": [
-    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
+    "Mythandras/Mythandras.excalidraw.svg",
+    "Mythandras/Mythandrasmap.md",
+    "Mythandras/Mythandras.md",
+    "Mythandras/Mythandras.excalidraw.md",
+    "Mythandras/Die Zeitlinien.md",
     "Pics/pictest.md",
+    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics/Pasted image 20240804010822.png",
     "Taijima/Cores/magischer Core.md",
     "Mythandras/Exos/Exosgebirge/Somi Soni Gebirgsstämme.md",
@@ -175,11 +191,7 @@
     "Books/Satzgemälde 1.md",
     "Adventures/WrittenOut/A wild sheep chase.md",
     "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
-    "Mythandras/MythandrasExcali.md",
     "Mythandras/Exos/Exoskarte.md",
-    "Mythandras/Exos/Exos.md",
-    "Mythandras/Die Zeitlinien.md",
-    "conflict-files-obsidian-git.md",
     "Adventures/EncounterTables",
     "Taijima/Cores",
     "Adventures/Mechanics",
