@@ -14,7 +14,7 @@ Das Gebirge repräsentiert eine der sieben Säulen zwischen der [[Unterwelt]], d
 ### [[Imperium]]
 Kriegerischer Staat des Lichts, Hauptstadt Pa’ris. Wird angeführt von einem supreme Herrscher des Lichts. Der Herrscher hat einen Aspekt der Götter nach der Exoschallenge aufgenommen. Sein Ziel ist die Unsterblichkeit,  Aufstieg in das Reich der Götter. Der Staat nimmt Sklaven zum Minenabbau in den Untergrund
 
-### [[Sosoni Gebirgsstämme]]
+### [[Somi Soni Gebirgsstämme]]
 Friedlebende Meister der Elementarmagie, deren Kultur sich um ihren mythischen Kristallorakel dreht.
 
 ### [[Polaris - das Reich der Prophezeiung]]

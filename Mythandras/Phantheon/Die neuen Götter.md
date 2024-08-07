@@ -8,21 +8,26 @@ Neue Götter sind in der Geisterwelt ein Gott und üben doch als eigenständiges
 
 Die Alten Götter werden sehr selten direkt angebetet, es ist schwierig eine Verbindung mit einem Wesen herzustellen dass über der Zeit steht, dennoch gibt es auch hier einige legendäre Auserwählte. Meist wird ein Champion oder Kreis aus auserwählten Alfen angebetet die dem Alten Gott vorstehen und dennoch zumindest teilweise durch Zeit und Raum gebunden sind.
 
-Es gibt drei Arten von neuen Göttern:
-- 
 
-#### Gott der Versuchung Baha Batos
-Verbindet die materielle Welt über einen Abrund
 
-#### Dominierungsgott
 
-#### Glücksgott
+#### Glücksgott Corvus Trix
 
 #### Lura und Arul, Zwillinge der Balance
 Sind implodiert und wurden ersetzt während der Götterkriege
 
-#### Bubus Baha, Gott der Wünsche und Versuchungen
-Auferstandener Gott
+#### Träume und Drachengott
 
-Objektive: Bring Menschen zum Wünschen, jedes Gebet bei dem
-Offen:
+#### Sturmgott Baha Batos
+
+## Aspekte der 7 Sünden
+#### Eith Gott der Vollständigkeit und der Einheit
+
+#### Gott des Lichts und der Versuchung 
+
+Herrscher von Pa'ris
+
+#### Dominierungsgott Nayuta
+Herrscherin über Narakan
+
+#### Permanenzgott

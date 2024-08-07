@@ -4887,7 +4887,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Milis",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -4924,7 +4924,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Lycanis",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -4961,7 +4961,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Exos",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -4998,7 +4998,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Narakan",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "freedraw",
@@ -5075,7 +5075,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Tailenis",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5112,7 +5112,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Nixis",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "freedraw",
@@ -5665,7 +5665,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Myxia",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5702,7 +5702,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Myxia",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -5739,7 +5739,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Azsh",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "freedraw",
@@ -6968,7 +6968,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Soras",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "freedraw",
@@ -12197,7 +12197,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Einöde",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -12234,7 +12234,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Byzantis",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -12271,7 +12271,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "Glaswüste",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "freedraw",
@@ -32701,7 +32701,7 @@ Mond ^e45ziB40
 			"containerId": null,
 			"originalText": "sonne",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "freedraw",
@@ -48119,6 +48119,97 @@ Mond ^e45ziB40
 			"lastCommittedPoint": null,
 			"simulatePressure": true,
 			"pressures": []
+		},
+		{
+			"id": "o8w020M-qEPyJ1mDTcM5T",
+			"type": "freedraw",
+			"x": -309.3101699844151,
+			"y": 275.3639724116101,
+			"width": 6.666748046875,
+			"height": 6.6666259765625,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 40,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2037561075,
+			"version": 16,
+			"versionNonce": 1252452093,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1722957469269,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0,
+					-1.3333740234375
+				],
+				[
+					1.3333740234375,
+					-1.3333740234375
+				],
+				[
+					2.666748046875,
+					-1.3333740234375
+				],
+				[
+					5.3333740234375,
+					-1.3333740234375
+				],
+				[
+					5.3333740234375,
+					0
+				],
+				[
+					6.666748046875,
+					1.333251953125
+				],
+				[
+					6.666748046875,
+					4
+				],
+				[
+					6.666748046875,
+					5.333251953125
+				],
+				[
+					5.3333740234375,
+					5.333251953125
+				],
+				[
+					4,
+					5.333251953125
+				],
+				[
+					4,
+					4
+				],
+				[
+					1.3333740234375,
+					4
+				],
+				[
+					0,
+					0
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				1.3333740234375,
+				4
+			]
 		}
 	],
 	"appState": {
@@ -48136,8 +48227,8 @@ Mond ^e45ziB40
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1019.3101699844151,
-		"scrollY": 925.7506668706164,
+		"scrollX": 804.3101699844151,
+		"scrollY": 626.5736038823352,
 		"zoom": {
 			"value": 0.5
 		},

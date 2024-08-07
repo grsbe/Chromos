@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "94b901be0f7d29ce",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,8 +150,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94b901be0f7d29ce",
+  "active": "13dc70c2e0a1780e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Pics/pictest.md",
+    "Pics/Pasted image 20240804010822.png",
+    "Mythandras/Mythandrasmap.md",
+    "Mythandras/Mythandras.excalidraw.svg",
+    "Mythandras/Mythandras.excalidraw.md",
+    "Mythandras/Exos/Exosgebirge/Somi Soni Gebirgsstämme.md",
+    "Books/Untitled 2.md",
+    "Books/Untitled 1.md",
     "Adventures/EncounterTables/Dschungel Encounter.md",
     "Pasted image 20240804010822.png",
     "Adventures/Items/Tables.md",
@@ -187,13 +185,7 @@
     "Excalidraw",
     "Mythandras/Phantheon/Die neuen Götter.md",
     "Mythandras/Phantheon/Das alte Pantheon.md",
-    "Adventures/WrittenOut/Frozen.md",
     "Adventures/WrittenOut",
-    "Adventures/Organisations/Polus magier gilde der Zukunft.md",
-    "Adventures/Organisations/Amazin.md",
-    "Adventures/WrittenOut/A wild sheep chase.md",
-    "Adventures/Ideas Mythandras.md",
-    "Adventures/Moral dilemma.md",
     "RandomStuff/Warhammer",
     "Mythandras/Phantheon",
     "Adventures/Organisations/Untitled",

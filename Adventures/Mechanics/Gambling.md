@@ -14,4 +14,4 @@ Jeder setzt eigenen DC für dexterity check, wer den höchsten gewinnt kriegt de
 
 # Darts
 
-![[Pasted image 20240804010822.png]]
+![[../../Pics/Pasted image 20240804010822.png]]
