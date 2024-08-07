@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94b901be0f7d29ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13dc70c2e0a1780e",
+  "active": "94b901be0f7d29ce",
   "lastOpenFiles": [
     "Adventures/EncounterTables/Dschungel Encounter.md",
     "Pasted image 20240804010822.png",
