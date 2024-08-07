@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haven/Haven.md",
+                "file": "Adventures/EncounterTables/Labyrinth.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haven/Haven.md",
+                "file": "Adventures/EncounterTables/Labyrinth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haven/Haven.md",
+                "file": "Adventures/EncounterTables/Labyrinth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haven/Haven.md"
+                "file": "Adventures/EncounterTables/Labyrinth.md"
               }
             }
           }
@@ -164,6 +164,9 @@
   },
   "active": "a1fa0bee19c4a7c0",
   "lastOpenFiles": [
+    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/EncounterTables/Labyrinth.md",
+    "Haven/Haven.md",
     "Mythandras/Mythandras.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
@@ -188,12 +191,9 @@
     "Mythandras/Phantheon/Die neuen Götter.md",
     "Mythandras/Narakan/Narakan.md",
     "Taijima/Taijima.md",
-    "Haven/Haven.md",
     "Books/Soras 1.md",
     "Books/Soras 2.md",
     "Books/Untitled 1.md",
-    "Books/Untitled 2.md",
-    "Books/Satzgemälde 1.md",
     "Adventures/EncounterTables",
     "Taijima/Cores",
     "Adventures/Mechanics",
