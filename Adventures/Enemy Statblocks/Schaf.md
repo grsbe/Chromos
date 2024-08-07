@@ -1,4 +1,4 @@
-| # Pony<br><br>[MM](https://5e.tools/book.html#mm,page:335 "Monster Manual") [p335](https://5e.tools/book.html#mm,page:335 "Page 335")                                                     |     |     |     |     |     |
+| # Pony<br><br>[[https://5e.tools/book.html#mm,page:335 "Monster Manual"]] [[https://5e.tools/book.html#mm,page:335 "Page 335"]]                                                     |     |     |     |     |     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- |
 | _Medium Beast, Unaligned_                                                                                                                                                                 |     |     |     |     |     |
 |                                                                                                                                                                                           |     |     |     |     |     |

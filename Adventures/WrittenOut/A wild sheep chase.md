@@ -14,9 +14,9 @@ Marker für enemies
 ## Scene 1: In der Taverne
 
 Einleittext:
-Eine friedliche Brise strömt über das Land und trägt den allbekannten liebsamen Klängen von empörten Mövenschreien mit sich. Die Meeresluft zieht aufbrausend durch die Verästelungen eines uralten magischen hohlen Baumes (ein [[Lumisbaum]] ) am Rande eines kleinen Fischerörtchens namens Gardisen. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann (Luzifatis) seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus in einem Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken".
+Eine friedliche Brise strömt über das Land und trägt den allbekannten liebsamen Klängen von empörten Mövenschreien mit sich. Die Meeresluft zieht aufbrausend durch die Verästelungen eines uralten magischen hohlen Baumes (ein [[Lumisbaum.md]] ) am Rande eines kleinen Fischerörtchens namens Gardisen. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann (Luzifatis) seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus in einem Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken".
 
-Es ist morgens, das Team ist auf der Durchreise an der [[Ha'Ris]] Küste in Richtung einer Stadt namens [[Natya]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wollt. Ihr kennt euch bereits da ihr alle in einer Ähnlichen Gegend aufgewachsen seit und habt ein bis zwei Abenteuer hinter euch gebracht. Entlaufene Katzen gerettet, eine Untoten an einem Friedhof bekämpft und brennt darauf mehr und herausfordernde Abenteuer zu erleben.
+Es ist morgens, das Team ist auf der Durchreise an der [[Ha'Ris.md]] Küste in Richtung einer Stadt namens [[Natya.md]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wollt. Ihr kennt euch bereits da ihr alle in einer Ähnlichen Gegend aufgewachsen seit und habt ein bis zwei Abenteuer hinter euch gebracht. Entlaufene Katzen gerettet, eine Untoten an einem Friedhof bekämpft und brennt darauf mehr und herausfordernde Abenteuer zu erleben.
 
 Nach der Übernachtung im verzauberten Baum fühlt ihr wie heilige beschützende Energie euch durchströmt.
  - Gain 3 extra temporäre hitpoints, fürs übernachten im heiligen Baum
@@ -153,7 +153,7 @@ An den Wänden sind magische Fakeln die keinen Rauch und keine Wärme produziere
  Ein großer Tisch mit Scrolls und einer menge hochwertigem Forschungsmaterial am Rand
  Jede Wand ist besetzt mit riesigen Bücherregalen
 - Überall liegen Scrolls/learnable spells rum zu schwachen random Zaubern:
-	- [[Useless magical spells]]
+	- [[Useless magical spells.md]]
 - Random magische Items die hier rumliegen könnten
 	- Useless: https://theniftynerd.com/general-geekiness/useless-magic-items-dungeons-dragons/
 	- Usefull: https://www.thievesguild.cc/tables/trinkets-magic
@@ -178,10 +178,10 @@ An der Seite steht ein ausladendes Bett, die Wände sind bedeckt mit Bücherrega
 - Bietet eine ähnliche Summe wie der magier bzw cooles magisches Item an im Austausch für das Schaf + Forschungsmaterial
 - Hält permanent des Wand of true polymorph
 Kampfstart:
-[[Faluzivatius]] verwandelt Bücher und blätter in 
+[[Faluzivatius.md]] verwandelt Bücher und blätter in 
 0 kleine Papierrattenschwärme (1/4) (nur 15 hitpoints) https://5e.tools/bestiary.html#swarm%20of%20rats_mm
 3 Papier ratten: https://5e.tools/bestiary.html#giant%20rat_mm
-sind die Papierratten tot verwandelt er das Bett in einen [[Bed Wyrmling]]
+sind die Papierratten tot verwandelt er das Bett in einen [[Bed Wyrmling.md]]
 Wird das [[DisplacerKitten.jpg]] freigelassen wendet es sich entweder gegen die Party oder gegen Faluzivatius, je nachdem wer grad gewinnt oder nett zu ihm ist.
 ## Szene Conclusion
 Flauzivatius wird versuchen den Wand of true polymorph auf sich selber anzuwenden. Und komplett failen und sich in einen Glibberschleim verwandelt der umherschleimt und Dinge angreift (+1 to hit, 1dmg)

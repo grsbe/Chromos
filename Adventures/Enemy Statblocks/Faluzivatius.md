@@ -24,4 +24,4 @@ Second level: Enlarge/Reduce
 range 20/60 ft., one target. Hit: 4 (1 d4 + 2) piercing damage.*
 
 Legendary Action
-Summon [[Bed Wyrmling]]
+Summon [[Bed Wyrmling.md]]

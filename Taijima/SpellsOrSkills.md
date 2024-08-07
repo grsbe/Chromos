@@ -1,5 +1,5 @@
 
-[[Damagetypes]] distribution
+[[Damagetypes.md]] distribution
 Costs
 Windup
 Range

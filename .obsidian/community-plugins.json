@@ -5,5 +5,6 @@
   "obsidian-leaflet-plugin",
   "obsidian-plugin-toc",
   "obsidian-banners",
-  "webpage-html-export"
+  "webpage-html-export",
+  "obsidian-link-converter"
 ]

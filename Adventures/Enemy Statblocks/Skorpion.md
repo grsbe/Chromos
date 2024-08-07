@@ -2,7 +2,7 @@ https://5e.tools/bestiary.html#scorpion_mm
 
 # Giant Scorpion
 
-| [MM](https://5e.tools/book.html#mm,page:327 "Monster Manual") [p327](https://5e.tools/book.html#mm,page:327 "Page 327") |         |         |        |        |        |
+| [[https://5e.tools/book.html#mm,page:327 "Monster Manual"]] [[https://5e.tools/book.html#mm,page:327 "Page 327"]] |         |         |        |        |        |
 | ----------------------------------------------------------------------------------------------------------------------- | ------- | ------- | ------ | ------ | ------ |
 | _Large Beast, Unaligned_                                                                                                |         |         |        |        |        |
 |                                                                                                                         |         |         |        |        |        |

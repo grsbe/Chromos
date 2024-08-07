@@ -11,7 +11,7 @@ Jeder magische Core beschreibt den gefestigten Vertrag zwischen dem Wesen mit de
 
 Nach jedem Dungeon werden alle Cores wieder vollständig aufgefüllt. Die Cores laden sich im Dungeon nur wieder begrenzt auf, sie sollen als verbrauchbare Resource gesehen werden.
 
-Jeder [[magischer Core]] hat ein Element und eine sehr begrenzte menge an Skills, die auch von der eigenen Klasse abhängen.
+Jeder [[magischer Core.md]] hat ein Element und eine sehr begrenzte menge an Skills, die auch von der eigenen Klasse abhängen.
 Es ist möglich unterschiedliche Cores gleichzeitig zu channelen um Kombos auszuführen oder mit Teamkameraden Kombos zu channellen.
 
 Man kann entweder alle magischen Cores gleichzeitig channelen oder nur einen, 
