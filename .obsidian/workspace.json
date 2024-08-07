@@ -23,14 +23,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Tinnie - Niels.md",
+                "file": "Adventures/Enemy Statblocks/Crazy Cannibal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bd4afcf9e745927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Enemy Statblocks/Faluzivatius.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcf219ed97652392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Tinnie - Niels.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Tinnie - Niels.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Tinnie - Niels.md"
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md"
               }
             }
           }
@@ -162,11 +186,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a1fa0bee19c4a7c0",
+  "active": "bcf219ed97652392",
   "lastOpenFiles": [
-    "Adventures/EncounterTables/Labyrinth.md",
-    "Adventures/Enemy Statblocks/Tinnie - Niels.md",
+    "Adventures/Enemy Statblocks/Eith bessesener.md",
+    "Adventures/Enemy Statblocks/Insane Cannibal.md",
+    "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
     "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/Enemy Statblocks/Viola.md",
+    "Adventures/Enemy Statblocks/Skorpion.md",
+    "Adventures/Enemy Statblocks/Faluzivatius.md",
+    "Adventures/Enemy Statblocks/Schaf.md",
+    "Adventures/Enemy Statblocks/Snakes.md",
+    "Adventures/Enemy Statblocks/Tinnie - Niels.md",
+    "Adventures/Enemy Statblocks/Crazy Cannibal.md",
+    "Adventures/EncounterTables/Labyrinth.md",
     "Haven/Haven.md",
     "Mythandras/Mythandras.excalidraw.md",
     "conflict-files-obsidian-git.md",
@@ -185,15 +218,6 @@
     "Mythandras/Exos/Exosgebirge/Somi Soni Gebirgsstämme.md",
     "Mythandras/Exos/Fe'Ris/Parador.md",
     "Mythandras/Exos/Va'Nis/Va'ris.md",
-    "Mythandras/Exos/Sidaris/Si'Ris.md",
-    "Mythandras/Exos/Polaris/Polaris - das Reich der Prophezeiung.md",
-    "Mythandras/Exos/Pa'Ris/Pa'Ris.md",
-    "Mythandras/Phantheon/Das alte Pantheon.md",
-    "Mythandras/Phantheon/Die neuen Götter.md",
-    "Mythandras/Narakan/Narakan.md",
-    "Taijima/Taijima.md",
-    "Books/Soras 1.md",
-    "Books/Soras 2.md",
     "Adventures/EncounterTables",
     "Taijima/Cores",
     "Adventures/Mechanics",

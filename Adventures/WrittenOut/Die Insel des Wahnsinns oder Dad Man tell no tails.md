@@ -163,6 +163,23 @@ Stealthy? Sollte möglich sein
 Bei Incapacitation werden sie plus die Gefangenen in die Arena verfrachtet und am Abend gegen den Riesen Skorpion gestellt.
 
 Sollte alles scheitern springt der Prinz in die Arena und will alle alleine fighten und stolpert.
+
+
+
+## Weiterer Ablauf
+Die Helden erreichen das Labyrinth
+
+DIe Kannibalen kommen zu spät am Lager an und treffen auf wütenden Neff
+Die Kannibalen tracen den Weg und sind etwa 1-2 Uhr am Berg vor dem Eingang. Wenn da niemand ist, treten sie die Rückreise an und lassen einen versteckt am Eingang zurück
+
+Der Rest zieht um den Berg und zum Dorf zurück. Bei jedem Eingang ab so 3 Uhr ist ein Kannibale, der den anderen Bescheid geben wird.
+
+Am oberen Eingang versammeln sich die Kannibalen mit Miranda und Ralf als Geiseln.
+Sie werden versuchen das Team einzuschläfern um sie in der Ruinen Arena dem Ritual nach zu opfern.
+
+Das Dorf ist wohl altertümlich von alten Ruinen umfunktioniert und repariert.
+
+
 ## Szene: Amberg und im Labyrinth
 Es gibt vier Eingänge zum Berg, der östliche liegt allerdings im Wasser
 
@@ -173,9 +190,31 @@ Intelligenz DC 10 um den Rückweg zu nutzen ohne die Karten aufzudecken
 
 Tinnie hört den Kapitän aus der Wand und dass er tot ist und bricht vollkommen in Tränen aus. Er war wie ein Vater für sie nachdem Sie elternlos gestrandet war. Er hatte sonst keine Familie. Einsamkeit, sie schwört Rache
 
-Viola analysiert die Wände und hört schreie.
+Viola analysiert die Wände. Nach einiger Zeit kann die die Wände entziffern (siehe monolog in Labyrinth)
 
 ## Akt 3: Am Gipfel
+
+Ihr Abenteurer, haltet inne und hört meine Worte! Ihr steht am Rande des Unvermeidlichen, unwissend, was euch hier erwartet. Ich bin der Auserwählte von Eith, dem großen Gott der Vollständigkeit. Ihr glaubt, ihr könntet einfach so in dieses Heiligtum eindringen, doch ihr irrt euch gewaltig.
+
+Eith, oh Eith, der alles sieht und alles weiß. Er hat mich auserwählt, seine Botschaft zu verbreiten, seine Macht zu demonstrieren. Ihr seid nichts als unbedeutende Spielfiguren in einem Spiel, das ihr nicht versteht. Aber keine Sorge, ich bin hier, um euch auf den rechten Pfad zu führen, um euch zu erleuchten!
+
+Eith ist kein gewöhnlicher Gott. Er ist der Hüter der Seelen, der Sammler des Wissens und der Vollständigkeit und Einigkeit. Sein Reich ist nicht nur das physische, sondern auch das spirituelle. In diesen Wänden sind die Seelen eines einst mächtigen Volkes gespeichert, die Essenz von Zeugen einer Ära, die längst vergangen ist. 
+
+Und Eith, der gnädige hat sie alle aufgenommen und für die Ewigkeit bewahrt.
+
+Eith bietet euch eine Gnade, die ihr nicht verweigern solltet. Gebt eure Seelen in seine Obhut und werdet Teil von etwas Größerem, etwas Vollständigem. Ja, er wird euch erheben, euch die Last eurer sterblichen Existenz nehmen. Ihr werdet endlich wissen, was es heißt, wahrhaft zu existieren für die Unendlichkeit.
+
+Aber weigert euch nicht. Oh nein, weigert euch nicht! Denn Eiths Geduld ist nicht unendlich, und seine Gnade kennt Grenzen. Ihr habt die Wahl – kniet nieder, ergebt euch seinem Willen und werdet ein Teil der Ewigkeit. Oder... ja, oder ihr werdet den Zorn von Eith zu spüren bekommen.
+
+Schließt euch Eith an! Gebt eure in seine Obhut und werdet Teil eines ewigen Ganzen. Eure Ängste, eure Zweifel – all das wird in der Vollständigkeit von Eith verblassen. Ihr werdet unsterblich, eure Essenz wird über die Zeit hinaus fortbestehen, ein Teil des allwissenden Wesens, des größeren Ganzen das Eith ist. Dies ist ein Geschenk, das ich euch anbiete. Wann sonst bietet euch jemand Unsterblichkeit an?
+
+Weigert ihr euch jedoch, werdet ihr das Schicksal aller früheren Unglücklichen teilen. Eith wird euch verschlingen, eure Seelen auslöschen und euch in die ewige Dunkelheit stürzen. Ihr werdet zu leeren Hüllen, vergessen und verlassen in den endlosen Gängen dieses Labyrinths. Der Schmerz wird unerträglich sein, eure Schreie werden in der Stille verhallen, unbeantwortet und unbeachtet
+
+Eure Seelen, eure wertlosen, winzigen Seelen, werden ausgelöscht, in der Dunkelheit verschwinden. Denkt daran, die Dunkelheit hat Ohren, sie hört eure Gedanken, eure Ängste. Und ich, der Auserwählte, werde keine Gnade kennen. Ich werde euch vernichten, euch opfern, um Eiths Willen zu erfüllen.
+
+Also, entscheidet weise, ihr Narren. Erkennt die Macht, die vor euch steht. Werdet Teil von Eiths Großartigkeit oder verschwindet in der ewigen Leere, vergessen schon nach ein zwei Jahrhunderten dieser Welt. Eure Entscheidung, eure Ewigkeit. Wählt mit Bedacht. Wählt... weise.
+
+
 Eith empfängt sie, und will sie konvertieren beantwortet fragen falls welche gestellt werden dann endboss fight
 
 Eith absorbiert die Seelen aus dem Stein der von der ganzen Insel aus Seele absorbiert

@@ -1,6 +1,6 @@
 https://5e.tools/bestiary.html#scorpion_mm
-
-# Giant Scorpion
+https://5e.tools/bestiary.html#giant%20scorpion_mm
+# Weakened Giant Scorpion
 
 | [[https://5e.tools/book.html#mm,page:327 "Monster Manual"]] [[https://5e.tools/book.html#mm,page:327 "Page 327"]] |         |         |        |        |        |
 | ----------------------------------------------------------------------------------------------------------------------- | ------- | ------- | ------ | ------ | ------ |

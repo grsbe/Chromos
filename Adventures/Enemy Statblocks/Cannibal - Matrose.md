@@ -14,9 +14,15 @@ Medium Humanoid, Neutral Evil
 Multiattack.
 The thug makes two melee attacks.
 Scimitar
-_Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 1) bludgeoning damage.
+_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 1) bludgeoning damage.
 
-Blowdart.
-_Ranged Weapon Attack:_ +5 to hit, range 30/60 ft., one target. _Hit:_ 1 piercing damage.
+Knife
+_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage.
 the target must succeed on a DC 14 Constitution saving throw or fall asleep.
 
+Blowdart.
+_Ranged Weapon Attack:_ +4 to hit, range 30/60 ft., one target. _Hit:_ 1 piercing damage.
+the target must succeed on a DC 14 Constitution saving throw or fall asleep.
+
+Heavy Crossbow.
+_Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target. _Hit:_ 5 (1d10) piercing damage.
