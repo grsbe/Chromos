@@ -1,23 +1,20 @@
 
 Paare:
-unterwasserfluss
-markierungen im Stein
-
-Lootgoblin
-Crazy Cannibals fight encounter
-Loot with Lore
-Schrein mit Erinnerungsstein
-Schatzkarte auf der Insel mit noch mehr lore
+unterwasserfluss -> fischen schatzkarte, Seelenfisch
+schon aufgebrochene schatzkammer mit zombified cannibals die wünschen, dass ihr leiden beendet wird, aufgebrochener Sarg, Schrein mit Erinnerungsstein
+Angry maus
+Falle
+ecke mit großer arterazitvene
 
 Kannibalen auf der Insel die die Eingänge succesive belauern
 
 
 ### Rabenmann Corvus Trix(Gott der Freiheit und des Chaos)
-"Tretet ein, werte Wanderer," beginnt er mit einer Stimme, die sowohl sanft als auch eindringlich klingt. "Lasst euch nicht von meinem Anblick täuschen, denn in diesen Hallen findet ihr mehr als das Auge erblicken kann. Ich bin Corvus, der Hüter der verborgenen Schätze und der Wächter des Wissens vergangener Zeiten."
+"Tretet ein, werte Abenteurer," beginnt er mit einer Stimme, die sowohl sanft als auch eindringlich klingt. "Lasst euch nicht von meinem Anblick täuschen, denn in diesen Hallen findet ihr mehr als das Auge erblicken kann. Ich bin Corvus, Wächter des Wissens vergangener Zeiten und Fackelträger der Hoffnung."
 
 Er erhebt sich langsam, sein Umhang raschelt leise, als die Federn sich bewegen. "Es ist selten, dass sich die Wege der Sterblichen mit den meinen kreuzen. Doch ihr, die ihr diesen Pfad beschritten habt, seid wohl würdig, die Geheimnisse meiner Sammlung zu ergründen."
 
-Mit einer eleganten Geste deutet er auf einen alten Holztisch, der mit einer Vielzahl von Gegenständen bedeckt ist – funkelnde Edelsteine, verzauberte Amulette und geheimnisvolle Schriftrollen. "Jedes dieser Artefakte birgt seine eigene Geschichte, seine eigene Macht. Doch seid gewarnt, nicht alle Geheimnisse sind ohne Preis."
+Und mit einer eleganten Geste deutet er auf die Schränke hinter ihm, die mit einer Vielzahl von Gegenständen bedeckt ist – funkelnde Edelsteine, verzauberte Amulette und geheimnisvolle Schriftrollen. "Jedes dieser Artefakte birgt seine eigene Geschichte, seine eigene Macht. Doch seid gewarnt, nicht alle Geheimnisse sind ohne Preis."
 
 Er neigt leicht den Kopf, als ob er die Abenteuerer durch die Maske hindurch durchdringen könnte. "Was ist es, das ihr sucht? Macht? Weisheit? Oder vielleicht etwas, das verloren gegangen ist? Sprecht, und ich werde euch die Wege weisen, die ihr beschreiten müsst."
 
@@ -35,7 +32,7 @@ Mit einem letzten, geheimnisvollen Lächeln zieht er sich zurück und lässt den
 #### **Buch der verlorenen Schatten**
 
 - **Beschreibung:** Ein altes, in schwarzes Leder gebundenes Buch mit silbernen Verzierungen.
-- **Effekt:** Das Buch enthält uralte Zauber und Rituale, die das Wesen der Schatten manipulieren können. Der Leser kann einmal pro Tag einen Schattenzauber wirken, der den Anwender und einen Gegner in Angst versetzt.
+- **Effekt:** Das Buch enthält uralte Zauber und Rituale, die das Wesen der Schatten manipulieren können. Der Leser kann einmal pro Tag einen Schattenzauber wirken, der den Anwender und einen Gegner in Angst versetzt. Weitere Seiten sind noch frei.
 
 #### **Stein des Geisterraben**
 
@@ -44,15 +41,15 @@ Mit einem letzten, geheimnisvollen Lächeln zieht er sich zurück und lässt den
 #### **Elixier des Rabenblicks**
 
 - **Beschreibung:** Ein kleines Fläschchen mit einer dunklen, schimmernden Flüssigkeit.
-- **Effekt:** Nach dem Trinken des Elixiers erhält der Konsument für eine True Sight im Dunkeln, dafür ist er geblendet im Hellen. Die Schatten des Konsumenten vervielfältigen sich und er erhält plus 2 AC
+- **Effekt:** Nach dem Trinken des Elixiers erhält der Konsument True Sight im Dunkeln, dafür ist er geblendet im Hellen (-5 initrolls). Die Schatten des Konsumenten vervielfältigen sich und er erhält plus 1 AC im Schatten
 #### **Rabenring der Vorahnung**
 
 - **Beschreibung:** Ein Ring aus obsidianfarbenem Metall, der mit kleinen Federn verziert ist.
-- **Effekt:** Der Ring leuchtet, wenn Kämpfe bevorstehen
+- **Effekt:** Der Ring leuchtet, wenn Gefahr im Anflug ist.
 #### **Feder des Rabengottes**
 
 - **Beschreibung:** Eine einzelne schwarze Feder, die schimmerndes, magisches Licht ausstrahlt.
-- **Effekt:** Einmal pro Tag kann der Träger als Bonus aktion springen aktivieren und ist in der Lage für die seine Mobility zu gleiten (also Mobility = Fliegen aber nur abwärts)
+- **Effekt:** Einmal pro Tag kann der Träger als Bonus aktion springen aktivieren (es wachsen Rabenflügel die einmal schwingen) und ist in der Lage für die seine Mobility zu gleiten (also Mobility = Fliegen aber nur abwärts)
 
 ### Beim Verkauf
 
