@@ -1,0 +1,1 @@
+![[Exoskarte.excalidraw.svg]]

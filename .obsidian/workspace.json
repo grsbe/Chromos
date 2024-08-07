@@ -11,15 +11,26 @@
             "id": "13dc70c2e0a1780e",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mythandras/Exos/Exoskarte.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0457f20d1f1e65e6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/EncounterTables/Labyrinth Encounter.md",
+                "file": "Mythandras/Exos/Exosmap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/EncounterTables/Labyrinth Encounter.md",
+                "file": "Mythandras/Exos/Exosmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/EncounterTables/Labyrinth Encounter.md",
+                "file": "Mythandras/Exos/Exosmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/EncounterTables/Labyrinth Encounter.md"
+                "file": "Mythandras/Exos/Exosmap.md"
               }
             }
           }
@@ -150,8 +161,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "13dc70c2e0a1780e",
+  "active": "0457f20d1f1e65e6",
   "lastOpenFiles": [
+    "Mythandras/Exos/Exos.md",
+    "Mythandras/Exos/Exosmap.md",
+    "Mythandras/Exos/Exoskarte.excalidraw.svg",
+    "Mythandras/Exos/Exoskarte.excalidraw.md",
+    "Untitled.md",
+    "Mythandras/Exos/Exos - Timeline.md",
+    "Adventures/EncounterTables/Labyrinth Encounter.md",
     "conflict-files-obsidian-git.md",
     "Pics/pictest.md",
     "Pics/Pasted image 20240804010822.png",
@@ -168,7 +186,6 @@
     "Adventures/Enemy Statblocks/Skorpion.md",
     "Adventures/Enemy Statblocks/Eith.md",
     "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
-    "Adventures/EncounterTables/Labyrinth Encounter.md",
     "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/WrittenOut/Insel des Wahnsinns.md",
     "Adventures/WrittenOut/The Campagne in Exos.md",
@@ -177,14 +194,9 @@
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.md",
     "Taijima/Cores/Cores.md",
     "Taijima/Cores",
-    "Adventures/Mechanics/Shops.md",
-    "Adventures/Mechanics/Gambling.md",
-    "Adventures/Mechanics/Fishing.md",
     "Adventures/Mechanics",
     "Adventures/EncounterTables",
     "Excalidraw",
-    "Mythandras/Phantheon/Die neuen Götter.md",
-    "Mythandras/Phantheon/Das alte Pantheon.md",
     "Adventures/WrittenOut",
     "RandomStuff/Warhammer",
     "Mythandras/Phantheon",
@@ -197,7 +209,6 @@
     "Mythandras/MythandrasExcali.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Mythandras/Exos/ExosMap.excali.svg",
-    "Mythandras/Exos/ExosMap.excali.png",
     "Untitled.canvas"
   ]
 }
