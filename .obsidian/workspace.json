@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/Exosgebirge/Abraxus.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Exos/Exosgebirge/Abraxus.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Exos/Exosgebirge/Abraxus.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Exos/Exosgebirge/Abraxus.md"
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md"
               }
             }
           }
@@ -188,18 +188,22 @@
   },
   "active": "bcf219ed97652392",
   "lastOpenFiles": [
-    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/EncounterTables/Labyrinth.md",
     "Adventures/Enemy Statblocks/Eith bessesener.md",
+    "Adventures/Enemy Statblocks/Viola.md",
+    "Adventures/Items/Tables.md",
+    "Adventures/Items/Random magische Effekte.md",
+    "Adventures/Mechanics/Fishing.md",
+    "Mythandras/Exos/Exosgebirge/Abraxus.md",
+    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/Enemy Statblocks/Insane Cannibal.md",
     "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
-    "Adventures/Enemy Statblocks/Viola.md",
     "Adventures/Enemy Statblocks/Skorpion.md",
     "Adventures/Enemy Statblocks/Faluzivatius.md",
     "Adventures/Enemy Statblocks/Schaf.md",
     "Adventures/Enemy Statblocks/Snakes.md",
     "Adventures/Enemy Statblocks/Tinnie - Niels.md",
     "Adventures/Enemy Statblocks/Crazy Cannibal.md",
-    "Adventures/EncounterTables/Labyrinth.md",
     "Haven/Haven.md",
     "Mythandras/Mythandras.excalidraw.md",
     "conflict-files-obsidian-git.md",
@@ -214,10 +218,6 @@
     "Pics/pictest.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics/Pasted image 20240804010822.png",
-    "Taijima/Cores/magischer Core.md",
-    "Mythandras/Exos/Exosgebirge/Somi Soni Gebirgsstämme.md",
-    "Mythandras/Exos/Fe'Ris/Parador.md",
-    "Mythandras/Exos/Va'Nis/Va'ris.md",
     "Adventures/EncounterTables",
     "Taijima/Cores",
     "Adventures/Mechanics",

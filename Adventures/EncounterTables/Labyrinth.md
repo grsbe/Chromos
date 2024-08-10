@@ -62,10 +62,10 @@ Mit einem letzten, geheimnisvollen Lächeln zieht er sich zurück und lässt den
 - **Beschreibung:** Ein altes, in schwarzes Leder gebundenes Buch mit silbernen Verzierungen.
 - **Effekt:** Das Buch enthält uralte Zauber und Rituale, die das Wesen der Schatten manipulieren können. Der Leser kann einmal pro Tag einen Schattenzauber wirken, der den Anwender und einen Gegner in Angst versetzt. Weitere Seiten sind noch frei.
 
-#### **Stein des Geisterraben**
+#### **Ei des Geisterraben**
 
-- **Beschreibung:** Ein kleiner, glatt polierter Stein, in dem das Bild eines Raben eingraviert ist.
-- **Effekt:** Der Träger kann einmal pro Woche einen Geisterraben beschwören, der für 1 Stunden als Bote oder Spion dient
+- **Beschreibung:** Ein kleines großes pechschwarzes, glatt poliertes Raben ei.
+- **Effekt:** ...
 #### **Elixier des Rabenblicks**
 
 - **Beschreibung:** Ein kleines Fläschchen mit einer dunklen, schimmernden Flüssigkeit.

@@ -20,7 +20,7 @@ Cantrips: Ray of frost, Gust, Absorb Elements, Shocking Grasp
 
 _**Talos' Caring Hand.**_ When the weather wizard casts a spell, he can immediately fly up to 10 ft. away, landing on solid ground.
 
-Undead fortitude: Con save dc5 plus dmg or no die
+Heal 1hp per spire per round as long as the spires exist
 
 ---
 **Actions**
@@ -39,6 +39,7 @@ The weather wizard can combine _absorb elements_ with shocking grasp for a very 
 Once the weather wizard is defeated, the storm subsides.
 
 3-4 von denen Spawnen
+
 Die Arterazit stangen sind electified, 1d4 lightning dmg in contact
 ## Stormcloud Mephit
 > _Small elemental, chaotic evil_
