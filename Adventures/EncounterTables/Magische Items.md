@@ -16,3 +16,6 @@ Charming Flute
 
 Krex
 Captains Hat
+
+Vampir
+https://www.dndbeyond.com/magic-items/4750-rope-of-entanglement

@@ -21,6 +21,7 @@ Cantrips: Ray of frost, Gust, Absorb Elements, Shocking Grasp
 _**Talos' Caring Hand.**_ When the weather wizard casts a spell, he can immediately fly up to 10 ft. away, landing on solid ground.
 
 Heal 1hp per spire per round as long as the spires exist
+Undying
 
 ---
 **Actions**
