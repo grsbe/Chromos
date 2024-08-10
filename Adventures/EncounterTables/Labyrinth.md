@@ -23,13 +23,15 @@ Pink-weiße Quarzähnliche Adern durchziehen stärker die Wände. aufmerksame Ab
 An den Wänden befindet sich eine Wandmalerei, die darstellt wie frühere Ahnen ihre weisesten Seelen dem Kristall geopfert haben um auf ewig im Orakel die Ahnen befragen zu können. 
 Ein weg hinter der Tür führt zum escape schiff 
 
-
-Paare:
-unterwasserfluss -> fischen schatzkarte, Seelenfisch
-schon aufgebrochene schatzkammer mit zombified cannibals die wünschen, dass ihr leiden beendet wird, aufgebrochener Sarg, Schrein mit Erinnerungsstein
+## Encounters im Labyrinth
+Die 3 Ausgänge
+Tor mit schloss und wandmalerei
+Fallenrätsel
+Unterwasserfluss
+Selbstopferkammer des alten Volkes (mit Zombiecannibalen, Arterazit und Wandmalereien)
 Angry maus
-Falle
-ecke mit großer arterazitvene
+Corvus
+
 
 Kannibalen auf der Insel die die Eingänge succesive belauern
 
@@ -56,7 +58,7 @@ Mit einem letzten, geheimnisvollen Lächeln zieht er sich zurück und lässt den
 #### **Dämmerdolch**
 
 - **Beschreibung:** Ein schlanker, schwarzer Dolch mit einer Klinge, die wie ein Rabenschnabel geformt ist.
-- **Effekt:** Der Dolch verursacht zusätzlichen Schaden an Kreaturen des Lichts
+- **Effekt:** Autokrit aus dem Schattenhinterhalt
 #### **Buch der verlorenen Schatten**
 
 - **Beschreibung:** Ein altes, in schwarzes Leder gebundenes Buch mit silbernen Verzierungen.
@@ -65,15 +67,16 @@ Mit einem letzten, geheimnisvollen Lächeln zieht er sich zurück und lässt den
 #### **Ei des Geisterraben**
 
 - **Beschreibung:** Ein kleines großes pechschwarzes, glatt poliertes Raben ei.
-- **Effekt:** ...
+- **Effekt:** Geisterrabe, der die Sicht mit der Person teilt die er am meisten mag
 #### **Elixier des Rabenblicks**
 
 - **Beschreibung:** Ein kleines Fläschchen mit einer dunklen, schimmernden Flüssigkeit.
-- **Effekt:** Nach dem Trinken des Elixiers erhält der Konsument True Sight im Dunkeln, dafür ist er geblendet im Hellen (-5 initrolls). Die Schatten des Konsumenten vervielfältigen sich und er erhält plus 1 AC im Schatten
+- **Effekt:** Inversiert quasi Licht und Dunkel in der Sicht. Erlaubt es auch etwas in die Geisterwelt zu sehen.
+- Nach dem Trinken des Elixiers erhält der Konsument Normales sehen im Dunkeln, dafür ist er geblendet im Hellen (-5 initrolls). 
 #### **Rabenring der Vorahnung**
 
 - **Beschreibung:** Ein Ring aus obsidianfarbenem Metall, der mit kleinen Federn verziert ist.
-- **Effekt:** Der Ring leuchtet, wenn Gefahr im Anflug ist.
+- **Effekt:** Der Ring leuchtet, wenn Gefahr im Anflug ist. +1AC im Schatten
 #### **Feder des Rabengottes**
 
 - **Beschreibung:** Eine einzelne schwarze Feder, die schimmerndes, magisches Licht ausstrahlt.
