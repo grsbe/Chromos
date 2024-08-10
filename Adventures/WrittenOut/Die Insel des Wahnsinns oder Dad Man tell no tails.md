@@ -194,6 +194,11 @@ Viola analysiert die Wände. Nach einiger Zeit kann die die Wände entziffern (s
 
 ## Akt 3: Am Gipfel
 
+
+Das Rabenartefakt schwächt die 6 Arterazitspitzen.
+Ein Hexagram steht in der Mitte zwischen den Spitzen was schwach leuchtet.
+Da drin steht der Eith Bessessene, Blondes langes Haar, eine Krone aus Artherazit ist auf dem Kopf festgewachsen, der Kristall zieht sich über die Venen hinweg über den zerschlissenen Körper. Wo augen waren leuchtet es jetzt nur noch pink weiß.
+
 Ihr Abenteurer, haltet inne und hört meine Worte! Ihr steht am Rande des Unvermeidlichen, unwissend, was euch hier erwartet. Ich bin der Auserwählte von Eith, dem großen Gott der Vollständigkeit. Ihr glaubt, ihr könntet einfach so in dieses Heiligtum eindringen, doch ihr irrt euch gewaltig.
 
 Eith, oh Eith, der alles sieht und alles weiß. Er hat mich auserwählt, seine Botschaft zu verbreiten, seine Macht zu demonstrieren. Ihr seid nichts als unbedeutende Spielfiguren in einem Spiel, das ihr nicht versteht. Aber keine Sorge, ich bin hier, um euch auf den rechten Pfad zu führen, um euch zu erleuchten!
