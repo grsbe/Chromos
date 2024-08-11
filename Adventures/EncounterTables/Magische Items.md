@@ -11,13 +11,13 @@ Trank der bullen spawnt
 https://5e.tools/items.html#ring%20of%20truth%20telling_wdh
 
 Barbar
-Dwarven Steelband
+https://5e.tools/items.html#pathfinder's%20greataxe_pota
 
 Pixie
-Charming Flute
+Charming Flute (cast charm 1/day)
 
 Krex
-Captains Hat
+Captains Hat (reroll own or teammates attack 1/day)
 
 Vampir
-https://www.dndbeyond.com/magic-items/4750-rope-of-entanglement
+https://5e.tools/items.html#rope%20of%20entanglement_dmg

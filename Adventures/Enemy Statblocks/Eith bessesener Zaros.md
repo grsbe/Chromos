@@ -1,6 +1,6 @@
 Medium Humanoid, Neutral Evil
 **Armor Class** 13
-**Hit Points** 40 
+**Hit Points** 35 -50
 **Speed** 30ft  
 
 | Str    | Dex    | Con    | Int    | Wis   | Cha    |

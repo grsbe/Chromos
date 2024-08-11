@@ -176,6 +176,8 @@ Der Rest zieht um den Berg und zum Dorf zurück. Bei jedem Eingang ab so 3 Uhr i
 
 Am oberen Eingang versammeln sich die Kannibalen mit Miranda und Ralf als Geiseln.
 Sie werden versuchen das Team einzuschläfern um sie in der Ruinen Arena dem Ritual nach zu opfern.
+Am Abend wird Ralf geopfert weil er so annoying ist
+Alle sind jünger dannach. Mirada bleibt als bargaining tool, nach 3 Tage joint sie den Cannibalen.
 
 Das Dorf ist wohl altertümlich von alten Ruinen umfunktioniert und repariert.
 

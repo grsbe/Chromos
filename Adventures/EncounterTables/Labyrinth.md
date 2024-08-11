@@ -27,13 +27,13 @@ Ein weg hinter der Tür führt zum escape schiff
 Die 3 Ausgänge
 Tor mit schloss und wandmalerei
 Fallenrätsel
-Unterwasserfluss
-Selbstopferkammer des alten Volkes (mit Zombiecannibalen, Arterazit und Wandmalereien)
+Unterwasserfluss (angeln + 5, schatzkarte)
+Selbstopferkammer des alten Volkes (mit 4+1 Zombiecannibalen, Arterazit und Wandmalereien)
 Angry maus
 Corvus
 
 
-Kannibalen auf der Insel die die Eingänge succesive belauern
+Kannibalen auf der Insel die die Eingänge succesive belauern (außer Abends wo Ralf gekillt wird)
 
 
 ### Rabenmann Corvus Trix(Gott der Freiheit und des Chaos)
