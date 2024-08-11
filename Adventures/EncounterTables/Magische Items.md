@@ -8,7 +8,6 @@ https://www.reddit.com/r/d100/comments/cyrcci/100_items_for_a_magic_items_catalo
 ## good picks
 
 Trank der bullen spawnt
-
 https://5e.tools/items.html#ring%20of%20truth%20telling_wdh
 
 Barbar
