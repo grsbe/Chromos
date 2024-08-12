@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Crazy Cannibal.md",
+                "file": "Adventures/Enemy Statblocks/Tinnie - Niels.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Faluzivatius.md",
+                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Viola.md",
+                "file": "Adventures/EncounterTables/Magische Items.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Viola.md",
+                "file": "Adventures/EncounterTables/Magische Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Viola.md",
+                "file": "Adventures/EncounterTables/Magische Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Viola.md"
+                "file": "Adventures/EncounterTables/Magische Items.md"
               }
             }
           }
@@ -188,33 +188,33 @@
   },
   "active": "bcf219ed97652392",
   "lastOpenFiles": [
-    "Adventures/Enemy Statblocks/Eith bessesener Zaros.md",
-    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
-    "Adventures/EncounterTables/Labyrinth.md",
-    "Adventures/Enemy Statblocks/Crazy Cannibal.md",
-    "Adventures/Enemy Statblocks/Insane Cannibal.md",
-    "Adventures/EncounterTables/Magische Items.md",
-    "Adventures/WrittenOut/Insel des Wahnsinns.md",
-    "Adventures/WrittenOut/A wild sheep chase.md",
-    "Adventures/WrittenOut/Frozen.md",
     "Adventures/Items/Tables.md",
+    "Adventures/Items/Useless magical spells.md",
+    "Adventures/Items/Random magische Effekte.md",
+    "Adventures/EncounterTables/Labyrinth.md",
+    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/WrittenOut/Insel des Wahnsinns.md",
+    "Adventures/Mechanics/Fishing.md",
+    "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
+    "Adventures/Enemy Statblocks/Insane Cannibal.md",
+    "Adventures/Enemy Statblocks/Tinnie - Niels.md",
+    "Adventures/Enemy Statblocks/Crazy Cannibal.md",
     "Adventures/Enemy Statblocks/Faluzivatius.md",
     "Adventures/Enemy Statblocks/Viola.md",
-    "Adventures/Items/Random magische Effekte.md",
-    "Adventures/Mechanics/Fishing.md",
+    "Adventures/Enemy Statblocks/Eith bessesener Zaros.md",
+    "Adventures/EncounterTables/Magische Items.md",
+    "Adventures/WrittenOut/A wild sheep chase.md",
+    "Adventures/WrittenOut/Frozen.md",
     "Mythandras/Exos/Exosgebirge/Abraxus.md",
-    "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
     "Adventures/Enemy Statblocks/Skorpion.md",
     "Adventures/Enemy Statblocks/Schaf.md",
     "Adventures/Enemy Statblocks/Snakes.md",
-    "Adventures/Enemy Statblocks/Tinnie - Niels.md",
     "Haven/Haven.md",
     "Mythandras/Mythandras.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Mythandras/Exos/Exosmap.md",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
-    "Mythandras/Exos/Exoskarte.excalidraw.md",
     "Mythandras/Mythandras.excalidraw.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics/Pasted image 20240804010822.png",
