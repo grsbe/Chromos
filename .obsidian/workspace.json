@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/EncounterTables/Labyrinth.md",
+                "file": "Adventures/Ideas Mythandras.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/EncounterTables/Labyrinth.md",
+                "file": "Adventures/Ideas Mythandras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/EncounterTables/Labyrinth.md",
+                "file": "Adventures/Ideas Mythandras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/EncounterTables/Labyrinth.md"
+                "file": "Adventures/Ideas Mythandras.md"
               }
             }
           }
@@ -188,12 +188,13 @@
   },
   "active": "bcf219ed97652392",
   "lastOpenFiles": [
+    "Adventures/WrittenOut/The Campagne in Exos.md",
     "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/EncounterTables/Labyrinth.md",
     "Adventures/EncounterTables/Magische Items.md",
     "Adventures/Items/Tables.md",
     "Adventures/Items/Useless magical spells.md",
     "Adventures/Items/Random magische Effekte.md",
-    "Adventures/EncounterTables/Labyrinth.md",
     "Adventures/WrittenOut/Insel des Wahnsinns.md",
     "Adventures/Mechanics/Fishing.md",
     "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
@@ -213,7 +214,6 @@
     "Mythandras/Mythandras.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
-    "Mythandras/Exos/Exosmap.md",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Mythandras/Mythandras.excalidraw.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",

@@ -38,7 +38,7 @@ Exploration in Myxia - Geschichte der Elfen
 Trapped in Narakan
 
 ### Milis
-
+Krieg schlichten zwischen all den Clans und in der Geisterwelt
 
 ### Tailenis
 Building up a Traderbusiness
