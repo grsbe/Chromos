@@ -194,6 +194,16 @@ Tinnie hört den Kapitän aus der Wand und dass er tot ist und bricht vollkommen
 
 Viola analysiert die Wände. Nach einiger Zeit kann die die Wände entziffern (siehe monolog in Labyrinth)
 
+
+## Letzte Session Ablauf und Szenen
+-> maximize decisions of team
+
+Angus Quest: Bag of Fishholding
+Schogards Quest: Flute of Charming
+Violas Quest: 
+Svelte: Heiltrank
+Ralf und Miranda gerettet: 
+
 ## Akt 3: Am Gipfel
 
 
