@@ -198,12 +198,17 @@ Viola analysiert die Wände. Nach einiger Zeit kann die die Wände entziffern (s
 ## Letzte Session Ablauf und Szenen
 -> maximize decisions of team
 
-Angus Quest: Bag of Fishholding
-Schogards Quest: Flute of Charming
-Violas Quest: 
-Svelte: Heiltrank
+Angus Quest: zeig ihm die besonderen Fische - Bag of Fishholding
+Schogards Quest: - Midlife Crisis Angst Ihn beruhigen, es ist noch zu früh für ihn zu sterben Flute of Charming
+Violas Quest - Die Kristalle könnten eine mächtige Powerquelle sein - sie hört schreie wenn sie die Steine berührt. Sie hat einen Kristall abgebaut und er leuchtet nicht mehr.
+Tinnies Quest: Bitte bringt mich mit. Ich habe meinem Vater geschworen alle heil hier raus zu bringen - Wenn ihr alle restlichen lebend hier raus bekommt werden ihr reichlich entlohnt.
+Svelte - hat ein bezauberndes Fischgericht gekocht - vertraut euch bitte: Heiltrank
 Ralf und Miranda gerettet: 
 
+
+Wenn sie bis zum Abend warten wird Ralf gegrillt
+Ralfs Quest: 
+Mirandas Quest: 
 ## Akt 3: Am Gipfel
 
 
