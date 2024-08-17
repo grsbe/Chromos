@@ -198,6 +198,10 @@ Viola analysiert die Wände. Nach einiger Zeit kann die die Wände entziffern (s
 ## Letzte Session Ablauf und Szenen
 -> maximize decisions of team
 
+Labzrinth monolog
+
+alle schlafen gehen, 
+
 Angus Quest: zeig ihm die besonderen Fische - Bag of Fishholding
 Schogards Quest: - Midlife Crisis Angst Ihn beruhigen, es ist noch zu früh für ihn zu sterben Flute of Charming
 Violas Quest - Die Kristalle könnten eine mächtige Powerquelle sein - sie hört schreie wenn sie die Steine berührt. Sie hat einen Kristall abgebaut und er leuchtet nicht mehr.
