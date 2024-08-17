@@ -1,18 +1,7 @@
-Es muss nicht eine Person alle Würfe machen sondern man kann sich gegenseitig helfen.
 
 
-Jeder Wurf -10 wird auf den finalen Wurf mit aufaddiert:
-
-1. Wisdomwurf -10 um guten Fischplatz auszuwählen
-2. Angelqualität bestimmen (-5 bis +25) (10)
-3. Köderqualität bestimmen (-5 bis +25) (10)
-4. Dexterity -10 um die Angel zielsicher an einen guten Platz zu werfen.
-5. Wettereffekt (-25 bis +25 + special fish) (0)
-
-1: Immediate Rubbish
-20: Glitzernder- Präfix, and ignore minus
-
-Start at 0
+Start at 25
+Jeder Wurf -5
 d100
 0. rubish
 1. rubish

@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Tinnie - Niels.md",
+                "file": "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,14 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/InseldesWahnsinns/NPCS/Svelte.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md"
+                "file": "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md"
               }
             }
           }
@@ -186,21 +186,29 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bcf219ed97652392",
+  "active": "a1fa0bee19c4a7c0",
   "lastOpenFiles": [
-    "Adventures/Ideas Mythandras.md",
-    "Adventures/WrittenOut/The Campagne in Exos.md",
-    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
-    "Adventures/EncounterTables/Labyrinth.md",
+    "Adventures/InseldesWahnsinns/Insel des Wahnsinns.md",
+    "Adventures/Enemy Statblocks/Tinnie - Niels.md",
+    "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/InseldesWahnsinns/NPCS/Svelte.md",
+    "Adventures/InseldesWahnsinns/Labyrinth.md",
+    "Adventures/InseldesWahnsinns/NPCS/Schogart.md",
+    "Adventures/InseldesWahnsinns/Dschungel Encounter.md",
+    "Adventures/InseldesWahnsinns/NPCS/Tinnie.md",
+    "Adventures/InseldesWahnsinns/NPCS/Viola.md",
+    "Adventures/InseldesWahnsinns/NPCS",
+    "Adventures/Mechanics/Fishing.md",
+    "Adventures/InseldesWahnsinns/Items 4 team.md",
     "Adventures/EncounterTables/Magische Items.md",
+    "Adventures/WrittenOut/Ideen The Campagne in Exos.md",
+    "Adventures/InseldesWahnsinns",
+    "Adventures/Ideas Mythandras.md",
     "Adventures/Items/Tables.md",
     "Adventures/Items/Useless magical spells.md",
     "Adventures/Items/Random magische Effekte.md",
-    "Adventures/WrittenOut/Insel des Wahnsinns.md",
-    "Adventures/Mechanics/Fishing.md",
     "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
     "Adventures/Enemy Statblocks/Insane Cannibal.md",
-    "Adventures/Enemy Statblocks/Tinnie - Niels.md",
     "Adventures/Enemy Statblocks/Crazy Cannibal.md",
     "Adventures/Enemy Statblocks/Faluzivatius.md",
     "Adventures/Enemy Statblocks/Viola.md",
@@ -208,12 +216,6 @@
     "Adventures/WrittenOut/A wild sheep chase.md",
     "Adventures/WrittenOut/Frozen.md",
     "Mythandras/Exos/Exosgebirge/Abraxus.md",
-    "Adventures/Enemy Statblocks/Skorpion.md",
-    "Adventures/Enemy Statblocks/Schaf.md",
-    "Adventures/Enemy Statblocks/Snakes.md",
-    "Haven/Haven.md",
-    "Mythandras/Mythandras.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Mythandras/Mythandras.excalidraw.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
@@ -226,8 +228,6 @@
     "RandomStuff/Warhammer",
     "Mythandras/Phantheon",
     "Adventures/Organisations/Untitled",
-    "Adventures/Organisations",
-    "Untitled",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
     "Haven/HavenMap.svg",
     "Mythandras/Exos/ExosExcal.svg",

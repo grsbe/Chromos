@@ -32,20 +32,15 @@ Narbe über einem Auge, sieht aber noch aus beiden, Hat ein Amulett mit merkwür
 Emotion: Caring but trocken
 
 ##### Seenavigatorin: Miranda
-Von den Thai Inseln Mykonis auf der Suche nach indigener roher Magie
+Von den Thai Inseln Mykonis auf der Suche nach dem SInn des Lebens, sehr alt und hat Angst vor dem Tod
 Blaue Schleife, die die dunkelblauen Haare zurückhalten
 Neugierig, Einfühlsam
 Gibt eine Speak to Scorpion Scroll
 
-##### Erster Maatin: Tinnie
-Aus Exos, Halbelfin +Dex, -Con  rote Haare stark muskulär und beschützend
-Will die Welt erforsche, ihr großer Traum ist ihr eigenes Schiff mit dem sie die Welt bereisen kann.
-Neugierig, Entschlossen Beschützend
+[[NPCS/Tinnie|Tinnie]]
+[[NPCS/Viola|Viola]]
+[[NPCS/Svelte|Svelte]]
 
-##### Schiffskoch und Matrose Svelte
-Braune Locken, Große Locke auf der Stirn Großes Lächeln
-Liebt fische und bereitet sie auf alle möglichen arten vor
-Hat sich verschuldet in Naraka aus dem Süden und ist auf Schiffen geflohen
 
 ##### Generic Matrose 1: Angus
 Spitzbart, dicklich
@@ -54,8 +49,8 @@ stoisch, hat seine Frau verloren, seitdem wollte er neues sehen
 
 ##### Freie Passagiere
 Ralf : Braun, Spitzbart, hat ultra Angst vor der See (was wenn da Kraken), händler
-Viola (Elfe): Violette Haare, Runde Brille, Will Schätze suchen, Elfen-Archologin die die Geschichte der Welt erkunden möchte. hat von Artefakten auf Elianos gehört (das in der Lage sein soll Seelen zu manipulieren?)
-Schogart (Schweinemensch): Auf Weltreise als Barde, will die Helden auf Elianor besuchen
+
+
 
 ### Interactibles auf dem Schiff
 **Deck**
@@ -188,31 +183,55 @@ Es gibt vier Eingänge zum Berg, der östliche liegt allerdings im Wasser
 Im Berg befindet sich ein Labyrinth. Wir spielen Memory 5x5, einzelne Karten signalisieren Gegner, Ausgänge oder Schätze. 
 
 Intelligenz DC 10 um den Rückweg zu nutzen ohne die Karten aufzudecken
-[[../EncounterTables/Labyrinth|Labyrinth]]
+[[Labyrinth|Labyrinth]]
 
 Tinnie hört den Kapitän aus der Wand und dass er tot ist und bricht vollkommen in Tränen aus. Er war wie ein Vater für sie nachdem Sie elternlos gestrandet war. Er hatte sonst keine Familie. Einsamkeit, sie schwört Rache
 
 Viola analysiert die Wände. Nach einiger Zeit kann die die Wände entziffern (siehe monolog in Labyrinth)
 
 
-## Letzte Session Ablauf und Szenen
+# Letzte Session Ablauf und Szenen
 -> maximize decisions of team
 
+Begin mit
 Labzrinth monolog
 
-alle schlafen gehen, 
+alle schlafen gehen, davor mit NPCs reden
 
 Angus Quest: zeig ihm die besonderen Fische - Bag of Fishholding
 Schogards Quest: - Midlife Crisis Angst Ihn beruhigen, es ist noch zu früh für ihn zu sterben Flute of Charming
-Violas Quest - Die Kristalle könnten eine mächtige Powerquelle sein - sie hört schreie wenn sie die Steine berührt. Sie hat einen Kristall abgebaut und er leuchtet nicht mehr.
+
+Violas Quest - Die Kristalle könnten eine mächtige Powerquelle sein - sie hört schreie wenn sie die Steine berührt. Sie hat einen Kristall abgebaut und er leuchtet nicht mehr. Die Kristalle sind erstaunlich Zerbrechlich und geben ihre Energie ab, dannach leuchten sie nicht mehr
+
 Tinnies Quest: Bitte bringt mich mit. Ich habe meinem Vater geschworen alle heil hier raus zu bringen - Wenn ihr alle restlichen lebend hier raus bekommt werden ihr reichlich entlohnt.
+Sie hat versucht mit dem Kapitän zu reden, 
 Svelte - hat ein bezauberndes Fischgericht gekocht - vertraut euch bitte: Heiltrank
 Ralf und Miranda gerettet: 
-
-
 Wenn sie bis zum Abend warten wird Ralf gegrillt
+### Cannibalen Camp
+Versuch beide zu retten
 Ralfs Quest: 
-Mirandas Quest: 
+Mirandas Quest: Wenn nicht überzeugt wird sie am Abend zu Eith konvertieren
+
+Die kannibalen haben einen Change of Heart und legen einen Brief an den nördlichen Eingang, der sie zu einem Abendfestmahl einläd (die Kannibalen haben jetzt Angst vor den Eindringlingen und werden nicht mehr bereitwillig auf Konfrontation gehen)
+Die Kannibalen (unter Mick) denken sich, lass Zaros sich um sie kümmern
+Niels will das nicht ist aber überstimmt.
+### Cannibalen Befragung
+Befragung der anderen Beiden Cannibalen plus weitere Cannibalen im Camp Infos
+- Lore über Niels
+- Lore die den Endboss einfacherer macht (Zaros zieht die Energie der Ahnen die hier sterben aus den Kristallen)
+
+### Niels (Kette, M, grimmig)
+War teil der originalen Crew mit Zatos, Prince (ewiges Kind), King (trägt auch ein amulet)
+Hoarded Schätze im Berg,
+Das Amulett lässt ihn durch den Berg gehen und Zatos besuchen
+Zatos war sein bester Freund, jetzt ist er kaum noch ansprechbar und ersetzt durch die Überbleibsel eines alten Bösen
+Er brachte es nicht über sich ihn zu töten, also hat er einen Deal mit dem Gott gemacht, ewiges Leben und mit King wechseln sie sich ab und leiten Schiffe her, bis der Gott auferstanden ist, dann wird Zatos wieder freigelassen.
+Niels verdingt heuert immer wieder als Matrose an
+### King Mick (fett, M , Ehrfurcht)
+War kapitän und navigator, ebenfalls guter Freund von Zatos
+### Zatos
+War erster Maat und hatte eine goldnase, er fand immer wieder Schätze. Der letzte Schatz war allerdings tödlich
 ## Akt 3: Am Gipfel
 
 
