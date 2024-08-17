@@ -221,7 +221,7 @@ Befragung der anderen Beiden Cannibalen plus weitere Cannibalen im Camp Infos
 - Lore über Niels
 - Lore die den Endboss einfacherer macht (Zaros zieht die Energie der Ahnen die hier sterben aus den Kristallen)
 
-### Niels (Kette, M, grimmig)
+### Niels (Kette Narbe, M, grimmig)
 War teil der originalen Crew mit Zatos, Prince (ewiges Kind), King (trägt auch ein amulet)
 Hoarded Schätze im Berg,
 Das Amulett lässt ihn durch den Berg gehen und Zatos besuchen

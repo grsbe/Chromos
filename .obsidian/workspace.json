@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/Mechanics/Fishing.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 311.5
   },
   "right": {
     "id": "5974fc7ffe9d18dc",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/Mechanics/Fishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/Mechanics/Fishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md"
+                "file": "Adventures/Mechanics/Fishing.md"
               }
             }
           }
@@ -188,9 +188,11 @@
   },
   "active": "a1fa0bee19c4a7c0",
   "lastOpenFiles": [
+    "Mythandras/Mythandras.excalidraw.md",
+    "Mythandras/Exos/Exoskarte.excalidraw.md",
+    "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/InseldesWahnsinns/Insel des Wahnsinns.md",
     "Adventures/Enemy Statblocks/Tinnie - Niels.md",
-    "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/InseldesWahnsinns/NPCS/Svelte.md",
     "Adventures/InseldesWahnsinns/Labyrinth.md",
     "Adventures/InseldesWahnsinns/NPCS/Schogart.md",
@@ -214,8 +216,6 @@
     "Adventures/Enemy Statblocks/Viola.md",
     "Adventures/Enemy Statblocks/Eith bessesener Zaros.md",
     "Adventures/WrittenOut/A wild sheep chase.md",
-    "Adventures/WrittenOut/Frozen.md",
-    "Mythandras/Exos/Exosgebirge/Abraxus.md",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Mythandras/Mythandras.excalidraw.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
