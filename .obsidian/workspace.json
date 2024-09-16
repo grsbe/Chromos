@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Mechanics/Fishing.md",
+                "file": "Adventures/Ideen.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Mechanics/Fishing.md",
+                "file": "Adventures/Ideen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Mechanics/Fishing.md",
+                "file": "Adventures/Ideen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Mechanics/Fishing.md"
+                "file": "Adventures/Ideen.md"
               }
             }
           }
@@ -188,6 +188,8 @@
   },
   "active": "a1fa0bee19c4a7c0",
   "lastOpenFiles": [
+    "Adventures/Mechanics/Fishing.md",
+    "Adventures/Ideen.md",
     "Mythandras/Mythandras.excalidraw.md",
     "Mythandras/Exos/Exoskarte.excalidraw.md",
     "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
@@ -200,7 +202,6 @@
     "Adventures/InseldesWahnsinns/NPCS/Tinnie.md",
     "Adventures/InseldesWahnsinns/NPCS/Viola.md",
     "Adventures/InseldesWahnsinns/NPCS",
-    "Adventures/Mechanics/Fishing.md",
     "Adventures/InseldesWahnsinns/Items 4 team.md",
     "Adventures/EncounterTables/Magische Items.md",
     "Adventures/WrittenOut/Ideen The Campagne in Exos.md",
@@ -215,7 +216,6 @@
     "Adventures/Enemy Statblocks/Faluzivatius.md",
     "Adventures/Enemy Statblocks/Viola.md",
     "Adventures/Enemy Statblocks/Eith bessesener Zaros.md",
-    "Adventures/WrittenOut/A wild sheep chase.md",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Mythandras/Mythandras.excalidraw.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
