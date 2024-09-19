@@ -1,6 +1,6 @@
 
 ## Plots
-Amnesie und Labyrinth, die Charaktere finden heraus dass sie actually Göttlcihe Gefangene Verbrecher sind
+Amnesie und Labyrinth, die Charaktere finden heraus dass sie actually Göttlcihe Gefangene Verbrecher sind. Escape heist
 
 Eine Stadt ist in einem Time Loop gefangen in der sich die selbe Tragödie immer wiederholt
 Romeo und Julia through Space and Time
@@ -8,6 +8,7 @@ Romeo und Julia through Space and Time
 ## Settings/Theme
 Zauberwald auf den Kanaren
 
+Unterwelt aus Büchern
 
 ## Charaktere
 

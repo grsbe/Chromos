@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/InseldesWahnsinns/NPCS/Arty.md",
+                "file": "Adventures/Ideenschmiede.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/InseldesWahnsinns/NPCS/Arty.md",
+                "file": "Adventures/Ideenschmiede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/InseldesWahnsinns/NPCS/Arty.md",
+                "file": "Adventures/Ideenschmiede.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/InseldesWahnsinns/NPCS/Arty.md"
+                "file": "Adventures/Ideenschmiede.md"
               }
             }
           }
@@ -188,8 +188,9 @@
   },
   "active": "a1fa0bee19c4a7c0",
   "lastOpenFiles": [
-    "Adventures/Organisations/Amazin.md",
+    "Adventures/InseldesWahnsinns/Items 4 team.md",
     "Adventures/InseldesWahnsinns/NPCS/Arty.md",
+    "Adventures/Organisations/Amazin.md",
     "Adventures/NPCs/Amazin.md",
     "Adventures/Ideenschmiede.md",
     "Adventures/Mechanics/Fishing.md",
@@ -205,7 +206,6 @@
     "Adventures/InseldesWahnsinns/NPCS/Tinnie.md",
     "Adventures/InseldesWahnsinns/NPCS/Viola.md",
     "Adventures/InseldesWahnsinns/NPCS",
-    "Adventures/InseldesWahnsinns/Items 4 team.md",
     "Adventures/EncounterTables/Magische Items.md",
     "Adventures/WrittenOut/Ideen The Campagne in Exos.md",
     "Adventures/InseldesWahnsinns",
