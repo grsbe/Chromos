@@ -14,8 +14,18 @@ Unterwelt aus Büchern
 
 ## Charaktere
 
+#### Normal
+Old grumpy man, mit empathischer seite
+alter ikognito abenteurer
+barbaren fee
+Der unschuldige kleine Halbling der von seiner eigenen fürchterlichen Magie verschlungen wird
 
+#### (Halb-)Götter
+Lady of destruction
+Void
+The salesman
 
+The ancient evil: Lust, Pride, Glutony, Greed, 
 
 
 ## Sonstiges

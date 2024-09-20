@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Ideenschmiede.md",
+                "file": "Adventures/Ideenschmiede Seeds.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Ideenschmiede.md",
+                "file": "Adventures/Ideenschmiede Seeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Ideenschmiede.md",
+                "file": "Adventures/Ideenschmiede Seeds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Ideenschmiede.md"
+                "file": "Adventures/Ideenschmiede Seeds.md"
               }
             }
           }
@@ -192,7 +192,7 @@
     "Adventures/InseldesWahnsinns/NPCS/Arty.md",
     "Adventures/Organisations/Amazin.md",
     "Adventures/NPCs/Amazin.md",
-    "Adventures/Ideenschmiede.md",
+    "Adventures/Ideenschmiede Seeds.md",
     "Adventures/Mechanics/Fishing.md",
     "Mythandras/Mythandras.excalidraw.md",
     "Mythandras/Exos/Exoskarte.excalidraw.md",
