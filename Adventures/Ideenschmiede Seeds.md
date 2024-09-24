@@ -7,11 +7,14 @@ Romeo und Julia through Space and Time
 
 Die Party wacht eingeschmiert in einer Arena auf in der Sie um ihr Leben kämpfen müssen.
 
+Ein magisches Wesen/Gott des Wissens analysiert die Party anhand Tests
+
 ## Settings/Theme
 Zauberwald auf den Kanaren
 
 Unterwelt aus Büchern
 
+Der Turm
 ## Charaktere
 
 #### Normal

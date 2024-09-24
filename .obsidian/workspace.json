@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Stories to write.md",
+                "file": "Adventures/Ideenschmiede Seeds.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Stories to write.md",
+                "file": "Adventures/Ideenschmiede Seeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Stories to write.md",
+                "file": "Adventures/Ideenschmiede Seeds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Stories to write.md"
+                "file": "Adventures/Ideenschmiede Seeds.md"
               }
             }
           }
@@ -188,8 +188,8 @@
   },
   "active": "a1fa0bee19c4a7c0",
   "lastOpenFiles": [
-    "Adventures/Ideenschmiede Seeds.md",
     "Books/Stories to write.md",
+    "Adventures/Ideenschmiede Seeds.md",
     "Adventures/InseldesWahnsinns/Items 4 team.md",
     "Adventures/InseldesWahnsinns/NPCS/Arty.md",
     "Adventures/Organisations/Amazin.md",
