@@ -15,6 +15,10 @@ Zauberwald auf den Kanaren
 Unterwelt aus Büchern
 
 Der Turm
+
+Zersplitterte Welt
+
+Haunted Haus
 ## Charaktere
 
 #### Normal
