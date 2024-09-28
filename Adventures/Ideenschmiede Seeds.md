@@ -21,6 +21,7 @@ Zersplitterte Welt
 Haunted Haus
 
 FUTURISTIC SCIFY AND MAGIC COMBINED SOCIETY, thats not a dystopia but on the brink of being one, then collapsing into one,
+EIne utopie von fliegenden Städten die über der verwesenen Erde schweben. Die Utopie wird bescützt von den Engeln, Auf der Erde zu leben ist eine Todesurteil auf Dauer. Dennoch überleben eine große Menge and Stämmen und zetteln eine Revolution an.
 ## Charaktere
 
 #### Normal
