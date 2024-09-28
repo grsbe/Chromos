@@ -19,6 +19,8 @@ Der Turm
 Zersplitterte Welt
 
 Haunted Haus
+
+FUTURISTIC SCIFY AND MAGIC COMBINED SOCIETY, thats not a dystopia but on the brink of being one, then collapsing into one,
 ## Charaktere
 
 #### Normal
