@@ -9,6 +9,7 @@ Die Party wacht eingeschmiert in einer Arena auf in der Sie um ihr Leben kämpfe
 
 Ein magisches Wesen/Gott des Wissens analysiert die Party anhand Tests
 
+Ein uraltes Böses wurde tief in der Erde eingeschlossen. Zwerge finden einen Eingang doch der Dungeon ist beschätzt von Automata. Der Schatz stellt sich als eingesperrte Gottheit da die handeln will um zu entkommen. Sie beauftragt die Party 
 ## Settings/Theme
 Zauberwald auf den Kanaren
 
@@ -29,6 +30,14 @@ Old grumpy man, mit empathischer seite
 alter ikognito abenteurer
 barbaren fee
 Der unschuldige kleine Halbling der von seiner eigenen fürchterlichen Magie verschlungen wird
+
+
+### Questgiverchars
+Alf/Elfe die einer geheimen Organization die Schatten angehört die magische Artefakte sammeln und vor der Welt verschließen wollen
+
+Die Eingesperrte Gottheit
+
+Die viel zu alte Hexengranny die mysteriös wirkt aber einfach nur nett ist.
 
 #### (Halb-)Götter
 Lady of destruction

@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Milis/Die Schattenjäger.md",
+                "file": "Adventures/Ideenschmiede Seeds.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Milis/Die Schattenjäger.md",
+                "file": "Adventures/Ideenschmiede Seeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Milis/Die Schattenjäger.md",
+                "file": "Adventures/Ideenschmiede Seeds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Milis/Die Schattenjäger.md"
+                "file": "Adventures/Ideenschmiede Seeds.md"
               }
             }
           }
@@ -188,8 +188,9 @@
   },
   "active": "a1fa0bee19c4a7c0",
   "lastOpenFiles": [
-    "Mythandras/Milis/Fuchs Clan.md",
+    "Adventures/Ideas Mythandras.md",
     "Mythandras/Milis/Die Schattenjäger.md",
+    "Mythandras/Milis/Fuchs Clan.md",
     "Mythandras/Milis/Millionen Farben Regenbogen Clan.md",
     "Mythandras/Milis/Milis.md",
     "Books/Untitled 2.md",
@@ -213,7 +214,6 @@
     "Adventures/InseldesWahnsinns/NPCS/Svelte.md",
     "Adventures/InseldesWahnsinns/Labyrinth.md",
     "Adventures/InseldesWahnsinns/NPCS/Schogart.md",
-    "Adventures/InseldesWahnsinns/Dschungel Encounter.md",
     "Adventures/InseldesWahnsinns/NPCS",
     "Adventures/InseldesWahnsinns",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
