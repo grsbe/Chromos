@@ -1,0 +1,1 @@
+Generischer Kitsune Klan ja ich weiß, aber die sind Beschützer und Zerstörer von Leben

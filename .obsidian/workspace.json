@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Untitled 2.md",
+                "file": "Mythandras/Milis/Die Schattenjäger.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Untitled 2.md",
+                "file": "Mythandras/Milis/Die Schattenjäger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Untitled 2.md",
+                "file": "Mythandras/Milis/Die Schattenjäger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Untitled 2.md"
+                "file": "Mythandras/Milis/Die Schattenjäger.md"
               }
             }
           }
@@ -188,8 +188,12 @@
   },
   "active": "a1fa0bee19c4a7c0",
   "lastOpenFiles": [
-    "Books/Untitled 1.md",
+    "Mythandras/Milis/Fuchs Clan.md",
+    "Mythandras/Milis/Die Schattenjäger.md",
+    "Mythandras/Milis/Millionen Farben Regenbogen Clan.md",
+    "Mythandras/Milis/Milis.md",
     "Books/Untitled 2.md",
+    "Books/Untitled 1.md",
     "Books/Soras 2.md",
     "Books/Soras 1.md",
     "Books/Satzgemälde 1.md",
@@ -210,11 +214,7 @@
     "Adventures/InseldesWahnsinns/Labyrinth.md",
     "Adventures/InseldesWahnsinns/NPCS/Schogart.md",
     "Adventures/InseldesWahnsinns/Dschungel Encounter.md",
-    "Adventures/InseldesWahnsinns/NPCS/Tinnie.md",
-    "Adventures/InseldesWahnsinns/NPCS/Viola.md",
     "Adventures/InseldesWahnsinns/NPCS",
-    "Adventures/EncounterTables/Magische Items.md",
-    "Adventures/WrittenOut/Ideen The Campagne in Exos.md",
     "Adventures/InseldesWahnsinns",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Mythandras/Mythandras.excalidraw.svg",
