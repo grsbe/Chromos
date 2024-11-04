@@ -8,3 +8,5 @@ Investigate die sabotage durch die stadt von Pa'Ris
 Cute bossfight mit förderbändern und sushi der überall herum gefahren wird
 Stealth durch das gegenrestaurant 
 Capture the flag zwischen beiden restaurants
+kuchenmonster greifen an!!
+drachlinge für creme brülee
