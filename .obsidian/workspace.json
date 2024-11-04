@@ -11,50 +11,15 @@
             "id": "13dc70c2e0a1780e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Mythandras/Mythandras.excalidraw.svg"
-              }
-            }
-          },
-          {
-            "id": "a1fa0bee19c4a7c0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Ideenschmiede Seeds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bd4afcf9e745927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcf219ed97652392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/InseldesWahnsinns/NPCS/Svelte.md",
+                "file": "Adventures/EncounterTables/Magische Items.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 259.5
   },
   "right": {
     "id": "5974fc7ffe9d18dc",
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Ideenschmiede Seeds.md",
+                "file": "Adventures/EncounterTables/Magische Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Ideenschmiede Seeds.md",
+                "file": "Adventures/EncounterTables/Magische Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Ideenschmiede Seeds.md"
+                "file": "Adventures/EncounterTables/Magische Items.md"
               }
             }
           }
@@ -169,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,49 +144,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1fa0bee19c4a7c0",
+  "active": "13dc70c2e0a1780e",
   "lastOpenFiles": [
-    "Adventures/Ideas Mythandras.md",
-    "Mythandras/Milis/Die Schattenjäger.md",
-    "Mythandras/Milis/Fuchs Clan.md",
-    "Mythandras/Milis/Millionen Farben Regenbogen Clan.md",
-    "Mythandras/Milis/Milis.md",
-    "Books/Untitled 2.md",
-    "Books/Untitled 1.md",
-    "Books/Soras 2.md",
-    "Books/Soras 1.md",
-    "Books/Satzgemälde 1.md",
-    "Books/Haven 1.md",
-    "Adventures/Ideenschmiede Seeds.md",
-    "Books/Stories to write.md",
-    "Adventures/InseldesWahnsinns/Items 4 team.md",
-    "Adventures/InseldesWahnsinns/NPCS/Arty.md",
-    "Adventures/Organisations/Amazin.md",
-    "Adventures/NPCs/Amazin.md",
-    "Adventures/Mechanics/Fishing.md",
-    "Mythandras/Mythandras.excalidraw.md",
     "Mythandras/Exos/Exoskarte.excalidraw.md",
-    "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
-    "Adventures/InseldesWahnsinns/Insel des Wahnsinns.md",
-    "Adventures/Enemy Statblocks/Tinnie - Niels.md",
+    "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Mythandras/Milis/Millionen Farben Regenbogen Clan.md",
+    "Mythandras/Milis/Fuchs Clan.md",
+    "Mythandras/Milis/Die Schattenjäger.md",
+    "Books/Stories to write.md",
+    "Books/Haven 1.md",
+    "Adventures/WrittenOut/Ideen The Campagne in Exos.md",
+    "Adventures/InseldesWahnsinns/NPCS/Viola.md",
+    "Adventures/InseldesWahnsinns/NPCS/Tinnie.md",
     "Adventures/InseldesWahnsinns/NPCS/Svelte.md",
-    "Adventures/InseldesWahnsinns/Labyrinth.md",
+    "Adventures/InseldesWahnsinns/NPCS/Arty.md",
     "Adventures/InseldesWahnsinns/NPCS/Schogart.md",
     "Adventures/InseldesWahnsinns/NPCS",
+    "Adventures/InseldesWahnsinns/Labyrinth.md",
+    "Adventures/InseldesWahnsinns/Items 4 team.md",
+    "Adventures/InseldesWahnsinns/Insel des Wahnsinns.md",
+    "Adventures/InseldesWahnsinns/Dschungel Encounter.md",
+    "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/InseldesWahnsinns",
+    "Adventures/Ideenschmiede Seeds.md",
+    "Mythandras/Exos/Exosmap.md",
+    "Adventures/EncounterTables/Labyrinth.md",
+    "Mythandras/Exos/Exos.md",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
-    "Mythandras/Mythandras.excalidraw.svg",
-    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
+    "Untitled.md",
+    "Mythandras/Exos/Exos - Timeline.md",
+    "Adventures/EncounterTables/Labyrinth Encounter.md",
+    "conflict-files-obsidian-git.md",
     "Pics/Pasted image 20240804010822.png",
-    "Adventures/EncounterTables",
+    "Mythandras/Mythandras.excalidraw.svg",
+    "Pasted image 20240804010822.png",
     "Taijima/Cores",
     "Adventures/Mechanics",
+    "Adventures/EncounterTables",
     "Excalidraw",
     "Adventures/WrittenOut",
     "RandomStuff/Warhammer",
@@ -232,8 +196,8 @@
     "Haven/HavenMap.svg",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/MythandrasExcali.svg",
+    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Mythandras/Exos/ExosMap.excali.svg",
-    "Mythandras/Exos/ExosMap.excali.png",
     "Untitled.canvas"
   ]
 }
