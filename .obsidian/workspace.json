@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/EncounterTables/Magische Items.md",
+                "file": "Adventures/WrittenOut/French fantasy cat caffee oneshot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/EncounterTables/Magische Items.md",
+                "file": "Adventures/WrittenOut/French fantasy cat caffee oneshot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/EncounterTables/Magische Items.md",
+                "file": "Adventures/WrittenOut/French fantasy cat caffee oneshot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/EncounterTables/Magische Items.md"
+                "file": "Adventures/WrittenOut/French fantasy cat caffee oneshot.md"
               }
             }
           }
@@ -152,6 +152,9 @@
   },
   "active": "13dc70c2e0a1780e",
   "lastOpenFiles": [
+    "Adventures/EncounterTables/Magische Items.md",
+    "Adventures/WrittenOut/French fantasy cat caffee oneshot.md",
+    "Untitled",
     "Mythandras/Exos/Exoskarte.excalidraw.md",
     "Adventures/WrittenOut/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Mythandras/Milis/Millionen Farben Regenbogen Clan.md",
@@ -179,8 +182,6 @@
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Untitled.md",
     "Mythandras/Exos/Exos - Timeline.md",
-    "Adventures/EncounterTables/Labyrinth Encounter.md",
-    "conflict-files-obsidian-git.md",
     "Pics/Pasted image 20240804010822.png",
     "Mythandras/Mythandras.excalidraw.svg",
     "Pasted image 20240804010822.png",
@@ -191,7 +192,6 @@
     "Adventures/WrittenOut",
     "RandomStuff/Warhammer",
     "Mythandras/Phantheon",
-    "Adventures/Organisations/Untitled",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
     "Haven/HavenMap.svg",
     "Mythandras/Exos/ExosExcal.svg",
