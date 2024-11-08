@@ -34,15 +34,17 @@
             }
           },
           {
-            "id": "3bb3fa980e77bfa8",
+            "id": "b411854cc8763b5f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "conflict-files-obsidian-git"
             }
           },
           {
@@ -146,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mythandras/Mythandras.excalidraw.svg",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mythandras.excalidraw"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -165,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythandras/Mythandras.excalidraw.svg",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mythandras.excalidraw"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -192,10 +194,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythandras/Mythandras.excalidraw.svg"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mythandras.excalidraw"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ],
@@ -220,8 +222,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3bb3fa980e77bfa8",
+  "active": "b411854cc8763b5f",
   "lastOpenFiles": [
+    "Adventures/Ideenschmiede Seeds.md",
+    "conflict-files-obsidian-git.md",
+    "Adventures/WrittenOut/French fantasy cat caffee oneshot.md",
     "Adventures/Ideas Mythandras.md",
     "Mythandras/Milis/Die Schattenjäger.md",
     "Mythandras/Milis/Fuchs Clan.md",
@@ -233,7 +238,6 @@
     "Books/Soras 1.md",
     "Books/Satzgemälde 1.md",
     "Books/Haven 1.md",
-    "Adventures/Ideenschmiede Seeds.md",
     "Books/Stories to write.md",
     "Adventures/InseldesWahnsinns/Items 4 team.md",
     "Adventures/InseldesWahnsinns/NPCS/Arty.md",
@@ -246,8 +250,6 @@
     "Adventures/InseldesWahnsinns/Insel des Wahnsinns.md",
     "Adventures/Enemy Statblocks/Tinnie - Niels.md",
     "Adventures/InseldesWahnsinns/NPCS/Svelte.md",
-    "Adventures/InseldesWahnsinns/Labyrinth.md",
-    "Adventures/InseldesWahnsinns/NPCS/Schogart.md",
     "Adventures/InseldesWahnsinns/NPCS",
     "Adventures/InseldesWahnsinns",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
