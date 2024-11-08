@@ -14,7 +14,9 @@
               "type": "image",
               "state": {
                 "file": "Mythandras/Mythandras.excalidraw.svg"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Mythandras.excalidraw"
             }
           },
           {
@@ -26,7 +28,21 @@
                 "file": "Adventures/Ideenschmiede Seeds.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ideenschmiede Seeds"
+            }
+          },
+          {
+            "id": "3bb3fa980e77bfa8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -38,7 +54,9 @@
                 "file": "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Die Insel des Wahnsinns oder Dad Man tell no tails"
             }
           },
           {
@@ -50,11 +68,13 @@
                 "file": "Adventures/InseldesWahnsinns/NPCS/Svelte.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Svelte"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +94,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -89,7 +111,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -97,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -120,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Ideenschmiede Seeds.md",
+                "file": "Mythandras/Mythandras.excalidraw.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +154,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mythandras.excalidraw"
             }
           },
           {
@@ -137,10 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Ideenschmiede Seeds.md",
+                "file": "Mythandras/Mythandras.excalidraw.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mythandras.excalidraw"
             }
           },
           {
@@ -151,7 +181,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -160,8 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Ideenschmiede Seeds.md"
-              }
+                "file": "Mythandras/Mythandras.excalidraw.svg"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mythandras.excalidraw"
             }
           }
         ],
@@ -186,7 +220,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a1fa0bee19c4a7c0",
+  "active": "3bb3fa980e77bfa8",
   "lastOpenFiles": [
     "Adventures/Ideas Mythandras.md",
     "Mythandras/Milis/Die Schattenjäger.md",
