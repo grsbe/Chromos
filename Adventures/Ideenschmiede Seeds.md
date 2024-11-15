@@ -12,6 +12,8 @@ Ein magisches Wesen/Gott des Wissens analysiert die Party anhand Tests
 Ein uraltes Böses wurde tief in der Erde eingeschlossen. Zwerge finden einen Eingang doch der Dungeon ist beschätzt von Automata. Der Schatz stellt sich als eingesperrte Gottheit da die handeln will um zu entkommen. Sie beauftragt die Party 
 
 Der König sucht ein Kind das eine Prophezeiung nach sein untergang sein soll
+
+Ein uraltes Böses ist unter Exos begraben und versucht zu entkommen. Der Imperator muss kontinuierlich das Böse in schach halten und bekämpfen
 ## Settings/Theme
 Zauberwald auf den Kanaren
 
