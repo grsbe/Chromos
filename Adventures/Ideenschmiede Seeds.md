@@ -10,6 +10,8 @@ Die Party wacht eingeschmiert in einer Arena auf in der Sie um ihr Leben kämpfe
 Ein magisches Wesen/Gott des Wissens analysiert die Party anhand Tests
 
 Ein uraltes Böses wurde tief in der Erde eingeschlossen. Zwerge finden einen Eingang doch der Dungeon ist beschätzt von Automata. Der Schatz stellt sich als eingesperrte Gottheit da die handeln will um zu entkommen. Sie beauftragt die Party 
+
+Der König sucht ein Kind das eine Prophezeiung nach sein untergang sein soll
 ## Settings/Theme
 Zauberwald auf den Kanaren
 
