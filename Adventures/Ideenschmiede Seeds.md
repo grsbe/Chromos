@@ -27,6 +27,9 @@ Haunted Haus
 
 FUTURISTIC SCIFY AND MAGIC COMBINED SOCIETY, thats not a dystopia but on the brink of being one, then collapsing into one,
 EIne utopie von fliegenden Städten die über der verwesenen Erde schweben. Die Utopie wird bescützt von den Engeln, Auf der Erde zu leben ist eine Todesurteil auf Dauer. Dennoch überleben eine große Menge and Stämmen und zetteln eine Revolution an.
+
+Ein erfinder will über mechanishe konstrukte darüber hinwegkommen dass er keine Magie hat. Und wirkt Magie über konstrukte. Ein anderere weigert sich jegliche Magie zu benutzen
+in Polus ist technik verboten, damit Magier lernen ihre Probleme mit Magie zu lösen und kreativ zu sein.
 ## Charaktere
 
 #### Normal
@@ -47,7 +50,7 @@ Die viel zu alte Hexengranny die mysteriös wirkt aber einfach nur nett ist.
 Lady of destruction
 Void
 The salesman
-
+Corvus: Hoffnung
 The ancient evil: Lust, Pride, Glutony, Greed, 
 
 
