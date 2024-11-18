@@ -23,10 +23,12 @@
 [00.19] Motordiagnose abgeschlossen.
 [00.19] Setup abgeschlossen. Bereit die Augen zu öffnen?
 
-Athene öffnete ihre Augen. "Gut. Denke ich.". Vor ihr erstreckte sich ein weißer ovaler blanker Raum umrandet von sauberen knietiefen Schränken. Kabel zogen sich penibel sortiert über die Decke. Sie lag auf einer erhöhten metallischen Plattform. Ein großes Sortiment aus motorisierten fleißigen Greifzangen hing über ihr, eifrig sie aus allen Richtungen begutachtend. Eine Greifzange zog langsam einen Spiegel aus einer Spalte in der Wand und hielt ihn feierlich über Athene.
+Athene öffnete ihre Augen. "Gut. Denke ich.". Vor ihr erstreckte sich ein weißer ovaler blanker Raum umrandet von sauberen knietiefen Schränken. Kabel zogen sich penibel sortiert über die Decke. Sie lag auf einer erhöhten metallischen Plattform. Ein großes Sortiment aus motorisierten fleißigen Greifzangen hing über ihr, eifrig sie aus allen Richtungen begutachtend. Eine Greifzange zog langsam einen Spiegel aus einer Spalte in der Wand und hielt ihn zögerlich über Athene.
 
 [00.35] Bist du mit deiner Einstellung so zu frieden oder hättest du gern noch Änderungen an deinem Körper?
 
-Athenes Augen fixierten sich auf den Körper den sie über sich im Spiegel sah. Violette Augen starrten aus dem Spiegel zurück auf sie. Riesige weiße metallische Flügel breiteten sich unter ihr aus. Lange rötliche Haare erstreckten sich über den Boden. Sie spürte den Luftzug der Greifzange die eine komplizierten Bahnen über ihren Körper strich um sie aus allen Seiten zu begutachten.
-"Ich bin zufrieden". Die Greifzange stoppte genau über ihrem Kopf. Ein grünes Kameraauge starrte auf sie hinab. Eine tiefe surrende Stimme ertönte aus der Greifzange. "Bist du sicher?".
-Athene warf einen letzten Blick auf sich. "Ja"
+Athenes Augen fixierten sich auf den Körper den sie über sich im Spiegel sah. Leuchtende Violette Augen fixierten sie und starten aus dem Spiegel auf sie hinab. Riesige weiße metallische Flügel breiteten sich unter ihr aus und erstreckten sich über die Platform auf der sie lag. Lange glatte rötliche Haare erstreckten sich über den Boden in alle Richtungen von ihrem Kopf aus. Sie spürte den Luftzug der Greifzange mit Kamera die eine komplizierten Bahnen über ihren Körper strich um sie aus allen Seiten zu begutachten.
+"Ich bin zufrieden". Die Greifzange hielt ruckartig inne. Ein grünes Kameraauge starrte kalt auf sie hinab. Eine tiefe surrende Stimme ertönte. "Bist du sicher?".
+Athene warf einen letzten Blick auf sich. "Ja".
+
+Nach einem Moment verdunkelte sich das Licht im Saal auf grellweiß in ein angenehmeres rötliches Abendlicht. "Start-up abgeschlossen" brummte es durch den Raum und die Instrumente klappten in ihre Fugen in den Wänden zurück. "Es freut mich mit dir Bekanntschaft gemacht zu haben".

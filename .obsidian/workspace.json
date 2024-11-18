@@ -25,12 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Ideenschmiede Seeds.md",
+                "file": "Adventures/WrittenOut/Oneshot French fantasy cat caffee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideenschmiede Seeds"
+              "title": "Oneshot French fantasy cat caffee"
+            }
+          },
+          {
+            "id": "fdfb56cd419fc852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Haven 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Haven 1"
+            }
+          },
+          {
+            "id": "63f2d99f6c01747c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
             }
           },
           {
@@ -46,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,37 +218,37 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a1fa0bee19c4a7c0",
+  "active": "63f2d99f6c01747c",
   "lastOpenFiles": [
-    "Adventures/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
-    "Adventures/InseldesWahnsinns/NPCS/Svelte.md",
-    "conflict-files-obsidian-git.md",
+    "Books/Satzgemälde 1.md",
+    "Books/Soras 1.md",
+    "Books/Soras 2.md",
+    "Books/Stories to write.md",
+    "Books/Untitled 1.md",
+    "Books/Untitled 2.md",
+    "Adventures/Ideen The Campagne in Exos.md",
+    "Adventures/Moral dilemma.md",
+    "Adventures/WrittenOut/Tripleshot Gefangen im Schneesturm.md",
+    "Adventures/Untitled.md",
+    "Adventures/WrittenOut/Frozen.md",
+    "Adventures/WrittenOut/Oneshot A wild sheep chase.md",
+    "Adventures/WrittenOut/Oneshot French fantasy cat caffee.md",
+    "Mythandras/Die Zeitlinien.md",
+    "Mythandras/Imperium.md",
+    "Mythandras/Abgründe und Aufstiege.md",
+    "Mythandras/Exos/Exoskarte.excalidraw.svg",
+    "Mythandras/Exos/Polaris/Polaris - das Reich der Prophezeiung.md",
     "Adventures/Ideenschmiede Seeds.md",
-    "Adventures/WrittenOut/French fantasy cat caffee oneshot.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/NPCS/Svelte.md",
+    "conflict-files-obsidian-git.md",
     "Adventures/Ideas Mythandras.md",
     "Mythandras/Milis/Die Schattenjäger.md",
     "Mythandras/Milis/Fuchs Clan.md",
     "Mythandras/Milis/Millionen Farben Regenbogen Clan.md",
     "Mythandras/Milis/Milis.md",
-    "Books/Untitled 2.md",
-    "Books/Untitled 1.md",
-    "Books/Soras 2.md",
-    "Books/Soras 1.md",
-    "Books/Satzgemälde 1.md",
-    "Books/Haven 1.md",
-    "Books/Stories to write.md",
-    "Adventures/InseldesWahnsinns/Items 4 team.md",
-    "Adventures/InseldesWahnsinns/NPCS/Arty.md",
-    "Adventures/Organisations/Amazin.md",
-    "Adventures/NPCs/Amazin.md",
-    "Adventures/Mechanics/Fishing.md",
-    "Mythandras/Mythandras.excalidraw.md",
-    "Mythandras/Exos/Exoskarte.excalidraw.md",
-    "Adventures/InseldesWahnsinns/Insel des Wahnsinns.md",
-    "Adventures/Enemy Statblocks/Tinnie - Niels.md",
-    "Adventures/InseldesWahnsinns/NPCS",
-    "Adventures/InseldesWahnsinns",
-    "Mythandras/Exos/Exoskarte.excalidraw.svg",
+    "Adventures/WrittenOut/InseldesWahnsinns/NPCS",
+    "Adventures/WrittenOut/InseldesWahnsinns",
     "Mythandras/Mythandras.excalidraw.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics/Pasted image 20240804010822.png",
