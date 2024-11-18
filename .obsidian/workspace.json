@@ -46,33 +46,9 @@
               "icon": "lucide-file",
               "title": "Haven 1"
             }
-          },
-          {
-            "id": "63f2d99f6c01747c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
-            "id": "21559bbb3b6d82e6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +194,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "63f2d99f6c01747c",
+  "active": "fdfb56cd419fc852",
   "lastOpenFiles": [
     "Books/Satzgemälde 1.md",
     "Books/Soras 1.md",
