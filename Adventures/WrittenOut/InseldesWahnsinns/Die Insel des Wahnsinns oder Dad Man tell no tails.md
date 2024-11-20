@@ -247,6 +247,12 @@ Niels verdingt heuert immer wieder als Matrose an
 War kapitän und navigator, ebenfalls guter Freund von Zatos
 ### Zaros
 War erste Maatin und hatte eine goldnase, er fand immer wieder Schätze. Der letzte Schatz war allerdings tödlich
+
+
+# Hinter dem Schloss
+Hinter dem Schloss findet sich eine Altarkammer zum Gott 
+
+
 ## Akt 3: Am Gipfel
 
 

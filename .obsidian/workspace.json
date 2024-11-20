@@ -51,12 +51,14 @@
             "id": "9488b306913f131f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Mythandras/Mechaniken/Rassen in Mythandras.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Rassen in Mythandras"
             }
           }
         ],
@@ -208,6 +210,7 @@
   },
   "active": "9488b306913f131f",
   "lastOpenFiles": [
+    "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "conflict-files-obsidian-git.md",
     "Books/Satzgemälde 1.md",
     "Books/Soras 1.md",
@@ -228,7 +231,6 @@
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Mythandras/Exos/Polaris/Polaris - das Reich der Prophezeiung.md",
     "Adventures/Ideenschmiede Seeds.md",
-    "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/WrittenOut/InseldesWahnsinns/NPCS/Svelte.md",
     "Adventures/Ideas Mythandras.md",
     "Mythandras/Milis/Die Schattenjäger.md",
