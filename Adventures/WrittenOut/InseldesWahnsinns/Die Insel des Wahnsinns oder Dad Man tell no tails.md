@@ -199,13 +199,20 @@ Labzrinth monolog
 alle schlafen gehen, davor mit NPCs reden
 
 Angus Quest: zeig ihm die besonderen Fische - Bag of Fishholding
-Schogards Quest: - Midlife Crisis Angst Ihn beruhigen, es ist noch zu früh für ihn zu sterben Flute of Charming
+
+Schogards Quest: - Midlife Crisis Angst Ihn beruhigen, es ist noch zu früh für ihn zu sterben Flute of Charming. Schogard frägt das Team was sie machen wollen wenn sie hier überleben.
 
 Violas Quest - Die Kristalle könnten eine mächtige Powerquelle sein - sie hört schreie wenn sie die Steine berührt. Sie hat einen Kristall abgebaut und er leuchtet nicht mehr. Die Kristalle sind erstaunlich Zerbrechlich und geben ihre Energie ab, dannach leuchten sie nicht mehr
+Frägt ob die Party Angst hat und was sie davon hält.
 
 Tinnies Quest: Bitte bringt mich mit. Ich habe meinem Vater geschworen alle heil hier raus zu bringen - Wenn ihr alle restlichen lebend hier raus bekommt werden ihr reichlich entlohnt.
-Sie hat versucht mit dem Kapitän zu reden, 
+Sie hat versucht mit dem Kapitän zu reden, sie können ihm durch sie fragen stellen (3) aber er wird schwächer und schwächer.
+-> Breadcrump Arteratiz hält Seelen
+-> Eith saugt diese Seelen auf
+
 Svelte - hat ein bezauberndes Fischgericht gekocht - vertraut euch bitte: Heiltrank
+Spricht über vertrauen untereinander. Er erträgt es nicht wenn noch einer aus dem Team uns verrät.
+
 Ralf und Miranda gerettet: 
 Wenn sie bis zum Abend warten wird Ralf gegrillt
 ### Cannibalen Camp
@@ -214,32 +221,41 @@ Ralfs Quest:
 Mirandas Quest: Wenn nicht überzeugt wird sie am Abend zu Eith konvertieren
 
 Die kannibalen haben einen Change of Heart und legen einen Brief an den nördlichen Eingang, der sie zu einem Abendfestmahl einläd (die Kannibalen haben jetzt Angst vor den Eindringlingen und werden nicht mehr bereitwillig auf Konfrontation gehen)
-Die Kannibalen (unter Mick) denken sich, lass Zaros sich um sie kümmern
+Die Kannibalen (unter Mick) denken sich, lass Zaros um sie kümmern
 Niels will das nicht ist aber überstimmt.
 ### Cannibalen Befragung
 Befragung der anderen Beiden Cannibalen plus weitere Cannibalen im Camp Infos
-- Lore über Niels
+- Lore über Niels und deal von vor 100 Jahren
+	- erstes Schiff das ankam
+	- Truhe im inneren gefunden
+	- Zaros hat sie auf gesetzt und alle unterworfen, wer nicht gehorcht stirbt
+	- Niels war Verlobter und handelte einen Deal aus
+	- Er lockt immer wieder Schiffe her und Eith lässt die Schiffe kentern
+	- Das Dorf muss immer wieder Leute im Namen von Eith opfern damit Eith erwacht
+	- Nach 1000 Jahren erhalten sie Eith zurück
 - Lore die den Endboss einfacherer macht (Zaros zieht die Energie der Ahnen die hier sterben aus den Kristallen)
+- Lore dass Zaros sich nicht vom Gipfel wegbewegen darf
 
 ### Niels (Kette Narbe, M, grimmig)
 War teil der originalen Crew mit Zatos, Prince (ewiges Kind), King (trägt auch ein amulet)
 Hoarded Schätze im Berg,
 Das Amulett lässt ihn durch den Berg gehen und Zatos besuchen
-Zatos war sein bester Freund, jetzt ist er kaum noch ansprechbar und ersetzt durch die Überbleibsel eines alten Bösen
+Zaros war seine Verlobte, jetzt ist er kaum noch ansprechbar und ersetzt durch die Überbleibsel eines alten Bösen
 Er brachte es nicht über sich ihn zu töten, also hat er einen Deal mit dem Gott gemacht, ewiges Leben und mit King wechseln sie sich ab und leiten Schiffe her, bis der Gott auferstanden ist, dann wird Zatos wieder freigelassen.
 Niels verdingt heuert immer wieder als Matrose an
 ### King Mick (fett, M , Ehrfurcht)
 War kapitän und navigator, ebenfalls guter Freund von Zatos
-### Zatos
-War erster Maat und hatte eine goldnase, er fand immer wieder Schätze. Der letzte Schatz war allerdings tödlich
+### Zaros
+War erste Maatin und hatte eine goldnase, er fand immer wieder Schätze. Der letzte Schatz war allerdings tödlich
 ## Akt 3: Am Gipfel
 
 
-Das Rabenartefakt schwächt die 6 Arterazitspitzen.
+Das Rabenartefakt schwächt die 6 Arterazitspitzen. Eine Decke wird von den 6 Arterazitspitzen gehalten die in einen Arterazikristall mündet.
+
 Ein Hexagram steht in der Mitte zwischen den Spitzen was schwach leuchtet.
 Da drin steht der Eith Bessessene, Blondes langes Haar, eine Krone aus Artherazit ist auf dem Kopf festgewachsen, der Kristall zieht sich über die Venen hinweg über den zerschlissenen Körper. Wo augen waren leuchtet es jetzt nur noch pink weiß.
 
-Ihr Abenteurer, haltet inne und hört meine Worte! Ihr steht am Rande des Unvermeidlichen, unwissend, was euch hier erwartet. Ich bin der Auserwählte von Eith, dem großen Gott der Vollständigkeit. Ihr glaubt, ihr könntet einfach so in dieses Heiligtum eindringen, doch ihr irrt euch gewaltig.
+Ihr Abenteurer, haltet inne und hört meine Worte! Ihr steht am Rande des Unvermeidlichen, unwissend, was euch hier erwartet. Ich bin die Auserwählte von Eith, dem großen Gott der Vollständigkeit. Ihr glaubt, ihr könntet einfach so in dieses Heiligtum eindringen, doch ihr irrt euch gewaltig.
 
 Eith, oh Eith, der alles sieht und alles weiß. Er hat mich auserwählt, seine Botschaft zu verbreiten, seine Macht zu demonstrieren. Ihr seid nichts als unbedeutende Spielfiguren in einem Spiel, das ihr nicht versteht. Aber keine Sorge, ich bin hier, um euch auf den rechten Pfad zu führen, um euch zu erleuchten!
 
@@ -263,3 +279,9 @@ Also, entscheidet weise, ihr Narren. Erkennt die Macht, die vor euch steht. Werd
 Eith empfängt sie, und will sie konvertieren beantwortet fragen falls welche gestellt werden dann endboss fight
 
 Eith absorbiert die Seelen aus dem Stein der von der ganzen Insel aus Seele absorbiert
+
+Der Kampf kann gewonnen werden indem Eith entweder aus dem Gipfel und Arterazitkreis gezogen wird oder die Arterazitkristalle zerstört werden und so Eith stark geschwächt und besiegbar wird.
+Wurde Niels nicht mit gedealt taucht er auf und versucht die Party aufzuhalten.
+Tötet die Party Niels kanalisiert Zoras Energie in ihn um ihn zu retten und opfert Lebenspunkte dafür.
+
+Wenn die Party siegreich ist fordert der Rabe die Krone ein.
