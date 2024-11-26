@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Die Insel des Wahnsinns oder Dad Man tell no tails"
             }
+          },
+          {
+            "id": "5e17c1b12ab5b2da",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,12 +125,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Die Insel des Wahnsinns oder Dad Man tell no tails"
+              "title": "Outgoing links"
             }
           },
           {
@@ -166,7 +178,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "53e7280a15b2296c",
+  "active": "5e17c1b12ab5b2da",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Adventures/WrittenOut/Tripleshot Gefangen im Schneesturm.md",
