@@ -215,7 +215,7 @@ Spricht über vertrauen untereinander. Er erträgt es nicht wenn noch einer aus 
 
 Ralf und Miranda gerettet: 
 Wenn sie bis zum Abend warten wird Ralf gegrillt
-### Cannibalen Camp
+# Cannibalen Camp
 Versuch beide zu retten
 Ralfs Quest: 
 Mirandas Quest: Wenn nicht überzeugt wird sie am Abend zu Eith konvertieren
@@ -245,18 +245,21 @@ Er brachte es nicht über sich ihn zu töten, also hat er einen Deal mit dem Got
 Niels verdingt heuert immer wieder als Matrose an
 ### King Mick (fett, M , Ehrfurcht)
 War kapitän und navigator, ebenfalls guter Freund von Zatos
-### Zaros
+### Zoras
 War erste Maatin und hatte eine goldnase, er fand immer wieder Schätze. Der letzte Schatz war allerdings tödlich
 
 
 # Hinter dem Schloss
-Hinter dem Schloss findet sich eine Altarkammer zum Gott 
+Hinter dem Schloss findet sich eine Altarkammer zum Gott Falmine der durch einen Altar von Eith ersetzt wurde. Tote ausgezerrte Falminenranken. In den Wänden brennt heiliges Feuer.
+
+Auf dem Altar steht ein Buch eine heilige Skripture. Ein Vampir kann dies lesen und einen Religionscheck machen. Bei Fail erleidet er 1+d4 schaden. Er lernt einen vampirischen Spell den er 1mal pro Tag ausführen kann:
+Meelee Attack: deal d6+3 dmg, heile um die Amount damage die zugefügt wurde.
 
 
-## Akt 3: Am Gipfel
+# Akt 3: Am Gipfel
 
 
-Das Rabenartefakt schwächt die 6 Arterazitspitzen. Eine Decke wird von den 6 Arterazitspitzen gehalten die in einen Arterazikristall mündet.
+Eine Decke wird von den 6 Arterazitspitzen gehalten die in einen Arterazikristall mündet.
 
 Ein Hexagram steht in der Mitte zwischen den Spitzen was schwach leuchtet.
 Da drin steht der Eith Bessessene, Blondes langes Haar, eine Krone aus Artherazit ist auf dem Kopf festgewachsen, der Kristall zieht sich über die Venen hinweg über den zerschlissenen Körper. Wo augen waren leuchtet es jetzt nur noch pink weiß.
