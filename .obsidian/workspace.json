@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/WrittenOut/InseldesWahnsinns/Items 4 team.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Die Insel des Wahnsinns oder Dad Man tell no tails"
-            }
-          },
-          {
-            "id": "5e17c1b12ab5b2da",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Items 4 team"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Adventures/WrittenOut/InseldesWahnsinns/Items 4 team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Items 4 team"
             }
           },
           {
@@ -178,8 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e17c1b12ab5b2da",
+  "active": "53e7280a15b2296c",
   "lastOpenFiles": [
+    "Adventures/Items/Egg of unlimited potential.md",
+    "Adventures/Items/Random magische Effekte.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "conflict-files-obsidian-git.md",
     "Adventures/WrittenOut/Tripleshot Gefangen im Schneesturm.md",
     "Adventures/WrittenOut/Oneshot French fantasy cat caffee.md",
@@ -194,7 +185,6 @@
     "Adventures/WrittenOut/InseldesWahnsinns/Items 4 team.md",
     "Adventures/WrittenOut/InseldesWahnsinns/Insel des Wahnsinns.md",
     "Adventures/WrittenOut/InseldesWahnsinns/Dschungel Encounter.md",
-    "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/WrittenOut/InseldesWahnsinns",
     "Adventures/Ideen The Campagne in Exos.md",
     "Adventures/EncounterTables/Magische Items.md",
@@ -207,8 +197,6 @@
     "Mythandras/Milis/Die Schattenjäger.md",
     "Books/Stories to write.md",
     "Books/Haven 1.md",
-    "Adventures/WrittenOut/Ideen The Campagne in Exos.md",
-    "Adventures/InseldesWahnsinns/NPCS/Viola.md",
     "Adventures/InseldesWahnsinns/NPCS",
     "Adventures/InseldesWahnsinns",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",

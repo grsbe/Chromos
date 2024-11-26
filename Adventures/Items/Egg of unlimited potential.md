@@ -1,0 +1,2 @@
+
+Im Ei wohne eine Kreatur reiner Energie. Wenn man das Ei in der Hand hält und etwas wünscht versucht es in eine Form zu wachsen die diesem Wunsch entspricht. Je drängender und größer der Wunsch, desto stärker und schneller wächst das Ei heran.
