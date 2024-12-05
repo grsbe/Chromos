@@ -15,6 +15,8 @@ Der König sucht ein Kind das eine Prophezeiung nach sein untergang sein soll
 
 Ein uraltes Böses ist unter Exos begraben und versucht zu entkommen. Der Imperator muss kontinuierlich das Böse in schach halten und bekämpfen
 ## Settings/Theme
+Ein Dorf/Stadt/Land/Kontinent wo die Bewohner einen Deal mit dämonen ausgemacht haben. In der Nacht müssen alle Menschen in häusern sein und dürfen bis Tagesanbruch nicht auf die Straße. Wer diese Regel bricht stirbt. Außerdem gibt es jährliche Opfer oder so. Dämonen können Gebäude nachts (vermeintlich) nicht betreten.
+
 Zauberwald auf den Kanaren
 
 Unterwelt aus Büchern
