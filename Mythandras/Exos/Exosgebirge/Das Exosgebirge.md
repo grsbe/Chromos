@@ -7,17 +7,25 @@ Um das Tor im Hauptberg zu erklimmen muss man jedoch vorher die 6 Heralde erklom
 
 ## Die 6 Exosberge um das Exosgebirge:
 
-1. Unten rechts, Si'ris:
-   Archangel Mirael: He inhabits the mountain of fire and tests mortals on their courage and bravery. He carries a sword and represents the ideal of strength.
-2. Oben Links:
-   Archangel Gariel: He inhabits the mountain of ice and tests mortals on their perseverance and determination. He carries a mace and represents the ideal of endurance.
-3. Unten Links:
-   Archangel Raael: He inhabits the mountain of wind and tests mortals on their agility and speed. He carries a bow and represents the ideal of swiftness.
-4. Oben rechts:
-   Archangel Urael: He inhabits the mountain of earth and tests mortals on their wisdom and intelligence. He carries a staff and represents the ideal of knowledge.
-5. Unten Mitte 
-   Archangel Sariel: He inhabits the mountain of water and tests mortals on their adaptability and flexibility. He carries a trident and represents the ideal of fluidity.
-6. Oben Mitte
-   Archangel Azrael: He inhabits the mountain of darkness and tests mortals on their fear and how they face their fears. He carries a scythe and represents the ideal of acceptance.
+Unten rechts, Si'ris:
+   Strength. Erde
+   Die Stadt veranstaltet alle 4 Jahre ein Gladiatorenturnier. (Erst Gruppen, dann Einzelkämpfe) Der Sieger tritt gegen einen der besten 5 Kämpfer von Exos an. Gewinnt der Krieger, dann nimmt er den Platz ein und darf den Gipfel erklimmen
+Oben Links: Gariel
+   Archangel Gariel: Endurance, Perceverence, Constitution, Ausdauer, Eis
+   Sterbliche die am Altar beten betreten eine Traumwelt in der Jahrhunderte vergehen können ohne dass in der echten Welt eine Sekunde vergeht. Eintretende werden vor ein Problem gestellt das eine Ewigkeit in Anspruch nimmt. Wer scheitert betet auf ewig als Eisstatue.
+Unten Links: Raael
+   Dexterity. Energie
+   Der Ort steht im Zentrum von lebender Magie, die einst gewoben wurden um Götter auszulöschen. Der Test fordert das Erklimmen des Berges in einem Bestimmten Zeitlimit.
+Oben rechts: Polus
+   Urael, Intelligence, Knowledge. Psi
+   Werde einer von 5 Erzmagiern in Polus indem du mehr Magische Wissenschaft produzierst als der Rest. Die Statue am Gipfel wird dich als würdig erweisen. Gewalt abseits dem Dienste der Wissenschaft disqualifiziert einen automatisch
+Unten Mitte: Parador 
+   Sariel: List, Charisma, Gewitztheit, Wasser
+   In der Gamblingstadt gibt es genau 5 Tickets die den Aufzug an die Spitze des Berges öffnen. Die besten Gambler besitzen diese TIckets und es ist nur durch Glückspiel möglich an eines dieser Tickets zu kommen.
+Oben Mitte: Uruk-Baeir
+   Azrael: WIsdom, Angst
+    He inhabits the mountain of darkness and tests mortals on their fear and how they face their fears. He carries a scythe and represents the ideal of acceptance.
+
+[[../../Phantheon/Das alte Pantheon|Das alte Pantheon]]
 
 The final test on the main mountain is facing a champion of Exos in battle carrying a spear, to prove that the mortal has mastered the ideals represented by all the archangels and is worthy of ascending to the heavens.
