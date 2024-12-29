@@ -17,7 +17,7 @@ Kriegerischer Staat des Lichts, Hauptstadt Pa’ris. Wird angeführt von einem s
 ### [[Somi Soni Gebirgsstämme.md]]
 Friedlebende Meister der Elementarmagie, deren Kultur sich um ihren mythischen Kristallorakel dreht.
 
-### [[Polaris - das Reich der Prophezeiung.md]]
+### [[Polaris/Polis Polaris]]
 
 ### [[Abraxus.md]]
 Eine Brückenstadt aus Zwergen, Gnomen und Menschen, die besten Erfinder und Mechaniker der Welt
