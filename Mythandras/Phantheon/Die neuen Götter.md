@@ -1,7 +1,7 @@
 
-Die Alten Götter anzubeten macht wenig Sinn. Sie stehen mehr für die Erhaltung des Status Quo und legen die Naturgesetze der Welt und der Magie fest, die Magier und Wissenschaftler erforschen um magische Zauber und starke Konstrukte herstellen zu können.
+Die Alten Götter anzubeten macht manchmal wenig Sinn. Sie stehen mehr für die Erhaltung des Status Quo und legen die Naturgesetze der Welt und der Magie fest, die Magier und Wissenschaftler erforschen um magische Zauber zu wirken und starke Konstrukte herstellen zu können.
 
-Im Gegensatz dazu stehen die neuen Götter, die ihren Ursprung oft aus amitionierten Alfen oder dem Kollektiven Glauben einer Gemeinschaft entsprungen sind.
+Im Gegensatz dazu stehen die neuen Götter, die ihren Ursprung oft aus amitionierten Alfen, dem Kollektiven Glauben einer Gemeinschaft oder einem auferstandenen Wesen entsprungen sind.
 Diese Götter verbinden aktiv das Geisterreich mit der materialen Welt und wirken durch die Anhänger und Champions des Gottes.
 Alte Götter sind auf das Geisterreich beschränkt und wirken dort durch ihre Naturgesetze.
 Neue Götter sind in der Geisterwelt ein Gott und üben doch als eigenständiges Wesen ihren Einfluss auf die materiellen Welt aus.
@@ -18,16 +18,17 @@ Sind implodiert und wurden ersetzt während der Götterkriege
 
 #### Träume und Drachengott
 
-#### Sturmgott Baha Batos
+#### Sturmgott
 
 ## Aspekte der 7 Sünden
 #### Eith Gott der Vollständigkeit und der Einheit
 
 #### Gott des Lichts und der Versuchung 
-
 Herrscher von Pa'ris
 
 #### Dominierungsgott Nayuta
 Herrscherin über Narakan
 
 #### Permanenzgott
+
+#### Abrundgott Baha Batos

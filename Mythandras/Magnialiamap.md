@@ -1,0 +1,1 @@
+![[Magnialia.excalidraw.svg]]

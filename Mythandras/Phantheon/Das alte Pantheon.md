@@ -63,14 +63,14 @@ Exos steht als Gott für Stolz, Macht, Kraft, Kampf, Wut und Angst.
 
 Folgende Alfen repräsentieren Exos auf der Welt:
 
-|Aspekt|Name|Element|Religion|
-|---|---|---|---|
-|Stolz/Ambition|Stolz||7|
-|Jagd|Rexos|||
-|Kampf/Ehre|Lanus|||
-|Angst|Rasmos|||
-|Wut/Rache|Farkos||7|
-|Waffenführung|Remus|||
+| Aspekt         | Name   | Element | Religion |
+| -------------- | ------ | ------- | -------- |
+| Stolz/Ambition | Stolz  |         | 7        |
+| Jagd           | Rexos  |         |          |
+| Kampf/Ehre     | Lanus  |         |          |
+| Angst          | Rasmos |         |          |
+| Wut/Rache      | Farkos |         | 7        |
+| Neid           | Remus  |         | 7        |
 
 ## Liebe
 
@@ -79,13 +79,13 @@ Die Göttin der Liebe, Nymus (auch Nymusius, Nym genannt) ist neben Exos eine de
 Folgende Alfen führen ihren Willen aus.
 
 
-|Aspekt|Name|Element|Religion|
-|---|---|---|---|
-|Lust/Einklang|Harmine||7|
-|Selbstliebe|Narzine|||
-|Familienliebe|Falmine|||
-|Freundschaft|Homine|||
-|Neid|Zarine||7|
+| Aspekt        | Name    | Element          | Religion |
+| ------------- | ------- | ---------------- | -------- |
+| Lust/Einklang | Harmine | Synchronisation  | 7        |
+| Selbstliebe   | Narzine | Perfektion       |          |
+| Familienliebe | Falmine | Geben und Nehmen |          |
+| Freundschaft  | Homine  | Vertrauen        |          |
+
 
 ## Zeit
 
@@ -98,7 +98,7 @@ Minus ist die Göttin der Zeit, des Verstreichen alles Übles und der Ewigkeit z
 | Zukunft                   | Phenet | Prophezeiung | Orden der Zeit |
 | Gegenwart                 | Anet   | Allseherei   | Orden der Zeit |
 | Vergangenheit             | Synet  | Eis          | Orden der Zeit |
-| Traum, Fantasie, Faulheit | Drenet | Schlaf       | Drachenkult    |
+| Traum, Fantasie, Faulheit | Draugr | Schlaf       | Drachenkult    |
 
 ## Raum
 
@@ -135,14 +135,14 @@ Minus, die Göttin der Veränderung und des Geistes (auch Minusius, Mina, Migras
 
 Folgende Alfen verändern die Welt auf ihrer Autorität:
 
-|Aspekt|Name|Element|Religion|
-|---|---|---|---|
-|Erschaffung|Kraboshtagrosh|Gier|7, Zwerge: Ambossgott|
-|Erhaltung|Simbeshgrosh|Transmutation|Zwerge: Helmgott|
-|Zerstörung|Shgrabugrosh|Vernichtung|Zwerge: Hammergott|
-|Logik|Nagaburosh|Bewusstsein||
-|Intuition|Zionosh|Unterbewusstsein/Traum|7|
-|Weisheit|Amenosh|Gedächnis||
+| Aspekt      | Name           | Element                | Religion              |
+| ----------- | -------------- | ---------------------- | --------------------- |
+| Erschaffung | Kraboshtagrosh | Gier                   | 7, Zwerge: Ambossgott |
+| Erhaltung   | Simbeshgrosh   | Transmutation          | Zwerge: Helmgott      |
+| Zerstörung  | Shgrabugrosh   | Vernichtung            | Zwerge: Hammergott    |
+| Logik       | Nagaburosh     | Bewusstsein            |                       |
+| Intuition   | Zionosh        | Unterbewusstsein, Faul | 7                     |
+| Weisheit    | Amenosh        | Gedächnis              |                       |
 
 ## Kunst
 

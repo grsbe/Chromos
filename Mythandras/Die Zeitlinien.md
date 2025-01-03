@@ -21,7 +21,7 @@ Je nachdem, wer hier gewinnt, nimmt die Geschichte ihren eigenen Weg. Die Sieger
 Einige Dinge bleiben in allen Zeitlinien gleich:
 - Ein Großteil der Hellelfen wird verflucht: Die Rasse der Menschen, Zwerge, Tierwesen und Wassermenschen werden aus den Hellelfen geschaffen. Mehr dazu in Rassen.
 
-### Ausgang: Die Dunkelelfen gewinnen: Zeitlinie der Freiheit
+### Ausgang: Die Dunkelelfen gewinnen: Zeitlinie der Freiheit - [[Magnialia]]
 
 - Die Dunkelelfen ersetzen alle 8 Untergötter und schaffen die Welt neu:
 - Alle Hauptgötter und manche Untergötter werden in die Welt selbst gebannt
@@ -33,7 +33,7 @@ Einige Dinge bleiben in allen Zeitlinien gleich:
 - Nur Auserkorene, die eine Herausforderung des Himmels erfüllen, können in den Himmel aufsteigen. Von Natur aus hat kein Lebewesen das Schicksal aufzusteigen. Es benötigt einen Akt dem eigenen Schicksal entgegen zu treten und zu überlisten
 - Menschen, Zwerge verlieren ihre Fähigkeit von sich aus Magie zu wirken und müssen Verträge mit Geistern 
 
-### Ausgang: Die Hellelfen gewinnen Zeitlinie der Ordnung
+### Ausgang: Die Hellelfen gewinnen Zeitlinie der Ordnung - [[Taijima]]
 
 - Die Hellelfen werden die Gefängniswächter einer Welt. Die Welt wird in Ebenen eingeteilt. Alle Wesen die, die Ordnung der Welt herausfordern wollen, starten in der untersten Hölle, der untersten Ebene. Darüber befinden sich die Unterwelt Ebenen, die Oberwelt Ebenen und die Himmels Ebenen. Die oberste Ebene gehört der Chaosgöttin, mit der Macht die Welt aufzubrechen und in der Zeit zurück zu reisen um die Welt neu zu formen.
 - Die Zweitoberste Ebene gehört den obersten 8 Göttern.

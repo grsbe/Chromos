@@ -1,5 +1,5 @@
 Willkommen auf meiner Worldbuilding Website. Alle meine Welten stammen aus dem selben Kosmos, dem [[Chromaverse]].
-## [[Mythandras.md]]
+## [[Magnialia]]
 Fantasy Magiewelt deren zentrales Feature verwirrende Zeitlinien ausmacht.
 
 ## [[Haven.md]]
