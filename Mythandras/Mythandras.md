@@ -4,7 +4,7 @@ Am Anfang war das Alles und Nichts, das Taros, die Verkörperung der Entropie. A
 
 Wie es denn nun ist, wenn man unendlich und gleichzeitig keine Zeit zur Verfügung hat, kommt es eine Ewigkeit später schließlich dazu, dass große Mengen Energie miteinander reagieren und Wesen erschaffen, die über sich selbst bewusst werden. Und diese Wesen haben den Wunsch, inmitten dieses Entropiesturms als eigene Wesen existieren zu wollen.
 
-Uns Menschen sind nur zwei dieser Wesen als Konzepte überhaupt verständlich. Alle anderen Wesen wurden, sofort wieder von der Entropie ausgelöscht. Doch diese zwei mystischen Wesen, uns als Chaos und Ordnung oder ihre heutigen Namen Artemetos und Noxus, besaßen zusammen die Kraft dem Sturm der Entropie zu widerstehen. 
+Uns Menschen sind nur zwei dieser Wesen als Konzepte überhaupt verständlich. Alle anderen Wesen wurden, sofort wieder von der Entropie ausgelöscht. Doch diese zwei mystischen Wesen, uns als Chaos und Ordnung oder ihre heutigen Namen [[Das alte Pantheon.md#Ordnung|Artemetos]] und [[Das alte Pantheon.md#Chaos|Noxus]], besaßen zusammen die Kraft dem Sturm der Entropie zu widerstehen. 
 
 [[Das alte Pantheon.md#Ordnung|Artemetos]] und [[Das alte Pantheon.md#Chaos|Noxus]] erschufen aus ihrer Gegensätzlichkeit eine große Spannung, die der Entropie ebenbürtig war. Diese Spannung dient heute unserer Welt als Schutzschild gegen die Leere. Zwischen sich erschufen die beiden neugeborenen Götter eine Welt, die sicher ist vor der Entropie, Mythandras.
 
