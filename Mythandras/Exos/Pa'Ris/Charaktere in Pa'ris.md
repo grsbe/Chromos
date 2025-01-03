@@ -6,5 +6,7 @@ Dannach hat er das kriegerische Exos unter seinem Banner vereinigt und die drohe
 
 
 ---
-Miras
-Ein Revolutionär der die Freiheit des Volkes zurückgewinnen will.
+Mirai
+Ein Revolutionär der die Freiheit des Volkes zurückgewinnen will. Er ist getrieben von Rache. Der Emperor hat ihn hintergangen.
+
+Er führt die Truppe Mirai Akuma an, die die Stadt unsicher macht
