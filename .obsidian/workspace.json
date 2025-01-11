@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haven/Amaterasu.md",
+                "file": "Adventures/WrittenOut/InseldesWahnsinns/Timeloop/Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amaterasu"
+              "title": "Outline"
             }
           }
         ],
@@ -196,8 +196,11 @@
   },
   "active": "84f8e54d3fc6e700",
   "lastOpenFiles": [
-    "Haven/Haven.md",
+    "Adventures/WrittenOut/Outline Template.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Timeloop/Outline.md",
     "Haven/Amaterasu.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Timeloop",
+    "Haven/Haven.md",
     "index.md",
     "Mythandras/Exos/Pa'Ris/Charaktere in Pa'ris.md",
     "Mythandras/Exos/Abraxus/Charaktere in Abraxus.md",
@@ -223,8 +226,6 @@
     "Chromaverse.md",
     "RandomStuff/Worldbuilding premises.md",
     "Untitled.md",
-    "Mythandras/Exos/Exosmagie.md",
-    "Mythandras/Exos/Fe'Ris/Parador Feris.md",
     "Adventures/WrittenOut/Spectracular",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Adventures/WrittenOut/InseldesWahnsinns/NPCS",
@@ -235,7 +236,6 @@
     "Taijima/Cores",
     "Adventures/Mechanics",
     "Excalidraw",
-    "Adventures/WrittenOut",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
     "Haven/HavenMap.svg",
     "Mythandras/Exos/ExosExcal.svg",
