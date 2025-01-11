@@ -12,7 +12,7 @@
 
 ### **Sloth**
 
-#### **The Serenade of Eternal Twilight** _(Revised as Music Box)_
+#### **The Serenade of Eternal Twilight**
 
 - _Appearance_: A small, intricately carved music box made of darkwood and inlaid with faintly glowing golden threads. When opened, it plays a haunting lullaby that seems to echo memories of peace and comfort.
 - _Power_: The music box soothes even the most restless minds, allowing those who hear its melody to leave their bodies and wander as ethereal forms. While the experience is blissful and freeing, those who remain detached for too long risk losing their connection to the physical world entirely, leaving their bodies as empty husks.
