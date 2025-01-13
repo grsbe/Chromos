@@ -1,5 +1,5 @@
 
-|[MM](https://5e.tools/book.html#mm,page:316 "Monster Manual") [p316](https://5e.tools/book.html#mm,page:316 "Page 316")|   |   |   |   |   |
+|[[https://5e.tools/book.html#mm,page:316 "Monster Manual"]] [[https://5e.tools/book.html#mm,page:316 "Page 316"]]|   |   |   |   |   |
 |---|---|---|---|---|---|
 |_Medium Undead, Neutral Evil_|   |   |   |   |   |
 ||   |   |   |   |   |
@@ -12,7 +12,7 @@
 ||   |   |   |   |   |
 |**Saving Throws** Wis +0|   |   |   |   |   |
 |**Damage Immunities** poison|   |   |   |   |   |
-|**Condition Immunities** [poisoned](https://5e.tools/conditionsdiseases.html#poisoned_phb)|   |   |   |   |   |
+|**Condition Immunities** [[https://5e.tools/conditionsdiseases.html#poisoned_phb]]|   |   |   |   |   |
 |**Senses** darkvision 60 ft., passive Perception 8|   |   |   |   |   |
 |**Languages** understands all languages it spoke in life but can't speak|   |   |   |   |   |
 |**Challenge** 1/4 (50 XP)|   |   |

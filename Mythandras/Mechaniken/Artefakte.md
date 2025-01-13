@@ -89,12 +89,13 @@
 - _Origin_: Created by a god of excess to ensure perpetual celebration at divine feasts.
 - _Hook_: The chalice has fallen into the hands of a hedonistic cult leader, whose followers are succumbing to madness while indulging in their leader’s endless parties.
 
-#### The Crown of Unity
+#### **The Crown of Unity**
 
 - *Aussehen:* Eine blau, weiß kristallene Krone, die sobald sie aufgesetzt wurde, kristallene Adern durch den Körper zieht.
 - *Power:* Erlaubt es Seelenenergie anderer anzuzapfen, die Energie kann genutzt werden um andere Menschen oder sich selbst die Lebenszeit zu verlängern. Die Energie kann auch für Zauber genutzt werden.
 - *Origin:* Der Gott Eith wollte die Lebenszeit einiger Elfen verlängern auf Kosten anderer
 - Hook: Eine Piratenschiffcrew findet die Krone auf einer verlassenen Insel. Nachdem einer sie aufsetzt, gewährt dieser der Crew ewiges Leben. Die Crew lockt fortan Schiffe zur Insel
+
 
 ---
 
