@@ -1,3 +1,6 @@
 In einer Zeit lang vor unserer Gegenwart, als noch Götter auf der Erde wandelten erschufen sie sich eine Dienerschaft, die ihnen auf Wort folgte. Bis ein Teil der Diener eine Revolution anstifften und sich ihre Engelsflügel abschnitten um unabhängig von den Göttern ihren Willen ausleben zu können. Es entbrannte ein erbitterter Krieg zwischen niederen Göttern, Engeln und den Flügellosen, die wir heute Dunkel oder Chaosengel nennen. Der Krieg wurde in dieser Zeitline abrupt gewonnen als die Dunkelalfen ihre Kräfte kombinierten und die Welt neuformten. Dabei wurden die machtgierigen Götter in niedere Wesen geschlossen, die zu keiner direkten Magie mehr in der Lage sind.
 Der Ursprung dieses Zaubers liegt im heutigen Kontinent Myxia.
-Betreten auf eigene Gefahr, es befinden sich mächtige und gefährliche inaktive Zauber und Artefakte in diesem Kontinent, die in sekundenschnelle ein Leben beenden, ein neues anfangen oder Mutationen hervor rufen können die ein Leben für immer verändern.
+
+Betreten auf eigene Gefahr, es befinden sich mächtige und gefährliche aktive und inaktive Zauber und Artefakte in diesem Kontinent, die in sekundenschnelle ein Leben beenden, ein neues anfangen oder Mutationen hervor rufen können die ein Leben für immer verändern.
+
+Dieser Kontinent wird von *[[Lebende Magie|Lebender Magie]]* heimgesucht.

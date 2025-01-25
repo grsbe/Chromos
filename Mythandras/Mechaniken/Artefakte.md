@@ -5,7 +5,7 @@
 - _Appearance_: A jagged black stone veined with glowing red sigils, faintly radiating an aura of hunger. Its surface absorbs all light, making it difficult to focus on directly.
 - _Power_: The Mawstone absorbs anything thrown in its vicinity, pulling it into an otherworldly void. In exchange, it provides treasures, magic, or knowledge, but its demands escalate over time. The closer one gets to the stone, the stronger its pull becomes, eventually consuming anyone who approaches recklessly.
 - _Origin_: A tool of a gluttonous god, created to dispose of unwanted matter and transform it into divine resources. The artifact was discarded in an abyss when its hunger became insatiable.
-- _Hook_: The Mawstone lies in a crevice of the abyss, its pull radiating upwards and corrupting the creatures and cultists drawn to its power. The adventurers must descend into the abyss to seal or destroy the artifact before its influence spreads further.
+- _Hook_: The Mawstone lies in a crevice of the abyss, its pull radiating upwards and corrupting the creatures and cultists drawn to its power.  The adventurers must descend into the abyss to seal or destroy the artifact before its influence spreads further.
 
 
 ---
@@ -94,7 +94,7 @@
 - *Aussehen:* Eine blau, weiß kristallene Krone, die sobald sie aufgesetzt wurde, kristallene Adern durch den Körper zieht.
 - *Power:* Erlaubt es Seelenenergie anderer anzuzapfen, die Energie kann genutzt werden um andere Menschen oder sich selbst die Lebenszeit zu verlängern. Die Energie kann auch für Zauber genutzt werden.
 - *Origin:* Der Gott Eith wollte die Lebenszeit einiger Elfen verlängern auf Kosten anderer
-- Hook: Eine Piratenschiffcrew findet die Krone auf einer verlassenen Insel. Nachdem einer sie aufsetzt, gewährt dieser der Crew ewiges Leben. Die Crew lockt fortan Schiffe zur Insel
+- Hook: Eine Piratenschiffcrew findet die Krone auf einer verlassenen Insel. Nachdem einer sie aufsetzt, gewährt dieser der Crew ewiges Leben. Die Crew lockt fortan Schiffe zur Insel.
 
 
 ---
