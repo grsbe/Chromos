@@ -1,0 +1,1 @@
+Zyrzs saß am Ende der Welt vor dem Abgrund. Die Erde verbraucht. Schwefel allgegenwärtig. Die Sonne flackerte kummervoll vor sich hin. Er warf einen Blick über die verbrannte Erde, die sich endlos über den Horizont erstreckte und die Welt in Trauer erstickte.

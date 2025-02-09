@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 308.5
   },
   "right": {
     "id": "5974fc7ffe9d18dc",
@@ -196,13 +196,15 @@
   },
   "active": "84f8e54d3fc6e700",
   "lastOpenFiles": [
+    "Books/Das Ende.md",
     "Books/Das Ende 1.md",
-    "Books/Abraxus 1.md",
+    "Books/Haven 1.md",
     "Books/Immerscheingarten 1.md",
     "Books/Stories to write.md",
     "Books/Soras 2.md",
-    "Books/Haven 1.md",
+    "Books/Soras 1.md",
     "Books/Satzgemälde 1.md",
+    "Books/Abraxus 1.md",
     "Mythandras/Mechaniken/Artefakte.md",
     "Mythandras/Myxis/Myxia.md",
     "Mythandras/Mechaniken/Lebende Magie.md",
@@ -221,8 +223,6 @@
     "Haven/Amaterasu.md",
     "Adventures/WrittenOut/Timeloop",
     "Mythandras/Exos/Pa'Ris/Charaktere in Pa'ris.md",
-    "Mythandras/Exos/Abraxus/Charaktere in Abraxus.md",
-    "Mythandras/Exos/Abraxus/Abraxus.md",
     "Mythandras/Exos/Sosoni",
     "Mythandras/Exos/Abraxus",
     "Mythandras/Magnialia.excalidraw.svg",
