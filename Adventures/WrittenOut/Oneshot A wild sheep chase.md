@@ -133,6 +133,18 @@ Der Code ist allerdings falsch, der Magierschüler hat das Passwort geändert. W
 "..."
 
 (Jedes falsch beantwortete Rätsel verwandelt den Antwortgeber in die eigentliche Lösung des Rätsels, dc15 wis saving throw, nach ner Stunde wieder weg, )
+**The alphabet goes from A to Z but I go Z to A. What am I?**
+_Answer: A zebra_
+
+30: I row with four paddles but never leave home. What am I?
+Turtle
+
+**but I breathe air. I live in a school all my life. What am I?**
+_Answer: A dolphin_
+
+8: What do you call a sleeping cow?
+
+
 Rätsel2:
 ICH HAB` VIER FLÜGEL UND SECHS BEINE,  
 aber HAARE UND OHREN HAB ICH KEINE.
