@@ -39,16 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Abraxus 1.md",
+                "file": "Books/Mawstone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abraxus 1"
+              "title": "Mawstone"
+            }
+          },
+          {
+            "id": "7ef8ae24bdf4b0ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -67,7 +79,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -194,8 +207,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "84f8e54d3fc6e700",
+  "active": "7ef8ae24bdf4b0ef",
   "lastOpenFiles": [
+    "Books/Abraxus 1.md",
+    "Books/Mawstone.md",
     "Books/Das Ende.md",
     "Books/Das Ende 1.md",
     "Books/Haven 1.md",
@@ -204,7 +219,6 @@
     "Books/Soras 2.md",
     "Books/Soras 1.md",
     "Books/Satzgemälde 1.md",
-    "Books/Abraxus 1.md",
     "Mythandras/Mechaniken/Artefakte.md",
     "Mythandras/Myxis/Myxia.md",
     "Mythandras/Mechaniken/Lebende Magie.md",
@@ -222,7 +236,6 @@
     "Adventures/WrittenOut/Outline Template.md",
     "Haven/Amaterasu.md",
     "Adventures/WrittenOut/Timeloop",
-    "Mythandras/Exos/Pa'Ris/Charaktere in Pa'ris.md",
     "Mythandras/Exos/Sosoni",
     "Mythandras/Exos/Abraxus",
     "Mythandras/Magnialia.excalidraw.svg",
