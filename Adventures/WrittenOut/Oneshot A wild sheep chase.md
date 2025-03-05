@@ -7,14 +7,35 @@ Marker für enemies
 
 # Am ende
 
-- Charakterbögen
-- Story und Umgebung ist nicht set in stone
-- Bitte Feedback am Ende, ich mach das zum ersten Mal
-- 
 ## Scene 1: In der Taverne
 
+### **Morning at The Tree-Umphant Knight**
+
+The smell of sizzling bacon and fresh bread fills the air, mixing with the warm scent of spiced cider. Sunlight filters through the leafy ceiling of **The Tree-Umphant Knight**, casting golden patches of light across the wooden tables as the tavern slowly wakes for the day.
+
+You sit around a sturdy table, plates full of buttered toast, crispy potatoes, and eggs cooked just the way you like them. It’s the kind of meal that says, _you made it through another night—eat up, who knows what today will bring?_
+
+Behind the bar, a broad-shouldered man with flour on his sleeves watches the room with sharp eyes. This is **Hugo Brannock**, the tavernkeeper. He’s been running this place for years, 
+The **Tree-Umphant Knight** is unlike most inns. Its walls are the very bark of the great tree that houses it, warm and sturdy, its branches curling overhead like wooden ribs. Hanging lanterns sway gently with the breeze slipping through the leaves, casting a soft glow over the wooden floors, worn smooth by years of boots and laughter. The air carries a mix of fresh pine, roasting meat, and the faintest hint of something floral—perhaps from the ivy that winds its way up the walls. The chairs and tables are carved straight from the tree’s roots, polished but uneven, as if the tavern itself still grows, shifting ever so slightly in its own time.
+
+### **A Quiet Game in the Corner**
+
+In the far corner of **The Tree-Umphant Knight**, a lone figure sits at a small, round table. A deck of cards rests in their gloved hands, the edges worn from years of play. They shuffle lazily, the soft flick of paper against paper almost lost beneath the morning chatter of the tavern.
+Their hood is drawn low, hiding most of their face, but beneath the shadow, you catch a glimpse of a **sharp, knowing smile**. A single **gold coin** sits in the center of the table, catching the lantern light as it spins slowly on its edge before settling flat. An invitation.
+In a voice smooth as aged whiskey, they murmur,
+**“Care to try your luck?**
+
+If tavern keeper is asked for rumours tell them there has been some unrest about the local wizard
+
+
+The **doors of The Tree-Umphant Knight slam open** with a gust of morning air, sending a ripple through the tavern as heads turn toward the entrance.
+
+This one **barrels through the doorway** on surprisingly nimble hooves, its thick, curly fleece slightly singed at the edges as if it recently had a **very bad encounter with fire or lightning.** Clutched tightly in its front hoof—yes, **hoof**—is a **rolled-up scroll**, the wax seal barely holding as it flaps wildly with each step.
+The smell of damp wool and fresh hay drifts in, followed closely by… a **sheep**.
+Tavern the Tree-umphant knight
+
 Einleittext:
-Eine friedliche Brise strömt über das Land und trägt den allbekannten liebsamen Klängen von empörten Mövenschreien mit sich. Die Meeresluft zieht aufbrausend durch die Verästelungen eines uralten magischen hohlen Baumes (ein [[Lumisbaum.md]] ) am Rande eines kleinen Fischerörtchens namens Gardisen. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann (Luzifatis) seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus in einem Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken".
+Eine friedliche Brise strömt über das Land und trägt den allbekannten liebsamen Klängen von empörten Mövenschreien mit sich. Die Meeresluft zieht aufbrausend durch die Verästelungen eines uralten magischen hohlen Baumes (ein [[Lumisbaum.md]] ) am Rande eines kleinen Fischerörtchens namens Gardinsen. Im Herzen des hohlen Baumes ist ein pfiffiger Geschäftsmann (Luzifatis) seiner goldenen Nase gefolgt und hat ein beschauliches kleines Gasthaus in einem Baum eingerichtet, in dem Abenteurer und Ortsansässige nach einem langen erschöpfenden Tag einkehren können. Das Gasthaus heißt "zum aufbäumenden Recken".
 
 Es ist morgens, das Team ist auf der Durchreise an der [[Ha'Ris.md]] Küste in Richtung einer Stadt namens [[Natya.md]] einer Hafenstadt in der ihr nach neuen Abenteuern suchen wollt. Ihr kennt euch bereits da ihr alle in einer Ähnlichen Gegend aufgewachsen seit und habt ein bis zwei Abenteuer hinter euch gebracht. Entlaufene Katzen gerettet, eine Untoten an einem Friedhof bekämpft und brennt darauf mehr und herausfordernde Abenteuer zu erleben.
 
