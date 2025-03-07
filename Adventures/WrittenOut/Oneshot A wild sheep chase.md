@@ -62,6 +62,7 @@ Interactibles:
 	- Der Polymorph Zauberer in der Gegend wurde schon länger nicht mehr in der Gegend gesehen und öffnet seine Tür nicht
 	- 
 
+Child in the corner: He is carving wood
 
 ## Scene 2: Das Schaf
 
@@ -93,7 +94,18 @@ Kontext:
 
 ## Scene 3: Ambush auf dem Weg zum Turm
 
-Kleiner smarter goblin Grok und ein Bär Brok und ein paar Wölfe Wronk, Brik und Olaf. Der Bär und die Wölfe sind gepolymorphed.
+
+when party gets out of tavern
+https://5e.tools/bestiary.html#black%20bear_xmm
+https://5e.tools/bestiary.html#wolf_xmm
+https://5e.tools/bestiary.html#goblin%20warrior_xmm
+
+wolf 1 ambushes to catch the sheep and escape
+wolf 2 attacks
+
+try to get the sheep by offering their free escape, money etc., but if it does not work or the party delays too much they will just attack
+
+Kleiner smarter goblin Grok und ein Bär Brok und ein paar Wölfe Olaf. Der Bär und die Wölfe sind gepolymorphed.
 
 lv1: Grok und ein Wolf lauern euch auf im Wald (Davor Perception: 15 um sie zu bemerken, 18 um sie actually zu sehen)
 Die beiden verstecken sich in einem Busch (Natur 10: Der Wolf hat mit seiner Nase das Schaf gerochen probably)
@@ -116,15 +128,65 @@ Level 1: Grok und 1 (+ optional ein bis zwei hidender) Wolf
 Level 2: Grok Brok plus 1 Wolf
 
 Der hidende Wolf wird versuchen das Schaf zu schnappen und abzuhauen.
+
+## Scene 3
+
+The forest stretches out before you, a towering maze of twisted oaks and creeping vines. The morning sun barely pierces the thick canopy overhead, casting long, dappled shadows across the moss-covered ground. A soft mist clings to the undergrowth, swirling around your boots with every step.
+
+The air is alive with the quiet hum of nature—**birds call in the distance, leaves rustle in an unseen breeze, and somewhere nearby, the rhythmic tapping of wood against wood echoes through the trees.** It’s peaceful… but not entirely still.
+
+As you move deeper, the trees **press closer together**, their gnarled roots rising from the earth like grasping fingers. The path narrows, winding between ancient trunks draped in ivy, and the scent of damp earth and wildflowers fills your lungs.
+
+
+
+Sheep is scared af
+
+Perception: see some unnatural ravens https://5e.tools/bestiary.html#raven_xmm
+-> if they escape he will alert the golem
+Perception: see some mushrooms
+https://www.dndspeak.com/2020/08/19/100-mushrooms-and-their-effects/
+
+
 ## Szene 4: Die Magierhütte
 
-Wald auf dem Weg dahin
+Pushing past the dense undergrowth, you step into a **clearing**, where the forest seems to hold its breath. Before you, carved directly into the heart of a massive, weathered boulder, stands the **Magician’s Hut**—though calling it a “hut” feels like an understatement. The rough stone exterior is **etched with glowing runes**, their soft pulse shifting in color like breathing embers. A **tall, arched doorway**, seemingly carved by magic itself, is **sealed shut**, shimmering with an otherworldly energy that hums faintly in the still air.
+
+To the right of the structure, a **garden unlike any you’ve ever seen** spills across the clearing. The plants here seem almost **alive**—vines twisting and repositioning themselves as if stretching after a long rest, flowers blooming and closing in slow, rhythmic pulses. Some emit a soft glow, while others release tiny motes of floating light that drift lazily before fading away. A nearby tree, its bark streaked with silver veins, **sways despite the lack of wind.**
+
+But the true obstacle stands directly in your path.
+
+A **golem**, towering and motionless, **crafted from the same stone as the hut itself**, blocks the entrance like a silent sentinel. Cracks and ancient carvings run along its arms and chest, some filled with moss, others glowing faintly with the same magic that hums from the door. **Its head tilts slightly**, as if observing you with unseen eyes.
+
+Perched on its shoulder, a **raven**, its feathers black as midnight and glistening with hints of deep purple, watches you with unsettling intelligence. It clicks its beak, shifting its weight, before croaking in a low, scratchy voice:
+
+
+
+DC (12) Perception or Arcana: Above the arched doorway, **a crystal the size of a clenched fist hovers**, its surface swirling with faint, shifting light. Wisps of energy drift from it like spectral tendrils, **flowing down toward the golem’s back**, subtly pulsing in time with its movements. Though dim, the crystal’s glow seems tied to the guardian’s power—like a heartbeat barely keeping it awake.
 
 Optional Encounter:
-Zwei Raben sitzen auf der Tür. Sind die gefährlich (je nachdem sinds einfach nur Raben lol)
-Raben können auch beim botanischen Garten neben dem Haus sein
+Golem: https://5e.tools/bestiary.html#glasswork%20golem_wbtw but 1d6+1 dmg
+It is magically connected to a crystal above the door
+AC 18 - 3 hits to destroy
+leading the golem away from the crystal or destroying the crystal will make the golem stop moving
+Raven activates the golem and will sit on its shoulder
+
+Once the raven is dead, the golem will be 
+
 
 Encounter: 
+Now, only the **sealed door remains.**
+As someone reaches out to inspect it, **the smooth stone surface ripples**, like a pond disturbed by a single drop. Suddenly, **a face bulges out from the rock**, stretching and shifting until it forms an exaggerated, **comedic-looking visage** with droopy eyes, a lopsided nose, and an overly large mouth. The door lets out a long, **dramatic sigh**, then speaks in a **bored, slightly nasal voice:**
+**“Ugh. More visitors. What, are we having a sale today?”**
+Its **stone eyes roll**, then narrow suspiciously as it _smacks_ its lips.
+**“Listen, listen—unless you’re Flavius or one of his delightful little minions, I’m afraid you’re outta luck.”** The face grins smugly. **“Of course… if you _insist_ on getting in, I suppose you could always take the fun route. You know, classic entry test. Riddles. Three of them. Solve ‘em, and boom—door opens, no funny business.”**
+
+The mouth stretches into a **wide, toothy grin**.
+
+**“Of course, if you fail… well… let’s just say Flavius left me with _options._”**
+
+The stone face **wiggles its rocky eyebrows**, clearly enjoying itself.
+I am a riddle doooooor
+
 In das Haus ist eine Runde Tür eingebaut, mit ständig verändernden Runen die sich im Kreis im die Tür bewegen. Als ihr euch der Tür nähert, erscheint ein Gesicht auf der und frägt nach dem Passwort.
 "Ich bin die Rätseltür des großen mächtigen weltunterwerfenden zauberhaften extravaganten unbeschreiblichen , hust, Magiers Faschaad. Nenn mir das Passwort und du mögest eintreten."
 Personality: Loud booming ent like voice, bist du dir sicher dass das die richtige Antwort ist???
