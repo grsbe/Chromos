@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Enemy Statblocks/Faluzivatius.md",
+                "file": "Adventures/Enemy Statblocks/Bed Wyrmling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faluzivatius"
+              "title": "Bed Wyrmling"
             }
           }
         ],
@@ -210,6 +210,7 @@
   },
   "active": "9488b306913f131f",
   "lastOpenFiles": [
+    "Adventures/Enemy Statblocks/Falvius.md",
     "Adventures/WrittenOut/Oneshot A wild sheep chase.md",
     "Adventures/Enemy Statblocks/Bed Wyrmling.md",
     "Adventures/Items/Random magische Effekte.md",
@@ -239,7 +240,6 @@
     "Adventures/Items/Egg of unlimited potential.md",
     "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "conflict-files-obsidian-git.md",
-    "Books/Satzgemälde 1.md",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Adventures/WrittenOut/InseldesWahnsinns/NPCS",
     "Adventures/WrittenOut/InseldesWahnsinns",

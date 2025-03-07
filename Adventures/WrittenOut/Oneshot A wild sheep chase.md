@@ -307,7 +307,7 @@ make room for hiding, book shelves to either side
 - Bietet eine ähnliche Summe wie der magier bzw cooles magisches Item an im Austausch für das Schaf + Forschungsmaterial
 - Hält permanent des Wand of true polymorph
 Kampfstart:
-[[Faluzivatius.md]] verwandelt Bücher und blätter in 
+[[Falvius]] verwandelt Bücher und blätter in 
 
 3 Papier ratten: https://5e.tools/bestiary.html#giant%20rat_xmm but 1d4 dmg
 
