@@ -22,7 +22,7 @@ Die provisorische Behausung wurde aus den Trümmern des gestrandeten Schiffs err
 
 Angus Quest: zeig ihm die besonderen Fische - Bag of Fishholding
 
-Schogards Quest: - Midlife Crisis Angst Ihn beruhigen, es ist noch zu früh für ihn zu sterben Flute of Charming. Schogard frägt das Team was sie machen wollen wenn sie hier überleben.
+Schogards Quest: - Midlife Crisis Angst Ihn beruhigen, es ist noch zu früh für ihn zu sterben Rythmmakerflute. Schogard frägt das Team was sie machen wollen wenn sie hier überleben. https://5e.tools/items.html#%2b1%20rhythm-maker's%20drum_tce
 
 Violas Quest - Die Kristalle könnten eine mächtige Powerquelle sein - sie hört schreie wenn sie die Steine berührt. Sie hat einen Kristall abgebaut und ihn in zwei geteilt. Die Kristalle sind immer noch verbunden und es ist möglich mit ihnen Bilder zu übertragen und Bilder zu speichern
 
@@ -32,6 +32,7 @@ Bitte bringt mich mit. Ich habe meinem Vater geschworen alle heil hier raus zu b
 Sie hat versucht mit dem Kapitän zu reden, sie können ihm durch sie fragen stellen (3) aber er wird schwächer und schwächer.
 -> Breadcrump Arteratiz hält Seelen
 -> Eith saugt diese Seelen auf
+-> Die Kristalle sind alles andere als stabil
 
 Svelte - hat ein bezauberndes Fischgericht gekocht 
 und aus Pilzen schlafgift kapseln hergestellt, con15 save or sleep for an hour 6 uses
