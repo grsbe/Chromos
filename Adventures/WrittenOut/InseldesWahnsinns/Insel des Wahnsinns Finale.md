@@ -39,6 +39,23 @@ und aus Pilzen schlafgift kapseln hergestellt, con15 save or sleep for an hour 6
 
 ## Das Cannibalen Camp
 
+
+**Szene: Blick auf das Lager der Kultisten**
+
+Der feuchtwarme Wind der Tropeninsel streicht durch das dichte Blätterdach, während das Team sich auf dem bewachsenen Hügel niederlässt. Zwischen den Lücken der üppigen Vegetation erstreckt sich die kleine Insel des Kultes – eine karge Landzunge, verbunden mit der Hauptinsel nur durch eine schmale Holzbrücke, deren Planken von Salz und Zeit gezeichnet sind.
+
+In der Mitte des Lagers lodert ein trübes Feuer, das mehr Rauch als Licht spendet. Um es herum stehen mehrere Zelte, grob aus Segeltuch gefertigt und vom Wind in langsamen Wellen bewegt. Am Rand der Insel, nahe der Klippen, thront der Altarstein – ein massiver, wettergezeichneter Monolith, in dessen Oberfläche das verdrehte Symbol von Eith eingeritzt wurde. An ihn gefesselt, mit gesenktem Kopf, die Geisel – eine verlorene Seele, wartend auf ihr Schicksal.
+
+Gerade als das Team die Szene erfasst, verändert sich die Atmosphäre. Über dem Altar flackert ein gespenstisches Leuchten auf – ein grüner, rot pulsierender Strahl, der in der Höhe schwebt, langsam an Kraft gewinnt. Ein Lichtfunken, pulsierend wie ein bösartiges Herz, beginnt seinen unheilvollen Abstieg, eine Schnecke aus Farben und Schatten, die sich auf das Opfer zubewegt.
+
+Die Kultisten verharren in ihren Rollen: Zwei Wächter mit salzverkrusteten Klingen stehen an der Brücke, ungerührt von der fremdartigen Magie, die über ihren Köpfen tobt. Zwei weitere Männer, ihre Angelruten träge ins Wasser geworfen, scheinen das Geschehen zu ignorieren, als wäre es so alltäglich wie das Atmen. Doch am Altar selbst – dort liegt der wahre Schrecken.
+
+Ein gewaltiger, feistgrinsender Mann mit bloßem Oberkörper und rissiger Haut murmelt unverständliche Worte, während seine Hände über eine geöffnete Schriftrolle gleiten. Neben ihm kniet ein jugendlicher Kultist, das Gesicht eingefallen, die Augen von fanatischem Glühen erfasst, während er monoton ein Gebet anstimmt. Zwei weitere Männer, ihre Haltungen angespannt, stehen wie lebendige Statuen bereit, um jeden Störenfried niederzuschlagen.
+
+Das Ritual hat begonnen. Die Zeit läuft.
+
+---
+
 Berg über dem Camp zum Ausspähen
 Das Camp ist auf eines Insel
 Alle Kannibalen sind zum Camp zurückgekehrt und wollen Miranda opfern
@@ -112,3 +129,11 @@ Ihr entdeckt das symbol und beim graben die Axt
 
 [[Eith bessesener Zaros]]
 
+S**zene: Der Gipfel des verfluchten Berges**
+
+Mit jedem Schritt aus der dunklen Höhle heraus schlägt der Wind dem Team entgegen, ein lebendiges, tobendes Wesen aus heulendem Sturm und peitschender Gischt. Die Wolken hängen tief, wirbeln um den Gipfel wie geisterhafte Schlangen, zerrissen von Blitzen, die fern über dem endlosen Meer aufleuchten. Unten, an den Ufern der Insel, scheint der Sturm zu ruhen, doch hier oben ist er ungezähmt, ein tobender Wächter, der alles zu verschlingen droht, das es wagt, sich ihm zu stellen.
+
+Der Himmel ist eine brodelnde Masse aus Grau und Schwarz, nur manchmal aufgerissen von der kränklich grünen und roten Färbung, die über der kleinen Insel des Kultes flackert. Die Böen reißen an Kleidung und Haaren, drücken gegen die Brust, als würden unsichtbare Hände versuchen, das Team in die Tiefe zu stoßen. Der Boden unter ihren Füßen ist rau, gesplittert von der Macht, die durch diesen Berg fließt – pink-weiße Kristalle ragen aus den Ritzen wie die gesplitterten Knochen einer uralten Bestie, ihr unnatürliches Leuchten verzerrt und zuckend im Sturm.
+
+Von hier aus breitet sich die Insel unter ihnen aus – ein dunkler Fleck im tosenden Ozean. Die dichten Tropenwälder schwanken sanft im Wind, wie ein ruhender Riese, unbeeindruckt von dem Chaos darüber. Am nördlichen Rand der Insel liegt die kleine Landzunge des Kults, das Lager wie eine winzige, unheilvolle Narbe auf der Erde. 
+Hier oben, auf dem Dach der Insel, sind sie allein mit dem Sturm und den Göttern.
