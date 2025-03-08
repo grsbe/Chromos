@@ -93,6 +93,10 @@ Kontext:
 
 ## Scene 3: Ambush auf dem Weg zum Turm
 
+https://5e.tools/bestiary.html#black%20bear_xmm
+https://5e.tools/bestiary.html#wolf_xmm
+https://5e.tools/bestiary.html#goblin%20warrior_xmm
+
 Kleiner smarter goblin Grok und ein Bär Brok und ein paar Wölfe Wronk, Brik und Olaf. Der Bär und die Wölfe sind gepolymorphed.
 
 lv1: Grok und ein Wolf lauern euch auf im Wald (Davor Perception: 15 um sie zu bemerken, 18 um sie actually zu sehen)
@@ -142,7 +146,6 @@ Turtle
 **but I breathe air. I live in a school all my life. What am I?**
 _Answer: A dolphin_
 
-8: What do you call a sleeping cow?
 
 
 Rätsel2:
