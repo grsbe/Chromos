@@ -1,3 +1,6 @@
+
+Schick links zu items über whatsapp an die Leute
+## Intro
 Dunkelheit. Sie ist allumfassend und undurchdringlich, ein endloses Meer der Schwärze, das jeden Schritt begleitet, jede Bewegung verschluckt. Hier, tief im Inneren des verfluchten Berges, ist die Dunkelheit so dicht, dass selbst die Erinnerung an das Licht verblasst. Dies ist kein gewöhnlicher Berg.
 
 Die Luft ist schwer und abgestanden, erfüllt von einer fast greifbaren Stille, die nur von gelegentlichem Tropfen unterbrochen wird, das von den feuchten Wänden herabfällt. Diese Wände erzählen eine Geschichte, die so alt ist wie die Zeit selbst. Uralte Höhlenmalereien, die vom einstigen Glanz eines längst ausgestorbenen indigenen Volkes zeugen, zieren die Felswände. Die Figuren, in kräftigen Farben und beeindruckenden Details festgehalten, scheinen in einem stummen Dialog miteinander zu stehen, als ob sie noch immer Geschichten von längst vergangenen Zeiten erzählen.
@@ -31,6 +34,7 @@ Sie hat versucht mit dem Kapitän zu reden, sie können ihm durch sie fragen ste
 -> Eith saugt diese Seelen auf
 
 Svelte - hat ein bezauberndes Fischgericht gekocht 
+und aus Pilzen schlafgift kapseln hergestellt, con15 save or sleep for an hour 6 uses
 
 
 ## Das Cannibalen Camp
@@ -42,9 +46,21 @@ Alle Kannibalen sind zum Camp zurückgekehrt und wollen Miranda opfern
 2 Angeln, 2 Wachen mit lauter Glocke
 
 4 beim Camp, mit Mick und Prinz aktiv das Ritual ausführen
+Niels und noch einer bewacht das ganze.
+
+Sobald das Team die Insel sieht beginnt das Ritual
 
 
+Das Camp selber besteht aus mehreren Zelten
+in der Mitte der Altar, der eine Anhöhung ist die in eine Klippe mündet, rechts und links strand
+
+Ralf wurde bereits geopfert
+Miranda ist an den altar stein gefesselt.
+Der Altarstein hat das Scorpion symbol, das die Party auch vom Berg aus schon sehen kann.
 
 ## Die Lichtung mit der Axt
+Die Lichtung sieht absolut malerisch aus
+
+
 
 ## An der Spitze
