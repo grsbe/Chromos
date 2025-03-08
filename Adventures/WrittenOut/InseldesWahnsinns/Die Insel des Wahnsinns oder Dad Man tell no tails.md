@@ -191,7 +191,6 @@ Viola analysiert die Wände. Nach einiger Zeit kann die die Wände entziffern (s
 
 
 # Letzte Session Ablauf und Szenen
--> maximize decisions of team
 
 Begin mit
 Labzrinth monolog
