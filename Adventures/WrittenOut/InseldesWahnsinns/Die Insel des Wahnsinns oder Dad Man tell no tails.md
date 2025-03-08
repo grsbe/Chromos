@@ -245,6 +245,16 @@ War erste Maatin und hatte eine goldnase, er fand immer wieder Schätze. Der let
 
 
 # Hinter dem Schloss
+
+**Szene: Die entweihte Altarkammer**
+
+Die Tür öffnet sich mit einem dumpfen Knarren, und dahinter liegt ein Raum, der einst heilig war – nun aber von dunkler Macht entstellt. Entlang der Wände brennen noch immer Flammen in eingelassenen Steinpfannen, ihr Licht warm und golden, doch sie werfen lange, unruhige Schatten über das entweihte Heiligtum.
+
+Wo einst ein Altar zu Falmine stand, erhebt sich nun eine raue, unheilvolle Steinplatte, in die das Symbol Eiths eingeritzt wurde. Verwelkte Falminenranken winden sich um den Sockel, ihre einst lebendige, schimmernde Oberfläche ist zu trockenen, farblosen Hüllen verfallen. Es wirkt, als hätte die einstige Macht dieses Ortes sich verzweifelt gewehrt – und verloren.
+
+Auf dem Altar ruht ein Buch, seine Seiten vergilbt, doch die Schrift darauf leuchtet sanft im Schein des heiligen Feuers.
+
+---
 Hinter dem Schloss findet sich eine Altarkammer zum Gott Falmine der durch einen Altar von Eith ersetzt wurde. Tote ausgezerrte Falminenranken. In den Wänden brennt heiliges Feuer.
 
 Auf dem Altar steht ein Buch eine heilige Skripture. Ein Vampir kann dies lesen und einen Religionscheck machen. Bei Fail erleidet er 1+d4 schaden. Er lernt einen vampirischen Spell den er 1mal pro Tag ausführen kann:
