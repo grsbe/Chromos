@@ -62,6 +62,7 @@ Interactibles:
 	- Der Polymorph Zauberer in der Gegend wurde schon länger nicht mehr in der Gegend gesehen und öffnet seine Tür nicht
 	- 
 
+Child in the corner: He is carving wood
 
 ## Scene 2: Das Schaf
 
@@ -72,6 +73,8 @@ Hufe, verunsicherte Ausrufe von draußen und ein Schaf schreddert in den Gasthof
 Schaf schaut normal aus in jeder hinsicht, aber es trägt ein Pergament in seinem Mund.
 Der Barkeeper will nichts damit zu tun haben.
 Das Schauf schaut sich um und dreht sich zielsicher leicht verzweifelt zu euch und landet vor 
+
+NAME: Pishes (Peaches)
 
 Das Schaf pleaded.
 - Ohne eure Hilfe bin ich verloren. Faluzivatius hat viele Helfer und Anhänger die er verzaubert hat und die mich jagen.
@@ -93,11 +96,19 @@ Kontext:
 
 ## Scene 3: Ambush auf dem Weg zum Turm
 
+when party gets out of tavern
+
 https://5e.tools/bestiary.html#black%20bear_xmm
 https://5e.tools/bestiary.html#wolf_xmm
 https://5e.tools/bestiary.html#goblin%20warrior_xmm
 
 Kleiner smarter goblin Grok und ein Bär Brok und ein paar Wölfe Wronk, Brik und Olaf. Der Bär und die Wölfe sind gepolymorphed.
+
+wolf 1 ambushes to catch the sheep and escape
+wolf 2 attacks
+
+try to get the sheep by offering their free escape, money etc., but if it does not work or the party delays too much they will just attack
+
 
 lv1: Grok und ein Wolf lauern euch auf im Wald (Davor Perception: 15 um sie zu bemerken, 18 um sie actually zu sehen)
 Die beiden verstecken sich in einem Busch (Natur 10: Der Wolf hat mit seiner Nase das Schaf gerochen probably)
@@ -120,15 +131,73 @@ Level 1: Grok und 1 (+ optional ein bis zwei hidender) Wolf
 Level 2: Grok Brok plus 1 Wolf
 
 Der hidende Wolf wird versuchen das Schaf zu schnappen und abzuhauen.
+
+## Scene 3
+
+The forest stretches out before you, a towering maze of twisted oaks and creeping vines. The morning sun barely pierces the thick canopy overhead, casting long, dappled shadows across the moss-covered ground. A soft mist clings to the undergrowth, swirling around your boots with every step.
+
+The air is alive with the quiet hum of nature—**birds call in the distance, leaves rustle in an unseen breeze, and somewhere nearby, the rhythmic tapping of wood against wood echoes through the trees.** It’s peaceful… but not entirely still.
+
+As you move deeper, the trees **press closer together**, their gnarled roots rising from the earth like grasping fingers. The path narrows, winding between ancient trunks draped in ivy, and the scent of damp earth and wildflowers fills your lungs.
+
+
+
+Sheep is scared af
+
+Perception: see some unnatural ravens https://5e.tools/bestiary.html#raven_xmm
+-> if they escape he will alert the golem
+Perception: see some mushrooms
+https://www.dndspeak.com/2020/08/19/100-mushrooms-and-their-effects/
+
+
 ## Szene 4: Die Magierhütte
 
-Wald auf dem Weg dahin
+Pushing past the dense undergrowth, you step into a **clearing**, where the forest seems to hold its breath. Before you, carved directly into the heart of a massive, weathered boulder, stands the **Magician’s Hut**—though calling it a “hut” feels like an understatement. The rough stone exterior is **etched with glowing runes**, their soft pulse shifting in color like breathing embers. A **tall, arched doorway**, seemingly carved by magic itself, is **sealed shut**, shimmering with an otherworldly energy that hums faintly in the still air.
+
+To the right of the structure, a **garden unlike any you’ve ever seen** spills across the clearing. The plants here seem almost **alive**—vines twisting and repositioning themselves as if stretching after a long rest, flowers blooming and closing in slow, rhythmic pulses. Some emit a soft glow, while others release tiny motes of floating light that drift lazily before fading away. A nearby tree, its bark streaked with silver veins, **sways despite the lack of wind.**
+
+But the true obstacle stands directly in your path.
+
+A **golem**, towering and motionless, **crafted from the same stone as the hut itself**, blocks the entrance like a silent sentinel. Cracks and ancient carvings run along its arms and chest, some filled with moss, others glowing faintly with the same magic that hums from the door. **Its head tilts slightly**, as if observing you with unseen eyes.
+
+Perched on its shoulder, a **raven**, its feathers black as midnight and glistening with hints of deep purple, watches you with unsettling intelligence. It clicks its beak, shifting its weight, before croaking in a low, scratchy voice:
+
+
+
+DC (12) Perception or Arcana: Above the arched doorway, **a crystal the size of a clenched fist hovers**, its surface swirling with faint, shifting light. Wisps of energy drift from it like spectral tendrils, **flowing down toward the golem’s back**, subtly pulsing in time with its movements. Though dim, the crystal’s glow seems tied to the guardian’s power—like a heartbeat barely keeping it awake.
 
 Optional Encounter:
-Zwei Raben sitzen auf der Tür. Sind die gefährlich (je nachdem sinds einfach nur Raben lol)
-Raben können auch beim botanischen Garten neben dem Haus sein
+Golem: https://5e.tools/bestiary.html#glasswork%20golem_wbtw but 1d6+1 dmg
+It is magically connected to a crystal above the door
+AC 18 - 3 hits to destroy
+leading the golem away from the crystal or destroying the crystal will make the golem stop moving
+Raven activates the golem and will sit on its shoulder
 
-Encounter: 
+Once the raven is dead, the golem will be 
+
+
+### **The Talking Door’s Challenge**
+
+With the golem defeated, silence settles over the clearing. The crystal above the door flickers weakly, but the barrier remains firm. As someone steps closer, the **smooth stone ripples**, bulging outward like soft clay.
+With a deep, **rumbling groan**, a **broad, solemn face** pushes out from the rock. **Heavy-lidded eyes** blink at you—one at a time—set above a wide, serious mouth. The door inhales slowly, as if drawing in **great wisdom**… and then, in a deep, gravelly voice, it intones:
+**“…Oh.”**
+A long pause. It blinks again. **“…Visitors.”** Another pause. **“…Not Flavius. Not goons.”** A very long pause. **“…Unless Flavius hired new goons and forgot to tell me.”**
+The face **furrows its stone brow**, genuinely considering this possibility. It seems to take an eternity to think before finally shaking its head.
+**“No. No, you are strangers. Which means… you cannot enter free.**  
+**For I am a Riddle Door, and you must solve riddles three.”**
+It nods **very slowly**, looking quite pleased with itself.
+**“Flavius made me clever, made me wise, made me grand.**  
+**You want to enter? Then answer as planned.”**
+The eyes shift between the group, deep-set and expectant. The **rocky lips curl into a knowing smirk** as it adds:
+**“…Or, you know. You can just stand here. That works too.**  
+**I do not mind. I have patience.**  
+**And no legs.”**
+The clearing is silent for a moment. Then, the mouth **spreads into a wide, lopsided grin.**
+**“Shall we begin?”**
+
+
+Always ask very slowly, are you suuuuuure. Is this your final aaaaaaanswer?
+
 In das Haus ist eine Runde Tür eingebaut, mit ständig verändernden Runen die sich im Kreis im die Tür bewegen. Als ihr euch der Tür nähert, erscheint ein Gesicht auf der und frägt nach dem Passwort.
 "Ich bin die Rätseltür des großen mächtigen weltunterwerfenden zauberhaften extravaganten unbeschreiblichen , hust, Magiers Faschaad. Nenn mir das Passwort und du mögest eintreten."
 Personality: Loud booming ent like voice, bist du dir sicher dass das die richtige Antwort ist???
@@ -136,12 +205,15 @@ Die Tür frägt nach dem Passwort, damit die Crew eintreten darf. Das Schaf ist 
 Der Code ist allerdings falsch, der Magierschüler hat das Passwort geändert. Wenn ihr das Passwort zurücksetzen wollt müsst ihr drei Rätsel lösen die nur der Besitzer der Tür lösen kann.
 "..."
 
-(Jedes falsch beantwortete Rätsel verwandelt den Antwortgeber in die eigentliche Lösung des Rätsels, dc15 wis saving throw, nach ner Stunde wieder weg, )
+(Jedes falsch beantwortete Rätsel verwandelt den Antwortgeber in die eigentliche Lösung des Rätsels, dc15 wis saving throw, nach ner Stunde wieder weg, additional riddle to get rid of it )
 **The alphabet goes from A to Z but I go Z to A. What am I?**
 _Answer: A zebra_
 
 30: I row with four paddles but never leave home. What am I?
 Turtle
+
+I am a bird, but i am also a fruit, what animal am I
+- Kiwi
 
 **but I breathe air. I live in a school all my life. What am I?**
 _Answer: A dolphin_
@@ -170,10 +242,29 @@ Wer bin ich? (Katze)
 
 
 ## Szene 5: Im Haus
+
+### **Inside the Magician’s Hut**
+
+As the stone door grinds open, a heavy **stillness** fills the air, broken only by the soft rustle of parchment shifting in some unseen breeze. The scent of **old ink, burnt candle wax, and something acrid—like ozone after a storm—lingers in the space.**
+
+The room was once **orderly, methodical, a scholar’s retreat.** The signs are still there—**towering bookshelves** arranged in neat rows, **large wooden tables** clearly meant for research. But now? **Chaos has taken root.**
+
+Books, scrolls, and torn pages **litter the floor**, forming **messy, overlapping trails**, as if someone has been searching frantically for something, and in their impatience, abandoned all care for keeping things tidy. **Ink stains** splatter across once-pristine desks. Candles are **burnt too low**, their wax pooling over forgotten notes. Several **potions bubble unattended**, their contents dark and murky, whispering to themselves in voices just below hearing.
+
+In the corner you see a poorly maintained cage with hay in it.
+
+The once-grand **floating candles** overhead flicker **unevenly**, some drifting out of their usual symmetrical patterns, casting erratic shadows across the walls. **A thick layer of dust clings to shelves that should have been maintained, while other areas look freshly disturbed.**
+
+Among the scattered papers and trinkets, **you notice signs of conflict**—**a broken quill snapped in half, a chair overturned, books with their pages torn violently from the binding.** A **raven’s perch** near the back of the room stands **empty**, its base littered with **black feathers**, some fresh, others brittle with age.
+
+
 Das Haus ist in einem Berg
+
 Einführungstext:
 Überall liegen Scrolls herum, scheinbar wahllos herum geworfen. 
 (Perception 15, man hört von vorn den Lehrling fluchen und an magischen Zaubern arbeiten)
+
+Sheep suggests to loot the place for items that could help, but he is not sure they would help.
 ### Erdgeschoss:
 Ein Großer Tisch Am Rand, Küche mit Ofen am Rand, gemütlicher Sessel
 Bücher wurden aus Regalen geworfen
@@ -182,43 +273,48 @@ Ein Gang führt in einen Flur der sich in drei unterschiedliche Türen öffnet. 
 An den Wänden sind magische Fakeln die keinen Rauch und keine Wärme produzieren
 ### Raum nach rechts:
 - In der Mitte hauptsächlich leer, rußiger Steinraum mit schlängelnden Runen und ein Alchemie set in der Ecke (Investigation: Hier wurden Experimente durchgeführt, finde zwei Heiltränke ein kleiner und ein großer 2d4+2 und 4d4 + 4)
-- In der Mitte des Tisches steht ein faszinierender bläulich funkelnder Potion (Arkane Kunde 10: Er gibt einen Spellslot zurück)
+- In der Mitte des Tisches steht ein faszinierender bläulich funkelnder Potion (Arkane Kunde 10: Er gibt einen Spellslot zurück, two uses)
 - Ein Glibberschleim fiebt ein bisschen und rutscht auf dem Boden umher (flieht wenn angegriffen) (Animal Handling 10 um ihn zu befrienden)
+- https://5e.tools/bestiary.html#gray%20ooze_xmm if given some of the potion it will fight for you
 
 ### Raum nach links:
  Ein großer Tisch mit Scrolls und einer menge hochwertigem Forschungsmaterial am Rand
  Jede Wand ist besetzt mit riesigen Bücherregalen
 - Überall liegen Scrolls/learnable spells rum zu schwachen random Zaubern:
 	- [[Useless magical spells.md]]
-- Random magische Items die hier rumliegen könnten
+	- [[Magische Items]]
 	- Useless: https://theniftynerd.com/general-geekiness/useless-magic-items-dungeons-dragons/
+- Random magische Items die hier rumliegen könnten
+	- 
 	- Usefull: https://www.thievesguild.cc/tables/trinkets-magic
 
 Im zweiten Raum findet man (Investigation 5) einen Schlüssel in einem Bücher regal verscheckt
 ### Szene Bossfight: Raum nach vorn
 
 Breiterer Raum
-Faluzivatius der Magier Novize
+Falvius der Magier Novize
 Personality: Paranoid, Angeber, der Magier hat ihm nur nutzlose Zauber beigebracht und die ganzen tollen für sich behalten
 - 10 Jahre hat er mich wie einen persönlichen Diener behandelt. 
 - Die Grundlagen sind das wichtigste in der Magie und so
 - Transmutationssmagie sei gefährlich, jetzt siehst du mal wie gefählich transmutationsmagie ist mein Meister
 - 
 
-kramt arbeitet an einem neuen Zauber.
-In der Ecke des Raumes ist ein [[DisplacerKitten.jpg]] in einem magischen Zirkel eingefangen (Katze mit Menschenohren lol,  der versuch aus einer Katze einen Menschen zu machen)
 An der Seite steht ein ausladendes Bett, die Wände sind bedeckt mit Bücherregalen
+make room for hiding, book shelves to either side
+
 
 - Fordert auf, dass die Truppe ihm unverzüglich das Schaf überreichen, wenn ihr auf eure Sicherheit irgendeinen Wert legt
 - Frägt nach Grok, ist sichtlich bekümmert wenn es Grok nicht gut ergangen ist
 - Bietet eine ähnliche Summe wie der magier bzw cooles magisches Item an im Austausch für das Schaf + Forschungsmaterial
 - Hält permanent des Wand of true polymorph
 Kampfstart:
-[[Faluzivatius.md]] verwandelt Bücher und blätter in 
-0 kleine Papierrattenschwärme (1/4) (nur 15 hitpoints) https://5e.tools/bestiary.html#swarm%20of%20rats_mm
-3 Papier ratten: https://5e.tools/bestiary.html#giant%20rat_mm
+[[Falvius]] verwandelt Bücher und blätter in 
+
+3 Papier ratten: https://5e.tools/bestiary.html#giant%20rat_xmm but 1d4 dmg
+
 sind die Papierratten tot verwandelt er das Bett in einen [[Bed Wyrmling.md]]
-Wird das [[DisplacerKitten.jpg]] freigelassen wendet es sich entweder gegen die Party oder gegen Faluzivatius, je nachdem wer grad gewinnt oder nett zu ihm ist.
+
+
 ## Szene Conclusion
 Flauzivatius wird versuchen den Wand of true polymorph auf sich selber anzuwenden. Und komplett failen und sich in einen Glibberschleim verwandelt der umherschleimt und Dinge angreift (+1 to hit, 1dmg)
 
