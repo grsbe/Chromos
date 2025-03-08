@@ -137,3 +137,41 @@ Der Himmel ist eine brodelnde Masse aus Grau und Schwarz, nur manchmal aufgeriss
 
 Von hier aus breitet sich die Insel unter ihnen aus – ein dunkler Fleck im tosenden Ozean. Die dichten Tropenwälder schwanken sanft im Wind, wie ein ruhender Riese, unbeeindruckt von dem Chaos darüber. Am nördlichen Rand der Insel liegt die kleine Landzunge des Kults, das Lager wie eine winzige, unheilvolle Narbe auf der Erde. 
 Hier oben, auf dem Dach der Insel, sind sie allein mit dem Sturm und den Göttern.
+
+---
+
+
+**Szene: Gipfel des verfluchten Berges – Begegnung mit Zaros**
+
+Der Sturm tobt in endlosem Kreisen um den Gipfel, ein donnerndes Lied aus Wind und Blitzen. Der Fels unter den Füßen des Teams ist kalt, durchzogen von feinen Rissen, aus denen das pink-weiße Glimmen der Kristalle sickert wie das letzte Licht einer sterbenden Welt. In der Mitte der steinernen Plattform, von sechs gewaltigen Kristallspitzen umgeben, steht eine Gestalt.
+
+Ihre Gestalt ist zugleich majestätisch und unheilvoll – eine Piratin aus längst vergangener Zeit, das Leder ihrer Jacke von Jahrhunderten zerschlissen, ihr Haar zerzaust vom Wind. Doch das auffälligste ist die Krone auf ihrem Kopf: eine massive Konstruktion aus dunklem, verwittertem Stein, deren Form an die Wurzeln eines toten Baumes erinnert. Sie scheint mit ihrem Schädel verwachsen zu sein, als wäre sie nicht getragen, sondern Teil von ihr. Wo der Stein auf ihre Haut trifft, sind schwarze Adern sichtbar, pulsierend wie dunkles Gift, das sich in ihr ausbreitet.
+Ihre Augen sind ein Wechselspiel aus Wahnsinn und Klarheit. Mal leer und schwärzlich wie bodenlose Gräber, mal blitzend mit fiebriger Klarheit. Ihre Haltung schwankt zwischen göttlicher Erhabenheit und verzweifelter Spannung, als kämpfe sie gegen Fesseln, die nur sie spüren kann.
+
+Zwischen den Kristallspitzen windet sich eine geisterhafte Aura – flüchtige Schemen, verzerrte Gesichter, wispernde Stimmen, die in unverständlichen Gebeten murmeln. Es sind die Seelen des alten Volkes, einst in die Kristalle gegeben, nun in einem unheiligen Strom von ihr absorbiert. Jedes Mal, wenn sie einen Atemzug nimmt, flackert das Licht in den Kristallen auf, und ein neuer Schatten löst sich aus ihnen, hinfortgezogen in ihre Brust wie Rauch in einen leeren Raum.
+
+Über all dem erhebt sich ein grün-rotes Glimmen, ein pulsierendes Herz aus verderbter Energie, das über ihr schwebt und mit jeder Seele wächst, mit jeder Sekunde stärker wird. Das Ritual ist bereits im Gange.
+
+Dann hebt Zaros den Blick. Ihr Gesicht ist eine Maske aus Wahnsinn und klarem Verstand, in unentwegtem Wechselspiel. Ihre Stimme, als sie spricht, ist beides zugleich – das seidenweiche Flüstern eines Gottes und das heisere Ringen einer verlorenen Seele.
+
+---
+
+**Zaros' Monolog – Das Angebot der Unsterblichkeit**
+
+_"Ihr seid gekommen, um mich aufzuhalten… aber ihr versteht nicht."_
+
+_"Ihr seht mich – Zaros, Piratin, Gefangene, Opfer. Doch ich bin mehr. Ich bin der Wille Eiths. Ich bin das Versprechen der Ewigkeit. Ich bin das Tor, durch das ihr gehen könnt… oder durch das ihr gestoßen werdet."_
+
+_„Ich biete euch die Wahrheit an. Die Welt, wie ihr sie kennt, ist vergänglich, erbärmlich in ihrer Vergänglichkeit. Ihr kämpft, ihr altert, ihr sterbt – ein endloses Rad, das sich immerzu dreht. Doch es gibt einen anderen Weg. Einen besseren Weg.“_
+
+_„Seht sie euch an, die Seelen dieses alten Volkes. Sie gaben sich freiwillig hin, ihre Weisheit in den Kristallen bewahrend. Und nun… nun kehren sie heim zu ihrem Gott. Ich kann dasselbe für euch tun.“_
+
+_„Ihr müsst nicht sterben. Ihr müsst nicht schwach sein. Legt euer Schicksal in meine Hände. In Eiths Hände. Und ihr werdet leben. Für immer.“_
+
+_„Kein Hunger, keine Schmerzen, keine Angst vor dem Tod. Nur Stärke. Nur Macht.“_
+
+_"Alles, was ich verlange, ist eure Treue. Ein Dienst an etwas Größerem als euch selbst. Ihr werdet unsere Boten sein. Unsere Sammler. Ihr werdet bringen, was uns gehört, und nehmen, was euch zusteht."_
+
+_"Seht mich an – Zaros, die Ewige. Ich wurde auserwählt, den ersten Schritt zu tun. Ihr könnt die nächsten sein."_
+
+_"Also… was sagt ihr? Wählt ihr das Licht der Ewigkeit? Oder das Nichts der Vergänglichkeit?"_
