@@ -258,7 +258,7 @@ Auf dem Altar ruht ein Buch, seine Seiten vergilbt, doch die Schrift darauf leuc
 Hinter dem Schloss findet sich eine Altarkammer zum Gott Falmine der durch einen Altar von Eith ersetzt wurde. Tote ausgezerrte Falminenranken. In den Wänden brennt heiliges Feuer.
 
 Auf dem Altar steht ein Buch eine heilige Skripture. Ein Vampir kann dies lesen und einen Religionscheck machen. Bei Fail erleidet er 1+d4 schaden. Er lernt einen vampirischen Spell den er 1mal pro Tag ausführen kann:
-Meelee Attack: deal d6+3 dmg, heile um die Amount damage die zugefügt wurde.
+Melee Attack: deal 2d6 dmg, heile um die Amount damage die zugefügt wurde.
 
 
 # Akt 3: Am Gipfel

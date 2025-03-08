@@ -1,5 +1,9 @@
 
 Schick links zu items über whatsapp an die Leute
+
+https://5e.tools/items.html#rope%20of%20entanglement_xdmg
+
+
 ## Intro
 Dunkelheit. Sie ist allumfassend und undurchdringlich, ein endloses Meer der Schwärze, das jeden Schritt begleitet, jede Bewegung verschluckt. Hier, tief im Inneren des verfluchten Berges, ist die Dunkelheit so dicht, dass selbst die Erinnerung an das Licht verblasst. Dies ist kein gewöhnlicher Berg.
 
@@ -22,7 +26,9 @@ Die provisorische Behausung wurde aus den Trümmern des gestrandeten Schiffs err
 
 Angus Quest: zeig ihm die besonderen Fische - Bag of Fishholding
 
-Schogards Quest: - Midlife Crisis Angst Ihn beruhigen, es ist noch zu früh für ihn zu sterben Rythmmakerflute. Schogard frägt das Team was sie machen wollen wenn sie hier überleben. https://5e.tools/items.html#%2b1%20rhythm-maker's%20drum_tce
+Schogards Quest: - Midlife Crisis Angst Ihn beruhigen, es ist noch zu früh für ihn zu sterben Rythmmakerflute. Schogard frägt das Team was sie machen wollen wenn sie hier überleben
+Frägt nach performance, schenkt danach
+. https://5e.tools/items.html#%2b1%20rhythm-maker's%20drum_tce
 
 Violas Quest - Die Kristalle könnten eine mächtige Powerquelle sein - sie hört schreie wenn sie die Steine berührt. Sie hat einen Kristall abgebaut und ihn in zwei geteilt. Die Kristalle sind immer noch verbunden und es ist möglich mit ihnen Bilder zu übertragen und Bilder zu speichern
 
@@ -90,6 +96,15 @@ Es ist möglich das Ritual aufzuhalten durch talk no jutsu. Die Kannibalen sind 
 
 Die Kannibalen (unter Mick) denken sich, lass Zaros um sie kümmern
 Niels will das nicht ist aber überstimmt.
+
+## Loot im Camp
+
+Logbuch mit Lore von unten
+
+GOLD: 250
+
+Items? 
+
 ### Cannibalen Befragung
 Befragung der anderen Beiden Cannibalen plus weitere Cannibalen im Camp Infos
 - Lore über Niels und deal von vor 100 Jahren
@@ -124,6 +139,27 @@ Ihr entdeckt das symbol und beim graben die Axt
 
 
 ## Hinter dem magischen Tor
+
+**Szene: Die entweihte Altarkammer**
+
+Die Tür öffnet sich mit einem dumpfen Knarren, und dahinter liegt ein Raum, der einst heilig war – nun aber von dunkler Macht entstellt. Entlang der Wände brennen noch immer Flammen in eingelassenen Steinpfannen, ihr Licht warm und golden, doch sie werfen lange, unruhige Schatten über das entweihte Heiligtum.
+
+Wo einst ein Altar zu Falmine stand, erhebt sich nun eine raue, unheilvolle Steinplatte, in die das Symbol Eiths eingeritzt wurde. Verwelkte Falminenranken winden sich um den Sockel, ihre einst lebendige, schimmernde Oberfläche ist zu trockenen, farblosen Hüllen verfallen. Es wirkt, als hätte die einstige Macht dieses Ortes sich verzweifelt gewehrt – und verloren.
+
+Auf dem Altar ruht ein Buch, seine Seiten vergilbt, doch die Schrift darauf leuchtet sanft im Schein des heiligen Feuers.
+
+
+Es geht links eine Treppe hoch, und rechts ein gang weiter
+
+
+**Szene: Die verborgene Höhle am Meer**
+
+Der Gang durch den Berg endet abrupt – nicht in Stein, sondern in Weite. Die Luft wird feuchter, salziger, und ein sanftes Echo von Wasser, das gegen Felsen schwappt, hallt durch die Dunkelheit. Als das Team weitertritt, öffnet sich die Höhle vor ihnen: ein gewaltiger Hohlraum, in dem das Meer selbst seinen Weg ins Innere des Berges gefunden hat.
+
+Die Wände sind rau und vom ewigen Spiel der Gezeiten geschliffen, Tropfen perlen von den Stalaktiten und fallen in das dunkle, sanft schwankende Wasser. Der Ozean erstreckt sich hier in einer versteckten Bucht, die sich weiter ins Unbekannte öffnet.
+
+Und dort, angebunden an einen alten Holzpfosten, schwankt ein Segelboot sanft mit der Strömung. Sein Rumpf ist von Zeit und Salz gezeichnet, doch die Segel sind ordentlich zusammengefaltet. Es wirkt, als warte es – auf den nächsten, der es fortführt.
+
 
 
 ## An der Spitze
@@ -176,3 +212,28 @@ _"Alles, was ich verlange, ist eure Treue. Ein Dienst an etwas Größerem als eu
 _"Seht mich an – Zaros, die Ewige. Ich wurde auserwählt, den ersten Schritt zu tun. Ihr könnt die nächsten sein."_
 
 _"Also… was sagt ihr? Wählt ihr das Licht der Ewigkeit? Oder das Nichts der Vergänglichkeit?"_
+
+
+
+
+**Szene: Das Ende von Zaros**
+
+Mit einem letzten, kehligen Schrei zerbricht die Präsenz in Zaros' Augen, und ihr Körper schwankt, als würde etwas Unsichtbares von ihr weichen. Dann, mit einem dumpfen, kalten _Klonk_, löst sich die Krone von ihrem Kopf. Sie trifft den steinernen Boden, klirrt einmal laut auf, kippt zur Seite und bleibt reglos liegen. Die dunklen Adern, die sich zuvor von ihr ausbreiteten, verlieren ihre Farbe, ziehen sich zurück wie Ranken, die ins Nichts verdorren.
+Der Sturm, der so lange über der Insel gewütet hat, hält inne. Erst ein Zittern in der Luft, dann ein langsames Nachlassen der tobenden Böen. Die Wolken, eben noch pechschwarz und rastlos, zerreißen in zähen Strähnen, als würde eine unsichtbare Hand sie fortwischen. Die Sonne, lange verbannt, tastet sich schwach durch die Lücke und taucht den Gipfel in ein blasses, fremdes Licht.
+
+Für einen Moment ist alles still. Nur das sanfte Plätschern von Wasser weit unter ihnen und das langsame, schwere Atmen von Zaros, die auf den Knien liegt, bleibt.
+Dann hebt sie den Kopf. Ihre Augen, nun frei von der fremden Präsenz, sind klar – erschöpft, aber bei Bewusstsein. Ein schwaches, fast friedliches Lächeln zuckt über ihre Lippen.
+**„Danke.“**
+Kaum ist das Wort gesprochen, beginnt ihr Körper zu zittern. Ihre Haut, einst durch den Pakt festgehalten, zeigt Risse, feine Linien, die sich in rasender Geschwindigkeit ausbreiten. Ihre einst jugendliche Gestalt sackt zusammen, ihre Haare ergrauen, ihre Haut schrumpft, während die Zeit, die ihr genommen wurde, mit aller Härte zurückkehrt.
+In wenigen Augenblicken ist von ihr nur noch eine gebrechliche Silhouette übrig – dann löst sie sich auf. Ihr Körper zerfällt zu Staub, feine Körner, die vom sanften Wind erfasst und in alle Richtungen getragen werden. Ein letzter Hauch verweht in den Lüften, und dann… ist sie fort.
+Nur die Krone bleibt. Reglos. Kalt. Und ohne Stimme.
+
+
+
+Dann – ein Flügelschlag.
+
+Ein Rabe segelt lautlos aus den schwindenden Schatten, gleitet durch die klare Luft und landet vor dem Team. Sein schwarzes Gefieder glänzt im Licht, als er den Kopf schieflegt und sie mustert – intelligent, wissend. 
+
+Dann öffnet der Rabe den Schnabel. Doch es ist nicht das krächzende Rufen eines Vogels, das erklingt. Die Stimme, die aus ihm spricht, ist tief, durchdringend – uralt.
+
+**„Es ist Zeit, dass ihr euren Teil unsere Paktes einhaltet…“**

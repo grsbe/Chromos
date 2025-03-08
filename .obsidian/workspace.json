@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+                "file": "Adventures/WrittenOut/InseldesWahnsinns/Insel des Wahnsinns Finale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Die Insel des Wahnsinns oder Dad Man tell no tails"
+              "title": "Insel des Wahnsinns Finale"
             }
           },
           {
@@ -251,9 +251,13 @@
   },
   "active": "f6946a690250221b",
   "lastOpenFiles": [
+    "Adventures/Items/Tables.md",
+    "Adventures/Items/Useless magical spells.md",
+    "Adventures/EncounterTables/Magische Items.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Labyrinth.md",
     "Adventures/WrittenOut/InseldesWahnsinns/Insel des Wahnsinns Finale.md",
-    "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/Enemy Statblocks/Eith bessesener Zaros.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
     "Adventures/Enemy Statblocks/Tinnie - Niels.md",
     "Adventures/WrittenOut/InseldesWahnsinns/Insel des Wahnsinns.md",
@@ -262,7 +266,6 @@
     "Adventures/WrittenOut/InseldesWahnsinns/NPCS/Schogart.md",
     "Adventures/WrittenOut/InseldesWahnsinns/NPCS/Arty.md",
     "Adventures/WrittenOut/Oneshot A wild sheep chase.md",
-    "Adventures/WrittenOut/InseldesWahnsinns/Labyrinth.md",
     "conflict-files-obsidian-git.md",
     "Adventures/Enemy Statblocks/Falvius.md",
     "Books/Mawstone.md",
@@ -274,9 +277,6 @@
     "Books/Stories to write.md",
     "Books/Soras 2.md",
     "Books/Soras 1.md",
-    "Books/Satzgemälde 1.md",
-    "Mythandras/Mechaniken/Artefakte.md",
-    "Mythandras/Myxis/Myxia.md",
     "Adventures/WrittenOut/Timeloop",
     "Mythandras/Exos/Sosoni",
     "Mythandras/Exos/Abraxus",

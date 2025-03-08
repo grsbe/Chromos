@@ -18,9 +18,10 @@ Cantrips: Ray of frost, Gust, Absorb Elements, Shocking Grasp
 4 First level: Thunderwave, Fog Cloud, witch bolt
 3 Second level: Dust Devil, gust of wind
 
-_**Talos' Caring Hand.**_ When the weather wizard casts a spell, he can immediately fly up to 10 ft. away, landing on solid ground.
+Eith' Caring Hand.**_ When the weather wizard casts a spell, he can immediately fly up to 10 ft. away, landing on solid ground, no opportunity attacks provokes.
 
 Heal 1hp per spire per round as long as the spires exist
+Sind alle spires gebrochen verliert sie 10hp
 Undying
 
 ---
