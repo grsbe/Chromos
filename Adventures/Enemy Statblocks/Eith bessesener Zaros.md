@@ -1,6 +1,6 @@
 Medium Humanoid, Neutral Evil
 **Armor Class** 13
-**Hit Points** 35 -50
+**Hit Points** 35-42 -50
 **Speed** 30ft  
 
 | Str    | Dex    | Con    | Int    | Wis   | Cha    |
@@ -32,7 +32,7 @@ range 20/60 ft., one target. Hit: 4 (1 d4 + 2) piercing damage.*
 range 20/60 ft., one target. Hit: 1d8 lightning, no reactions next turn
 The weather wizard can combine _absorb elements_ with shocking grasp for a very powerful melee attack, dealing 1d8 lightning damage plus 1d6 of another type of damage
 
-**Lair Actions** Init 20
+**Lair Actions** Init 0
 - _**Wind!**_ Each character on the platform must make a DC 12 Strength saving throw. On a failed save, they are pushed away from the Weather Wizard all the way to the edge of the platform, where they smack their backs against the railing 1dmg
 - _**Rain!**_ Each character on the platform must make a DC 12 Dexterity saving throw. On a failed save, they take 1d4-1 cold damage and fall prone. Remind them that they must spend half their movement to stand back up. On a successful save, they take no damage and they don't fall.
 - _**Divine Fury!**_ Each character shields their eyes from a flash of light from the lightning rod and must make a DC 12 Wisdom saving throw. On a failed save, they become frightened of the Weather Wizard, meaning that they can't willingly move closer to him and their attack rolls are made at disadvantage. On a successful save, they are not afraid.
@@ -45,7 +45,7 @@ Die Arterazit stangen sind electified, 1d4 lightning dmg in contact
 ## Stormcloud Mephit
 > _Small elemental, chaotic evil_
 > - **Armor Class** 10
-> - **Hit Points** 6 (2d6 + 1)
+> - **Hit Points** 8 (2d6 + 1)
 > - **Speed** 10 ft., fly 30 ft.
 > 
 > |STR|DEX|CON|INT|WIS|CHA|

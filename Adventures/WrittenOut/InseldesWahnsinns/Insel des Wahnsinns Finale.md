@@ -48,10 +48,17 @@ Alle Kannibalen sind zum Camp zurückgekehrt und wollen Miranda opfern
 4 beim Camp, mit Mick und Prinz aktiv das Ritual ausführen
 Niels und noch einer bewacht das ganze.
 
-Sobald das Team die Insel sieht beginnt das Ritual
+Sobald das Team die Insel sieht beginnt das Ritual, ein grün roter beacon steigt auf
+
+#### Ritual
+- **Magical Ward**: The area surrounding the altar is enchanted. Only cultists with special markings can approach the altar without triggering an alarm or protective magic. Non-cultists must be especially careful to avoid detection when near this area.
+- **Ritual Circle**: A magic circle is drawn in chalk or blood on the ground around the altar. This marks the space where the sacrifice will take place. Players who have knowledge of arcane magic may be able to disrupt the ritual circle.
+- **Ritual Implements**: Several cultists are preparing ritual items nearby (incense, magical candles, sacrificial knives, etc.). These items can be used to prepare for the ritual or might serve as distractions.
 
 
-Das Camp selber besteht aus mehreren Zelten
+
+Das Camp selber besteht aus mehreren Zelten, die haben, essen, vorräte kleidung von anderen Schiffen und heu zum schlafen aber nicht viel mehr
+
 in der Mitte der Altar, der eine Anhöhung ist die in eine Klippe mündet, rechts und links strand
 
 Ralf wurde bereits geopfert
@@ -59,10 +66,49 @@ Miranda ist an den altar stein gefesselt.
 Der Altarstein hat das Scorpion symbol, das die Party auch vom Berg aus schon sehen kann.
 
 
-Es ist möglich das Ritual aufzuhalten
+Es ist möglich das Ritual aufzuhalten durch talk no jutsu. Die Kannibalen sind scared vor den abenteurern inzwischen
+
+
+
+Die Kannibalen (unter Mick) denken sich, lass Zaros um sie kümmern
+Niels will das nicht ist aber überstimmt.
+### Cannibalen Befragung
+Befragung der anderen Beiden Cannibalen plus weitere Cannibalen im Camp Infos
+- Lore über Niels und deal von vor 100 Jahren
+	- erstes Schiff das ankam
+	- Truhe im inneren gefunden
+	- Zaros hat sie auf gesetzt und alle unterworfen, wer nicht gehorcht stirbt
+	- Niels war Verlobter und handelte einen Deal aus
+	- Er lockt immer wieder Schiffe her und Eith lässt die Schiffe kentern
+	- Das Dorf muss immer wieder Leute im Namen von Eith opfern damit Eith erwacht
+	- Nach 1000 Jahren erhalten sie Eith zurück
+- Lore die den Endboss einfacherer macht (Zaros zieht die Energie der Ahnen die hier sterben aus den Kristallen)
+- Lore dass Zaros sich nicht vom Gipfel wegbewegen darf
+
+### Niels (Kette Narbe, M, grimmig)
+War teil der originalen Crew mit Zatos, Prince (ewiges Kind), King (trägt auch ein amulet)
+Hoarded Schätze im Berg,
+Das Amulett lässt ihn durch den Berg gehen und Zatos besuchen
+Zaros war seine Verlobte, jetzt ist er kaum noch ansprechbar und ersetzt durch die Überbleibsel eines alten Bösen
+Er brachte es nicht über sich ihn zu töten, also hat er einen Deal mit dem Gott gemacht, ewiges Leben und mit King wechseln sie sich ab und leiten Schiffe her, bis der Gott auferstanden ist, dann wird Zatos wieder freigelassen.
+Niels verdingt heuert immer wieder als Matrose an
+### King Mick (fett, M , Ehrfurcht)
+War kapitän und navigator, ebenfalls guter Freund von Zatos
+### Zoras
+War erste Maatin und hatte eine goldnase, er fand immer wieder Schätze. Der letzte Schatz war allerdings tödlich
+
+
 ## Die Lichtung mit der Axt
 Die Lichtung sieht absolut malerisch aus
 
+Ihr entdeckt das symbol und beim graben die Axt
+
+
+
+## Hinter dem magischen Tor
 
 
 ## An der Spitze
+
+[[Eith bessesener Zaros]]
+
