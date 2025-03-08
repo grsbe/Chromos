@@ -1,4 +1,22 @@
 
+NEU:
+
+Roll D6 exploding
+
+1-2 trash
+
+3-4 common
+
+5-6 explodes
+
+1-4 rare
+
+5-6 explodes
+
+legendary, every following 6 one more bonus
+
+
+
 
 Start at 25
 Jeder Wurf -5

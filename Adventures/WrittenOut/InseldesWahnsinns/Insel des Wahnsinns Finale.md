@@ -11,7 +11,40 @@ Die Gänge des Labyrinths sind verwirrend und scheinbar endlos, als ob der Berg 
 Hier gibt es kein Entkommen. Die Dunkelheit ist allumfassend, und die Mauern des Labyrinths flüstern leise Geschichten von Verzweiflung und Verlust. Dies ist der verfluchte Berg, die letzte Ruhestätte eines Volkes, das seine eigene Unsterblichkeit fand, nur um sie an einen Gott zu verlieren, der einst ein Symbol der Vollständigkeit war. Die Dunkelheit hier ist nicht nur eine Abwesenheit von Licht, sondern eine Präsenz, die jeden Winkel durchdringt und jeden Hoffnungsschimmer erstickt.
 
 
+
+
 ## Am Camp im Berg
 
+Die provisorische Behausung wurde aus den Trümmern des gestrandeten Schiffs errichtet – Planken und Segel als Wände, ein umgestürzter Mast als tragender Balken. In einer Feuerstelle aus grob aufgeschichteten Steinen flackert schwach die letzte Glut. Ein paar Fässer und Kisten, von der Flut gerettet, dienen als Sitzgelegenheiten und Vorratslager. Feuchtigkeit hängt in der Luft, und das Echo tropfenden Wassers mischt sich mit dem fernen, kaum greifbaren Flüstern des verfluchten Berges.
 
-## 
+Angus Quest: zeig ihm die besonderen Fische - Bag of Fishholding
+
+Schogards Quest: - Midlife Crisis Angst Ihn beruhigen, es ist noch zu früh für ihn zu sterben Flute of Charming. Schogard frägt das Team was sie machen wollen wenn sie hier überleben.
+
+Violas Quest - Die Kristalle könnten eine mächtige Powerquelle sein - sie hört schreie wenn sie die Steine berührt. Sie hat einen Kristall abgebaut und ihn in zwei geteilt. Die Kristalle sind immer noch verbunden und es ist möglich mit ihnen Bilder zu übertragen und Bilder zu speichern
+
+Tinnies Quest: 
+Gibt jedem einen Heiltrank, die sie gefunden haben in den Vorräten
+Bitte bringt mich mit. Ich habe meinem Vater geschworen alle heil hier raus zu bringen - Wenn ihr alle restlichen lebend hier raus bekommt werden ihr reichlich entlohnt.
+Sie hat versucht mit dem Kapitän zu reden, sie können ihm durch sie fragen stellen (3) aber er wird schwächer und schwächer.
+-> Breadcrump Arteratiz hält Seelen
+-> Eith saugt diese Seelen auf
+
+Svelte - hat ein bezauberndes Fischgericht gekocht 
+
+
+## Das Cannibalen Camp
+
+Berg über dem Camp zum Ausspähen
+Das Camp ist auf eines Insel
+Alle Kannibalen sind zum Camp zurückgekehrt und wollen Miranda opfern
+
+2 Angeln, 2 Wachen mit lauter Glocke
+
+4 beim Camp, mit Mick und Prinz aktiv das Ritual ausführen
+
+
+
+## Die Lichtung mit der Axt
+
+## An der Spitze

@@ -42,10 +42,6 @@ Gibt eine Speak to Scorpion Scroll
 [[NPCS/Svelte|Svelte]]
 
 
-##### Generic Matrose 1: Angus
-Spitzbart, dicklich
-Liebt Angeln und Schrimps, hat immer Angel dabei
-stoisch, hat seine Frau verloren, seitdem wollte er neues sehen
 
 ##### Freie Passagiere
 Ralf : Braun, Spitzbart, hat ultra Angst vor der See (was wenn da Kraken), händler
@@ -201,16 +197,16 @@ Angus Quest: zeig ihm die besonderen Fische - Bag of Fishholding
 
 Schogards Quest: - Midlife Crisis Angst Ihn beruhigen, es ist noch zu früh für ihn zu sterben Flute of Charming. Schogard frägt das Team was sie machen wollen wenn sie hier überleben.
 
-Violas Quest - Die Kristalle könnten eine mächtige Powerquelle sein - sie hört schreie wenn sie die Steine berührt. Sie hat einen Kristall abgebaut und er leuchtet nicht mehr. Die Kristalle sind erstaunlich Zerbrechlich und geben ihre Energie ab, dannach leuchten sie nicht mehr
-Frägt ob die Party Angst hat und was sie davon hält.
+Violas Quest - Die Kristalle könnten eine mächtige Powerquelle sein - sie hört schreie wenn sie die Steine berührt. Sie hat einen Kristall abgebaut und ihn in zwei geteilt. Die Kristalle sind immer noch verbunden und es ist möglich mit ihnen Bilder zu übertragen und Bilder zu speichern
 
-Tinnies Quest: Bitte bringt mich mit. Ich habe meinem Vater geschworen alle heil hier raus zu bringen - Wenn ihr alle restlichen lebend hier raus bekommt werden ihr reichlich entlohnt.
+Tinnies Quest: 
+Gibt jedem einen Heiltrank, die sie gefunden haben in den Vorräten
+Bitte bringt mich mit. Ich habe meinem Vater geschworen alle heil hier raus zu bringen - Wenn ihr alle restlichen lebend hier raus bekommt werden ihr reichlich entlohnt.
 Sie hat versucht mit dem Kapitän zu reden, sie können ihm durch sie fragen stellen (3) aber er wird schwächer und schwächer.
 -> Breadcrump Arteratiz hält Seelen
 -> Eith saugt diese Seelen auf
 
-Svelte - hat ein bezauberndes Fischgericht gekocht - vertraut euch bitte: Heiltrank
-Spricht über vertrauen untereinander. Er erträgt es nicht wenn noch einer aus dem Team uns verrät.
+Svelte - hat ein bezauberndes Fischgericht gekocht 
 
 Ralf und Miranda gerettet: 
 Wenn sie bis zum Abend warten wird Ralf gegrillt
