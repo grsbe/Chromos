@@ -58,6 +58,8 @@ Ralf wurde bereits geopfert
 Miranda ist an den altar stein gefesselt.
 Der Altarstein hat das Scorpion symbol, das die Party auch vom Berg aus schon sehen kann.
 
+
+Es ist möglich das Ritual aufzuhalten
 ## Die Lichtung mit der Axt
 Die Lichtung sieht absolut malerisch aus
 
