@@ -8,33 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13dc70c2e0a1780e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Mythandras/Mythandras.excalidraw.svg"
-              },
-              "icon": "lucide-image",
-              "title": "Mythandras.excalidraw"
-            }
-          },
-          {
-            "id": "9488b306913f131f",
+            "id": "f6946a690250221b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/Sidaris/Si'Ris.md",
+                "file": "Adventures/Mechanics/Fishing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Si'Ris"
+              "title": "Fishing"
             }
           },
           {
-            "id": "84f8e54d3fc6e700",
+            "id": "865872df8677a4cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,19 +36,21 @@
             }
           },
           {
-            "id": "c5f05e212c96d7dc",
+            "id": "c1da4b1534b32dbe",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Adventures/WrittenOut/InseldesWahnsinns/Items 4 team.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Items 4 team"
             }
           },
           {
-            "id": "f6946a690250221b",
+            "id": "342660dc5434306b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,37 +62,9 @@
               "icon": "lucide-file",
               "title": "Insel des Wahnsinns Finale"
             }
-          },
-          {
-            "id": "c9a88a9acb470e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/WrittenOut/InseldesWahnsinns/Labyrinth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Labyrinth"
-            }
-          },
-          {
-            "id": "7ef8ae24bdf4b0ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/WrittenOut/Oneshot A wild sheep chase.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oneshot A wild sheep chase"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,23 +211,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f6946a690250221b",
+  "active": "342660dc5434306b",
   "lastOpenFiles": [
+    "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Items 4 team.md",
+    "Adventures/WrittenOut/Oneshot A wild sheep chase.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Insel des Wahnsinns Finale.md",
+    "Adventures/Mechanics/Fishing.md",
+    "Mythandras/Exos/Sidaris/Si'Ris.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Labyrinth.md",
     "Adventures/Items/Tables.md",
     "Adventures/Items/Useless magical spells.md",
     "Adventures/EncounterTables/Magische Items.md",
-    "Adventures/WrittenOut/InseldesWahnsinns/Labyrinth.md",
-    "Adventures/WrittenOut/InseldesWahnsinns/Insel des Wahnsinns Finale.md",
     "Adventures/Enemy Statblocks/Eith bessesener Zaros.md",
-    "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
     "Adventures/Enemy Statblocks/Cannibal - Matrose.md",
     "Adventures/Enemy Statblocks/Tinnie - Niels.md",
     "Adventures/WrittenOut/InseldesWahnsinns/Insel des Wahnsinns.md",
-    "Adventures/Mechanics/Fishing.md",
     "Adventures/WrittenOut/InseldesWahnsinns/NPCS/Svelte.md",
     "Adventures/WrittenOut/InseldesWahnsinns/NPCS/Schogart.md",
     "Adventures/WrittenOut/InseldesWahnsinns/NPCS/Arty.md",
-    "Adventures/WrittenOut/Oneshot A wild sheep chase.md",
     "conflict-files-obsidian-git.md",
     "Adventures/Enemy Statblocks/Falvius.md",
     "Books/Mawstone.md",
@@ -275,8 +239,6 @@
     "Books/Haven 1.md",
     "Books/Immerscheingarten 1.md",
     "Books/Stories to write.md",
-    "Books/Soras 2.md",
-    "Books/Soras 1.md",
     "Adventures/WrittenOut/Timeloop",
     "Mythandras/Exos/Sosoni",
     "Mythandras/Exos/Abraxus",
