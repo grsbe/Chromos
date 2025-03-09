@@ -48,7 +48,7 @@ Die Arterazit stangen sind electified, 1d4 lightning dmg in contact
 ## Stormcloud Mephit
 > _Small elemental, chaotic evil_
 > - **Armor Class** 12
-> - **Hit Points** 8 (2d6 + 1)
+> - **Hit Points** 6 (2d6 + 1)
 > - **Speed** 10 ft., fly 30 ft.
 > 
 > |STR|DEX|CON|INT|WIS|CHA|
@@ -65,7 +65,7 @@ Die Arterazit stangen sind electified, 1d4 lightning dmg in contact
 > 
 > ---
 > 
-> _**Death Burst.**_ When the mephit dies, it explodes with a thunderous burst. Each creature within 5 ft. of the mephit must succeed on a DC 15 Constitution saving throw or take 1d8 thunder damage., half else
+> _**Death Burst.**_ When the mephit dies, it explodes with a thunderous burst. Each creature within 5 ft. of the mephit must succeed on a DC 13 Constitution saving throw or take 1d8 thunder damage., half else
 > 
 > ### Actions
 > 
