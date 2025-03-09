@@ -3,6 +3,8 @@ Medium Humanoid, Neutral Evil
 **Hit Points** 35-42 -50
 **Speed** 30ft  
 
+Pillar: 16
+
 | Str    | Dex    | Con    | Int    | Wis   | Cha    |
 | ------ | ------ | ------ | ------ | ----- | ------ |
 | 12(+1) | 12(+1) | 14(+2) | 14(+2) | 8(-1) | 11(+0) |
@@ -45,7 +47,7 @@ Once the weather wizard is defeated, the storm subsides.
 Die Arterazit stangen sind electified, 1d4 lightning dmg in contact
 ## Stormcloud Mephit
 > _Small elemental, chaotic evil_
-> - **Armor Class** 10
+> - **Armor Class** 12
 > - **Hit Points** 8 (2d6 + 1)
 > - **Speed** 10 ft., fly 30 ft.
 > 
@@ -63,10 +65,10 @@ Die Arterazit stangen sind electified, 1d4 lightning dmg in contact
 > 
 > ---
 > 
-> _**Death Burst.**_ When the mephit dies, it explodes with a thunderous burst. Each creature within 5 ft. of the mephit must succeed on a DC 10 Constitution saving throw or take 1d8 thunder damage., half else
+> _**Death Burst.**_ When the mephit dies, it explodes with a thunderous burst. Each creature within 5 ft. of the mephit must succeed on a DC 15 Constitution saving throw or take 1d8 thunder damage., half else
 > 
 > ### Actions
 > 
 > _**Zap**_ Meele or Ranged Weapon Attack: +2 to hit, reach 30 ft., one target. _Hit:_ 1d4 electric damage.
 > 
-> Blinding Breath. (recharge 6)**_ The mephit exhales smoky, crackling vapour in a 15-foot cone. Each creature in that area must succeed on a DC 10 Constitution saving throw, getting blinded on a failed save.
+> Blinding Breath. (recharge 6)**_ The mephit exhales smoky, crackling vapour in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw, getting blinded on a failed save.
