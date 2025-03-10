@@ -5,13 +5,15 @@
 Dunkelalfen haben vor 1700 ish Jahren das Feenreich gesprengt.
 Covus will deren energie absorbieren um wieder als volldunkel alf aufzusteigen und gleichzeitig den Status quo behalten.
 
-Imperator des Lichts hat ein Unheil begangen um zum Halbalf aufzusteigen
+Imperator des Lichts in Polus hat ein Unheil begangen um zum Halbalf aufzusteigen
+Sklaven die Seelenstein harvesten müssen vs. Imperatorfamile
+PaRis Handelsrat die ihren Einfluss ausweiten wollen
 
 Abraxus vs Drachenkultstämme
 
 Polus Akademie der Unsterblichkeit vs. die Unterschicht
 
-Sklaven die Seelenstein harvesten müssen vs. Imperatorfamile
+
 
 
 
