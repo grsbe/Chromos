@@ -7,6 +7,19 @@ Covus will deren energie absorbieren um wieder als volldunkel alf aufzusteigen u
 
 Imperator des Lichts hat ein Unheil begangen um zum Halbalf aufzusteigen
 
+Abraxus vs Drachenkultstämme
+
+Polus Akademie der Unsterblichkeit vs. die Unterschicht
+
+Sklaven die Seelenstein harvesten müssen vs. Imperatorfamile
+
+
+
+### Smaller Conflicts
+
+Hafenstadt mit Golem, der die Stadt kontrolliert und seinen Erschaffer eingefangen hat
+
+
 
 
 
