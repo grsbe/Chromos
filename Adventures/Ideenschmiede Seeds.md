@@ -14,6 +14,13 @@ Ein uraltes Böses wurde tief in der Erde eingeschlossen. Zwerge finden einen Ei
 Der König sucht ein Kind das eine Prophezeiung nach sein untergang sein soll
 
 Ein uraltes Böses ist unter Exos begraben und versucht zu entkommen. Der Imperator muss kontinuierlich das Böse in schach halten und bekämpfen
+
+Eine Ruine birgt ein Zeitportal dass das Team in der Zeit zurück schickt. Dort findet das Jahrhundertfestival statt, am ende wird die ganze stadt zerstört. Das Team kann das Artefakt aus der Zeit bergen und versuchen die Stadt zu retten oder sicher untergehen zu lassen.
+
+die kleinen Ungerechtigkeiten am Anfang
+- ein magier der über die Unsterblichkeit sinniert während er verfluchte Bauer abweist
+
+Acending the Exos
 ## Settings/Theme
 Ein Dorf/Stadt/Land/Kontinent wo die Bewohner einen Deal mit dämonen ausgemacht haben. In der Nacht müssen alle Menschen in häusern sein und dürfen bis Tagesanbruch nicht auf die Straße. Wer diese Regel bricht stirbt. Außerdem gibt es jährliche Opfer oder so. Dämonen können Gebäude nachts (vermeintlich) nicht betreten.
 
@@ -52,7 +59,7 @@ Die viel zu alte Hexengranny die mysteriös wirkt aber einfach nur nett ist.
 Lady of destruction
 Void
 The salesman
-Corvus: Hoffnung
+Corvus: Freiheit und trickserei
 The ancient evil: Lust, Pride, Glutony, Greed, 
 
 

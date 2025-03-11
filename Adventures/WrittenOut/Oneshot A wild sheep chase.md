@@ -96,18 +96,19 @@ Kontext:
 
 ## Scene 3: Ambush auf dem Weg zum Turm
 
-
 when party gets out of tavern
+
 https://5e.tools/bestiary.html#black%20bear_xmm
 https://5e.tools/bestiary.html#wolf_xmm
 https://5e.tools/bestiary.html#goblin%20warrior_xmm
+
+Kleiner smarter goblin Grok und ein Bär Brok und ein paar Wölfe Wronk, Brik und Olaf. Der Bär und die Wölfe sind gepolymorphed.
 
 wolf 1 ambushes to catch the sheep and escape
 wolf 2 attacks
 
 try to get the sheep by offering their free escape, money etc., but if it does not work or the party delays too much they will just attack
 
-Kleiner smarter goblin Grok und ein Bär Brok und ein paar Wölfe Olaf. Der Bär und die Wölfe sind gepolymorphed.
 
 lv1: Grok und ein Wolf lauern euch auf im Wald (Davor Perception: 15 um sie zu bemerken, 18 um sie actually zu sehen)
 Die beiden verstecken sich in einem Busch (Natur 10: Der Wolf hat mit seiner Nase das Schaf gerochen probably)
@@ -330,5 +331,5 @@ Faschaad will im Falle dass er stirbt, dass die Party seinen Kollegen in der Mag
 
 Pass Arcana DC16 um den Stab erfolgreich zu benutzen
 Das Schaf kann versuchen zu resisten (Wis save)
-DC 5-15: Das Schaf wird zu einem anderen Tier (http://themansegaming.blogspot.com/2018/10/100-random-animal-table.html)
+DC 5-15: Das Schaf wird zu einem anderen Tier (http://themansegaming.blogspot.com/2018/10/*100*-random-animal-table.html)
 0-5: Glibberschleim und der Stab explodiert 1d12 force dmg within 10ft

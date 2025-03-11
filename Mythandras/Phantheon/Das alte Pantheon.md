@@ -17,7 +17,7 @@ Die Götter befinden sich hauptsächlich in der Geisterwelt oder um Himmel oder 
 | Kunst           | Alanus    | Energie     | Wechselnd | 3          |
 | Balance         | Eos       | Wasser      | Grau      | 3          |
 
-Die Namenendung verrät das Geschlecht (dem sich die Götter näher fühlen, btw die Lebe:
+Die Namenendung verrät das Geschlecht (dem sich die Götter näher fühlen):
 - -us: weiblich
 - -os: männlich
 
@@ -33,10 +33,10 @@ Ihr Tempel wird auch Seelenofen genannt. Einige Religionen gehen davon aus, dass
 
 Folgende Alfen stehen unter ihrem Schutz:
 
-|Aspekt|Name|Element|Religion|
-|---|---|---|---|
-|Glück/Hoffung|Lucas|Schicksalsverzerrung|Abenteuergilde|
-|Freiheit/Trixerei|Trix|Dunkelheit|Nachtschatten|
+| Aspekt            | Name        | Element              | Religion       |
+| ----------------- | ----------- | -------------------- | -------------- |
+| Glück/Hoffung     | Lucas       | Schicksalsverzerrung | Abenteuergilde |
+| Freiheit/Trixerei | Corvus Trix | Dunkelheit           | Nachtschatten  |
 
 ## Ordnung
 
@@ -63,14 +63,14 @@ Exos steht als Gott für Stolz, Macht, Kraft, Kampf, Wut und Angst.
 
 Folgende Alfen repräsentieren Exos auf der Welt:
 
-| Aspekt         | Name   | Element | Religion |
-| -------------- | ------ | ------- | -------- |
-| Stolz/Ambition | Stolz  |         | 7        |
-| Jagd           | Rexos  |         |          |
-| Kampf/Ehre     | Lanus  |         |          |
-| Angst          | Rasmos |         |          |
-| Wut/Rache      | Farkos |         | 7        |
-| Neid           | Remus  |         | 7        |
+| Aspekt          | Name    | Element | Religion |
+| --------------- | ------- | ------- | -------- |
+| Stolz/Ambition  | Stolz   |         | 7        |
+| Jagd            | Rexos   |         |          |
+| Kampf/Ehre      | Lanus   |         |          |
+| Angst           | Rasmos  |         |          |
+| Wut/Rache/Sturm | Starkos |         | 7        |
+| Neid            | Remus   |         | 7        |
 
 ## Liebe
 
@@ -84,7 +84,7 @@ Folgende Alfen führen ihren Willen aus.
 | Lust/Einklang | Harmine | Synchronisation  | 7        |
 | Selbstliebe   | Narzine | Perfektion       |          |
 | Familienliebe | Falmine | Geben und Nehmen |          |
-| Freundschaft  | Homine  | Vertrauen        |          |
+|               | Homine  | Vertrauen        |          |
 
 
 ## Zeit
@@ -98,7 +98,7 @@ Minus ist die Göttin der Zeit, des Verstreichen alles Übles und der Ewigkeit z
 | Zukunft                   | Phenet | Prophezeiung | Orden der Zeit |
 | Gegenwart                 | Anet   | Allseherei   | Orden der Zeit |
 | Vergangenheit             | Synet  | Eis          | Orden der Zeit |
-| Traum, Fantasie, Faulheit | Draugr | Schlaf       | Drachenkult    |
+| Traum, Fantasie, Faulheit | Draugr | Schlaf       | 7, Drachenkult |
 
 ## Raum
 
@@ -135,14 +135,14 @@ Minus, die Göttin der Veränderung und des Geistes (auch Minusius, Mina, Migras
 
 Folgende Alfen verändern die Welt auf ihrer Autorität:
 
-| Aspekt      | Name           | Element                | Religion              |
-| ----------- | -------------- | ---------------------- | --------------------- |
-| Erschaffung | Kraboshtagrosh | Gier                   | 7, Zwerge: Ambossgott |
-| Erhaltung   | Simbeshgrosh   | Transmutation          | Zwerge: Helmgott      |
-| Zerstörung  | Shgrabugrosh   | Vernichtung            | Zwerge: Hammergott    |
-| Logik       | Nagaburosh     | Bewusstsein            |                       |
-| Intuition   | Zionosh        | Unterbewusstsein, Faul | 7                     |
-| Weisheit    | Amenosh        | Gedächnis              |                       |
+| Aspekt      | Name           | Element          | Religion              |
+| ----------- | -------------- | ---------------- | --------------------- |
+| Erschaffung | Kraboshtagrosh | Gier             | 7, Zwerge: Ambossgott |
+| Erhaltung   | Simbeshgrosh   | Transmutation    | Zwerge: Helmgott      |
+| Zerstörung  | Shgrabugrosh   | Vernichtung      | Zwerge: Hammergott    |
+| Logik       | Nagaburosh     | Bewusstsein      |                       |
+| Intuition   | Zionosh        | Unterbewusstsein |                       |
+| Weisheit    | Amenosh        | Gedächnis        |                       |
 
 ## Kunst
 

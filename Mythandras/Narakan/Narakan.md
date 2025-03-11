@@ -14,7 +14,7 @@ Jeder Master kann Mana aus den Kinderwelten beziehen. Der oberster Herrscher hat
 
 ## Herrscher
 
-Die Herrscherin von Narakan ist Nayuta, die Göttin der Dominanz, Champion des Boreos. (No Kink intended hier, like was soll ich denn machen um es zu unkinken :(   
+Die Herrscherin von Narakan ist Nayuta, das Ideal der Dominanz, Champion des Boreos. 
 
 Sie residiert in der Taschenwelt der Bronzestadt, die bis auf persönliche Diener und die Elitemagier Boreos nahezu leer ist.
 
