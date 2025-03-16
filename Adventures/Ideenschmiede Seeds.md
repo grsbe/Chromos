@@ -55,6 +55,12 @@ Die Eingesperrte Gottheit
 
 Die viel zu alte Hexengranny die mysteriös wirkt aber einfach nur nett ist.
 
+# Muss rein
+UWU Girl tiny
+
+Rizzable Gott für Jann
+
+
 #### (Halb-)Götter
 Lady of destruction
 Void
