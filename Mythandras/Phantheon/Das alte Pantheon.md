@@ -50,11 +50,11 @@ Man sagt, Artemets Tempel, existiert als Verbindungsstück zwischen dem Geisterr
 
 Folgende Alfen sind Artemetos untergestellt:
 
-|Aspekt|Name|Element|Religion|
-|---|---|---|---|
-|Tod/Verträge|Weber|Tod, Faden|Orden des Lichts - Legislativ|
-|Schicksal|Auge|Augen|Orden des Lichts - Jurikativ|
-|Gerechtigkeit/Wahrheit/Licht|Schneider|Licht|Orden des Lichts - Exekutiv|
+| Aspekt                       | Name      | Element    | Religion                      |
+| ---------------------------- | --------- | ---------- | ----------------------------- |
+| Tod/Verträge                 | Weber     | Tod, Faden | Orden des Lichts - Legislativ |
+| Schicksal                    | Auge      | Augen      | Orden des Lichts - Jurikativ  |
+| Gerechtigkeit/Wahrheit/Licht | Schneider | Licht      | Orden des Lichts - Exekutiv   |
 
 ## Krieg
 Der Gott des Krieges, Exos (auch Exodios genannt) ist neben Nymus einer der beiden karmischen Götter. Arbeiten zwei Seelen gegeneinander, dann verbindet fortan eine karmische Verbindung die beiden Seelen. Exos übt als Naturkraft permanent eine Aura der Kraft aus die die Umgebung herausfordert sich zu messen und gegeneinander zu arbeiten.
@@ -63,14 +63,14 @@ Exos steht als Gott für Stolz, Macht, Kraft, Kampf, Wut und Angst.
 
 Folgende Alfen repräsentieren Exos auf der Welt:
 
-| Aspekt          | Name    | Element | Religion |
-| --------------- | ------- | ------- | -------- |
-| Stolz/Ambition  | Stolz   |         | 7        |
-| Jagd            | Rexos   |         |          |
-| Kampf/Ehre      | Lanus   |         |          |
-| Angst           | Rasmos  |         |          |
-| Wut/Rache/Sturm | Starkos |         | 7        |
-| Neid            | Remus   |         | 7        |
+| Aspekt          | Name   | Element | Religion |
+| --------------- | ------ | ------- | -------- |
+| Stolz/Ambition  | Stolz  |         | 7        |
+| Jagd            | Rexos  |         |          |
+| Kampf/Ehre      | Lanus  |         |          |
+| Angst           | Rasmos |         |          |
+| Wut/Rache/Sturm | Stark  |         | 7        |
+| Neid            | Remus  |         | 7        |
 
 ## Liebe
 
@@ -84,7 +84,7 @@ Folgende Alfen führen ihren Willen aus.
 | Lust/Einklang | Harmine | Synchronisation  | 7        |
 | Selbstliebe   | Narzine | Perfektion       |          |
 | Familienliebe | Falmine | Geben und Nehmen |          |
-|               | Homine  | Vertrauen        |          |
+| Vertrauen     | Mielle  |                  |          |
 
 
 ## Zeit
@@ -106,12 +106,12 @@ Der Gott des Raumes, Boreos (auch Boros, Bor genannt) ist neben Minus einer der 
 Er steht für den Raum, die Materie, die ihn ausfüllt und die Entfernung zwischen der Materie.
 Folgende Alfen bezeugen seinen Einfluss:
 
-|Aspekt|Name|Element|Religion|
-|---|---|---|---|
-|Distanz|Kliddoion|Teleportation||
-|Materie|Esayvakon|Magnetismus||
-|Beschleunigung|Hathyakon|Gravitation||
-|Kopie|Chayaron|Spiegelung||
+| Aspekt         | Name      | Element       | Religion |
+| -------------- | --------- | ------------- | -------- |
+| Distanz        | Kliddoion | Teleportation |          |
+| Materie        | Esayvakon | Magnetismus   |          |
+| Beschleunigung | Hathyakon | Gravitation   |          |
+| Kopie          | Chayaron  | Spiegelung    |          |
 
 
 ## Natur
@@ -121,12 +121,12 @@ Echelon, der Gott der Natur (auch Echezikel, Echon genannt) ist einer der vier E
 Folgende Alfen hegen und pflegen die Welt unter seiner Anleitung:
 
 
-|Aspekt|Name|Element|Religion|
-|---|---|---|---|
-|Frühling|Twilks|Fruchtbarkeit|Orden der Natur|
-|Sommer|Zawngs|Ernte, Sonne|Orden der Natur|
-|Herbst|Doobs|Völlerei|7,Orden der Natur|
-|Winter|Wranks|Ahnen|Orden der Natur|
+| Aspekt   | Name   | Element       | Religion          |
+| -------- | ------ | ------------- | ----------------- |
+| Frühling | Twilks | Fruchtbarkeit | Orden der Natur   |
+| Sommer   | Zawngs | Ernte, Sonne  | Orden der Natur   |
+| Herbst   | Doobs  | Völlerei      | 7,Orden der Natur |
+| Winter   | Wranks | Ahnen         | Orden der Natur   |
 
   
 ## Wandel
