@@ -1,4 +1,6 @@
 
+Seit dem Götterfall können Götter auserhalb ihrer Domain nicht mehr auf die Welt einwirken.
+
 Die Alten Götter anzubeten macht manchmal wenig Sinn. Sie stehen mehr für die Erhaltung des Status Quo und legen die Naturgesetze der Welt und der Magie fest, die Magier und Wissenschaftler erforschen um magische Zauber zu wirken und starke Konstrukte herstellen zu können.
 
 Im Gegensatz dazu stehen die neuen Götter, die ihren Ursprung oft aus amitionierten Alfen, dem Kollektiven Glauben einer Gemeinschaft oder einem auferstandenen Wesen entsprungen sind.
