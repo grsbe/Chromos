@@ -4,18 +4,18 @@ Die Götter befinden sich hauptsächlich in der Geisterwelt oder um Himmel oder 
 # Die alten Götter
 ## Die 10 Hauptgötter
 
-| Aspekt          | Name      | Element     | Farbe     | Generation |
-| --------------- | --------- | ----------- | --------- | ---------- |
-| Chaos           | Noxus     | Dunkelheit  | Schwarz   | 1          |
-| Ordnung         | Artemetos | Licht       | Weiß      | 1          |
-| Liebe           | Nymus     | Feuer       | Pink      | 2          |
-| Krieg           | Exos      | Erde        | Rot       | 2          |
-| Raum            | Boreos    | Wind        | Orange    | 2          |
-| Zeit            | Arcus     | Eis         | Azur      | 2          |
-| Tradition/Natur | Echelos   | Fauna/Flora | Grün      | 3          |
-| Wandel/Geist    | Minus     | Psi         | Purpur    | 3          |
-| Kunst           | Alanus    | Energie     | Wechselnd | 3          |
-| Balance         | Eos       | Wasser      | Grau      | 3          |
+| Aspekt          | Name      | Element     | Farbe     | Generation | Domain              |
+| --------------- | --------- | ----------- | --------- | ---------- | ------------------- |
+| Chaos           | Noxus     | Dunkelheit  | Schwarz   | 1          | Twilight,Trickery   |
+| Ordnung         | Artemetos | Licht       | Weiß      | 1          | Order, Light, Grave |
+| Liebe           | Nymus     | Feuer       | Pink      | 2          | Life                |
+| Krieg           | Exos      | Erde        | Rot       | 2          | War, Death          |
+| Raum            | Boreos    | Wind        | Orange    | 2          | Arcana, Tempest     |
+| Zeit            | Arcus     | Eis         | Azur      | 2          | Order               |
+| Tradition/Natur | Echelos   | Fauna/Flora | Grün      | 3          | Nature              |
+| Wandel/Geist    | Minus     | Psi         | Purpur    | 3          | Knowledge           |
+| Kunst           | Alanus    | Energie     | Wechselnd | 3          | Forge               |
+| Balance         | Eos       | Wasser      | Grau      | 3          | Twilight, Peace     |
 
 Die Namenendung verrät das Geschlecht (dem sich die Götter näher fühlen):
 - -us: weiblich
@@ -33,10 +33,10 @@ Ihr Tempel wird auch Seelenofen genannt. Einige Religionen gehen davon aus, dass
 
 Folgende Alfen stehen unter ihrem Schutz:
 
-| Aspekt            | Name        | Element              | Religion       |
-| ----------------- | ----------- | -------------------- | -------------- |
-| Glück/Hoffung     | Lucas       | Schicksalsverzerrung | Abenteuergilde |
-| Freiheit/Trixerei | Corvus Trix | Dunkelheit           | Nachtschatten  |
+| Aspekt        | Name        | Element              | Religion       | Domain |
+| ------------- | ----------- | -------------------- | -------------- | ------ |
+| Glück/Hoffung | Lucas       | Schicksalsverzerrung | Abenteuergilde |        |
+| Freiheit      | Corvus Trix | Dunkelheit           | Nachtschatten  |        |
 
 ## Ordnung
 
@@ -50,11 +50,11 @@ Man sagt, Artemets Tempel, existiert als Verbindungsstück zwischen dem Geisterr
 
 Folgende Alfen sind Artemetos untergestellt:
 
-| Aspekt                       | Name      | Element    | Religion                      |
-| ---------------------------- | --------- | ---------- | ----------------------------- |
-| Tod/Verträge                 | Weber     | Tod, Faden | Orden des Lichts - Legislativ |
-| Schicksal                    | Auge      | Augen      | Orden des Lichts - Jurikativ  |
-| Gerechtigkeit/Wahrheit/Licht | Schneider | Licht      | Orden des Lichts - Exekutiv   |
+| Aspekt                       | Name      | Element    | Religion                      | Domain       |
+| ---------------------------- | --------- | ---------- | ----------------------------- | ------------ |
+| Tod/Verträge                 | Weber     | Tod, Faden | Orden des Lichts - Legislativ | Order, Grave |
+| Schicksal                    | Auge      | Augen      | Orden des Lichts - Jurikativ  | Order        |
+| Gerechtigkeit/Wahrheit/Licht | Schneider | Licht      | Orden des Lichts - Exekutiv   | Order, Light |
 
 ## Krieg
 Der Gott des Krieges, Exos (auch Exodios genannt) ist neben Nymus einer der beiden karmischen Götter. Arbeiten zwei Seelen gegeneinander, dann verbindet fortan eine karmische Verbindung die beiden Seelen. Exos übt als Naturkraft permanent eine Aura der Kraft aus die die Umgebung herausfordert sich zu messen und gegeneinander zu arbeiten.
@@ -63,14 +63,14 @@ Exos steht als Gott für Stolz, Macht, Kraft, Kampf, Wut und Angst.
 
 Folgende Alfen repräsentieren Exos auf der Welt:
 
-| Aspekt          | Name   | Element | Religion |
-| --------------- | ------ | ------- | -------- |
-| Stolz/Ambition  | Stolz  |         | 7        |
-| Jagd            | Rexos  |         |          |
-| Kampf/Ehre      | Lanus  |         |          |
-| Angst           | Rasmos |         |          |
-| Wut/Rache/Sturm | Stark  |         | 7        |
-| Neid            | Remus  |         | 7        |
+| Aspekt          | Name   | Element | Religion | Domain |
+| --------------- | ------ | ------- | -------- | ------ |
+| Stolz/Ambition  | Stolz  |         | 7        |        |
+| Jagd            | Rexos  |         |          |        |
+| Kampf/Ehre      | Ilanus |         |          |        |
+| Angst           | Rasmos |         |          |        |
+| Wut/Rache/Sturm | Stark  |         | 7        |        |
+| Neid            | Remus  |         | 7        |        |
 
 ## Liebe
 
@@ -79,12 +79,12 @@ Die Göttin der Liebe, Nymus (auch Nymusius, Nym genannt) ist neben Exos eine de
 Folgende Alfen führen ihren Willen aus.
 
 
-| Aspekt        | Name    | Element          | Religion |
-| ------------- | ------- | ---------------- | -------- |
-| Lust/Einklang | Harmine | Synchronisation  | 7        |
-| Selbstliebe   | Narzine | Perfektion       |          |
-| Familienliebe | Falmine | Geben und Nehmen |          |
-| Vertrauen     | Mielle  |                  |          |
+| Aspekt        | Name    | Element          | Religion | Domain |
+| ------------- | ------- | ---------------- | -------- | ------ |
+| Lust/Einklang | Alfine  | Synchronisation  | 7        |        |
+| Selbstliebe   | Narzine | Perfektion       |          |        |
+| Familienliebe | Falmine | Geben und Nehmen |          |        |
+| Vertrauen     | Mielle  |                  |          |        |
 
 
 ## Zeit
@@ -93,12 +93,12 @@ Die Göttin der Zeit, Arcus (auch Arkius genannt) ist neben Boreos eine der beid
 
 Minus ist die Göttin der Zeit, des Verstreichen alles Übles und der Ewigkeit zwischen jedem Anfang und jedem Ende.
 
-| Aspekt                    | Name   | Element      | Religion       |
-| ------------------------- | ------ | ------------ | -------------- |
-| Zukunft                   | Phenet | Prophezeiung | Orden der Zeit |
-| Gegenwart                 | Anet   | Allseherei   | Orden der Zeit |
-| Vergangenheit             | Synet  | Eis          | Orden der Zeit |
-| Traum, Fantasie, Faulheit | Draugr | Schlaf       | 7, Drachenkult |
+| Aspekt                    | Name   | Element      | Religion       | Domain |
+| ------------------------- | ------ | ------------ | -------------- | ------ |
+| Zukunft                   | Phenet | Prophezeiung | Orden der Zeit |        |
+| Gegenwart                 | Anet   | Allseherei   | Orden der Zeit |        |
+| Vergangenheit             | Synet  | Eis          | Orden der Zeit |        |
+| Traum, Fantasie, Faulheit | Draugr | Schlaf       | 7, Drachenkult |        |
 
 ## Raum
 
@@ -106,12 +106,12 @@ Der Gott des Raumes, Boreos (auch Boros, Bor genannt) ist neben Minus einer der 
 Er steht für den Raum, die Materie, die ihn ausfüllt und die Entfernung zwischen der Materie.
 Folgende Alfen bezeugen seinen Einfluss:
 
-| Aspekt         | Name      | Element       | Religion |
-| -------------- | --------- | ------------- | -------- |
-| Distanz        | Kliddoion | Teleportation |          |
-| Materie        | Esayvakon | Magnetismus   |          |
-| Beschleunigung | Hathyakon | Gravitation   |          |
-| Kopie          | Chayaron  | Spiegelung    |          |
+| Aspekt         | Name      | Element       | Religion | Domaiin |
+| -------------- | --------- | ------------- | -------- | ------- |
+| Distanz        | Kliddoion | Teleportation |          |         |
+| Materie        | Esayvakon | Magnetismus   |          |         |
+| Beschleunigung | Hathyakon | Gravitation   |          |         |
+| Kopie          | Chayaron  | Spiegelung    |          |         |
 
 
 ## Natur
@@ -121,12 +121,12 @@ Echelon, der Gott der Natur (auch Echezikel, Echon genannt) ist einer der vier E
 Folgende Alfen hegen und pflegen die Welt unter seiner Anleitung:
 
 
-| Aspekt   | Name   | Element       | Religion          |
-| -------- | ------ | ------------- | ----------------- |
-| Frühling | Twilks | Fruchtbarkeit | Orden der Natur   |
-| Sommer   | Zawngs | Ernte, Sonne  | Orden der Natur   |
-| Herbst   | Doobs  | Völlerei      | 7,Orden der Natur |
-| Winter   | Wranks | Ahnen         | Orden der Natur   |
+| Aspekt   | Name   | Element       | Religion          | Domain |
+| -------- | ------ | ------------- | ----------------- | ------ |
+| Frühling | Twilks | Fruchtbarkeit | Orden der Natur   |        |
+| Sommer   | Zawngs | Ernte, Sonne  | Orden der Natur   |        |
+| Herbst   | Doobs  | Völlerei      | 7,Orden der Natur |        |
+| Winter   | Wranks | Ahnen         | Orden der Natur   |        |
 
   
 ## Wandel
@@ -135,14 +135,14 @@ Minus, die Göttin der Veränderung und des Geistes (auch Minusius, Mina, Migras
 
 Folgende Alfen verändern die Welt auf ihrer Autorität:
 
-| Aspekt      | Name           | Element          | Religion              |
-| ----------- | -------------- | ---------------- | --------------------- |
-| Erschaffung | Kraboshtagrosh | Gier             | 7, Zwerge: Ambossgott |
-| Erhaltung   | Simbeshgrosh   | Transmutation    | Zwerge: Helmgott      |
-| Zerstörung  | Shgrabugrosh   | Vernichtung      | Zwerge: Hammergott    |
-| Logik       | Nagaburosh     | Bewusstsein      |                       |
-| Intuition   | Zionosh        | Unterbewusstsein |                       |
-| Weisheit    | Amenosh        | Gedächnis        |                       |
+| Aspekt      | Name           | Element          | Religion              | Domain |
+| ----------- | -------------- | ---------------- | --------------------- | ------ |
+| Erschaffung | Kraboshtagrosh | Gier             | 7, Zwerge: Ambossgott |        |
+| Erhaltung   | Simbeshgrosh   | Transmutation    | Zwerge: Helmgott      |        |
+| Zerstörung  | Shgrabugrosh   | Vernichtung      | Zwerge: Hammergott    |        |
+| Logik       | Nagaburosh     | Bewusstsein      |                       |        |
+| Intuition   | Zionosh        | Unterbewusstsein |                       |        |
+| Weisheit    | Amenosh        | Gedächnis        |                       |        |
 
 ## Kunst
 
@@ -150,13 +150,13 @@ Alanus der Gott der Kunst (Auch Alaniusius genannt) ist einer der vier Erschaffe
 
 Dies sind die Alfen die Alanus auf der Bühne der Welt vertreten:
 
-| Aspekt           | Name | Element | Religion |
-| ---------------- | ---- | ------- | -------- |
-| Poesie           | Jom  | Zunge |          |
-| Malerei | Shar | Augen    |          |
-| Musik            | Lin  | Ohren   |          |
-| Tanz             | Ina  | Haut  |          |
-| Erschaffung      | Bik  |  Hand       |          |
+| Aspekt      | Name | Element | Religion | Domain |
+| ----------- | ---- | ------- | -------- | ------ |
+| Poesie      | Jom  | Zunge   |          |        |
+| Malerei     | Shar | Augen   |          |        |
+| Musik       | Lin  | Ohren   |          |        |
+| Tanz        | Ina  | Haut    |          |        |
+| Erschaffung | Bik  | Hand    |          |        |
 
 ## Balance
 
@@ -164,7 +164,7 @@ Eos der Gott der Balance (auch Soeos genannt) ist einer der vier Erschaffer-Göt
 
 Eos wird von den Zwillingen des Zwielichts unterstützt:  
 
-| Aspekt          | Name     | Element          | Religion                 |
-| --------------- | -------- | ---------------- | ------------------------ |
-| Licht im Dunkel | Luraarul | Zunehmender Mond | Zwillinge des Zwielichts |
-| Dunkel im Licht | Arullura | Abnehmender Mond | Zwillinge des Zwielichts |
+| Aspekt          | Name     | Element          | Religion                 | Domain |
+| --------------- | -------- | ---------------- | ------------------------ | ------ |
+| Licht im Dunkel | Luraarul | Zunehmender Mond | Zwillinge des Zwielichts |        |
+| Dunkel im Licht | Arullura | Abnehmender Mond | Zwillinge des Zwielichts |        |

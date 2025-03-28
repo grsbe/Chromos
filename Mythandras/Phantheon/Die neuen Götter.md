@@ -10,7 +10,7 @@ Neue Götter sind in der Geisterwelt ein Gott und üben doch als eigenständiges
 
 Die Alten Götter werden sehr selten direkt angebetet, es ist schwierig eine Verbindung mit einem Wesen herzustellen dass über der Zeit steht, dennoch gibt es auch hier einige legendäre Auserwählte. Meist wird ein Champion oder Kreis aus auserwählten Alfen angebetet die dem Alten Gott vorstehen und dennoch zumindest teilweise durch Zeit und Raum gebunden sind.
 
-## Götter von Mythandras
+## Götter von Mythandras - Götter die überall angebetet werden
 
 | Gott                              | Domains      | Symbol | Origin | Champion |
 | --------------------------------- | ------------ | ------ | ------ | -------- |
