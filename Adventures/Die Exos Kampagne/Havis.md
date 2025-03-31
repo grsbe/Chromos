@@ -14,7 +14,9 @@ Ein Mörder in der Stadt
 
 Eine Mine in der Nähe der Stadt öffnet den Weg zu einem Uralten Übel das da gefangen war
 
+Rattenvolk in der Kanalisation
 
+Das Geisterschiff
 
 
 ---
