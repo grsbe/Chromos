@@ -1,6 +1,13 @@
 
+Tie in zu letzter Session
+Die Gruppe erreicht mit dem Segelboot Corbeau und legt an.
+Tinie und die Crew nehmen die ersten Handelsaufträge an die vorallem Handel mit umliegenden Inseln zu tun haben.
+Viola zieht es nach Polus um mehr Arterazit zu untersuchen.
 
-Die Gruppe erreicht mit dem Segelboot Corbeau und legt an
+
+
+Hook für die erste Session:
+Die Party kommt in Corbeau an, einer beschaulichen niedlichen Hafenstadt.
 
 
 ---
@@ -8,7 +15,7 @@ Die Gruppe erreicht mit dem Segelboot Corbeau und legt an
 
 Das Jahrzehnte Fest mit Aktivitäten, am Ende ein Rennen in einer unterirdischen Höhle
 
-Der Ball
+Der Ball / Heist
 
 Ein Mörder in der Stadt
 
@@ -17,6 +24,7 @@ Eine Mine in der Nähe der Stadt öffnet den Weg zu einem Uralten Übel das da g
 Rattenvolk in der Kanalisation
 
 Das Geisterschiff
+
 
 
 ---
@@ -31,6 +39,7 @@ Das Geisterschiff
 ---
 ## Location
 
+**Corbeau**
 
 
 ---
@@ -43,6 +52,9 @@ uwu abenteuer gilde girl
 ---
 ## Factions
 
+Royals
+
+Mienenzwerge 
 
 Schmuggler
 Wasserwesen
