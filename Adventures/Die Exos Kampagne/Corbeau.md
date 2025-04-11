@@ -1,6 +1,6 @@
 
 
-Die Gruppe erreicht mit dem Segelboot Havis und legt an
+Die Gruppe erreicht mit dem Segelboot Corbeau und legt an
 
 
 ---
@@ -25,6 +25,11 @@ Das Geisterschiff
 
 
 ### Side Quests
+
+
+
+---
+## Location
 
 
 
