@@ -11,84 +11,17 @@
             "id": "13dc70c2e0a1780e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Mythandras/Mythandras.excalidraw.svg"
-              },
-              "icon": "lucide-image",
-              "title": "Mythandras.excalidraw"
-            }
-          },
-          {
-            "id": "a1fa0bee19c4a7c0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/WrittenOut/Oneshot French fantasy cat caffee.md",
+                "file": "Adventures/WrittenOut/Spectracular/Spectracular.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oneshot French fantasy cat caffee"
-            }
-          },
-          {
-            "id": "fdfb56cd419fc852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Haven 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Haven 1"
-            }
-          },
-          {
-            "id": "9488b306913f131f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/WrittenOut/Oneshot A wild sheep chase.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oneshot A wild sheep chase"
-            }
-          },
-          {
-            "id": "fa23dc618af50c56",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "ec9be9acf67daaf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Enemy Statblocks/Bed Wyrmling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bed Wyrmling"
+              "title": "Spectracular"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,8 +168,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fa23dc618af50c56",
+  "active": "13dc70c2e0a1780e",
   "lastOpenFiles": [
+    "Adventures/Moral dilemma.md",
+    "Adventures/Ideenschmiede Seeds.md",
+    "Adventures/Ideen Oneshots.md",
+    "Adventures/Ideas Mythandras.md",
+    "Adventures/EXOS Kampagne.md",
+    "Adventures/WrittenOut/Outline Template.md",
+    "Adventures/WrittenOut/Oneshot French fantasy cat caffee.md",
+    "Books/Haven 1.md",
+    "Adventures/WrittenOut/Oneshot A wild sheep chase.md",
     "conflict-files-obsidian-git.md",
     "Mythandras/Exos/Händlerküste/Ha'vis.md",
     "Adventures/Die Exos Kampagne/Untitled.md",
@@ -246,12 +188,9 @@
     "Adventures/Die Exos Kampagne",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Adventures/WrittenOut/InseldesWahnsinns/Insel des Wahnsinns Finale.md",
-    "Adventures/EXOS Kampagne.md",
     "Adventures/Enemy Statblocks/Bed Wyrmling.md",
     "Adventures/Enemy Statblocks/Falvius.md",
-    "Adventures/WrittenOut/Oneshot A wild sheep chase.md",
     "Adventures/EncounterTables/Magische Items.md",
-    "Books/Haven 1.md",
     "Adventures/Items/Useless magical spells.md",
     "Adventures/Items/Random magische Effekte.md",
     "Mythandras/Exos/Va'Nis/Va'ris.md",
@@ -261,13 +200,7 @@
     "Mythandras/Exos/Abraxus/Abraxus.md",
     "Mythandras/Exos/Abraxus",
     "RandomStuff/Unsortierte Ideen/Abenteuer1.md",
-    "Mythandras/Mechaniken/Lebende Magie.md",
-    "Mythandras/Mechaniken/Artefakte.md",
-    "Mythandras/Magnialiamap.md",
-    "Mythandras/Magnialia.md",
-    "Adventures/WrittenOut/Timeloop/Outline.md",
     "Adventures/WrittenOut/Timeloop",
-    "Adventures/WrittenOut/Spectracular/Spectracular.md",
     "Adventures/WrittenOut/Spectracular",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Adventures/WrittenOut/InseldesWahnsinns/NPCS",
