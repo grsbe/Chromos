@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/WrittenOut/Spectracular/Spectracular.md",
+                "file": "Adventures/Die Exos Kampagne/Session Planner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spectracular"
+              "title": "Session Planner"
+            }
+          },
+          {
+            "id": "b7e61c628284e650",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,8 +181,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "13dc70c2e0a1780e",
+  "active": "b7e61c628284e650",
   "lastOpenFiles": [
+    "Adventures/WrittenOut/Spectracular/Spectracular.md",
     "Adventures/Moral dilemma.md",
     "Adventures/Ideenschmiede Seeds.md",
     "Adventures/Ideen Oneshots.md",
@@ -184,7 +198,7 @@
     "Adventures/Die Exos Kampagne/Untitled.md",
     "Adventures/Die Exos Kampagne/Coole Momente Ideen.md",
     "Adventures/Die Exos Kampagne/Corbeau.md",
-    "Adventures/Die Exos Kampagne/Big Plotstory Arcs.md",
+    "Adventures/Die Exos Kampagne/Session Planner.md",
     "Adventures/Die Exos Kampagne",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Adventures/WrittenOut/InseldesWahnsinns/Insel des Wahnsinns Finale.md",
@@ -199,7 +213,6 @@
     "Mythandras/Exos/Abraxus/Charaktere in Abraxus.md",
     "Mythandras/Exos/Abraxus/Abraxus.md",
     "Mythandras/Exos/Abraxus",
-    "RandomStuff/Unsortierte Ideen/Abenteuer1.md",
     "Adventures/WrittenOut/Timeloop",
     "Adventures/WrittenOut/Spectracular",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
