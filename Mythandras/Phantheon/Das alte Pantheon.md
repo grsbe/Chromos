@@ -108,7 +108,7 @@ Folgende Alfen bezeugen seinen Einfluss:
 
 | Aspekt         | Name      | Element       | Religion | Domaiin |
 | -------------- | --------- | ------------- | -------- | ------- |
-| Distanz        | Kliddoion | Teleportation |          |         |
+| Distanz        | Ddoion    | Teleportation |          |         |
 | Materie        | Esayvakon | Magnetismus   |          |         |
 | Beschleunigung | Hathyakon | Gravitation   |          |         |
 | Kopie          | Chayaron  | Spiegelung    |          |         |
@@ -123,10 +123,10 @@ Folgende Alfen hegen und pflegen die Welt unter seiner Anleitung:
 
 | Aspekt   | Name   | Element       | Religion          | Domain |
 | -------- | ------ | ------------- | ----------------- | ------ |
-| Frühling | Twilks | Fruchtbarkeit | Orden der Natur   |        |
-| Sommer   | Zawngs | Ernte, Sonne  | Orden der Natur   |        |
+| Frühling | Twilke | Fruchtbarkeit | Orden der Natur   |        |
+| Sommer   | Zwangs | Ernte, Sonne  | Orden der Natur   |        |
 | Herbst   | Doobs  | Völlerei      | 7,Orden der Natur |        |
-| Winter   | Wranks | Ahnen         | Orden der Natur   |        |
+| Winter   | Wranke | Ahnen         | Orden der Natur   |        |
 
   
 ## Wandel
