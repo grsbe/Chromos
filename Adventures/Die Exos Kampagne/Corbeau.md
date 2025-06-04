@@ -42,6 +42,7 @@ Die Götter die den Naturgesetzen unterworfen waren wurden nach ihrer Niederlage
 3. Investigate schiff -> Echsen leute
 4. Echsenleute -> Roleplay sahuaguin
 5. saguahuin attack 
+6. Get all stones and find a way to contain the fiend
 
 
 ### Side Quests

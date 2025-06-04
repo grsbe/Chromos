@@ -39,12 +39,14 @@
             "id": "93dd7b667ab27431",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Adventures/Die Exos Kampagne/Corbeau.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Corbeau"
             }
           }
         ],
