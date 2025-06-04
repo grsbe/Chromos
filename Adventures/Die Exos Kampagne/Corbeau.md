@@ -27,12 +27,26 @@ Das Geisterschiff
 
 
 
+Das Tiefe ungeheuer des Neides will wieder auferstehen und sammelt artefakte seiner Seele über seine Kultisten
+
+Reptilien humanoide wurden aus ihrem wurden von den Anhängern des Gottes vertrieben, da ihre Prinzessin ein Juwel trug dass einen Aspekt seiner Seele beheerscht.
+
+Die Götter die den Naturgesetzen unterworfen waren wurden nach ihrer Niederlage vor die Wahl gestellt. Sie können nur noch durch Anbetenden Einfluss aufnehmen oder gar nicht. Wer aktiv selber eingreift kann von den anderen Göttern angegriffen werden und in einem Aufstiegsevent ersetzt werden.
+
 ---
 ## Story Arcs
 
 
+1. Fare at Corbeau -> Artefakt
+2. Investigate horror haus -> Gangster
+3. Investigate schiff -> Echsen leute
+4. Echsenleute -> Roleplay sahuaguin
+5. saguahuin attack 
+
 
 ### Side Quests
+
+Artefakte:
 
 
 

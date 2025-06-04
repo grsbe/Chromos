@@ -25,7 +25,7 @@ Die Alten Götter werden sehr selten direkt angebetet, es ist schwierig eine Ver
 | Gott                          | Domain             | Symbol | Origin                                   | Champion |
 | ----------------------------- | ------------------ | ------ | ---------------------------------------- | -------- |
 | Corvus Trix, Gott des Glücks  | Trickery, Twilight | Raben  | Auferstandener Alf nach dem Cataclysmus, | Nox      |
-| Eith, Gott der Vereinigung    | Grave, Twilight    |        | Piece of Sin, Harmine                    |          |
+| Eith, Gott der Einheit        | Grave, Twilight    |        | Piece of Sin, Harmine                    |          |
 | Baha Batos, Gott des Abgrunds | Death, Grave       |        |                                          |          |
 | Solaire, Gott des Lichts      | Light              |        |                                          |          |
 |                               |                    |        |                                          |          |
