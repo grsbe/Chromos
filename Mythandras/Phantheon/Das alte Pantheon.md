@@ -21,6 +21,7 @@ Die Namenendung verrät das Geschlecht (dem sich die Götter näher fühlen):
 - -us: weiblich
 - -os: männlich
 
+Götter ab der 3.ten Generation sind den Gesetzen von Raum und Zeit unterworfen, sie sehen die Zukunft, aber nicht mehr den ganzen Strang der Zeit und Raum um sich herum.
 Götter der 4.ten Generation oder tiefer werden auch Untergötter oder Alfen genannt und sind zwingend mindestens einem Hauptgott unterzuordnen. Im Folgenden werden die einzelnen Hauptgötter und ihre bekanntesten Alfen aufgelistet:
 
 ## Chaos
@@ -50,11 +51,11 @@ Man sagt, Artemets Tempel, existiert als Verbindungsstück zwischen dem Geisterr
 
 Folgende Alfen sind Artemetos untergestellt:
 
-| Aspekt                       | Name      | Element    | Religion                      | Domain       |
-| ---------------------------- | --------- | ---------- | ----------------------------- | ------------ |
-| Tod/Verträge                 | Weber     | Tod, Faden | Orden des Lichts - Legislativ | Order, Grave |
-| Schicksal                    | Auge      | Augen      | Orden des Lichts - Jurikativ  | Order        |
-| Gerechtigkeit/Wahrheit/Licht | Schneider | Licht      | Orden des Lichts - Exekutiv   | Order, Light |
+| Aspekt                       | Name      | Element    | Religion   | Domain       |
+| ---------------------------- | --------- | ---------- | ---------- | ------------ |
+| Tod/Verträge                 | Weber     | Tod, Faden | Legislativ | Order, Grave |
+| Schicksal                    | Auge      | Augen      | Jurikativ  | Order        |
+| Gerechtigkeit/Wahrheit/Licht | Schneider | Licht      | Exekutiv   | Order, Light |
 
 ## Krieg
 Der Gott des Krieges, Exos (auch Exodios genannt) ist neben Nymus einer der beiden karmischen Götter. Arbeiten zwei Seelen gegeneinander, dann verbindet fortan eine karmische Verbindung die beiden Seelen. Exos übt als Naturkraft permanent eine Aura der Kraft aus die die Umgebung herausfordert sich zu messen und gegeneinander zu arbeiten.

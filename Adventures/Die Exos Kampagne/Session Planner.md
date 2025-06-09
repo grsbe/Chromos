@@ -15,3 +15,12 @@ Party at the harbour and in the city.
 Session 2: 
 
 Race to the bottom
+
+
+
+Session 3: Get to know city,
+setup possible quests
+start haunted house
+
+Session 4:
+Finish haunted house?

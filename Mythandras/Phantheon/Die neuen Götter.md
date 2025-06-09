@@ -10,25 +10,47 @@ Neue Götter sind in der Geisterwelt ein Gott und üben doch als eigenständiges
 
 Die Alten Götter werden sehr selten direkt angebetet, es ist schwierig eine Verbindung mit einem Wesen herzustellen dass über der Zeit steht, dennoch gibt es auch hier einige legendäre Auserwählte. Meist wird ein Champion oder Kreis aus auserwählten Alfen angebetet die dem Alten Gott vorstehen und dennoch zumindest teilweise durch Zeit und Raum gebunden sind.
 
-## Götter von Mythandras - Götter die überall angebetet werden
+## Angesehene Götter von Mythandras - Götter die überall angebetet werden
 
-| Gott                              | Domains      | Symbol | Origin | Champion |
-| --------------------------------- | ------------ | ------ | ------ | -------- |
-| Lura und Arul, Götter der Balance |              |        |        |          |
-| Falmine, Göttin der Familie       | Nature, Life |        |        |          |
-|                                   |              |        |        |          |
-|                                   |              |        |        |          |
+| Gott                              | Domains         | Symbol | Origin      | Champion | Erkennung Funktion |
+| --------------------------------- | --------------- | ------ | ----------- | -------- | ------------------ |
+| **Alanus**                        | Kunst           |        | 3. gen Gott |          |                    |
+| Jom                               | Poesie          |        |             |          |                    |
+| Shar                              | Malerei         |        |             |          |                    |
+| Lin                               | Musik           |        |             |          |                    |
+| Ina                               | Tanz            |        |             |          |                    |
+| Bik                               | Erschaffung     |        |             |          |                    |
+|                                   |                 |        |             |          |                    |
+| **Minus**                         | Wandel/Geist    |        | 3. gen Gott |          |                    |
+|                                   |                 |        |             |          |                    |
+| **Echelos**                       | Tradition/Natur |        | 3. gen Gott |          |                    |
+| Falmine, Göttin der Familie       | Nature, Life    |        |             |          |                    |
+|                                   |                 |        |             |          |                    |
+| **Eos**                           | Balance         |        | 3. gen Gott |          |                    |
+| Lura und Arul, Götter der Balance | Wasser          |        |             |          |                    |
+|                                   |                 |        |             |          |                    |
+|                                   |                 |        |             |          |                    |
+|                                   |                 |        |             |          |                    |
+
+## Angesehne Götter von Exos
+
+| Gott                           | Domain             | Symbol | Origin                                   | Champion | Erkennung Funktion                                                            |
+| ------------------------------ | ------------------ | ------ | ---------------------------------------- | -------- | ----------------------------------------------------------------------------- |
+| Corvus Trix, Gott der Freiheit | Trickery, Twilight | Raben  | Auferstandener Alf nach dem Cataclysmus, | Nox      |                                                                               |
+| Solaire, Gott des Lichts       | Light              |        | Sterblicher auferstandener Mensch        | Artemet  | Weiße Roben, Assistieren Gerechtigkeit Verträge, Wahrheit, das Böse bekämpfen |
+| Ilanus                         | Kampf/Ehre         |        | Auferstandener Alf nach dem Cataclysmus, |          | Gelangweilter Headmaster in Siris                                             |
+|                                |                    |        |                                          |          |                                                                               |
+|                                |                    |        |                                          |          |                                                                               |
+
+## Unangesehne Götter von Exos
+| Gott                          | Domain          | Symbol | Origin                                                          | Champion |
+| ----------------------------- | --------------- | ------ | --------------------------------------------------------------- | -------- |
+| Eith, Gott der Einheit        | Grave, Twilight |        | Gesplitterte Seele, Harmine                                     |          |
+| Baha Batos, Gott des Abgrunds | Death, Grave    |        | Sentient Artefakt in der Tiefe                                  |          |
+| Rasmos                        | Angst           |        | Urspünglicher Gott von vor dem Kataklysmus, den Alfen entwischt |          |
 
 
-## Götter von Exos
 
-| Gott                          | Domain             | Symbol | Origin                                   | Champion |
-| ----------------------------- | ------------------ | ------ | ---------------------------------------- | -------- |
-| Corvus Trix, Gott des Glücks  | Trickery, Twilight | Raben  | Auferstandener Alf nach dem Cataclysmus, | Nox      |
-| Eith, Gott der Einheit        | Grave, Twilight    |        | Piece of Sin, Harmine                    |          |
-| Baha Batos, Gott des Abgrunds | Death, Grave       |        |                                          |          |
-| Solaire, Gott des Lichts      | Light              |        |                                          |          |
-|                               |                    |        |                                          |          |
 
 ## Götter von Narakan
 
