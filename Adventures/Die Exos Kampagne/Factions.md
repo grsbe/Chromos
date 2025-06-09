@@ -27,12 +27,19 @@ Reptilienguys
 
 Toadguys
 
-Aquaelfen
 
-Krabbenleute?
+
+
 
 Turtlepeople!!!
 
+Axolottls
 
 
+Neutral Opportunistic:
+Aquaelfen
+
+
+Evils:
+Krabbenleute?
 Sahuaguins

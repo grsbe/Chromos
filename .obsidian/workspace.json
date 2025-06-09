@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Phantheon/Die neuen Götter.md",
+                "file": "Adventures/Die Exos Kampagne/Factions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Die neuen Götter"
+              "title": "Factions"
             }
           },
           {
@@ -184,8 +184,8 @@
   },
   "active": "c1da4b1534b32dbe",
   "lastOpenFiles": [
-    "Mythandras/Phantheon/Das alte Pantheon.md",
     "Mythandras/Phantheon/Die neuen Götter.md",
+    "Mythandras/Phantheon/Das alte Pantheon.md",
     "Adventures/Die Exos Kampagne/Session Planner.md",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
     "Adventures/Die Exos Kampagne/Corbeau.md",
