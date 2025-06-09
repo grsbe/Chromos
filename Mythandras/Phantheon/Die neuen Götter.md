@@ -34,13 +34,13 @@ Die Alten Götter werden sehr selten direkt angebetet, es ist schwierig eine Ver
 
 ## Angesehne Götter von Exos
 
-| Gott                           | Domain             | Symbol | Origin                                   | Champion | Erkennung Funktion                                                            |
-| ------------------------------ | ------------------ | ------ | ---------------------------------------- | -------- | ----------------------------------------------------------------------------- |
-| Corvus Trix, Gott der Freiheit | Trickery, Twilight | Raben  | Auferstandener Alf nach dem Cataclysmus, | Nox      |                                                                               |
-| Solaire, Gott des Lichts       | Light              |        | Sterblicher auferstandener Mensch        | Artemet  | Weiße Roben, Assistieren Gerechtigkeit Verträge, Wahrheit, das Böse bekämpfen |
-| Ilanus                         | Kampf/Ehre         |        | Auferstandener Alf nach dem Cataclysmus, |          | Gelangweilter Headmaster in Siris                                             |
-|                                |                    |        |                                          |          |                                                                               |
-|                                |                    |        |                                          |          |                                                                               |
+| Gott                           | Domain                      | Symbol | Origin                                   | Champion | Erkennung Funktion                                                            |
+| ------------------------------ | --------------------------- | ------ | ---------------------------------------- | -------- | ----------------------------------------------------------------------------- |
+| Corvus Trix, Gott der Freiheit | Trickery, Twilight          | Raben  | Auferstandener Alf nach dem Cataclysmus, | Nox      |                                                                               |
+| Solaire, Gott des Lichts       | Light                       |        | Sterblicher auferstandener Mensch        | Artemet  | Weiße Roben, Assistieren Gerechtigkeit Verträge, Wahrheit, das Böse bekämpfen |
+| Ilanus                         | Kampf/Ehre                  |        | Auferstandener Alf nach dem Cataclysmus, | Exos     | Gelangweilter Alf in Siris, der ultimative Arenakämpfe organisiert            |
+| Mielle                         | Mut, Hoffnung und Vertrauen |        | Sterbliche Halfling, auferstanden        | Nym      | Abenteuergilde                                                                |
+|                                |                             |        |                                          |          |                                                                               |
 
 ## Unangesehne Götter von Exos
 | Gott                          | Domain          | Symbol | Origin                                                          | Champion |
@@ -48,6 +48,7 @@ Die Alten Götter werden sehr selten direkt angebetet, es ist schwierig eine Ver
 | Eith, Gott der Einheit        | Grave, Twilight |        | Gesplitterte Seele, Harmine                                     |          |
 | Baha Batos, Gott des Abgrunds | Death, Grave    |        | Sentient Artefakt in der Tiefe                                  |          |
 | Rasmos                        | Angst           |        | Urspünglicher Gott von vor dem Kataklysmus, den Alfen entwischt |          |
+| Kraboshtagrosh                | Gier            |        | Halbgesplitterte Seele, Gott der Zwerge                         |          |
 
 
 

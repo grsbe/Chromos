@@ -4,18 +4,18 @@ Die Götter befinden sich hauptsächlich in der Geisterwelt oder um Himmel oder 
 # Die alten Götter
 ## Die 10 Hauptgötter
 
-| Aspekt          | Name      | Element     | Farbe     | Generation | Domain              |
-| --------------- | --------- | ----------- | --------- | ---------- | ------------------- |
-| Chaos           | Noxus     | Dunkelheit  | Schwarz   | 1          | Twilight,Trickery   |
-| Ordnung         | Artemetos | Licht       | Weiß      | 1          | Order, Light, Grave |
-| Liebe           | Nymus     | Feuer       | Pink      | 2          | Life                |
-| Krieg           | Exos      | Erde        | Rot       | 2          | War, Death          |
-| Raum            | Boreos    | Wind        | Orange    | 2          | Arcana, Tempest     |
-| Zeit            | Arcus     | Eis         | Azur      | 2          | Order               |
-| Tradition/Natur | Echelos   | Fauna/Flora | Grün      | 3          | Nature              |
-| Wandel/Geist    | Minus     | Psi         | Purpur    | 3          | Knowledge           |
-| Kunst           | Alanus    | Energie     | Wechselnd | 3          | Forge               |
-| Balance         | Eos       | Wasser      | Grau      | 3          | Twilight, Peace     |
+| Aspekt          | Name      | Element     | Farbe     | Generation | Domain                   |
+| --------------- | --------- | ----------- | --------- | ---------- | ------------------------ |
+| Chaos           | Noxus     | Dunkelheit  | Schwarz   | 1          | Twilight,Trickery        |
+| Ordnung         | Artemetos | Licht       | Weiß      | 1          | Order, Light, Grave      |
+| Liebe           | Nymus     | Feuer       | Pink      | 2          | Life                     |
+| Krieg           | Exos      | Erde        | Rot       | 2          | War, Death               |
+| Raum            | Boreos    | Wind        | Orange    | 2          | Arcana, Tempest          |
+| Zeit            | Arcus     | Eis         | Azur      | 2          | Order                    |
+| Tradition/Natur | Echelos   | Fauna/Flora | Grün      | 3          | Nature                   |
+| Wandel/Geist    | Minus     | Psi         | Purpur    | 3          | Knowledge                |
+| Kunst           | Alanus    | Energie     | Wechselnd | 3          | Forge                    |
+| Balance         | Eos       | Wasser      | Grau      | 3          | Twilight, Peace, Tempest |
 
 Die Namenendung verrät das Geschlecht (dem sich die Götter näher fühlen):
 - -us: weiblich
@@ -80,12 +80,13 @@ Die Göttin der Liebe, Nymus (auch Nymusius, Nym genannt) ist neben Exos eine de
 Folgende Alfen führen ihren Willen aus.
 
 
-| Aspekt        | Name    | Element          | Religion | Domain |
-| ------------- | ------- | ---------------- | -------- | ------ |
-| Lust/Einklang | Alfine  | Synchronisation  | 7        |        |
-| Selbstliebe   | Narzine | Perfektion       |          |        |
-| Familienliebe | Falmine | Geben und Nehmen |          |        |
-| Vertrauen     | Mielle  |                  |          |        |
+| Aspekt         | Name    | Element          | Religion | Domain |
+| -------------- | ------- | ---------------- | -------- | ------ |
+| Lust/Einklang  | Alfine  | Synchronisation  | 7        |        |
+| Selbstliebe    | Narzine | Perfektion       |          |        |
+| Familienliebe  | Falmine | Geben und Nehmen |          |        |
+| Vertrauen, Mut | Mielle  |                  |          |        |
+|                |         | Fusion           |          |        |
 
 
 ## Zeit
