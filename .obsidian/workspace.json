@@ -11,14 +11,24 @@
             "id": "c1da4b1534b32dbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Factions.md",
-                "mode": "source",
-                "source": false
+                "file": "Mythandras/Exos/Exoskarte.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Factions"
+              "icon": "excalidraw-icon",
+              "title": "Exoskarte.excalidraw"
+            }
+          },
+          {
+            "id": "0d0c68890663bd6b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Mythandras/Exos/Exoskarte.excalidraw.svg"
+              },
+              "icon": "lucide-image",
+              "title": "Exoskarte.excalidraw"
             }
           },
           {
@@ -184,34 +194,33 @@
   },
   "active": "c1da4b1534b32dbe",
   "lastOpenFiles": [
+    "Mythandras/Exos/Exoskarte.excalidraw.svg",
+    "Mythandras/Narakan/Narakan.md",
+    "Mythandras/Exos/Exoskarte.excalidraw.md",
+    "Mythandras/Exos/Va'Nis/Va'ris.md",
+    "Mythandras/Exos/Sidaris/Waffen in Siris.md",
+    "Mythandras/Exos/Sidaris/Si'Ris.md",
+    "Mythandras/Exos/Pa'Ris/Pa'Ris.md",
+    "Mythandras/Exos/Pa'Ris/Charaktere in Pa'ris.md",
+    "Mythandras/Exos/Händlerküste/Natya.md",
+    "Mythandras/Exos/Händlerküste/Goyamo.md",
+    "Mythandras/Exos/Händlerküste/Ha'vis.md",
+    "Mythandras/Magnialia.excalidraw.md",
+    "Mythandras/Magnialia.md",
+    "Adventures/Die Exos Kampagne/Session Planner.md",
+    "Adventures/Die Exos Kampagne/Corbeau.md",
+    "Adventures/Die Exos Kampagne/Coole Momente Ideen.md",
+    "Adventures/Die Exos Kampagne/Factions.md",
     "Adventures/Die Exos Kampagne/Unterwassertempel.md",
     "Adventures/Ideenschmiede Seeds.md",
-    "Adventures/Die Exos Kampagne/Corbeau.md",
-    "Adventures/Die Exos Kampagne/Session Planner.md",
-    "Adventures/Die Exos Kampagne/Coole Momente Ideen.md",
     "Mythandras/Phantheon/Die neuen Götter.md",
     "Mythandras/Phantheon/Das alte Pantheon.md",
-    "Adventures/Die Exos Kampagne/Factions.md",
     "Mythandras/Mechaniken/Rassen in Mythandras.md",
-    "Mythandras/Magnialia.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Mythandras/Die Zeitlinien.md",
     "Adventures/Moral dilemma.md",
     "Adventures/EXOS Kampagne.md",
-    "Adventures/Ideas Mythandras.md",
-    "Adventures/Die Exos Kampagne/Untitled.md",
-    "Adventures/Die Exos Kampagne/Big Plotstory Arcs.md",
-    "Mythandras/Abgründe und Aufstiege.md",
-    "Mythandras/Magnialia.md",
-    "Mythandras/Magnialiamap.md",
     "Mythandras/Magnialia.excalidraw.svg",
-    "Mythandras/Exos/Händlerküste/Ha'vis.md",
-    "Mythandras/Exos/Händlerküste/Natya.md",
-    "Mythandras/Mechaniken/Magische Kristalle.md",
-    "Mythandras/Exos/Pa'Ris/Charaktere in Pa'ris.md",
-    "Mythandras/Exos/Abraxus/Charaktere in Abraxus.md",
-    "Mythandras/Exos/Ideen.md",
-    "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Adventures/Die Exos Kampagne",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Pics/Pasted image 20240804010822.png",

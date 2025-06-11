@@ -1,13 +1,5 @@
 
-Tie in zu letzter Session
-Die Gruppe erreicht mit dem Segelboot Corbeau und legt an.
-Tinie und die Crew nehmen die ersten Handelsaufträge an die vorallem Handel mit umliegenden Inseln zu tun haben.
-Viola zieht es nach Polus um mehr Arterazit zu untersuchen.
 
-
-
-Hook für die erste Session:
-Die Party kommt in Corbeau an, einer beschaulichen niedlichen Hafenstadt.
 
 
 ---
@@ -32,34 +24,6 @@ Das Tiefe ungeheuer des Neides will wieder auferstehen und sammelt artefakte sei
 Reptilien humanoide wurden aus ihrem wurden von den Anhängern des Gottes vertrieben, da ihre Prinzessin ein Juwel trug dass einen Aspekt seiner Seele beheerscht.
 
 Die Götter die den Naturgesetzen unterworfen waren wurden nach ihrer Niederlage vor die Wahl gestellt. Sie können nur noch durch Anbetenden Einfluss aufnehmen oder gar nicht. Wer aktiv selber eingreift kann von den anderen Göttern angegriffen werden und in einem Aufstiegsevent ersetzt werden.
-
----
-## Story Arcs
-
-
-1. Fare at Corbeau -> Artefakt
-2. Investigate horror haus -> Gangster
-3. Investigate schiff -> Echsen leute
-4. Echsenleute -> Roleplay sahuaguin
-5. saguahuin attack 
-6. Get all stones and find a way to contain the fiend, alle Steine zusammen geben eine Pocket dimension
-
-
-### Side Quests
-
-Artefakte:
-
-Die Schwester des Prinzen trägt ein Artefakt um den Hals, das Team wird zu einem Ball eingeladen
-
-Ein Serienmörder trägt einen am Ring oder hat ihn halb absorbiert
-
-Ein Schlammkrokodil hat eins
-
-Der Aquaelf der die Sahaguinsanführt hat eins und sammelt den Rest
-
-Die Entführte Echsen Prinzessin trägt eins, das jetzt der Aqua Elf hat
-
-Eins liegt im Geisterpiratenschiff
 
 ---
 ## Location
