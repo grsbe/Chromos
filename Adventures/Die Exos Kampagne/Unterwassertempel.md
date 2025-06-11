@@ -13,3 +13,12 @@ Remos ist ein ursprünglicher Alf Gott, der gegen die Elfen Krieg geführt hat. 
 Ideen:
 
 Wasser steigend und fallend mechanik
+
+Spiegeldimension mechanik, ein Spiegel in der Zeit als die Elfen um ihre Freiheit kämpften? Oder nur generell eine Spiegel
+
+Der Dungeon kopiert die Charaktere
+
+Ein Spiegel der zeigt was die Person unbedingt sich am sehnlichsten wünscht
+
+Der Dungeon klaut würfel?
+

@@ -6,9 +6,10 @@
 
 ### Traditionalisten
 wollen dass alles so bleibt wie es ist und dann Corbeau ein beschauliches Fischerdorf bleibt
+will dass den Göttern gehuldigt wird und die Geister besänftigt werden
 ### Reformisten
 wollen Corbeau zu einem florierenden Handelsposten entwickeln
-Prinz und Schwester aus der Hauptstadt will seinen Ruhm wieder erlangen
+Prinz und Schwester aus der Hauptstadt wollen seinen Ruhm wieder erlangen
 Zwerge minen Gold
 ### Vanis Kultisten
 wollen den Gott wieder auferstehen lassen und kontrollieren
@@ -22,14 +23,14 @@ Wollen Geld und sind fucking arm
 
 ## Umgebung
 
-### Piratenprinz
+### Piratenprinztum
 ### Händler
 - Aus Tailenis
 - Aus der Hauptstadt
 
 ## Aquatics
 
-## Reptilienguys
+### Reptilienguys
 Wollen ihre Heimat und ihre Prinzessin zurück
 
 

@@ -35,8 +35,7 @@
               "title": "Unterwassertempel"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,11 +182,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e1cc9213f5ad08aa",
+  "active": "c1da4b1534b32dbe",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Unterwassertempel.md",
+    "Adventures/Ideenschmiede Seeds.md",
     "Adventures/Die Exos Kampagne/Corbeau.md",
     "Adventures/Die Exos Kampagne/Session Planner.md",
-    "Adventures/Die Exos Kampagne/Unterwassertempel.md",
     "Adventures/Die Exos Kampagne/Coole Momente Ideen.md",
     "Mythandras/Phantheon/Die neuen Götter.md",
     "Mythandras/Phantheon/Das alte Pantheon.md",
@@ -196,7 +196,6 @@
     "Mythandras/Magnialia.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Mythandras/Die Zeitlinien.md",
-    "Adventures/Ideenschmiede Seeds.md",
     "Adventures/Moral dilemma.md",
     "Adventures/EXOS Kampagne.md",
     "Adventures/Ideas Mythandras.md",
