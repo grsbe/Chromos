@@ -11,12 +11,14 @@
             "id": "c1da4b1534b32dbe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Mythandras/Exos/Exoskarte.excalidraw.md"
+                "file": "Adventures/Die Exos Kampagne/Corbeau.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Exoskarte.excalidraw"
+              "icon": "lucide-file",
+              "title": "Corbeau"
             }
           },
           {
@@ -194,9 +196,17 @@
   },
   "active": "c1da4b1534b32dbe",
   "lastOpenFiles": [
-    "Mythandras/Exos/Exoskarte.excalidraw.svg",
-    "Mythandras/Narakan/Narakan.md",
     "Mythandras/Exos/Exoskarte.excalidraw.md",
+    "Mythandras/Exos/Exoskarte.excalidraw.svg",
+    "Mythandras/Magnialia.excalidraw.svg",
+    "Adventures/Ideenschmiede Seeds.md",
+    "Adventures/Moral dilemma.md",
+    "Adventures/Ideas Mythandras.md",
+    "Adventures/Ideen Oneshots.md",
+    "Adventures/Die Exos Kampagne/Corbeau.md",
+    "Mythandras/Mechaniken/Lebende Magie.md",
+    "Mythandras/Mechaniken/Artefakte.md",
+    "Mythandras/Narakan/Narakan.md",
     "Mythandras/Exos/Va'Nis/Va'ris.md",
     "Mythandras/Exos/Sidaris/Waffen in Siris.md",
     "Mythandras/Exos/Sidaris/Si'Ris.md",
@@ -208,19 +218,11 @@
     "Mythandras/Magnialia.excalidraw.md",
     "Mythandras/Magnialia.md",
     "Adventures/Die Exos Kampagne/Session Planner.md",
-    "Adventures/Die Exos Kampagne/Corbeau.md",
     "Adventures/Die Exos Kampagne/Coole Momente Ideen.md",
     "Adventures/Die Exos Kampagne/Factions.md",
     "Adventures/Die Exos Kampagne/Unterwassertempel.md",
-    "Adventures/Ideenschmiede Seeds.md",
     "Mythandras/Phantheon/Die neuen Götter.md",
     "Mythandras/Phantheon/Das alte Pantheon.md",
-    "Mythandras/Mechaniken/Rassen in Mythandras.md",
-    "conflict-files-obsidian-git.md",
-    "Mythandras/Die Zeitlinien.md",
-    "Adventures/Moral dilemma.md",
-    "Adventures/EXOS Kampagne.md",
-    "Mythandras/Magnialia.excalidraw.svg",
     "Adventures/Die Exos Kampagne",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Pics/Pasted image 20240804010822.png",
