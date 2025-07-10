@@ -10,9 +10,11 @@ Goals: Lern die Leute und die Stadt kennen
 Wahrsagerzelt
 
 Tempel der Wassergötter
-(Cookies?)
+(Free Cookies?)
 
+Marschgötter tempel
 
+Mushroom testing stand in a back alley, rennt weg wenn er von der polizia gesehen wird
 
 ---
 https://5e.tools/adventure.html#crcotn,1
