@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Corbeau.md",
+                "file": "Mythandras/Phantheon/Das alte Pantheon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corbeau"
+              "title": "Das alte Pantheon"
+            }
+          },
+          {
+            "id": "a47333ed51d82bbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,8 +197,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b7e61c628284e650",
+  "active": "a47333ed51d82bbc",
   "lastOpenFiles": [
+    "Mythandras/Phantheon/Das alte Pantheon.md",
+    "conflict-files-obsidian-git.md",
+    "Adventures/Die Exos Kampagne/Corbeau.md",
+    "Adventures/Die Exos Kampagne/Unterwassertempel.md",
+    "Adventures/Die Exos Kampagne/Factions.md",
+    "Adventures/Die Exos Kampagne/Das Fest.md",
     "Adventures/WrittenOut/Spectracular/Spectracular.md",
     "Adventures/Moral dilemma.md",
     "Adventures/Ideenschmiede Seeds.md",
@@ -195,11 +215,9 @@
     "Adventures/WrittenOut/Oneshot French fantasy cat caffee.md",
     "Books/Haven 1.md",
     "Adventures/WrittenOut/Oneshot A wild sheep chase.md",
-    "conflict-files-obsidian-git.md",
     "Mythandras/Exos/Händlerküste/Ha'vis.md",
     "Adventures/Die Exos Kampagne/Untitled.md",
     "Adventures/Die Exos Kampagne/Coole Momente Ideen.md",
-    "Adventures/Die Exos Kampagne/Corbeau.md",
     "Adventures/Die Exos Kampagne/Session Planner.md",
     "Adventures/Die Exos Kampagne",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
@@ -209,11 +227,7 @@
     "Adventures/EncounterTables/Magische Items.md",
     "Adventures/Items/Useless magical spells.md",
     "Adventures/Items/Random magische Effekte.md",
-    "Mythandras/Exos/Va'Nis/Va'ris.md",
-    "Mythandras/Exos/Sosoni/Somi Soni Gebirgsstämme.md",
     "Mythandras/Exos/Sosoni",
-    "Mythandras/Exos/Abraxus/Charaktere in Abraxus.md",
-    "Mythandras/Exos/Abraxus/Abraxus.md",
     "Mythandras/Exos/Abraxus",
     "Adventures/WrittenOut/Timeloop",
     "Adventures/WrittenOut/Spectracular",

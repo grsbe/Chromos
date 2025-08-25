@@ -4,23 +4,24 @@ Die Götter befinden sich hauptsächlich in der Geisterwelt oder um Himmel oder 
 # Die alten Götter
 ## Die 10 Hauptgötter
 
-| Aspekt          | Name      | Element     | Farbe     | Generation | Domain              |
-| --------------- | --------- | ----------- | --------- | ---------- | ------------------- |
-| Chaos           | Noxus     | Dunkelheit  | Schwarz   | 1          | Twilight,Trickery   |
-| Ordnung         | Artemetos | Licht       | Weiß      | 1          | Order, Light, Grave |
-| Liebe           | Nymus     | Feuer       | Pink      | 2          | Life                |
-| Krieg           | Exos      | Erde        | Rot       | 2          | War, Death          |
-| Raum            | Boreos    | Wind        | Orange    | 2          | Arcana, Tempest     |
-| Zeit            | Arcus     | Eis         | Azur      | 2          | Order               |
-| Tradition/Natur | Echelos   | Fauna/Flora | Grün      | 3          | Nature              |
-| Wandel/Geist    | Minus     | Psi         | Purpur    | 3          | Knowledge           |
-| Kunst           | Alanus    | Energie     | Wechselnd | 3          | Forge               |
-| Balance         | Eos       | Wasser      | Grau      | 3          | Twilight, Peace     |
+| Aspekt          | Name      | Element     | Farbe     | Generation | Domain                   |
+| --------------- | --------- | ----------- | --------- | ---------- | ------------------------ |
+| Chaos           | Noxus     | Dunkelheit  | Schwarz   | 1          | Twilight,Trickery        |
+| Ordnung         | Artemetos | Licht       | Weiß      | 1          | Order, Light, Grave      |
+| Liebe           | Nymus     | Feuer       | Pink      | 2          | Life                     |
+| Krieg           | Exos      | Erde        | Rot       | 2          | War, Death               |
+| Raum            | Boreos    | Wind        | Orange    | 2          | Arcana, Tempest          |
+| Zeit            | Arcus     | Eis         | Azur      | 2          | Order                    |
+| Tradition/Natur | Echelos   | Fauna/Flora | Grün      | 3          | Nature                   |
+| Wandel/Geist    | Minus     | Psi         | Purpur    | 3          | Knowledge                |
+| Kunst           | Alanus    | Energie     | Wechselnd | 3          | Forge                    |
+| Balance         | Eos       | Wasser      | Grau      | 3          | Twilight, Peace, Tempest |
 
 Die Namenendung verrät das Geschlecht (dem sich die Götter näher fühlen):
 - -us: weiblich
 - -os: männlich
 
+Götter ab der 3.ten Generation sind den Gesetzen von Raum und Zeit unterworfen, sie sehen die Zukunft, aber nicht mehr den ganzen Strang der Zeit und Raum um sich herum.
 Götter der 4.ten Generation oder tiefer werden auch Untergötter oder Alfen genannt und sind zwingend mindestens einem Hauptgott unterzuordnen. Im Folgenden werden die einzelnen Hauptgötter und ihre bekanntesten Alfen aufgelistet:
 
 ## Chaos
@@ -50,11 +51,11 @@ Man sagt, Artemets Tempel, existiert als Verbindungsstück zwischen dem Geisterr
 
 Folgende Alfen sind Artemetos untergestellt:
 
-| Aspekt                       | Name      | Element    | Religion                      | Domain       |
-| ---------------------------- | --------- | ---------- | ----------------------------- | ------------ |
-| Tod/Verträge                 | Weber     | Tod, Faden | Orden des Lichts - Legislativ | Order, Grave |
-| Schicksal                    | Auge      | Augen      | Orden des Lichts - Jurikativ  | Order        |
-| Gerechtigkeit/Wahrheit/Licht | Schneider | Licht      | Orden des Lichts - Exekutiv   | Order, Light |
+| Aspekt                       | Name      | Element    | Religion   | Domain       |
+| ---------------------------- | --------- | ---------- | ---------- | ------------ |
+| Tod/Verträge                 | Weber     | Tod, Faden | Legislativ | Order, Grave |
+| Schicksal                    | Auge      | Augen      | Jurikativ  | Order        |
+| Gerechtigkeit/Wahrheit/Licht | Schneider | Licht      | Exekutiv   | Order, Light |
 
 ## Krieg
 Der Gott des Krieges, Exos (auch Exodios genannt) ist neben Nymus einer der beiden karmischen Götter. Arbeiten zwei Seelen gegeneinander, dann verbindet fortan eine karmische Verbindung die beiden Seelen. Exos übt als Naturkraft permanent eine Aura der Kraft aus die die Umgebung herausfordert sich zu messen und gegeneinander zu arbeiten.
@@ -79,12 +80,13 @@ Die Göttin der Liebe, Nymus (auch Nymusius, Nym genannt) ist neben Exos eine de
 Folgende Alfen führen ihren Willen aus.
 
 
-| Aspekt        | Name    | Element          | Religion | Domain |
-| ------------- | ------- | ---------------- | -------- | ------ |
-| Lust/Einklang | Alfine  | Synchronisation  | 7        |        |
-| Selbstliebe   | Narzine | Perfektion       |          |        |
-| Familienliebe | Falmine | Geben und Nehmen |          |        |
-| Vertrauen     | Mielle  |                  |          |        |
+| Aspekt         | Name    | Element          | Religion | Domain |
+| -------------- | ------- | ---------------- | -------- | ------ |
+| Lust/Einklang  | Alfine  | Synchronisation  | 7        |        |
+| Selbstliebe    | Narzine | Perfektion       |          |        |
+| Familienliebe  | Falmine | Geben und Nehmen |          |        |
+| Vertrauen, Mut | Mielle  |                  |          |        |
+|                |         | Fusion           |          |        |
 
 
 ## Zeit
@@ -108,7 +110,7 @@ Folgende Alfen bezeugen seinen Einfluss:
 
 | Aspekt         | Name      | Element       | Religion | Domaiin |
 | -------------- | --------- | ------------- | -------- | ------- |
-| Distanz        | Kliddoion | Teleportation |          |         |
+| Distanz        | Ddoion    | Teleportation |          |         |
 | Materie        | Esayvakon | Magnetismus   |          |         |
 | Beschleunigung | Hathyakon | Gravitation   |          |         |
 | Kopie          | Chayaron  | Spiegelung    |          |         |
@@ -123,10 +125,10 @@ Folgende Alfen hegen und pflegen die Welt unter seiner Anleitung:
 
 | Aspekt   | Name   | Element       | Religion          | Domain |
 | -------- | ------ | ------------- | ----------------- | ------ |
-| Frühling | Twilks | Fruchtbarkeit | Orden der Natur   |        |
-| Sommer   | Zawngs | Ernte, Sonne  | Orden der Natur   |        |
+| Frühling | Twilke | Fruchtbarkeit | Orden der Natur   |        |
+| Sommer   | Zwangs | Ernte, Sonne  | Orden der Natur   |        |
 | Herbst   | Doobs  | Völlerei      | 7,Orden der Natur |        |
-| Winter   | Wranks | Ahnen         | Orden der Natur   |        |
+| Winter   | Wranke | Ahnen         | Orden der Natur   |        |
 
   
 ## Wandel

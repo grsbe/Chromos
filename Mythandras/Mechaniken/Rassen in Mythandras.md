@@ -8,14 +8,15 @@
 
 ## Göttergebundene Rassen
 
-| Rasse                  | Alf            | Herkunft      |
-| ---------------------- | -------------- | ------------- |
-| Menschen               | Stolz/Ambition | Exos          |
-| Elfen                  | Lust/Harmonie  | Milis         |
-| Zwerge                 | Gier           | Exos          |
-| Vielarmige             | Neid           | Myxia         |
-| Daimon/Tieflinge       | Wut            | Azsh          |
-| Lycan / Wassermenschen | Völlerei       | Lycan / Nixis |
+| Rasse             | Alf            | Herkunft      |
+| ----------------- | -------------- | ------------- |
+| MagieloseMenschen | Stolz/Ambition | Exos          |
+| Elfen             | Lust/Harmonie  | Milis         |
+| Zwerge            | Gier           | Exos          |
+| Aquatics          | Neid           | Nixis         |
+| Daimon/Tieflinge  | Wut            | Azsh          |
+| Tiermenschen      | Jagd           | Lycan / Nixis |
+| Riesen, Vielarme  | Völlerei       | Myxia         |
 
 
 ## Himmels Rassen
@@ -30,7 +31,7 @@
 
 ## Unterwelt Rassen
 
-| Rasse                         |     |     |
-| ----------------------------- | --- | --- |
-| Elementare Humanoide / Genasi |     |     |
-|                               |     |     |
+| Rasse                         |                         |     |
+| ----------------------------- | ----------------------- | --- |
+| Elementare Humanoide / Genasi | Elementartrennartefakt? |     |
+| Lythoborn                     | Verschlingensartefakt   |     |

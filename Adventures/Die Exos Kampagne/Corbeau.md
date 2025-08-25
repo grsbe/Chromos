@@ -1,13 +1,5 @@
 
-Tie in zu letzter Session
-Die Gruppe erreicht mit dem Segelboot Corbeau und legt an.
-Tinie und die Crew nehmen die ersten Handelsaufträge an die vorallem Handel mit umliegenden Inseln zu tun haben.
-Viola zieht es nach Polus um mehr Arterazit zu untersuchen.
 
-
-
-Hook für die erste Session:
-Die Party kommt in Corbeau an, einer beschaulichen niedlichen Hafenstadt.
 
 
 ---
@@ -27,14 +19,11 @@ Das Geisterschiff
 
 
 
----
-## Story Arcs
+Das Tiefe ungeheuer des Neides will wieder auferstehen und sammelt artefakte seiner Seele über seine Kultisten
 
+Reptilien humanoide wurden aus ihrem wurden von den Anhängern des Gottes vertrieben, da ihre Prinzessin ein Juwel trug dass einen Aspekt seiner Seele beheerscht.
 
-
-### Side Quests
-
-
+Die Götter die den Naturgesetzen unterworfen waren wurden nach ihrer Niederlage vor die Wahl gestellt. Sie können nur noch durch Anbetenden Einfluss aufnehmen oder gar nicht. Wer aktiv selber eingreift kann von den anderen Göttern angegriffen werden und in einem Aufstiegsevent ersetzt werden.
 
 ---
 ## Location
