@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Das alte Pantheon"
             }
+          },
+          {
+            "id": "5770b4a9053e317c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,7 +196,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b7e61c628284e650",
+  "active": "5770b4a9053e317c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Mythandras/Phantheon/Das alte Pantheon.md",
