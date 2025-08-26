@@ -39,12 +39,14 @@
             "id": "5770b4a9053e317c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "RandomStuff/Nemesis Intruder Action Deck.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Nemesis Intruder Action Deck"
             }
           }
         ],
@@ -198,6 +200,7 @@
   },
   "active": "5770b4a9053e317c",
   "lastOpenFiles": [
+    "RandomStuff/Nemesis Intruder Action Deck.md",
     "conflict-files-obsidian-git.md",
     "Mythandras/Phantheon/Das alte Pantheon.md",
     "Adventures/Die Exos Kampagne/Corbeau.md",
@@ -225,7 +228,6 @@
     "Adventures/Enemy Statblocks/Falvius.md",
     "Adventures/EncounterTables/Magische Items.md",
     "Adventures/Items/Useless magical spells.md",
-    "Adventures/Items/Random magische Effekte.md",
     "Mythandras/Exos/Sosoni",
     "Mythandras/Exos/Abraxus",
     "Adventures/WrittenOut/Timeloop",
