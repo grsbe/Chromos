@@ -1,4 +1,4 @@
-Ein Gott sein heißt eine Personifikation einer Naturkraft zu sein. Diese völlige Kontrolle dieser einen Naturkraft wird auch Aspekt genannt. Die alten Götter und Alfen besaßen generell ihre Aspekte seit ihrer Geburt oder Entstehung. Die neuen Götter erlangen ihren Aspekt erst nach ihrer Geburt im Laufe ihres Lebens.
+*Ein* Gott sein heißt eine Personifikation einer Naturkraft zu sein. Diese völlige Kontrolle dieser einen Naturkraft wird auch Aspekt genannt. Die alten Götter und Alfen besaßen generell ihre Aspekte seit ihrer Geburt oder Entstehung. Die neuen Götter erlangen ihren Aspekt erst nach ihrer Geburt im Laufe ihres Lebens.
 In der [[Die Zeitlinien.md#Ausgang Die Dunkelelfen gewinnen Zeitlinie der Freiheit|Zeitlinie der Freiheit]] sind die Götter als Konzepte und Ideen nicht in der Lage direkt auf die Welt Einfluss zunehmen sondern müssen durch Anhänger gewirkt werden.
 Die Götter befinden sich hauptsächlich in der Geisterwelt oder um Himmel oder der Unterwelt.
 # Die alten Götter
