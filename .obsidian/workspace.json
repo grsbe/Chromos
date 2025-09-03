@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "0fee5a1dc9230e78",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
             "id": "0d0c68890663bd6b",
             "type": "leaf",
             "state": {
@@ -47,7 +59,8 @@
               "title": "Unterwassertempel"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,6 +195,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,7 +208,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c1da4b1534b32dbe",
+  "active": "0fee5a1dc9230e78",
   "lastOpenFiles": [
     "Adventures/Die Exos Kampagne/Untitled.md",
     "Adventures/Die Exos Kampagne/Corbeau.md",
