@@ -22,3 +22,19 @@ Ein Spiegel der zeigt was die Person unbedingt sich am sehnlichsten wünscht
 
 Der Dungeon klaut würfel?
 
+
+
+---
+
+Spiegel reflektieren spells oder projectile, oder speichern die
+Spiegel functionieren als portale
+-> Ambush alter wächter
+Spiegel spiegeln die Person nach durchgehen -> Linkshänder
+
+1. Spiegeldimension
+Spells kommandos müssen rückwärts ausgesprochen werden "nepo", "chid enfö", "legiepsch"
+
+Wunsch dimension
+
+Glass Ocean
+voller Paläste, Paradies vor der Elfen Revolution ein Spiegelbild der damaligen Zeit von corbeau
