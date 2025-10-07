@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Nemesis Intruder Action Deck"
             }
+          },
+          {
+            "id": "4effbc5b491c0e47",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5770b4a9053e317c",
+  "active": "4effbc5b491c0e47",
   "lastOpenFiles": [
     "RandomStuff/Nemesis Intruder Action Deck.md",
     "conflict-files-obsidian-git.md",
