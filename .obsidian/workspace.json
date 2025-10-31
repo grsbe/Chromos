@@ -8,35 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13dc70c2e0a1780e",
+            "id": "c1da4b1534b32dbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Session Planner.md",
+                "file": "Adventures/Die Exos Kampagne/Unterwassertempel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Planner"
+              "title": "Unterwassertempel"
             }
           },
           {
-            "id": "b7e61c628284e650",
+            "id": "0fee5a1dc9230e78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Phantheon/Das alte Pantheon.md",
+                "file": "RandomStuff/Nemesis Intruder Action Deck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das alte Pantheon"
+              "title": "Nemesis Intruder Action Deck"
             }
           },
           {
-            "id": "5770b4a9053e317c",
+            "id": "0d0c68890663bd6b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Mythandras/Exos/Exoskarte.excalidraw.svg"
+              },
+              "icon": "lucide-image",
+              "title": "Exoskarte.excalidraw"
+            }
+          },
+          {
+            "id": "e1cc9213f5ad08aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 308.5
   },
   "right": {
     "id": "5974fc7ffe9d18dc",
@@ -198,46 +210,46 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5770b4a9053e317c",
+  "active": "0fee5a1dc9230e78",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/Coole Momente Ideen.md",
+    "Dublin",
+    "Adventures/Die Exos Kampagne/Untitled.md",
     "Adventures/Die Exos Kampagne/Corbeau.md",
     "Adventures/Die Exos Kampagne/Ideen.md",
-    "Adventures/Die Exos Kampagne/Session Planner.md",
-    "Adventures/Die Exos Kampagne/Unterwassertempel.md",
-    "Adventures/Die Exos Kampagne/Untitled.md",
-    "RandomStuff/Nemesis Intruder Action Deck.md",
+    "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "conflict-files-obsidian-git.md",
-    "Mythandras/Phantheon/Das alte Pantheon.md",
-    "Adventures/Die Exos Kampagne/Factions.md",
+    "RandomStuff/Nemesis Intruder Action Deck.md",
     "Adventures/Die Exos Kampagne/Das Fest.md",
-    "Adventures/WrittenOut/Spectracular/Spectracular.md",
-    "Adventures/Moral dilemma.md",
+    "Mythandras/Exos/Exoskarte.excalidraw.md",
+    "Mythandras/Magnialia.excalidraw.svg",
     "Adventures/Ideenschmiede Seeds.md",
-    "Adventures/Ideen Oneshots.md",
+    "Adventures/Moral dilemma.md",
     "Adventures/Ideas Mythandras.md",
-    "Adventures/EXOS Kampagne.md",
-    "Adventures/WrittenOut/Outline Template.md",
-    "Adventures/WrittenOut/Oneshot French fantasy cat caffee.md",
-    "Books/Haven 1.md",
-    "Adventures/WrittenOut/Oneshot A wild sheep chase.md",
+    "Adventures/Ideen Oneshots.md",
+    "Mythandras/Mechaniken/Lebende Magie.md",
+    "Mythandras/Mechaniken/Artefakte.md",
+    "Mythandras/Narakan/Narakan.md",
+    "Mythandras/Exos/Va'Nis/Va'ris.md",
+    "Mythandras/Exos/Sidaris/Waffen in Siris.md",
+    "Mythandras/Exos/Sidaris/Si'Ris.md",
+    "Mythandras/Exos/Pa'Ris/Pa'Ris.md",
+    "Mythandras/Exos/Pa'Ris/Charaktere in Pa'ris.md",
+    "Mythandras/Exos/Händlerküste/Natya.md",
+    "Mythandras/Exos/Händlerküste/Goyamo.md",
     "Mythandras/Exos/Händlerküste/Ha'vis.md",
+    "Mythandras/Magnialia.excalidraw.md",
+    "Mythandras/Magnialia.md",
+    "Adventures/Die Exos Kampagne/Session Planner.md",
     "Adventures/Die Exos Kampagne",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
-    "Adventures/WrittenOut/InseldesWahnsinns/Insel des Wahnsinns Finale.md",
-    "Adventures/Enemy Statblocks/Bed Wyrmling.md",
-    "Adventures/Enemy Statblocks/Falvius.md",
-    "Adventures/EncounterTables/Magische Items.md",
+    "Pics/Pasted image 20240804010822.png",
+    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
+    "Adventures/WrittenOut/Timeloop",
     "Mythandras/Exos/Sosoni",
     "Mythandras/Exos/Abraxus",
-    "Adventures/WrittenOut/Timeloop",
     "Adventures/WrittenOut/Spectracular",
-    "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Adventures/WrittenOut/InseldesWahnsinns/NPCS",
     "Adventures/WrittenOut/InseldesWahnsinns",
-    "Mythandras/Mythandras.excalidraw.svg",
-    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
-    "Pics/Pasted image 20240804010822.png",
     "Adventures/EncounterTables",
     "Taijima/Cores",
     "Adventures/Mechanics",
