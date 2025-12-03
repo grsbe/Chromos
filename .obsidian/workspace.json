@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "c9638b718dded865",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "0d0c68890663bd6b",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0fee5a1dc9230e78",
+  "active": "c9638b718dded865",
   "lastOpenFiles": [
     "Dublin",
     "Adventures/Die Exos Kampagne/Untitled.md",
