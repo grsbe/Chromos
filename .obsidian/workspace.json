@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "476dce7a93ff4328",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "0d0c68890663bd6b",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,7 +248,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dc2fc43fa05bddf9",
+  "active": "476dce7a93ff4328",
   "lastOpenFiles": [
     "Session 0.md",
     "Dublin",
