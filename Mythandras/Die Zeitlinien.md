@@ -21,7 +21,7 @@ Je nachdem, wer hier gewinnt, nimmt die Geschichte ihren eigenen Weg. Die Sieger
 Einige Dinge bleiben in allen Zeitlinien gleich:
 - Ein Großteil der Hellelfen wird verflucht: Die Rasse der Menschen, Zwerge, Tierwesen und Wassermenschen werden aus den Hellelfen geschaffen. Mehr dazu in Rassen.
 
-### Ausgang: Die Dunkelelfen gewinnen: Zeitlinie der Freiheit - [[Magnia]]
+### Ausgang: Die Dunkelelfen gewinnen: Zeitlinie der Freiheit - [[Yllmagnialia]]
 
 - Die Dunkelelfen ersetzen alle 8 Untergötter und schaffen die Welt neu:
 - Alle Hauptgötter und manche Untergötter werden in die Welt selbst gebannt
