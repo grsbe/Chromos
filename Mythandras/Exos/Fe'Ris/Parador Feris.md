@@ -9,3 +9,11 @@ Glückspiele: Arenakämpfe, Raptorreiterrennen, Casino Laparador werden allerhan
 Parador ist der Ursprung von Kartenmagie. Magie wird in Karten gebunden und dann genutzt ohne dass der Nutzer viel Mana selber aufwenden muss. Allerdings sind die Effekte nie eindeutig sondern immer zufällig.
 
 Die Karte kann un
+
+
+
+
+
+Geheimnis:
+Die Ganze Stadt ist eine Illusion des Gottes der Traurigkeit (Trickserei). Er saugt diese auf und lässt alle Einwohner in einem Traum voll Adrenalin und Glück leben. Und zwingt sie da zu bleiben.
+Wer dieses Geheimnis aufdeckt darf bleiben oder den Berg erklimmen.
