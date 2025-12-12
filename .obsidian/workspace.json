@@ -79,14 +79,12 @@
             "id": "05cf92ef8ebd1882",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Mythandras/Exos/Sidaris/Si'Ris.md",
-                "mode": "source",
-                "source": false
+                "file": "Mythandras/Exos/Exoskarte.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Si'Ris"
+              "icon": "excalidraw-icon",
+              "title": "Exoskarte.excalidraw"
             }
           },
           {
@@ -266,6 +264,9 @@
   },
   "active": "05cf92ef8ebd1882",
   "lastOpenFiles": [
+    "Mythandras/Exos/Exosmap.md",
+    "Mythandras/Exos/Exosmagie.md",
+    "Mythandras/Exos/Sidaris/Si'Ris.md",
     "Mythandras/Exos/Fe'Ris/Parador Feris.md",
     "Mythandras/Exos/Händlerküste/Natya.md",
     "Mythandras/Exos/Händlerküste/Ha'vis.md",
@@ -273,7 +274,6 @@
     "Mythandras/Exos/Pa'Ris/Pa'Ris.md",
     "Mythandras/Exos/Pa'Ris/Charaktere in Pa'ris.md",
     "Mythandras/Exos/Polaris/Polis Polaris.md",
-    "Mythandras/Exos/Sidaris/Si'Ris.md",
     "Mythandras/Exos/Sidaris/Waffen in Siris.md",
     "Mythandras/Exos/Sosoni/Somi Soni Gebirgsstämme.md",
     "Mythandras/Exos/Exos.md",
@@ -291,9 +291,7 @@
     "Dublin",
     "Adventures/Die Exos Kampagne/Untitled.md",
     "Adventures/Die Exos Kampagne/Corbeau.md",
-    "Adventures/Die Exos Kampagne/Ideen.md",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
-    "conflict-files-obsidian-git.md",
     "Mythandras/Magnialia.excalidraw.svg",
     "Adventures/Die Exos Kampagne",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
