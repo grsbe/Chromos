@@ -70353,6 +70353,49 @@ Corbeau ^yxXcq1w9
 			]
 		},
 		{
+			"id": "OhZ5UUFItaKVgmbavQdeB",
+			"type": "freedraw",
+			"x": 423.9901114317946,
+			"y": -434.90550014205775,
+			"width": 0.0001,
+			"height": 0.0001,
+			"angle": 0,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "#b2f2bb",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2059016808,
+			"version": 3,
+			"versionNonce": 1986878744,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1765556904845,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.0001,
+					0.0001
+				]
+			],
+			"pressures": [],
+			"simulatePressure": true,
+			"lastCommittedPoint": [
+				0.0001,
+				0.0001
+			]
+		},
+		{
 			"type": "freedraw",
 			"version": 113,
 			"versionNonce": 1568995864,
@@ -76611,10 +76654,10 @@ Corbeau ^yxXcq1w9
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 657.7207867101574,
-		"scrollY": 321.2181095728715,
+		"scrollX": 706.64712045305,
+		"scrollY": 446.54485872583587,
 		"zoom": {
-			"value": 1.445468146109987
+			"value": 1.093631064969155
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
