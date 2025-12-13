@@ -36,7 +36,7 @@ Folgende Alfen stehen unter ihrem Schutz:
 
 | Aspekt        | Name        | Element              | Religion       | Domain |
 | ------------- | ----------- | -------------------- | -------------- | ------ |
-| Glück/Hoffung | Lucas       | Schicksalsverzerrung | Abenteuergilde |        |
+| Glück/Hoffung | Mielle      | Schicksalsverzerrung | Abenteuergilde |        |
 | Freiheit      | Corvus Trix | Dunkelheit           | Nachtschatten  |        |
 
 ## Ordnung
@@ -64,14 +64,14 @@ Exos steht als Gott für Stolz, Macht, Kraft, Kampf, Wut und Angst.
 
 Folgende Alfen repräsentieren Exos auf der Welt:
 
-| Aspekt          | Name   | Element | Religion | Domain |
-| --------------- | ------ | ------- | -------- | ------ |
-| Stolz/Ambition  | Stolz  |         | 7        |        |
-| Jagd            | Rexos  |         |          |        |
-| Kampf/Ehre      | Ilanus |         |          |        |
-| Angst           | Rasmos |         |          |        |
-| Wut/Rache/Sturm | Stayk  |         | 7        |        |
-| Neid            | Remus  |         | 7        |        |
+| Aspekt          | Name    | Element | Religion | Domain |
+| --------------- | ------- | ------- | -------- | ------ |
+| Stolz/Ambition  | Stoyz   |         | 7        |        |
+| Jagd            | Rexos   |         |          |        |
+| Kampf/Ehre      | Ilanus  |         |          |        |
+| Angst           | Rasmos  |         |          |        |
+| Wut/Rache/Sturm | Stayk   |         | 7        |        |
+| Neid            | Remaros |         | 7        |        |
 
 ## Liebe
 
@@ -95,12 +95,12 @@ Die Göttin der Zeit, Arcus (auch Arkius genannt) ist neben Boreos eine der beid
 
 Minus ist die Göttin der Zeit, des Verstreichen alles Übles und der Ewigkeit zwischen jedem Anfang und jedem Ende.
 
-| Aspekt                    | Name   | Element      | Religion       | Domain |
-| ------------------------- | ------ | ------------ | -------------- | ------ |
-| Zukunft                   | Phenet | Prophezeiung | Orden der Zeit |        |
-| Gegenwart                 | Anet   | Allseherei   | Orden der Zeit |        |
-| Vergangenheit             | Synet  | Eis          | Orden der Zeit |        |
-| Traum, Fantasie, Faulheit | Draugr | Schlaf       | 7, Drachenkult |        |
+| Aspekt                    | Name   | Element      | Religion       | Domain |     |
+| ------------------------- | ------ | ------------ | -------------- | ------ | --- |
+| Zukunft                   | Phenet | Prophezeiung | Orden der Zeit |        |     |
+| Gegenwart                 | Anet   | Allseherei   | Orden der Zeit |        |     |
+| Vergangenheit             | Synet  | Eis          | Orden der Zeit |        |     |
+| Traum, Fantasie, Faulheit | Draugr | Schlaf       | 7, Drachenkult |        |     |
 
 ## Raum
 
@@ -137,14 +137,15 @@ Minus, die Göttin der Veränderung und des Geistes (auch Minusius, Mina, Migras
 
 Folgende Alfen verändern die Welt auf ihrer Autorität:
 
-| Aspekt      | Name           | Element          | Religion              | Domain |
-| ----------- | -------------- | ---------------- | --------------------- | ------ |
-| Erschaffung | Kraboshtagrosh | Gier             | 7, Zwerge: Ambossgott |        |
-| Erhaltung   | Simbeshgrosh   | Transmutation    | Zwerge: Helmgott      |        |
-| Zerstörung  | Shgrabugrosh   | Vernichtung      | Zwerge: Hammergott    |        |
-| Logik       | Nagaburosh     | Bewusstsein      |                       |        |
-| Intuition   | Zionosh        | Unterbewusstsein |                       |        |
-| Weisheit    | Amenosh        | Gedächnis        |                       |        |
+| Aspekt      | Name           | Element          | Religion              | Domain |     |
+| ----------- | -------------- | ---------------- | --------------------- | ------ | --- |
+| Erschaffung | Kraboshtagrosh | Gier             | 7, Zwerge: Ambossgott |        |     |
+| Erhaltung   | Simbeshgrosh   | Transmutation    | Zwerge: Helmgott      |        |     |
+| Zerstörung  | Shgrabugrosh   | Vernichtung      | Zwerge: Hammergott    |        |     |
+| Logik       | Nagaburosh     | Bewusstsein      |                       |        |     |
+| Intuition   | Zionosh        | Unterbewusstsein |                       |        |     |
+| Weisheit    | Amenosh        | Gedächnis        |                       |        |     |
+|             |                |                  |                       |        |     |
 
 ## Kunst
 
