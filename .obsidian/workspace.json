@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythandras/Phantheon/Das alte Pantheon.md",
+                "file": "Mythandras/Phantheon/Die neuen Götter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das alte Pantheon"
+              "title": "Die neuen Götter"
             }
           },
           {
@@ -266,6 +266,7 @@
   },
   "active": "05cf92ef8ebd1882",
   "lastOpenFiles": [
+    "Mythandras/Phantheon/Das alte Pantheon.md",
     "Mythandras/Phantheon/Die neuen Götter.md",
     "Taijima/Cores/magischer Core.md",
     "Taijima/Cores/Element Kombinationen und Base Fähigkeiten.md",
@@ -294,7 +295,6 @@
     "Mythandras/Milis/Die Schattenjäger.md",
     "Mythandras/Tailenis/Tailenis.md",
     "Mythandras/Tailenis/Helos.md",
-    "Adventures/Die Exos Kampagne/Untitled.md",
     "Dublin",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Mythandras/Magnialia.excalidraw.svg",
