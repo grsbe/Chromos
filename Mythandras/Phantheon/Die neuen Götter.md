@@ -41,6 +41,7 @@ Die Alten Götter werden sehr selten direkt angebetet, es ist schwierig eine Ver
 | Ilanus                         | Kampf/Ehre                  |        | Auferstandener Alf nach dem Cataclysmus, | Exos     | Gelangweilter Alf in Siris, der ultimative Arenakämpfe organisiert            |
 | Mielle                         | Mut, Hoffnung und Vertrauen |        | Sterbliche Halfling, auferstanden        | Nym      | Abenteuergilde                                                                |
 |                                |                             |        |                                          |          |                                                                               |
+|                                |                             |        |                                          |          |                                                                               |
 
 ## Unangesehne Götter von Exos
 | Gott                          | Domain          | Symbol | Origin                                                          | Champion |
