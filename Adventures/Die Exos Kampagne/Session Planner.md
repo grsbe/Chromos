@@ -21,13 +21,14 @@ Die Schwester des Prinzen trägt ein Artefakt um den Hals, das Team wird zu eine
 
 Ein Serienmörder trägt einen am Ring oder hat ihn halb absorbiert
 
-Ein Schlammkrokodil hat eins
+Eine Hag hat eins sunless citadel?
 
 Der Aquaelf der die Sahaguinsanführt hat eins und sammelt den Rest
 
 Die Entführte Echsen Prinzessin trägt eins, das jetzt der Aqua Elf hat
 
 Eins liegt im Geisterpiratenschiff
+Outpost
 
 
 
