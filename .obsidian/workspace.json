@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Unterwassertempel.md",
+                "file": "Adventures/Die Exos Kampagne/Ideen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unterwassertempel"
+              "title": "Ideen"
             }
           },
           {
@@ -266,6 +266,7 @@
   },
   "active": "05cf92ef8ebd1882",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Unterwassertempel.md",
     "Adventures/Die Exos Kampagne/Coole Momente Ideen.md",
     "Adventures/Die Exos Kampagne/Untitled.md",
     "Adventures/Die Exos Kampagne/Session Planner.md",
@@ -294,7 +295,6 @@
     "Mythandras/Mechaniken/Lebende Magie.md",
     "Mythandras/Mechaniken/Lumisbaum.md",
     "Mythandras/Milis/Millionen Farben Regenbogen Clan.md",
-    "Mythandras/Milis/Milis.md",
     "Dublin",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Mythandras/Magnialia.excalidraw.svg",
