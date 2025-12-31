@@ -28,6 +28,7 @@ Der Aquaelf der die Sahaguinsanführt hat eins und sammelt den Rest
 Die Entführte Echsen Prinzessin trägt eins, das jetzt der Aqua Elf hat
 
 Eins liegt im Geisterpiratenschiff
+
 Outpost
 
 
