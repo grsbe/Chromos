@@ -1,4 +1,4 @@
-Freund mit dem [[Amyrilla Mensch - Steffi]] aufgewachsen ist.
+Freund mit dem [[Amiryllia Mensch - Steffi]] aufgewachsen ist.
 
 Hat sich in der Armee von Havis zum Commander hochgearbeitet.
 Glaubt an ein starkes vereinigtes Havis das sich allen widersetzen kann.
