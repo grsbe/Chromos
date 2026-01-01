@@ -6,4 +6,5 @@ Er nutzt dafür ein Spiegelartefakt, das er im Wald gefunden hat.
 
 
 
-Entweder hat ein Ratlingsrebell Lambert hinausgeschafft oder ich kann irgendwie Lenis backstory damit verbinden.
+Entweder hat ein Ratlingsservantin Lambert hinausgeschafft oder ich kann irgendwie Lenis backstory damit verbinden.
+Irgendwas mit Memories
