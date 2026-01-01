@@ -4,7 +4,7 @@
 ---
 ## Story Arcs
 
-
+0. Göttersealing tränke
 1. Fare at Corbeau -> Artefakt
 2. Investigate horror haus -> Gangster
 3. Investigate schiff -> Echsen leute
@@ -21,7 +21,7 @@ Die Schwester des Prinzen trägt ein Artefakt um den Hals, das Team wird zu eine
 
 Ein Serienmörder trägt einen am Ring oder hat ihn halb absorbiert
 
-Eine Hag hat eins sunless citadel?
+Mirador hat eins sunless citadel?
 
 Der Aquaelf der die Sahaguinsanführt hat eins und sammelt den Rest
 

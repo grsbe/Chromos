@@ -3,7 +3,7 @@ Die unendliche Bibliothek besitzt alle Bücher der Welt mit allem Wissen. Leider
 
 Im Mittelpunkt der Bibliothek steht ein Altar mit einem Portal aus dem kontinuierlich Seelen in Form von immateriellen Büchern herausfliegen und in die Gänge sich einsortieren. Es wandern Eulenwächter durch die Gänge.
 
-Die Unendliche Bibliothek ist das Domain von [[Das alte Pantheon.md#Wandel]] und stellt die ultimative Sortierung von Wissen dar.
+Die Unendliche Bibliothek ist das Domain von [[Das alte Pantheon#Wandel]] und stellt die ultimative Sortierung von Wissen dar.
 
 Möglicherweise sind einige wahnsinnige Götter aus der Revolution hier immer noch in der Lügenabteilung gefangen und suchen den Ausweg während sie langsam absorbiert werden.
 

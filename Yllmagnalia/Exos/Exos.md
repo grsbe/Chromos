@@ -1,13 +1,13 @@
 
 Willkommen in Exos, auch der gespaltene Kontinent genannt. Das Land wird dominiert vom Exos Gebirge, auch die Säulen des Himmels genannt, dessen schneebedeckte Spitzen förmlich in das Himmelreich hineinragen. Im Schatten des Gebirges liegt ein weitausladender Bergbereich der in eine erbittert umkämpfte Hochebene übergeht, die schließlich in mildere flache Küstenbuchten ausufert.
 
-Der Kontinent ist benannt nach dem gleichnamigen Gott der Erde [[Das alte Pantheon.md#Krieg|Exos]].
+Der Kontinent ist benannt nach dem gleichnamigen Gott der Erde [[Das alte Pantheon#Krieg|Exos]].
 
 80% des Kontinents bestehen aus wilden ungesicherten Wäldern, Prärie-ebenen und Gebirgskluften, voll mit mystischen Dungeons, energiegeladene Manastürme, magischen und nicht-magischen Bestien und arkanen Ruinen einer vergessenen Zivilisation. Durch das Land ziehen sich halbwegs gesicherte Wege die, die verschiedenen Nationen des Landes verbinden.
 
 Das definierende Landmerkmal von Exos ist [[Das Exosgebirge|das Exosgebirge]], das der Region ihren Namen gibt.
 
-Das Gebirge repräsentiert eine der sieben Säulen zwischen der [[Unterwelt.md]], der Mittelwelt und dem Himmel. Die Spitze des Gebirges ragt bis in den Himmel.
+Das Gebirge repräsentiert eine der sieben Säulen zwischen der [[Unterwelt]], der Mittelwelt und dem Himmel. Die Spitze des Gebirges ragt bis in den Himmel.
 
 ## Die Regionen
 
@@ -17,7 +17,7 @@ Kriegerischer Staat des Lichts, Hauptstadt Pa’ris. Wird angeführt von einem s
 ### [[Somi Soni Gebirgsstämme]]
 Friedlebende Meister der Elementarmagie, deren Kultur sich um ihren mythischen Kristallorakel dreht.
 
-### [[Polaris/Polis Polaris]]
+### [[Polis Polaris]]
 
 ### [[Abraxus]]
 Eine Brückenstadt aus Zwergen, Gnomen und Menschen, die besten Erfinder und Mechaniker der Welt

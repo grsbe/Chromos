@@ -1,4 +1,4 @@
-Megacorps haben eine eins zu eins Beziehung zu einigen Göttern in [[Das alte Pantheon.md|Mythandras]].
+Megacorps haben eine eins zu eins Beziehung zu einigen Göttern in [[Das alte Pantheon|Mythandras]].
 
 ## Zycloud
 Substanzen

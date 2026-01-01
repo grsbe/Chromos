@@ -8,7 +8,7 @@ tags: [excalidraw]
 
 
 # Text Elements
-[[EXOS]] ^kZSRCrIu
+[[Exos]] ^kZSRCrIu
 
 Pa'ris ^pAAtsuCC
 

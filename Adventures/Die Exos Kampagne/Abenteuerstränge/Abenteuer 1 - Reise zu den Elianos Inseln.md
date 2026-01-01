@@ -42,9 +42,23 @@ Eine Insel weiter ins Zentrum rein
 Eisdrache
 Eislabyrinth
 Gabu
-Eine Schlucht die Steil hinabgeht
+Eine Schlucht/Gletscherritze die steil hinabgeht
 Verschlossener Laboreingang mit Rätsel plus Schlüssel
 
 
 ---
 Scene 7: Das Labor
+
+Untoter Forscher der 
+Irgend ein Selbstzerstörungstimer, escape entweder mit Walunterwasser oder wiederhoch klettern
+
+
+---
+Scene 8: Die Rückkehr
+Entweder unterwasser oder wieder Drachenszene
+
+---
+Scene 9 Wiederbasiscamp und Schiffahrt heim
+
+---
+Daheim ein Fest am nächsten Tag
