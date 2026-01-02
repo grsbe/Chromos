@@ -1,6 +1,5 @@
 
 ---
-
 Scene 1: Start in Cobeau Vision aus der Vergangenheit
 
 
@@ -8,6 +7,11 @@ Scene 1: Start in Cobeau Vision aus der Vergangenheit
 ---
 Scene 2: Missionbriefing bei Geldar
 
+
+Die Party ist in Geldars Büro und kriegt ein Briefing über die Mission.
+Infos:
+- Er hat gerade wenig Leute an der Hand, da er sich um das Fest der Ahnen in *2 Wochen* kümmern muss und hat nach Abenteurern gefragt die ihm bei einer Merkwürdigen Krankheit helfen kann
+- 
 
 ---
 CORBEAU
