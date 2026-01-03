@@ -66,11 +66,11 @@ Folgende Alfen repräsentieren Exos auf der Welt:
 
 | Aspekt         | Name    | Element | Religion | Domain |
 | -------------- | ------- | ------- | -------- | ------ |
-| Stolz/Ambition | Stozz   |         | 7        |        |
+| Stolz/Ambition | Lazaros |         | 7        |        |
 | Jagd           | Rexos   |         |          |        |
 | Kampf/Ehre     | Ilanus  |         |          |        |
 | Angst          | Rasmos  |         |          |        |
-| Wut/Rache      | Staak   |         | 7        |        |
+| Wut/Rache      | Niike   |         | 7        |        |
 | Neid/Sturm     | Remaros |         | 7        |        |
 
 ## Liebe

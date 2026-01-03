@@ -11,7 +11,7 @@ will dass den Göttern gehuldigt wird und die Geister besänftigt werden
 wollen Corbeau zu einem florierenden Handelsposten entwickeln
 Prinz und Schwester aus der Hauptstadt wollen seinen Ruhm wieder erlangen
 Zwerge minen Gold
-### Vanis Kultisten
+### Lazaros Vanis Kultisten
 wollen den Gott wieder auferstehen lassen und kontrollieren
 den Rat in Corbeau unterwandern und die Macht erlangen
 Coldblooded Killer

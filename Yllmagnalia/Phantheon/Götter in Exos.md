@@ -80,9 +80,13 @@ In Corbeau selbst gibt es eine friedliche Sekte die sich die Gezeitenrufer nenne
 
 Eith, Gott der Einheit, Zersplitterter machtloser Gott,
 
-Nayuta, auferstandene Menschegott der Unterwerfung und Dominanz
+Nayuta, auferstandene Menschengott der Unterwerfung und Dominanz
 
+Niike, Hexe der Rache im Laurelinwald
 
+Lazaros Vampirgott auferstanden
+
+Rasmos im oberen Berg
 ### Gebrochene Götter
 
 Alfine, Göttin der Liebe
