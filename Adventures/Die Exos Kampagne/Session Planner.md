@@ -13,23 +13,30 @@
 6. Get all stones and find a way to contain the fiend, alle Steine zusammen 
 
 
-### Side Quests
+### Quests
 
 Artefakte:
 
-Die Schwester des Prinzen trägt ein Artefakt um den Hals, das Team wird zu einem Ball eingeladen
+Die Schwester des Prinzen trägt ein Artefakt um den Hals
+Das Artefakt stammt aus dem entfernten Thailenis gewährt perfekte Magische Kontrolle
+Erlaubt es Remaros die Magie zu benutzen vom Nutzer, aber Remaros grad unerreichbar
+Assassine Wasserelf will die ermorden oder das Amulett klauen
 
-Ein Serienmörder trägt einen am Ring oder hat ihn halb absorbiert
+Assassine Wasserelf hat einen
+erlaubt speed? Oder die Fähigkeit allem zu entfliehen?
 
 Mirador hat eins sunless citadel?
+Erlaubt Fleischund DNA grafting
 
-Der Aquaelf der die Sahaguinsanführt hat eins und sammelt den Rest
+Die Entführte Echsen Prinzessin trug eins, das jetzt der Aqua Elf hat
+Brute Aquaelf der die Sahaguins anführt hat eins 
+Erlaubt, dass leute einen als hot/Anführer und Autoritär warnehmen
 
-Die Entführte Echsen Prinzessin trägt eins, das jetzt der Aqua Elf hat
 
 Eins liegt im Geisterpiratenschiff
 
-Outpost
+Piraten Outpost
+Erlaubt kontrolle über Glück und Schätze
 
 
 

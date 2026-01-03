@@ -3,5 +3,7 @@
   "newLinkFormat": "shortest",
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "showLineNumber": false,
+  "readableLineLength": true
 }

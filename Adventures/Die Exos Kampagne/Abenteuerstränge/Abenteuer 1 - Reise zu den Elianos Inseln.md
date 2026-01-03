@@ -39,6 +39,11 @@ Scene 4: Schiffsfahrt hin
 ---
 Scene 5: Elianos Basiscamp
 Aquaelf-Stratege
+berät zur Reise hin: Drache, der Zwerg ist zur nördlichen Insel gefährlich da Drache
+frägt nach blauen schimmer artefakten
+
+
+
 Kleiner Laden
 magischer Wal
 
