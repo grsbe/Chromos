@@ -57,6 +57,10 @@ Scene 3c: Das Banditenlager
 
 
 
+Scene 3d: Bar
+
+Schogart und Familie haben das gekauft und zeigen dann am nächsten Tag symptome. Geldar dankt ihnen und zahlt 100GP und am nächsten morgen frägt er dann nach 200GP für nach elianos reisen
+
 ---
 Scene 4: Schiffsfahrt hin
 

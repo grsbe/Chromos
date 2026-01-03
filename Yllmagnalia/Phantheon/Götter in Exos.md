@@ -18,8 +18,8 @@ Der Gott der in SiRis chillt. Steht für den Kampf und die Ehre. Illanus hat nic
 Corvus. 
 Der Gott der Freiheit und Trickserei. Corvus erscheint Abenteurern oft als Rabe. Niemand weiß wirklich welche Ziele er hat.
 
-Rexos. 
-Löwengott der Jagd.
+Reha. 
+Löwengöttin der Jagd.
 
 Lura und Arul. Mondgötter
 Götterzwillinge des Balance und des Zwielichts und der Ebbe und Flut und des Wassers. Ying und Yang yada yada. Stürme und Stille. Zorn und Frieden. Ein ewiger Kreis.
@@ -84,9 +84,11 @@ Nayuta, auferstandene Menschengott der Unterwerfung und Dominanz
 
 Niike, Hexe der Rache im Laurelinwald
 
-Lazaros Vampirgott auferstanden
+Lazaros Vampirgott des Stolzes auferstanden
 
 Rasmos im oberen Berg
+
+
 ### Gebrochene Götter
 
 Alfine, Göttin der Liebe
