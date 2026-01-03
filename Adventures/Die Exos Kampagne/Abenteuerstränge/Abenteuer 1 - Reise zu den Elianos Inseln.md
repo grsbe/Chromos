@@ -22,6 +22,11 @@ Scene 3a: Lorels haus
 
 Scene 3b: Der Antiquariatenladen
 
+
+Kampf gegen 5 cr 1/2 Banditen (aber 2d6+2 dmg), Fenster und mechanik regale umzuschmeißen für restrained wenn unter regal und 
+
+
+
 Scene 3c: Das Banditenlager
 
 
