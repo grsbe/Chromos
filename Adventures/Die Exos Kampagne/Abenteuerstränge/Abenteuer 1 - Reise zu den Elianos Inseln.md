@@ -3,6 +3,8 @@
 Scene 1: Start in Cobeau Vision aus der Vergangenheit
 
 
+Wasser. Regen fällt in dichten Schichten auf das aufgewühlte Meer hinab und malt ein Kunstwerk auf die nasse Leinwand der hohen See. Lautes plitschern und platschen übertönt das Knirschen des Sandstrandes unter deinen Füßen
+
 
 ---
 Scene 2: Missionbriefing bei Geldar

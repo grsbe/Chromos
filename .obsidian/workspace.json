@@ -8,129 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1da4b1534b32dbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Die Exos Kampagne/Unterwassertempel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unterwassertempel"
-            }
-          },
-          {
-            "id": "0fee5a1dc9230e78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RandomStuff/Nemesis Intruder Action Deck.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nemesis Intruder Action Deck"
-            }
-          },
-          {
-            "id": "c9638b718dded865",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
-          },
-          {
-            "id": "dc2fc43fa05bddf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 0"
-            }
-          },
-          {
-            "id": "476dce7a93ff4328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "05cf92ef8ebd1882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Corbeau.md",
+                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corbeau"
-            }
-          },
-          {
-            "id": "c477ba3b7e94b267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yllmagnalia/Die Zeitlinien.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Die Zeitlinien"
-            }
-          },
-          {
-            "id": "0d0c68890663bd6b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Mythandras/Exos/Exoskarte.excalidraw.svg"
-              },
-              "icon": "lucide-image",
-              "title": "Exoskarte.excalidraw"
-            }
-          },
-          {
-            "id": "e1cc9213f5ad08aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Die Exos Kampagne/Unterwassertempel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unterwassertempel"
+              "title": "Abenteuer 1 - Reise zu den Elianos Inseln"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,8 +169,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c477ba3b7e94b267",
+  "active": "05cf92ef8ebd1882",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Corbeau.md",
+    "Yllmagnalia/Die Zeitlinien.md",
     "Yllmagnalia/Abgründe und Aufstiege.md",
     "Yllmagnalia/Phantheon/Das alte Pantheon.md",
     "Yllmagnalia/Phantheon/Die neuen Götter.md",
@@ -306,8 +199,6 @@
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitenfest.md",
     "Adventures/Die Exos Kampagne/Wassermonolog.md",
-    "Adventures/Die Exos Kampagne/Corbeau.md",
-    "Adventures/Die Exos Kampagne/PCs/Amiryllia Mensch - Steffi.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau",
     "Adventures/Die Exos Kampagne/PCs",
