@@ -18,27 +18,29 @@
 Artefakte:
 
 Die Schwester des Prinzen trägt ein Artefakt um den Hals
-Das Artefakt stammt aus dem entfernten Thailenis gewährt perfekte Magische Kontrolle
+Das Artefakt stammt aus dem entfernten Thailenis gewährt magische Kontrolle
 Erlaubt es Remaros die Magie zu benutzen vom Nutzer, aber Remaros grad unerreichbar
 Assassine Wasserelf will die ermorden oder das Amulett klauen
 
 Assassine Wasserelf hat einen
-erlaubt speed? Oder die Fähigkeit allem zu entfliehen?
+erlaubt es wichtig oder unwichtig zu erscheinen
+
 
 Mirador hat eins sunless citadel?
 Erlaubt Fleischund DNA grafting
 
 Die Entführte Echsen Prinzessin trug eins, das jetzt der Aqua Elf hat
 Brute Aquaelf der die Sahaguins anführt hat eins 
-Erlaubt, dass leute einen als hot/Anführer und Autoritär warnehmen
-
+Erlaubt, dass leute einen als mächtig warnehmen
 
 Eins liegt im Geisterpiratenschiff
+hält Leute am Leben aber neidisch
 
 Piraten Outpost
-Erlaubt kontrolle über Glück und Schätze
+Erzeugt Glück v.a. was Stürme angeht, lässt einen Glücklich erscheinen
 
-
+Badehaus hinter dem Spiegel
+lässt andere schön erscheinen
 
 ---
 

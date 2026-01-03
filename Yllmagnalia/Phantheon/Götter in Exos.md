@@ -44,13 +44,17 @@ Baha Batos. Gott des Abgrundes und des Todes.
 Es nimmt Seelen nach dem Tod in seine Obhut und führt sie ins Totenreich. Seine Anhanger sind kinda dodgy honestly. Sie sind allerdings gedulded, da sie nicht wirklich Leute in Gefahr bringen zu scheinen.
 
 
+Nagaburo, Gott der Magie und Reaktion
+Anhänger erforschen aus Hingabe zum Gott und Meditation die Zusammenhänge der Welt
+
+
 ### Naturgötter
 
 Falmine. 
 Göttin der Familie und des Gebens und Nehmens und der Pflanzen. Diese Göttin will das alle miteinander glücklich sind und zusammen halten.
 
 Narzine. 
-Göttin des Feuers und des Egos.
+Göttin des Feuers, des Verbrennens und des Egos.
 
 
 
@@ -68,3 +72,19 @@ Draugr. Drachengott der Träume und der Fantasie
 ## Wettergötter
 
 In Corbeau selbst gibt es eine friedliche Sekte die sich die Gezeitenrufer nennen. Sie beten den toten/verschwundenen SturmGott Remaros an und glauben, dass das Dorf ohne ihre Rituale und Opfergaben bald vom Meer verschlungen wird. Und niemand dankt ihnen dafür. So undankbar diese Jugend von heute.
+
+
+
+
+### Bösere Götter
+
+Eith, Gott der Einheit, Zersplitterter machtloser Gott,
+
+Nayuta, auferstandene Menschegott der Unterwerfung und Dominanz
+
+
+### Gebrochene Götter
+
+Alfine, Göttin der Liebe
+
+Remaros, Gott des Neids

@@ -13,7 +13,7 @@ Die Götter befinden sich hauptsächlich in der Geisterwelt oder um Himmel oder 
 | Raum            | Boreos    | Wind        | Orange    | 2          | Arcana, Tempest          |
 | Zeit            | Arcus     | Eis         | Azur      | 2          | Order                    |
 | Tradition/Natur | Echelos   | Fauna/Flora | Grün      | 3          | Nature                   |
-| Wandel/Geist    | Minus     | Psi         | Purpur    | 3          | Knowledge                |
+| Wandel/Geist    | Minus     | Psi         | Purpur    | 3          | Arcana, Knowledge        |
 | Kunst           | Alanus    | Energie     | Wechselnd | 3          | Forge                    |
 | Balance         | Eos       | Wasser      | Grau      | 3          | Twilight, Peace, Tempest |
 
@@ -37,7 +37,7 @@ Folgende Alfen stehen unter ihrem Schutz:
 | Aspekt        | Name        | Element              | Religion       | Domain |
 | ------------- | ----------- | -------------------- | -------------- | ------ |
 | Glück/Hoffung | Mielle      | Schicksalsverzerrung | Abenteuergilde |        |
-| Freiheit      | Corvus Trix | Dunkelheit           | Nachtschatten  |        |
+| Freiheit      | Corvus Trix | Dunkelheit           |                |        |
 
 ## Ordnung
 
@@ -64,14 +64,14 @@ Exos steht als Gott für Stolz, Macht, Kraft, Kampf, Wut und Angst.
 
 Folgende Alfen repräsentieren Exos auf der Welt:
 
-| Aspekt          | Name    | Element | Religion | Domain |
-| --------------- | ------- | ------- | -------- | ------ |
-| Stolz/Ambition  | Stoyz   |         | 7        |        |
-| Jagd            | Rexos   |         |          |        |
-| Kampf/Ehre      | Ilanus  |         |          |        |
-| Angst           | Rasmos  |         |          |        |
-| Wut/Rache/Sturm | Stayk   |         | 7        |        |
-| Neid            | Remaros |         | 7        |        |
+| Aspekt         | Name    | Element | Religion | Domain |
+| -------------- | ------- | ------- | -------- | ------ |
+| Stolz/Ambition | Stozz   |         | 7        |        |
+| Jagd           | Rexos   |         |          |        |
+| Kampf/Ehre     | Ilanus  |         |          |        |
+| Angst          | Rasmos  |         |          |        |
+| Wut/Rache      | Staak   |         | 7        |        |
+| Neid/Sturm     | Remaros |         | 7        |        |
 
 ## Liebe
 
@@ -142,8 +142,8 @@ Folgende Alfen verändern die Welt auf ihrer Autorität:
 | Erschaffung | Kraboshtagrosh | Gier             | 7, Zwerge: Ambossgott |        |     |
 | Erhaltung   | Simbeshgrosh   | Transmutation    | Zwerge: Helmgott      |        |     |
 | Zerstörung  | Shgrabugrosh   | Vernichtung      | Zwerge: Hammergott    |        |     |
-| Logik       | Nagaburosh     | Bewusstsein      |                       |        |     |
-| Intuition   | Zionosh        | Unterbewusstsein |                       |        |     |
+| Logik       | Nagaburo       | Bewusstsein      |                       |        |     |
+| Intuition   | Ziono          | Unterbewusstsein |                       |        |     |
 | Weisheit    | Amenosh        | Gedächnis        |                       |        |     |
 |             |                |                  |                       |        |     |
 
