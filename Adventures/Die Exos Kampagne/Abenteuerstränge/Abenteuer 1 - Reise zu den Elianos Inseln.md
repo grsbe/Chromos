@@ -78,6 +78,7 @@ Kleiner Laden
 magischer Wal
 
 
+
 ---
 Scene 6: Weg zum Labor
 

@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Session Planner.md",
+                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Planner"
+              "title": "Abenteuer 1 - Reise zu den Elianos Inseln"
+            }
+          },
+          {
+            "id": "5c383b7f0b20ff07",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Adventures/Die Exos Kampagne/Maps/Elianos.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Elianos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,11 +182,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "05cf92ef8ebd1882",
+  "active": "5c383b7f0b20ff07",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Maps/Elianos.svg",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+    "Adventures/Die Exos Kampagne/Maps/Elianos.md",
+    "Adventures/Die Exos Kampagne/Maps",
+    "Adventures/Die Exos Kampagne/Session Planner.md",
     "Yllmagnalia/Phantheon/Götter in Exos.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 6 - Reise nach Elianos.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
     "Yllmagnalia/Phantheon/Das alte Pantheon.md",
     "Adventures/Die Exos Kampagne/Factions.md",
     "Adventures/Die Exos Kampagne/Corbeau.md",
@@ -191,14 +208,11 @@
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.md",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
-    "Adventures/Die Exos Kampagne/Session Planner.md",
     "Adventures/Die Exos Kampagne/Ideen.md",
     "Adventures/Die Exos Kampagne/PCs/Untitled Reborn - Lambert.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Das Dreadwoodartefakt.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Sidequest - Spiegel unter der Mine.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Piratenprinzen auf der Sturminsel.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Das Geisterschiff.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitenfest.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau",
     "Adventures/Die Exos Kampagne/PCs",
@@ -211,7 +225,6 @@
     "Yllmagnalia/Magnialia.excalidraw.svg",
     "Adventures/Die Exos Kampagne",
     "Adventures/WrittenOut/Timeloop",
-    "Yllmagnalia/Exos/Sosoni",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
     "Haven/HavenMap.svg",
     "Mythandras/Exos/ExosExcal.svg",
