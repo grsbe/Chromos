@@ -46,6 +46,8 @@ lässt andere schön erscheinen
 
 im Moor hat eine moorschlange eins gegessen und ist dadurch riesig geworden
 
+Eins hat der Stratege bereits (lässt smart erscheinen) und eins findet er in Elianos
+
 ---
 
 Main Arc: There is a huge evil, sealed in times of the shattering which needs to be defeated.

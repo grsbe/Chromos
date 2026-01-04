@@ -64,7 +64,9 @@ Schogart und Familie haben das gekauft und zeigen dann am nächsten Tag symptome
 ---
 Scene 4: Schiffsfahrt hin
 
-
+Sahuiguin attack
+Treasure im wasser zum angeln
+Wal
 
 ---
 Scene 5: Elianos Basiscamp
@@ -75,16 +77,25 @@ frägt nach blauen schimmer artefakten
 
 
 Kleiner Laden
-magischer Wal
+
 
 
 
 ---
-Scene 6: Weg zum Labor
+Scene 6a: Weg zum Labor
 
 Eine Insel weiter ins Zentrum rein
 
-Eisdrache
+Eisdrachin Abyssalia
+Der Drache sucht leichte Beute, überheblich kommt aber auch nicht an ein Ei heran dass in die Spalten herunter gefallen ist. Wenn die Truppe social no jutsu versucht, überlegt er ob er sie helfen lässt statt sie auszulöschen
+Wenn die Truppe den Drachen fightet spielt er mit ihnen aber lässt sie irgendwann gehen oder finished sie
+
+
+Boot mit Eistroll und schatz vom Drache
+
+
+
+Scene6b: Im Eislabyrinth
 Eislabyrinth
 Gabu
 Eine Schlucht/Gletscherritze die steil hinabgeht

@@ -25,12 +25,14 @@
             "id": "5c383b7f0b20ff07",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Maps/Elianos.md"
+                "file": "Adventures/Die Exos Kampagne/Session Planner.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Elianos"
+              "icon": "lucide-file",
+              "title": "Session Planner"
             }
           }
         ],
@@ -184,9 +186,9 @@
   },
   "active": "5c383b7f0b20ff07",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/Maps/Elianos.svg",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
     "Adventures/Die Exos Kampagne/Maps/Elianos.md",
+    "Adventures/Die Exos Kampagne/Maps/Elianos.svg",
     "Adventures/Die Exos Kampagne/Maps",
     "Adventures/Die Exos Kampagne/Session Planner.md",
     "Yllmagnalia/Phantheon/Götter in Exos.md",
@@ -229,7 +231,6 @@
     "Haven/HavenMap.svg",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/MythandrasExcali.svg",
-    "Mythandras/Exos/ExosMap.excali.svg",
     "Untitled.canvas"
   ]
 }
