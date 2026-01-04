@@ -86,13 +86,18 @@ Scene 6a: Weg zum Labor
 
 Eine Insel weiter ins Zentrum rein
 
+
+Direkter Weg:
 Eisdrachin Abyssalia
 Der Drache sucht leichte Beute, überheblich kommt aber auch nicht an ein Ei heran dass in die Spalten herunter gefallen ist. Wenn die Truppe social no jutsu versucht, überlegt er ob er sie helfen lässt statt sie auszulöschen
 Wenn die Truppe den Drachen fightet spielt er mit ihnen aber lässt sie irgendwann gehen oder finished sie
 
 
+Either way:
 Boot mit Eistroll und schatz vom Drache
 
+
+Weg drum rum:
 
 
 Scene6b: Im Eislabyrinth

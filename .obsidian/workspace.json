@@ -35,8 +35,7 @@
               "title": "Session Planner"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,13 +183,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5c383b7f0b20ff07",
+  "active": "05cf92ef8ebd1882",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Session Planner.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
     "Adventures/Die Exos Kampagne/Maps/Elianos.md",
     "Adventures/Die Exos Kampagne/Maps/Elianos.svg",
     "Adventures/Die Exos Kampagne/Maps",
-    "Adventures/Die Exos Kampagne/Session Planner.md",
     "Yllmagnalia/Phantheon/Götter in Exos.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 6 - Reise nach Elianos.md",
     "Yllmagnalia/Phantheon/Das alte Pantheon.md",
