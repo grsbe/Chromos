@@ -12,14 +12,19 @@ Admin Haus
 
 **Mainstadt**
 Abenteuergilde Pub
+Shady Pub
 Marktplatz
 Ladengegend drum rum
 - Schmied
-- Tailor
+- Tailor - Schogart und Adeline + kinder 
 - Kuriositäten
 Badehaus
 Solaire kloster
 Ältestenhaus
+
+
+
+
 
 
 **Auswärts**
@@ -31,3 +36,12 @@ Das Prinzenanwesen landeinwärts
 Mineneingang
 
 Moorfelder mit Turtoises
+
+
+---
+Gerüchte in Pubs
+
+Ein Serienmörder läuft herum
+Fest in 2 Wochen
+Unvertrauen der Zwergenmine gegenüber
+Neuste Viecher in der Nähe vom Terrorwald gesehen

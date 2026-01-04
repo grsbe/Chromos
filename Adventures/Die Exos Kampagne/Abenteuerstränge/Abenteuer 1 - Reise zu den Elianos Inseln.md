@@ -63,20 +63,45 @@ Schogart und Familie haben das gekauft und zeigen dann am nächsten Tag symptome
 
 ---
 Scene 4: Schiffsfahrt hin
-
+Morgo Abenteurer Zwerg
 Sahuiguin attack
 Treasure im wasser zum angeln
 Wal
 
 ---
 Scene 5: Elianos Basiscamp
-Aquaelf-Stratege
+
+Morgo zeigt ihnen ein bisschen den ort
+Sie können in Bulabs hütte etwas bleiben
+zeigt auf die anderen abenteurer Teams die ihre Expeditionen vorbereiten
+
+Magische Items Verkaufsladen
+Aquaelf-Stratege Arkyron
+grüner Feendrache als Begleiter Dianci
+handelt mit Artefakten
 berät zur Reise hin: Drache, der Zwerg ist zur nördlichen Insel gefährlich da Drache
 frägt nach blauen schimmer artefakten
 
+Orvo
+curious and soft-spoken
+war zusammen mit Urgon unterwegs
+genuinely interested in the characters’ lives, and asks them lots of questions after inviting them to share his fire
+enjoys uncovering the secrets of Elianos
+- Orvo and Urgon found the blue vials in Salsvault, an Aeorian ruin partially submerged in water in a region of Foren where the glacial ice is thin. Explorers call this region Thin Sheets. Orvo believes the ruin is as well preserved as it is because the structure was reinforced with magic, as were many of Aeor’s buildings that housed hazardous materials or secret projects.
+- Salsvault is two hundred miles northwest of Syrinlya. Ice mephits are drawn to the magic of something at that location. Orvo and Urgon found the ruin after following one of the creatures.
+- Salsvault appears to have been an Aeorian lab. Orvo and Urgon explored only three of its chambers before being chased away by animated suits of armor.
+- The dwarves didn’t know what the vials contained.
+- Orvo sold his share of the treasure from Salsvault to the Buyer. Urgon decided to hang onto his share until he returned home to Palebank Village.
 
+Kleiner Laden für Ausrüstung
+- Warme klamotten
+- Feuerzeug
+- Magische laterne
+- Fishing Poles
+- Rationen
+- Schlittschuhe
 
-Kleiner Laden
+Laden mit Wolfsschlittenservice
 
 
 
@@ -96,13 +121,20 @@ Wenn die Truppe den Drachen fightet spielt er mit ihnen aber lässt sie irgendwa
 Either way:
 Boot mit Eistroll und schatz vom Drache
 
-
 Weg drum rum:
+Snowy Owlbear
+
+Wenn die ganz vom Weg abkommen:
+Gruselhütte
 
 
+---
 Scene6b: Im Eislabyrinth
-Eislabyrinth
-Gabu
+
+Gnoll shrine mit Anführerin
+eisstatue und Gabu 
+Drachenei
+
 Eine Schlucht/Gletscherritze die steil hinabgeht
 Verschlossener Laboreingang mit Rätsel plus Schlüssel
 
