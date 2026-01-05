@@ -133,8 +133,10 @@ Scene6b: Im Eislabyrinth
 
 Gnoll shrine mit Anführerin
 eisstatue und Gabu 
+Gabu können in die Wand verschwinden, nur das Symbol ist noch etwa auf der Wand https://5e.tools/bestiary.html#animated%20knife_egw
 Drachenei
 
+Ein eingefrorener untoter Hai im Eis
 Eine Schlucht/Gletscherritze die steil hinabgeht
 Verschlossener Laboreingang mit Rätsel plus Schlüssel
 
