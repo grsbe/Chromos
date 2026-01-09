@@ -2,17 +2,18 @@
 ---
 ## Scene 1: Start in Cobeau Vision aus der Vergangenheit
 
-
+https://www.youtube.com/watch?v=GBsC24Zq4Qg
+intense dramatic violin
 Wasser.  
 Regen fällt in dichten Schichten auf das aufgewühlte Meer hinab und zerreißt dessen Oberfläche wie tausend fallende Nadeln. Die See ist eine lebendige Masse, atmend, tobend, als wolle sie den Himmel zurückschlagen. Jeder Schritt im nassen Sand wird vom Heulen des Windes verschluckt, jeder Gedanke vom Donner fortgerissen.
 
-Der Horizont existiert nicht mehr.
+Der Horizont - eine blasse Erinnerung, verschluckt von inneinander verschlungenen Nebelwänden.
 
-Wo einst Himmel und Meer sich berührten, erhebt sich nun eine Wand. Eine kolossale Front aus übereinander geschichteten Wolken, schwarz wie nasser Stein, durchzogen von wandernden Lichtadern. Sie ist keine Grenze, sondern ein Urteil. Langsam, unaufhaltsam schiebt sie sich näher, und mit ihr wächst ein Druck in der Luft, als würde die Welt selbst den Atem anhalten. Der Sturm ist nicht im Anmarsch – er ist bereits hier und entscheidet nur noch, _wann_ er zuschlägt.
+Wo einst Himmel und Meer sich berührten, erhebt sich eine graue Wand. Eine kolossale Front aus übereinander geschichteten Wolken, schwarz wie nasser Stein, durchzogen von wandernden Lichtadern. Langsam, unaufhaltsam schiebt sie sich näher, und mit ihr wächst ein Druck in der Luft, als würde die Welt selbst den Atem anhalten. Der Sturm ist nicht im Anmarsch – er ist bereits hier und entscheidet nur noch, _wann_ er zuschlägt.
 
-Aus diesem Chaos formt sich eine Gestalt.
+Im Wolkenchaos kristallisiert sich langsam eine Gestalt heraus.
 
-Der Gott ist kein Körper, sondern eine Silhouette aus Bewegung. Regen und Wind ziehen Linien, wo Schultern sein könnten. Blitze laufen wie Muskeln unter einer Haut aus Wolken, spannen sich, entspannen sich, schlagen Funken. Dort, wo ein Gesicht sein sollte, wirbelt der Sturm dichter, langsamer – zwei gleißende Kerne aus Licht öffnen sich darin wie Augen, kalt und grenzenlos. Sein Haupt reicht in die höchsten Wolkenschichten, sein Unterleib verliert sich im peitschenden Regen, als wäre er nie vollständig Teil dieser Welt gewesen.
+Das wesen besitzt keinen Körper, sondern besteht mehr aus einer Silhouette aus Bewegung, Lichterblitzen und Sturmwolken, ewig ineinander verflochten. Regen und Wind ziehen Linien, wo Schultern sein könnten. Blitze laufen wie Muskeln unter einer Haut aus Wolken, spannen sich, entspannen sich, schlagen Funken. Dort, wo ein Gesicht sein sollte, wirbelt der Sturm dichter, langsamer und zwei gleißende Kerne aus Licht öffnen sich darin wie Augen, kalt und grenzenlos. Sein Haupt reicht in die höchsten Wolkenschichten, sein Unterleib verliert sich im peitschenden Regen, als wäre er nie vollständig Teil dieser Welt gewesen.
 
 Wenn er sich bewegt, bewegt sich alles.  
 Wellen knicken ein.  
