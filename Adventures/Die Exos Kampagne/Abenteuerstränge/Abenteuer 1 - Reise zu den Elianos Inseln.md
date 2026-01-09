@@ -34,6 +34,7 @@ Freddy, bitte beschreibe deinen Charakter und wie er gerade da am Strand steht, 
 ---
 ## Scene 2: Missionbriefing bei Geldar
 
+Despacito play awake
 
 Die Party ist in Geldars Büro und kriegt ein Briefing über die Mission.
 Infos:
