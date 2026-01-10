@@ -8,7 +8,7 @@
 
 Goals: Lern die Leute und die Stadt kennen
 
-
+Referenzier die Geschichte von der Stadt irdendwie
 
 ---
 
@@ -33,10 +33,13 @@ https://5e.tools/adventure.html#crcotn,1
 ### 2. Magisches Labyrinth
 
 ### 3. Schwimmwettrennen
+bei den Gezeitenrufern
 
 ### 4. Armwrestling
+Fleischer
 
 ### 5. Reisfarmen
+Goblins
 
 ### 6. Schildkrötenherden
 

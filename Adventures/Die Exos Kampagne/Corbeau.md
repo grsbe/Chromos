@@ -2,11 +2,14 @@
 
 Gebäude und Dinge die auf jeden Fall existieren:
 
-**Hafen**
+**Hafen** / Docks
+großer Pier für zwei große Boote
+kleiner Pier für kleinere Segelboote
+
 Pub
 Lagerhallen
 kleiner Pier
-großer Pier
+
 Schiffreparaturhaus
 Admin Haus
 

@@ -11,14 +11,26 @@
             "id": "05cf92ef8ebd1882",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Adventures/Die Exos Kampagne/Maps/Elianos.svg"
+              },
+              "icon": "lucide-image",
+              "title": "Elianos"
+            }
+          },
+          {
+            "id": "6fafc15655fbfb52",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Campaign.md",
+                "file": "Adventures/Die Exos Kampagne/Corbeau.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prep Campaign"
+              "title": "Corbeau"
             }
           },
           {
@@ -35,7 +47,8 @@
               "title": "Session Planner"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,36 +196,37 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "05cf92ef8ebd1882",
+  "active": "6fafc15655fbfb52",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Session 1.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Campaign.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
-    "Adventures/Die Exos Kampagne/Encounter Ideen.md",
-    "Adventures/Die Exos Kampagne/Wassermonolog.md",
-    "Adventures/Die Exos Kampagne/Ideen.md",
-    "Adventures/Die Exos Kampagne/Corbeau.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Das Dreadwoodartefakt.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Sidequest - Spiegel unter der Mine.md",
-    "Adventures/Die Exos Kampagne/Session Planner.md",
     "Adventures/Die Exos Kampagne/Maps/Elianos.md",
+    "Adventures/Die Exos Kampagne/Maps/Untitled.md",
     "Adventures/Die Exos Kampagne/Maps/Elianos.svg",
-    "Adventures/Die Exos Kampagne/Maps",
-    "Yllmagnalia/Phantheon/Götter in Exos.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Finalquest - Spiegel unter der Mine.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 6 - Reise nach Elianos.md",
-    "Yllmagnalia/Phantheon/Das alte Pantheon.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 5 - Infiltatrion der Sahuaguin, Bekämpfung der Basis.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3 - Die gruselige Hütte.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+    "Adventures/Die Exos Kampagne/Corbeau.md",
+    "Adventures/Die Exos Kampagne/Corbeau Umgebung.md",
+    "Adventures/Die Exos Kampagne/Encounter Ideen.md",
     "Adventures/Die Exos Kampagne/Factions.md",
-    "Yllmagnalia/Die Zeitlinien.md",
-    "Yllmagnalia/Abgründe und Aufstiege.md",
-    "Yllmagnalia/Phantheon/Die neuen Götter.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council.md",
-    "Adventures/Die Exos Kampagne/NPCs/Havis/König Keoland.md",
-    "Adventures/Die Exos Kampagne/NPCs/Havis/Prinzessin Cyrille.md",
-    "Books/Immerscheingarten 1.md",
-    "Books/Haven 1.md",
-    "Books/Das Ende 1.md",
-    "Books/Das Ende.md",
-    "Books/Abraxus 1.md",
+    "Adventures/Die Exos Kampagne/Ideen.md",
+    "Adventures/Die Exos Kampagne/Unterwassertempel.md",
+    "Adventures/Enemy Statblocks/Bed Wyrmling.md",
+    "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
+    "Adventures/Enemy Statblocks/Crazy Cannibal.md",
+    "Adventures/Enemy Statblocks/Eith bessesener Zaros.md",
+    "Adventures/Mechanics/Fishing.md",
+    "Adventures/Mechanics/Gambling.md",
+    "Adventures/Mechanics/Shops.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/NPCS/Schogart.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/NPCS/Arty.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/NPCS/Svelte.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/NPCS/Tinnie.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/NPCS/Viola.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/Die Exos Kampagne/Maps",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Adventures/Die Exos Kampagne/Abenteuerstränge",
@@ -227,7 +241,6 @@
     "Yllmagnalia/Magnialia.excalidraw.svg",
     "Adventures/Die Exos Kampagne",
     "Adventures/WrittenOut/Timeloop",
-    "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
     "Haven/HavenMap.svg",
     "Mythandras/Exos/ExosExcal.svg",
     "Mythandras/MythandrasExcali.svg",
