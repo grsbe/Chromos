@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Unterwassertempel"
             }
+          },
+          {
+            "id": "b38253f17f131d33",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5770b4a9053e317c",
+  "active": "b38253f17f131d33",
   "lastOpenFiles": [
     "Adventures/Die Exos Kampagne/Coole Momente Ideen.md",
     "Adventures/Die Exos Kampagne/Corbeau.md",
