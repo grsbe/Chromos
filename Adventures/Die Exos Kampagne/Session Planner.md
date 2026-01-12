@@ -4,7 +4,7 @@
 ---
 ## Story Arcs
 
-
+0. Göttersealing tränke
 1. Fare at Corbeau -> Artefakt
 2. Investigate horror haus -> Gangster
 3. Investigate schiff -> Echsen leute
@@ -13,23 +13,40 @@
 6. Get all stones and find a way to contain the fiend, alle Steine zusammen 
 
 
-### Side Quests
+### Quests
 
 Artefakte:
 
-Die Schwester des Prinzen trägt ein Artefakt um den Hals, das Team wird zu einem Ball eingeladen
+Eins liegt unter der Stadt in der Höhle der Ahnen
+gewährt wünsche in anderen wahrzunehmen
 
-Ein Serienmörder trägt einen am Ring oder hat ihn halb absorbiert
+Die Schwester des Prinzen trägt ein Artefakt um den Hals
+Das Artefakt stammt aus dem entfernten Thailenis gewährt magische Kontrolle
+Erlaubt es Remaros die Magie zu benutzen vom Nutzer, aber Remaros grad unerreichbar
+Assassine Wasserelf will die ermorden oder das Amulett klauen
 
-Ein Schlammkrokodil hat eins
+Assassine Wasserelf hat einen
+erlaubt es wichtig oder unwichtig zu erscheinen
 
-Der Aquaelf der die Sahaguinsanführt hat eins und sammelt den Rest
+Mirador hat eins sunless citadel?
+Erlaubt Fleischund DNA grafting
 
-Die Entführte Echsen Prinzessin trägt eins, das jetzt der Aqua Elf hat
+Die Entführte Echsen Prinzessin trug eins, das jetzt der Aqua Elf hat
+Brute Aquaelf der die Sahaguins anführt hat eins 
+Erlaubt, dass leute einen als mächtig wahrnehmen
 
 Eins liegt im Geisterpiratenschiff
+hält Leute am Leben aber neidisch
 
+Piraten Outpost
+Erzeugt Glück v.a. was Stürme angeht, lässt einen Glücklich erscheinen
 
+Badehaus hinter dem Spiegel
+lässt andere schön erscheinen
+
+im Moor hat eine moorschlange eins gegessen und ist dadurch riesig geworden
+
+Eins hat der Stratege bereits (lässt smart erscheinen) und eins findet er in Elianos
 
 ---
 
