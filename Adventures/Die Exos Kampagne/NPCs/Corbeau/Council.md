@@ -17,10 +17,11 @@ Minenzwergchefin - Manistrad Kupferlocke
 Gellan Quellwasser
 
 
-
 Eda Ohland
 
 
 ---
 
-Vanir
+
+Anders Solomon hält eher zu eda und Gellan
+

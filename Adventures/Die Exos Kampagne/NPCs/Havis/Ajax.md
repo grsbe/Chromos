@@ -5,3 +5,5 @@ Glaubt an ein starkes vereinigtes Havis das sich allen widersetzen kann.
 Will nicht dass Leute zu schaden kommen.
 
 Sehr smart und kampfstark, keine Magie
+
+Kümmert sich derzeit Südlich um die Piraten vor allem
