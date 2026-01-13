@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Corbeau.md",
+                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Campaign.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corbeau"
+              "title": "Prep Campaign"
             }
           },
           {
@@ -46,21 +46,9 @@
               "icon": "lucide-file",
               "title": "Nymeria Mensch - Leni"
             }
-          },
-          {
-            "id": "ebcf218182cb0501",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,15 +196,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ebcf218182cb0501",
+  "active": "6fafc15655fbfb52",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Corbeau.md",
+    "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch - Leni.md",
     "Adventures/Die Exos Kampagne/PCs/Untitled Highelf - Freddy.md",
     "Adventures/Die Exos Kampagne/PCs/Untitled Reborn - Lambert.md",
     "Adventures/Die Exos Kampagne/PCs/Amiryllia Mensch - Steffi.md",
-    "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch - Leni.md",
     "Adventures/Die Exos Kampagne/Session Planner.md",
     "conflict-files-obsidian-git.md",
-    "Adventures/Die Exos Kampagne/Corbeau.md",
     "Adventures/Die Exos Kampagne/Gerüchte.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Sidequest - Die Prinzessin.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
