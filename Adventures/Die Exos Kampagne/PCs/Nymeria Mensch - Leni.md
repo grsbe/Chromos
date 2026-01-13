@@ -9,8 +9,9 @@ Tempel im Berg
 - Ich werde für eine friedvolle Welt eintreten.
 
 Will nach ihren Wurzeln suchen
-Trinket
+Trinket dem Baby mit gegeben
 Trinket dass sie nach Corbeau gebracht hat
 
 
 Assassins Tochter oder sowas? Oder actually sie ist die Tante
+Irgendwas mit dem Vanirkult

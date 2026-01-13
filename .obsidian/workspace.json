@@ -39,16 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/PCs/Nymeria - Leni.md",
+                "file": "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch - Leni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nymeria - Leni"
+              "title": "Nymeria Mensch - Leni"
+            }
+          },
+          {
+            "id": "ebcf218182cb0501",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,12 +208,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5c383b7f0b20ff07",
+  "active": "ebcf218182cb0501",
   "lastOpenFiles": [
     "Adventures/Die Exos Kampagne/PCs/Untitled Highelf - Freddy.md",
     "Adventures/Die Exos Kampagne/PCs/Untitled Reborn - Lambert.md",
     "Adventures/Die Exos Kampagne/PCs/Amiryllia Mensch - Steffi.md",
-    "Adventures/Die Exos Kampagne/PCs/Nymeria - Leni.md",
+    "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch - Leni.md",
     "Adventures/Die Exos Kampagne/Session Planner.md",
     "conflict-files-obsidian-git.md",
     "Adventures/Die Exos Kampagne/Corbeau.md",
