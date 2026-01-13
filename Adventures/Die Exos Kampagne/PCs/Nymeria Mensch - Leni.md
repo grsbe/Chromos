@@ -12,6 +12,6 @@ Will nach ihren Wurzeln suchen
 Trinket dem Baby mit gegeben
 Trinket dass sie nach Corbeau gebracht hat
 
-
+Ties zu Anders Solomon als erster Clue
 Assassins Tochter oder sowas? Oder actually sie ist die Tante
 Irgendwas mit dem Vanirkult

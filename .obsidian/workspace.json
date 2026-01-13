@@ -37,12 +37,14 @@
             "id": "3256d16816968f49",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.md"
+                "file": "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch - Leni.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-13 13.24.15.excalidraw"
+              "icon": "lucide-file",
+              "title": "Nymeria Mensch - Leni"
             }
           }
         ],
@@ -196,8 +198,9 @@
   },
   "active": "3256d16816968f49",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch - Leni.md",
+    "Adventures/Die Exos Kampagne/NPCs/Havis/König Skotti von Keoland.md",
     "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.md",
+    "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch - Leni.md",
     "Adventures/Die Exos Kampagne/Maps/Untitled.md",
     "Adventures/Die Exos Kampagne/Maps/Untitled 1.md",
     "Adventures/Die Exos Kampagne/Maps/Untitled.canvas",
@@ -223,7 +226,6 @@
     "Adventures/Die Exos Kampagne/Factions.md",
     "Adventures/Die Exos Kampagne/Ideen.md",
     "Adventures/Die Exos Kampagne/Unterwassertempel.md",
-    "Adventures/Enemy Statblocks/Bed Wyrmling.md",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
     "Adventures/Die Exos Kampagne/Maps",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
