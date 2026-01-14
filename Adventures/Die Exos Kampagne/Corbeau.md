@@ -2,29 +2,36 @@
 
 Gebäude und Dinge die auf jeden Fall existieren:
 
-**Hafen** / Docks
+**Obere Küste**
+Oben: Solaire tempel
+Lumisbaum
+Unten: 
+Gezeitenrufer
+Felsenklippen
+paar entlegenere Wohnhauser
+kleinere Anlegestellen
+
+**Hafen / Docks** rechts um die Mainstadt herum
 großer Pier für zwei große Boote
 kleiner Pier für kleinere Segelboote
-
+Anderssolomon haus
 Pub
 Lagerhallen
 kleiner Pier
 
-Schiffreparaturhaus
+Schiffswerft
 Admin Haus
 
 **Mainstadt**
 Abenteuergilde Pub
-Shady Pub
-Marktplatz
+Markthauptplatz
 Ladengegend drum rum
 - Schmied
 - Tailor - Schogart und Adeline + kinder 
 - Kuriositäten
-Badehaus
-Solaire kloster
+nördlich Badehaus
 Ältestenhaus
-
+Felder
 
 
 

@@ -1,6 +1,8 @@
 
 Weise
-Gottabgewanter Tempel
+Gott abgewandter Tempel
+Am Mittelberg von Exos
+
 Tempel im Berg
 - Ich werde die Prinzipien von Taekwondo beachten.
 - Ich werde den Lehrer und die höheren Grade respektieren.
