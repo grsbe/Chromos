@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Prep Campaign"
             }
+          },
+          {
+            "id": "2e336496dc2f2554",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,7 +224,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b38253f17f131d33",
+  "active": "2e336496dc2f2554",
   "lastOpenFiles": [
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Sidequest - Die Prinzessin.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Campaign.md",
