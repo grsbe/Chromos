@@ -20,10 +20,14 @@ Captain Ariel führt Erkundung in den Wald um mehr über die Kreaturen heraus zu
 führt die Truppe in den Wald hinein und ist super tollpatschig und tritt in jede Falle
 
 
-
+2.Quest
+Kinder werden entführt, systematisch
 
 ---
 Karte, 
+
+3 Vampirprinzen die um die Gönnung von Mirador betteln
+Sadist, 
 
 kann verfluchte Hütte hier wieder verwenden
 Schau in Abenteuern nach
