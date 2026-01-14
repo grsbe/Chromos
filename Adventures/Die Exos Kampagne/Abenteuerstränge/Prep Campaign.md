@@ -18,6 +18,12 @@ First Grim: Die Elfen finden alle Steine
 Second Grim: Die Elfen nehmen die Steine in besitz auf alle möglichen Arten
 Third Grim: Die Elfen gehen in die Spiegelwelt unter dem Dorf und bringen Remaros zurück in die echte Welt
 
+Brute-Elf und Sahuaguin
+Goal: Corbeau einnehmen
+
+Piraten Prinz:
+COrbeau sacken
+
 Front: Mirador
 Goal: Die Stadt einnehmen mit seinen mächtigen Bestien die er erschafft
 First Grim: Forschen, züchten, kombinieren und eine Armee ansammeln, Corbeau testen
@@ -39,5 +45,7 @@ Goal: Fisch exporte aushandeln
 First: Wasser und Handelsruten sichern
 Second: Standort im Norden und Süden establishen
 
-Front: Die Echsen
+Front: Die Echsen 
 Ziel: Ihre Heimat wieder erlangen
+
+Front: 
