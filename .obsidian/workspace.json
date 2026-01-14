@@ -55,28 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Campaign.md",
+                "file": "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch - Leni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prep Campaign"
-            }
-          },
-          {
-            "id": "2e336496dc2f2554",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "Nymeria Mensch - Leni"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,8 +212,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2e336496dc2f2554",
+  "active": "b38253f17f131d33",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Campaign.md",
     "conflict-files-obsidian-git.md",
     "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch - Leni.md",
     "Adventures/Die Exos Kampagne/NPCs/Havis/König Skotti von Keoland.md",
@@ -233,7 +222,6 @@
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Piratenprinzen.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Sidequest - Die Prinzessin.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Campaign.md",
     "Adventures/Die Exos Kampagne/Gerüchte.md",
     "Adventures/Die Exos Kampagne/Coole Momente Ideen.md",
     "Yllmagnalia/Exos/Va'Nis/Va'ris.md",

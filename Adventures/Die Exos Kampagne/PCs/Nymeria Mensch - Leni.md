@@ -15,3 +15,5 @@ Trinket dass sie nach Corbeau gebracht hat
 Ties zu Anders Solomon als erster Clue
 Assassins Tochter oder sowas? Oder actually sie ist die Tante
 Irgendwas mit dem Vanirkult
+
+Tochter eines Mannes der versucht hat den König umzubringen? In Paris oder in Havis?
