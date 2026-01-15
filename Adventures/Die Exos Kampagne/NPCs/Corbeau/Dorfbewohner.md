@@ -3,7 +3,7 @@
 Stadtmitte
 
 Tailor Näher
-Schogart und CoKG
+Schogart und CoKG: Tyranie und Licht
 
 
 Schmied
