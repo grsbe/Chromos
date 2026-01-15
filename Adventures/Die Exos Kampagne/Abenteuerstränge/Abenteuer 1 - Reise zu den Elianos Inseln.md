@@ -79,7 +79,7 @@ zeigt auf die anderen abenteurer Teams die ihre Expeditionen vorbereiten
 
 Magische Items Verkaufsladen
 Aquaelf-Stratege Arkyron
-grüner Feendrache als Begleiter Dianci
+violetter Feendrache als Begleiter Dianci, kann teleportieren
 handelt mit Artefakten
 berät zur Reise hin: Drache, der Zwerg ist zur nördlichen Insel gefährlich da Drache
 frägt nach blauen schimmer artefakten

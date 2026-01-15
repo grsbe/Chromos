@@ -44,3 +44,22 @@ Goblins
 ### 6. Schildkrötenherden
 
 ### 7. Rätsel
+
+
+
+---
+Jagd nach unten in der Unterwasserhöhle
+
+bis zu Hai, der das Amulett trägt
+Aquaelf competiert mit
+
+unten angekommen, Hai bekämpfen Amulett bekommen
+Hai crasht in Illusion die Aquaelf erzeugt hat
+
+Raum durch zeigt prähistorische Ruine
+mit Spiegel und Aquaelf vor dem Spiegel der Wünsche, das ein Spiegelartefakt hält
+
+Bossfight mit Arterazitgun die über Spiegel abprallt
+Und Automata die auf seiner Seite kämpfen
+er escaped in den Spiegel 
+Spiegel mit Vision die erklärt
