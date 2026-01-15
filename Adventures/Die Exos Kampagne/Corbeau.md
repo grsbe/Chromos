@@ -27,14 +27,15 @@ Abenteuergilde Pub
 Markthauptplatz
 Ladengegend drum rum
 - Schmied
-- Tailor - Schogart und Adeline + kinder 
+- Tailor - Schogart und Adeline + kinder: Tyranie und 
 - Kuriositäten
 nördlich Badehaus
-Ältestenhaus
 Felder
 
+Rathaus
 
-
+**Oberstadt**
+ 
 
 
 **Auswärts**
