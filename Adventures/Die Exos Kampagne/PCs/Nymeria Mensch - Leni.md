@@ -19,3 +19,6 @@ Assassins Tochter oder sowas? Oder actually sie ist die Tante
 Irgendwas mit dem Vanirkult
 
 Tochter eines Mannes der versucht hat den König umzubringen? In Paris oder in Havis?
+
+Ideen:
+Spiegeldimension die 20 Jahre in die Vergangenheit zurück führt dass man da den Vater in der Spiegeldimension antreffen kann?
