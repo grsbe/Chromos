@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+                "file": "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abenteuer 1 - Reise zu den Elianos Inseln"
+              "title": "Council"
             }
           }
         ],
@@ -214,18 +214,19 @@
   },
   "active": "b38253f17f131d33",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+    "Adventures/Die Exos Kampagne/PCs/Roman.md",
+    "Adventures/Die Exos Kampagne/PCs/Untitled - Roman oder Jann.md",
     "Adventures/Die Exos Kampagne/NPCs/Remaros/Stratege Aquaelf.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
     "Adventures/Die Exos Kampagne/NPCs/Remaros",
     "Adventures/Die Exos Kampagne/PCs/Untitled Highelf - Freddy.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Dorfbewohner.md",
     "Adventures/Die Exos Kampagne/NPCs/Havis/Prinz Elliander.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Sidequest - Die Prinzessin und ihr Ball.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Untitled.md",
     "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Gezeitenrufer.md",
-    "Adventures/Die Exos Kampagne/PCs/Untitled - Roman oder Jann.md",
     "Adventures/Die Exos Kampagne/PCs/Untitled Reborn - Lambert.md",
     "Adventures/Die Exos Kampagne/NPCs/Havis/König Skotti von Keoland.md",
     "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch - Leni.md",
@@ -240,7 +241,6 @@
     "Yllmagnalia/Exos/Va'Nis/Va'ris.md",
     "Yllmagnalia/Exos/Sidaris/Waffen in Siris.md",
     "Yllmagnalia/Exos/Sosoni/Somi Soni Gebirgsstämme.md",
-    "Yllmagnalia/Exos/Sidaris/Si'Ris.md",
     "Yllmagnalia/Exos/Va'Nis",
     "Yllmagnalia/Exos/Sidaris",
     "Yllmagnalia/Exos/Sosoni",
