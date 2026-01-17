@@ -36,19 +36,58 @@ Freddy, bitte beschreibe deinen Charakter und wie er gerade da am Strand steht, 
 
 Despacito play awake
 
-Die Party ist in Geldars Büro und kriegt ein Briefing über die Mission.
+Die Party ist in Geldars Quellwassers büro Büro und kriegt ein Briefing über die Mission.
 Infos:
 - Er hat gerade wenig Leute an der Hand, da er sich um das Fest der Ahnen in *2 Wochen* kümmern muss und hat nach Abenteurern gefragt die ihm bei einer Merkwürdigen Krankheit helfen kann
-- 
+Er enthüllt die Eis Statue, ein Zwerg mit einer beeindruckenden muskulösen Statur 
+- Die Krankheit hat Urgon Eisenschwert getroffen und der ist jetzt eine Eisstatue
+- Urgon war ein Abenteurer der regelmäßig den Terrorwald und die Elianosinseln besucht hat
+- Er ist vor 3 Wochen zurückgekommen von den Inseln und war erst fine, dann hat er eine merkwürdige Krankheit entwickelt die hat langsam werden und blaue Venenspuren überall auf dem Körper entstehen hat lassen. Irgendwann starb er und wurde zur Eisstatue
+- Erst dachte er dass es ein isolierter Fall ist aber eine weitere Person ist aufgetaucht: Tulgi Lutan, eine dwarwische Jägerin hat es auch erwischt.
+- Er hat versucht mit ihr zu reden um mehr heraus zufinhden aber sie hat sich geweigert und wollte in Ruhe sterben
 
 ---
 CORBEAU
 Scene 3a: Corbeau rumlaufen
 siehe Corbeau
 
-Scene 3a: Lorels haus
 
-Scene 3b: Der Antiquariatenladen
+---
+Scene: Urgons Haus
+Diese enge, dunkle Hütte mag zu Lebzeiten ihres Besitzers ein gemütlicher Ort gewesen sein. Nun steht ein ungemachtes Bett neben einem kalten Kamin, an dessen Kaminsims der Kopf eines knurrenden weißen Ungeheuers mit grauen Hörnern hängt. Auf der anderen Seite des Raumes steht ein kleiner Tisch mit schmutzigem Geschirr und einem zwergenhaften Stuhl davor, davor zwei leere Regale, deren Inhalt auf dem Boden verstreut ist: Küchenutensilien, Trockenvorräte, Abenteuerausrüstung und ein paar Bücher.
+- Am Rande des Dorfes
+- Mila Teno (a lawful good, female wood elf [scout](https://www.dndbeyond.com/monsters/17007-scout)) stands guard outside the front door. und lässt sie rein
+- Any character who examines the mess in the cabin realizes that someone recently trashed the place while searching it. A successful DC 18 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check reveals the intruder’s footprints. Tulgi Lutan was the culprit, desperate for any clues that might help her cure the frigid woe that is killing her. Her tracks lead outside and back to her cabin (see “[Tulgi’s Cabin](https://www.dndbeyond.com/sources/dnd/wa/frozen-sick#TulgisCabin)” below).
+Adventuring Equipment
+- Urgon’s adventuring equipment consists of a silvered maul; a suit of splint armor sized for a dwarf; bulky, fur-lined clothing sized for a dwarf; a grappling hook; and a hooded lantern.
+Mounted Head
+- A character who succeeds on a DC 15 Intelligence ([Nature](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check recognizes that the head mounted above the mantle belonged to a yeti, a monstrosity found in Eiselcross.
+Strange Receipt
+- A character who searches through the books on the shelf and succeeds on a DC 10 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check finds a folded receipt used as a bookmark. The receipt is dated two months previous, and indicates that Urgon sold several Aeorian items found in Eiselcross to local antique shop Pelc’s Curiosities for 1,000 gp. The items are listed as a dagger, a scroll case, a jade statuette, a quiver of twenty arrows, a silver ring set with a jasper, and two blue glass vials.
+- Characters who are residents of Palebank Village or have been there for a while know of Pelc’s Curiosities—and also know that the shop was robbed and vandalized two months ago.
+Development
+- After searching the cabin, the characters can continue their investigation by going to Tulgi’s cabin or by stopping at Pelc’s Curiosities (assuming they found the receipt).
+
+---
+Scene 3a: Tulgis haus
+Diese schneebedeckte Hütte wirkt von außen friedlich und still. Ihre Fenster sind mit Läden verschlossen, und ein stetiger Rauchstrom, der aus dem Schornstein aufsteigt, deutet auf ein loderndes Feuer im Inneren hin.
+- Das Dach der Hütte ist 12 Fuß hoch. Das Erklimmen der Außenwände erfordert eine erfolgreiche Stärke-(Athletik)-Probe **DC 10**.
+- Die Holztür der Hütte ist verschlossen und hat **AC 15**, 18 Trefferpunkte sowie Immunität gegen Gift- und psychischen Schaden. Das Schloss kann mit einer erfolgreichen Geschicklichkeitsprobe **DC 12** unter Verwendung von Diebeswerkzeug geknackt werden, oder die Tür kann mit einer erfolgreichen Stärke-(Athletik)-Probe **DC 15** aufgebrochen werden. Tulgi trägt den Schlüssel, der die Tür aufschließt.
+- Jede der vier Wände der Hütte hat ein Fenster, das von innen mit Läden verschlossen und verriegelt ist. Ein Fenster kann von außen mit einer erfolgreichen Geschicklichkeitsprobe **DC 12** unter Verwendung von Diebeswerkzeug entriegelt werden.
+- Das Innere der Hütte ist durch Feuer in einem Kohlebecken und einem Kamin hell erleuchtet, doch der von beiden abgegebene Rauchschleier macht den Innenraum leicht verdeckt.
+Wenn die Charaktere an die Tür klopfen, ruft Tulgi Lutan (speed 10feet) von der anderen Seite und fordert sie auf, zu verschwinden. Ein Charakter, der durch die Tür zurückruft und eine erfolgreiche Charisma-Probe **DC 12** (Täuschung, Einschüchterung oder Überreden) ablegt, überzeugt Tulgi, die Tür zu öffnen und die Gruppe hereinzulassen. Andernfalls ignoriert sie alles, was die Charaktere sagen.
+
+Innendrin:
+Die Hitze in dieser kleinen Hütte trifft einen wie ein Hammerschlag. In der Mitte des Raumes steht ein Tisch, auf dem ordentlich gestapelte Teller, Werkzeuge und Utensilien liegen. Der Geruch einer köchelnden Suppe steigt aus einem Topf auf, der im Inneren eines lodernden Kamins hängt. Am gegenüberliegenden Ende des Raumes brennt ein weiteres Feuer in einem eisernen Kohlebecken und füllt die Hütte mit einem rauchigen Dunst. Zitternd am Ende eines Bettes in der Nähe des Kohlebeckens liegt eine Zwergin, in Decken gehüllt. Hervortretende blaue Adern ziehen sich über ihr Gesicht, ihren Hals und ihre Hände.
+
+Tulgi greift an (+ zwei pet wolves ira und jira) falls nicht überzeugt sonst liegt sie im Bett
+
+if she surrenders to them, she tells them only that she has the same affliction that killed Urgon, and that she’s looking for a cure
+12 DC Charisma oder human charisma argumente
+
+
+---
+Scene 3b: Pelcs Antiquariatenladen
 
 
 Kampf gegen 5 cr 1/2 Banditen (aber 2d6+2 dmg), Fenster und mechanik regale umzuschmeißen für restrained wenn unter regal und 

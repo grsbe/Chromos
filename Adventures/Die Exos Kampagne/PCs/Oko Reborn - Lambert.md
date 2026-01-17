@@ -6,5 +6,12 @@ Er nutzt dafür ein Spiegelartefakt, das er im Wald gefunden hat.
 
 Lambert wacht immer wieder als er nicht selber auf und ertappt sich dabei
 
-Entweder hat ein Ratlingsservantin Lambert hinausgeschafft oder ich kann irgendwie Lenis backstory damit verbinden.
+Entweder hat ein Ratlingsservantin Lambert hinausgeschafft oder wer anders
+Zarkann ist Master von Mirador?
 Irgendwas mit Memories
+
+
+
+
+
+Magische Items: Die Gun
