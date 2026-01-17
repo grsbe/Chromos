@@ -83,7 +83,9 @@ Die Hitze in dieser kleinen Hütte trifft einen wie ein Hammerschlag. In der Mit
 Tulgi greift an (+ zwei pet wolves ira und jira) falls nicht überzeugt sonst liegt sie im Bett
 
 if she surrenders to them, she tells them only that she has the same affliction that killed Urgon, and that she’s looking for a cure
-12 DC Charisma oder human charisma argumente
+12 DC Charisma oder human charisma argumente:
+- Tulgi kam mit Hulil von Düsterbach einem Dorf weiter im Norden an der Küste 
+- Beide arbeiten für die Utolotl Familie, einer Gruppe Schmugglern in der Gegend
 
 
 ---
