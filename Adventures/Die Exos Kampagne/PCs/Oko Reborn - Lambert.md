@@ -1,5 +1,5 @@
 
-
+Z'arkann war der actual original elf
 Mirador ein Dunkelelf hat Lambert geschaffen als Kopie um sich vor dem Tod zu bewahren.
 er lebt im Dreadwood seit über 300 Jahren und erschafft fürchterliche Kombinationen aus Tierwesen für sein Research und wissenschaft.
 Er nutzt dafür ein Spiegelartefakt, das er im Wald gefunden hat.
