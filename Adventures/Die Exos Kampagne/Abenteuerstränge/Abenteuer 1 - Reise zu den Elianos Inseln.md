@@ -106,8 +106,8 @@ Schogart und Familie haben das gekauft und zeigen dann am nächsten Tag symptome
 
 ---
 Scene 4: Schiffsfahrt hin
-Morgo Abenteurer Zwerg
-Sahuiguin attack
+Morgo Abenteurer Zwergin
+Sahuiguin attack / Viking Attack?
 Treasure im wasser zum angeln
 Wal
 
@@ -163,9 +163,12 @@ Wenn die Truppe den Drachen fightet spielt er mit ihnen aber lässt sie irgendwa
 
 Either way:
 Boot mit Eistroll und schatz vom Drache
+Glocke mit Awakened Sparm Whale
+Blizzard
 
 Weg drum rum:
-Snowy Owlbear
+Blizzard
+Höhle mit Snowy Owlbear
 
 Wenn die ganz vom Weg abkommen:
 Gruselhütte
@@ -189,6 +192,17 @@ Scene 7: Das Labor
 
 Untoter Forscher der 
 Irgend ein Selbstzerstörungstimer, escape entweder mit Walunterwasser oder wiederhoch klettern
+
+
+
+
+
+To whomever finds this:
+
+All my people are dead: my family, my friends, and my workers. I, too, am dead. Were it not for my quick thinking and prowess with necromancy, our important work at Salsvault would be over. I continue to labor in my undead form, trying to find a sickness that can infect the gods themselves. If I have perished, I implore you to find my lab, find my notes, and finish my work. The gods must pay for Himeriavis destruction.
+
+—Ferol Sal
+
 
 
 ---
