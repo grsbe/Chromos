@@ -12,3 +12,10 @@ Herumreisen und weg von Havis und Quests annehmen
 Neugierde auf Abenteuer neuerdings wieder
 Bein ist kind of wieder geheilt aber immer noch depresso
 
+
+
+
+---
+Ideen:
+
+Sprechendes Schwert?
