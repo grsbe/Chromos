@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/PCs/Untitled Highelf Cleric Trickster- Freddy.md",
+                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled Highelf Cleric Trickster- Freddy"
+              "title": "Abenteuer 1 - Reise zu den Elianos Inseln"
             }
           },
           {
@@ -47,20 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "Unterwassertempel"
-            }
-          },
-          {
-            "id": "b38253f17f131d33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Die Exos Kampagne/Encounter/Baboon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Baboon"
             }
           }
         ]
@@ -213,6 +199,7 @@
   },
   "active": "13dc70c2e0a1780e",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/PCs/Untitled Highelf Cleric Trickster- Freddy.md",
     "Adventures/Die Exos Kampagne/PCs/Untitled Dragonborn Paladin - Roman.md",
     "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch Monk - Leni.md",
     "Adventures/Die Exos Kampagne/PCs/Human Fighter - Jann.md",
@@ -229,7 +216,6 @@
     "Adventures/Die Exos Kampagne/NPCs/Remaros/Stratege Aquaelf.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
     "Adventures/Die Exos Kampagne/NPCs/Remaros",
-    "Adventures/Die Exos Kampagne/PCs/Untitled Highelf Cleric Trickster- Freddy.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Dorfbewohner.md",
     "Adventures/Die Exos Kampagne/NPCs/Havis/Prinz Elliander.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Sidequest - Die Prinzessin und ihr Ball.md",

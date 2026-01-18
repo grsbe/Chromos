@@ -90,13 +90,16 @@ if she surrenders to them, she tells them only that she has the same affliction 
 
 ---
 Scene 3b: Pelcs Antiquariatenladen
+Die dunkle Hütte vor dir hat ein Schild über der Tür, auf dem „Pelcs Kuriositäten“ steht, wobei das **P** als geschwungener Drache dargestellt ist. Obwohl der Laden geschlossen zu sein scheint, steht die Vordertür einen Spalt offen.
+
+Fünf vermummte Banditen scheinen den Laden geplündert zu haben und durchsuchen das zerbrochene Gerümpel auf dem Boden. Möbel, Regale und der Verkaufstresen wurden zerschlagen, und die Waren des Geschäfts liegen nun über den Boden verstreut.
+
+Kampf gegen 5 cr 1/2 [Banditen](https://5e.tools/bestiary.html#bandit_xmm,scaled:0.5) (aber 2d6+2 dmg), Fenster und mechanik regale umzuschmeißen für restrained und 1d4 wenn unter regal
+der boden ist difficult terrain weil überall zeug liegt
 
 
-Kampf gegen 5 cr 1/2 Banditen (aber 2d6+2 dmg), Fenster und mechanik regale umzuschmeißen für restrained wenn unter regal und 
 
-
-
-Scene 3c: Das Banditenlager
+Scene 3c: Das Banditenlager in der Quakenden Höhle
 
 
 
