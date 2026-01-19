@@ -86,6 +86,7 @@ if she surrenders to them, she tells them only that she has the same affliction 
 12 DC Charisma oder human charisma argumente:
 - Tulgi kam mit Hulil von Düsterbach einem Dorf weiter im Norden an der Küste 
 - Beide arbeiten für die Utolotl Familie, einer Gruppe Schmugglern in der Gegend
+- Tulgi hat pelcs ausgeraubt vor 3 Wochen
 
 
 ---
@@ -94,8 +95,14 @@ Die dunkle Hütte vor dir hat ein Schild über der Tür, auf dem „Pelcs Kurios
 
 Fünf vermummte Banditen scheinen den Laden geplündert zu haben und durchsuchen das zerbrochene Gerümpel auf dem Boden. Möbel, Regale und der Verkaufstresen wurden zerschlagen, und die Waren des Geschäfts liegen nun über den Boden verstreut.
 
-Kampf gegen 5 cr 1/2 [Banditen](https://5e.tools/bestiary.html#bandit_xmm,scaled:0.5) (aber 2d6+2 dmg), Fenster und mechanik regale umzuschmeißen für restrained und 1d4 wenn unter regal
+Kampf gegen 6 cr 1/2 [Banditen](https://5e.tools/bestiary.html#bandit_xmm,scaled:0.5) (aber 2d6+2 dmg), Fenster und mechanik regale umzuschmeißen für restrained und 1d4 wenn unter regal
 der boden ist difficult terrain weil überall zeug liegt
+Wenn 4 tot sind oder halbe hitpoints dann flüchten sie
+
+
+ und haben eigentlich mit nicht so viel Widerstand gerechnet.
+Secrets: Die Banditen sind angeheuert von der Utolotl Familie die derzeit aus der Quakenden Höhle nördlich von Corbeau agieren. (Die Höhle ist normalerweise leer)
+
 
 
 
