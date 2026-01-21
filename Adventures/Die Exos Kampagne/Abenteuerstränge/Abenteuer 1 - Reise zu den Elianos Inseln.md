@@ -107,7 +107,10 @@ Secrets: Die Banditen sind angeheuert von der Utolotl Familie die derzeit aus de
 
 
 Scene 3c: Das Banditenlager in der Quakenden Höhle
+https://open.spotify.com/intl-de/track/7asumQJdW9JXAJUOsNaA77?si=994a50825ade41e5
+Die truppe trackt dahin, nachdem sie sich in der Stadt umgeschaut haben?
 
+Irgendwo gibt es traps / gegner die versuchen die Truppe mit Eiseskälte zu erkranken
 
 
 Scene 3d: Bar
@@ -117,6 +120,9 @@ Schogart und Familie haben das gekauft und zeigen dann am nächsten Tag symptome
 ---
 Scene 4: Schiffsfahrt hin
 Morgo Abenteurer Zwergin
+Sie ist im Auftrag für die Prinzessin nach Artefakten zu suchen
+
+
 Sahuiguin attack / Viking Attack?
 Treasure im wasser zum angeln
 Wal
