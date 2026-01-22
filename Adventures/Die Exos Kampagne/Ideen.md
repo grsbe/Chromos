@@ -3,7 +3,7 @@
 
 
 ---
-## Ideen
+## StoryIdeen
 
 Das Jahrzehnte Fest mit Aktivitäten, am Ende ein Rennen in einer unterirdischen Höhle
 
@@ -26,28 +26,19 @@ Reptilien humanoide wurden aus ihrem wurden von den Anhängern des Gottes vertri
 Die Götter die den Naturgesetzen unterworfen waren wurden nach ihrer Niederlage vor die Wahl gestellt. Sie können nur noch durch Anbetenden Einfluss aufnehmen oder gar nicht. Wer aktiv selber eingreift kann von den anderen Göttern angegriffen werden und in einem Aufstiegsevent ersetzt werden.
 
 ---
-## Location
-
-**Corbeau**
+Location Ideen
 
 
 ---
 ## Characters
 
-"rizzable god"
+"rizzable god" Zeitreisende Fee
 uwu abenteuer gilde girl
 
 
 ---
 ## Factions
 
-Royals
-
-Mienenzwerge 
-
-Schmuggler
-Wasserwesen
-Orden des Lichts
 
 
 

@@ -19,3 +19,4 @@ Bein ist kind of wieder geheilt aber immer noch depresso
 Ideen:
 
 Sprechendes Schwert?
+HUman connection zu zeitreisender Fee? / Gott
