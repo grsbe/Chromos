@@ -22,43 +22,17 @@
             }
           },
           {
-            "id": "b21ccdc1c7a30667",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
-            "id": "b7e61c628284e650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mythandras/Phantheon/Das alte Pantheon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Das alte Pantheon"
-            }
-          },
-          {
             "id": "5770b4a9053e317c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Unterwassertempel.md",
+                "file": "Adventures/Die Exos Kampagne/PCs/Untitled Highelf Cleric Trickster- Freddy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unterwassertempel"
+              "title": "Untitled Highelf Cleric Trickster- Freddy"
             }
           }
         ],
@@ -210,8 +184,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b21ccdc1c7a30667",
+  "active": "5770b4a9053e317c",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Unterwassertempel.md",
     "Adventures/Die Exos Kampagne/Ideen.md",
     "Adventures/Die Exos Kampagne/PCs/Human Fighter - Jann.md",
     "Adventures/Die Exos Kampagne/Anschließende Abenteuer.md",
@@ -239,7 +214,6 @@
     "Adventures/Die Exos Kampagne/Corbeau.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Das Dreadwoodartefakt.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Campaign.md",
-    "conflict-files-obsidian-git.md",
     "Yllmagnalia/Exos/Va'Nis",
     "Yllmagnalia/Exos/Sidaris",
     "Yllmagnalia/Exos/Sosoni",
