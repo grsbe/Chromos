@@ -15,12 +15,14 @@ Trinket dem Baby mit gegeben
 Trinket dass sie nach Corbeau gebracht hat
 
 Ties zu Eliza Solomon als erster Clue (Mutter von Anders)
-Assassins Tochter oder sowas? Oder actually sie ist die Tante
+
+Das Tuch in das baby eingewickelt war hat zu 
+
 Irgendwas mit dem Vanirkult
 
 Tochter eines Mannes der versucht hat den König umzubringen? In Paris oder in Havis?
 
-
+Jetzt im Gefängnis im Drachen Exosgebirge
 
 ---
 Ideen:
