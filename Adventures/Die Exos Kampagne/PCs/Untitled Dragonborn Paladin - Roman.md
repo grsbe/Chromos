@@ -15,3 +15,6 @@ Der Eid verleit extra Kräfte beim Kämpfen
 Das Alte dorf hatte einen Drachenschrein aber die Drachen sind nicht aufgetaucht um das Dorf zu beschützen.
 
 Inzwischen erwachsen nimmt der PC aufgaben überall an um Geld zu verdienen
+
+
+Magische Items

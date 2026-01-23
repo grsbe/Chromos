@@ -1,0 +1,1 @@
+Die Gezeitenrufer haben ein Artefakt dass sie nur rausholen um rituale durchzuführen. SIew machen das Ritual jeden Monat zum Vollmond

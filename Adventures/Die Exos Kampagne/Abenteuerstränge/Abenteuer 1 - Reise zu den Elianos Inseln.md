@@ -70,7 +70,7 @@ Development
 
 ---
 Scene 3a: Tulgis haus
-Diese schneebedeckte Hütte wirkt von außen friedlich und still. Ihre Fenster sind mit Läden verschlossen, und ein stetiger Rauchstrom, der aus dem Schornstein aufsteigt, deutet auf ein loderndes Feuer im Inneren hin.
+Diese  Hütte wirkt von außen friedlich und still. Ihre Fenster sind mit Läden verschlossen, und ein stetiger Rauchstrom, der aus dem Schornstein aufsteigt, deutet auf ein loderndes Feuer im Inneren hin.
 - Das Dach der Hütte ist 12 Fuß hoch. Das Erklimmen der Außenwände erfordert eine erfolgreiche Stärke-(Athletik)-Probe **DC 10**.
 - Die Holztür der Hütte ist verschlossen und hat **AC 15**, 18 Trefferpunkte sowie Immunität gegen Gift- und psychischen Schaden. Das Schloss kann mit einer erfolgreichen Geschicklichkeitsprobe **DC 12** unter Verwendung von Diebeswerkzeug geknackt werden, oder die Tür kann mit einer erfolgreichen Stärke-(Athletik)-Probe **DC 15** aufgebrochen werden. Tulgi trägt den Schlüssel, der die Tür aufschließt.
 - Jede der vier Wände der Hütte hat ein Fenster, das von innen mit Läden verschlossen und verriegelt ist. Ein Fenster kann von außen mit einer erfolgreichen Geschicklichkeitsprobe **DC 12** unter Verwendung von Diebeswerkzeug entriegelt werden.
@@ -90,27 +90,72 @@ if she surrenders to them, she tells them only that she has the same affliction 
 
 
 ---
-Scene 3b: Pelcs Antiquariatenladen
+Scene 3b: Agatha Pelcs Antiquariatenladen
 Die dunkle Hütte vor dir hat ein Schild über der Tür, auf dem „Pelcs Kuriositäten“ steht, wobei das **P** als geschwungener Drache dargestellt ist. Obwohl der Laden geschlossen zu sein scheint, steht die Vordertür einen Spalt offen.
 
 Fünf vermummte Banditen scheinen den Laden geplündert zu haben und durchsuchen das zerbrochene Gerümpel auf dem Boden. Möbel, Regale und der Verkaufstresen wurden zerschlagen, und die Waren des Geschäfts liegen nun über den Boden verstreut.
 
-Kampf gegen 6 cr 1/2 [Banditen](https://5e.tools/bestiary.html#bandit_xmm,scaled:0.5) (aber 2d6+2 dmg), Fenster und mechanik regale umzuschmeißen für restrained und 1d4 wenn unter regal
+Kampf gegen 5-6 [scouts](https://5e.tools/bestiary.html#scout_xmm aber 2d6+2 dmg), Fenster und mechanik regale umzuschmeißen für restrained und 1d4 wenn unter regal
 der boden ist difficult terrain weil überall zeug liegt
+überall ist dunkel und die Banditen verstecken sich
 Wenn 4 tot sind oder halbe hitpoints dann flüchten sie
 
-
- und haben eigentlich mit nicht so viel Widerstand gerechnet.
 Secrets: Die Banditen sind angeheuert von der Utolotl Familie die derzeit aus der Quakenden Höhle nördlich von Corbeau agieren. (Die Höhle ist normalerweise leer)
 
 
 
-
 Scene 3c: Das Banditenlager in der Quakenden Höhle
+Es ist dunkel und kalt in der Höhle, alle bewohner können im Dunkeln sehen.
 https://open.spotify.com/intl-de/track/7asumQJdW9JXAJUOsNaA77?si=994a50825ade41e5
 Die truppe trackt dahin, nachdem sie sich in der Stadt umgeschaut haben?
 
-Irgendwo gibt es traps / gegner die versuchen die Truppe mit Eiseskälte zu erkranken
+Encouter: Wasser mit Eisfröschen drin https://5e.tools/bestiary.html#giant%20frog_mm,scaled:0.5 
+Das Wasser ist eiskalt: DC 10 oder exaustion für jede Minute
+Klettern: DC 12
+
+Links oder rechts:
+
+Links: Stolperdraht mit Eiseskältegift, Fledermäuse
+Rechts: Banditen bringen Fröschen tricks bei mit Fledermaussnacks
+
+
+Banditcamp und Alter Quaker https://5e.tools/bestiary.html#giant%20toad_mm
+Wasserüberquerer
+
+
+Hulils Camp:
+- Eine warme Hitzewelle geht von einem gewaltigen Feuer aus, das in der Mitte dieser Höhle brennt; sein Rauch zieht durch einen schmalen steinernen Schornstein nach oben ab. Die Flammen erhellen ein grobes Gemälde eines fünfköpfigen Drachen, das die Nordwand dominiert. Unter dem Wandbild liegt ein ausgerollter Schlafplatz. In der Nähe des knisternden Feuers sitzt ein Zwerg, in einen schweren Mantel gehüllt, auf einer steinernen Truhe neben einem Elfen, dessen Gesicht mit Drachentätowierungen bedeckt ist. Das Gesicht des Zwergen ist von pulsierenden, blau leuchtenden Adern durchzogen.
+- **Hulil Lutan**: Neutral böse, weiblicher Gebirgszwerg, Kultfanatikerin https://5e.tools/bestiary.html#hulil%20lutan_egw
+    - Bewegungsrate: 4,5 m (15 ft)
+    - Dunkelsicht: 18 m (60 ft)
+    - Resistenz gegen Giftschaden
+    - Vorteil auf Rettungswürfe gegen Gift
+- **Raegrin Mau**: Neutral böse, männlicher Waldelf, Kultist, Hulils Lehrling https://5e.tools/bestiary.html#raegrin%20mau_egw
+    - Dunkelsicht: 18 m (60 ft)
+    - Vorteil auf Rettungswürfe gegen Bezauberung
+    - Immun gegen Magie, die ihn einschlafen lässt
+- Beide befinden sich in tiefer Meditation und beten zu **Tiamat** um Heilung für Hulils tödliche Krankheit.
+- Selbst bei Kämpfen in Bereich C5 bemerken sie die Charaktere erst, wenn sie gestört oder angegriffen werden.
+- Hulil und Raegrin sind gierige Diener Tiamats und der **Familie Utolotl**.
+- Raegrin folgt Hulil mit unerschütterlicher Loyalität.
+- Hulil ist so verzweifelt wegen ihrer Krankheit, dass sie die Charaktere beim ersten Zusammentreffen nicht angreift, solange sie nicht angegriffen wird.
+- Sie befiehlt den Charakteren, stehen zu bleiben, und verlangt zu wissen, warum sie in die Höhle gekommen sind.
+- Ein schneller Charakter kann behaupten, gekommen zu sein, um Hulil zu helfen (z. B. im Auftrag ihrer Schwester, nach einer Botschaft Tiamats oder mit einer anderen passenden Begründung).
+- **Charisma (Täuschung)** gegen **Weisheit (Motiv erkennen)** von Hulil:
+    - **Erfolg**: Hulil hält alle Charaktere für Verbündete.
+    - **Misserfolg** oder offene Konfrontation: Hulil und Raegrin greifen an.
+
+Was Hulil weiß
+- Hulil glaubt, an einer Krankheit namens **„Eisiges Leid“** zu leiden.
+- Sie weiß nichts Genaues über die Krankheit außer ihren Symptomen, hat aber Gerüchte gehört, dass Entdecker in Elianos manchmal daran erkranken.
+- Hulil vermutet, dass ihr Leiden durch eines der **blauen Fläschchen** verursacht wurde, die **Tulgi** aus **Pelcs Kuriositäten** gestohlen hat und die ursprünglich von **Urgon Wenth** verkauft wurden.
+- Das Fläschchen war **gesprungen**; die schöne blaue Farbe stammte von einem **dunkelblauen Staub**, der an der Innenseite haftete.
+- Sie ist verzweifelt und will unbedingt Seaton erreichen, bevor die Krankheit ihren tödlichen Verlauf nimmt, in der Hoffnung, die von Tulgi gestohlenen Waren gegen ein Heilmittel eintauschen zu können.
+- Sie hat eine Flasche benutzt um Fallen aufzustellen und die andere an Schogart verkauft
+
+Die Truhe
+- DC 12 Wisdom (Perception) check finds pin-sized openings in the dragon's mouth that contain a blue powder. The powder can be removed with a successful DC 15 Dexterity check using thieves' tools. A character who fails this check must succeed on a DC 11 Constitution saving throw or contract frigid woe
+- The chest contains the rest of the treasure found by Urgon Wenth—a gilded scroll case covered in a cosmological map of the multiverse (worth 15 gp), a jade statuette of a storm giant (25 gp), a quiver containing six [+1 arrows](https://5e.tools/items.html#%2b1%20arrow_dmg), and a silver ring set with a jasper stone (50 gp). It also holds Hulil's wealth—415 cp, 234 sp, 43 ep, and 112 gp—and a receipt indicating that Hulil sold a blue glass vial to Schogart for 100 gp.
 
 
 Scene 3d: Bar

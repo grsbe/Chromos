@@ -282,7 +282,7 @@ An den Wänden sind magische Fakeln die keinen Rauch und keine Wärme produziere
  Jede Wand ist besetzt mit riesigen Bücherregalen
 - Überall liegen Scrolls/learnable spells rum zu schwachen random Zaubern:
 	- [[Useless magical spells.md]]
-	- [[Magische Items]]
+	- [[Magische Items Links]]
 	- Useless: https://theniftynerd.com/general-geekiness/useless-magic-items-dungeons-dragons/
 - Random magische Items die hier rumliegen könnten
 	- 

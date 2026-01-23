@@ -20,6 +20,7 @@ Mann ist im Tempel aufgewachsen und war Händler
 Das Tuch in das baby eingewickelt war hatte das alte Logo
 
 Was ist passiert?
+Vater: Norion
 vor zwanzig Jahren wurde die Prophezeihung nach dem Magischen Kind ausgesprochen dass in der Lage sein soll die Berge zu erklimmen und aufzusteigen um den Sturm aufzuhalten.
 Nymeria war an jenem Tag geboren.
 Der Vater war ein Vanis Agent der als Händler und Assassine gearbeitet hat. Nymeria wurde in Corbeau geboren. Am Tag nach der Geburt kamen Krieger aus Havis und wollten alle Kinder einsammeln. Die Mutter starb beim Verteidigen, der Mann ist mit Baby geflohen.

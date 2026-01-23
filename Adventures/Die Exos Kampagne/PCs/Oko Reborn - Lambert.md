@@ -21,4 +21,6 @@ Irgendwas mit Memories
 
 
 
-Magische Items: Die Gun
+Magische Items: 
+Die Gun
+Some kind of way to big hat for disguising oder die möglichkeit aus ihm raus zu reden
