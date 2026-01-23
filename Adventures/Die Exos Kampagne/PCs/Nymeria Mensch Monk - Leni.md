@@ -14,11 +14,19 @@ Will nach ihren Wurzeln suchen
 Trinket dem Baby mit gegeben
 Trinket dass sie nach Corbeau gebracht hat
 
-Ties zu Anders Solomon als erster Clue
+Ties zu Eliza Solomon als erster Clue (Mutter von Anders)
 Assassins Tochter oder sowas? Oder actually sie ist die Tante
 Irgendwas mit dem Vanirkult
 
 Tochter eines Mannes der versucht hat den König umzubringen? In Paris oder in Havis?
 
+
+
+---
 Ideen:
 Spiegeldimension die 20 Jahre in die Vergangenheit zurück führt dass man da den Vater in der Spiegeldimension antreffen kann?
+
+
+---
+Magische Items
+Sentinel type item?

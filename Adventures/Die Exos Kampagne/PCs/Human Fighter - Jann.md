@@ -18,5 +18,6 @@ Bein ist kind of wieder geheilt aber immer noch depresso
 ---
 Ideen:
 
-Sprechendes Schwert?
+Magische Items
+Sprechendes Schwert? Syl
 HUman connection zu zeitreisender Fee? / Gott

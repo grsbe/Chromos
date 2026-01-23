@@ -4,3 +4,10 @@ Soll sich unter die Leute mischen. Ihre Fähigkeiten üben erfahrung sammeln, me
 
 Hat mega ties to Havis -> Later irgendwas mit Havis nach dem Gott?
 Oder Havis entsendet Truppen wenn bekannt wird dass es da macht gibt
+
+
+
+---
+Magische Items:
+
+Orb der Tiefen See?

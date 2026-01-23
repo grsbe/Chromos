@@ -1,8 +1,15 @@
 
 Z'arkann war der actual original elf
-Mirador ein Dunkelelf hat Lambert geschaffen als Kopie um sich vor dem Tod zu bewahren.
-er lebt im Dreadwood seit über 300 Jahren und erschafft fürchterliche Kombinationen aus Tierwesen für sein Research und wissenschaft.
-Er nutzt dafür ein Spiegelartefakt, das er im Wald gefunden hat.
+Lebt in Vanis
+
+ hat Lambert geschaffen als Kopie um sich vor dem Tod zu bewahren.
+er lebt inVanis seit über 300 Jahren und plottet die Welt übernahme
+
+
+Mirador ein diener im Terrorwald erschafft fürchterliche Kombinationen aus Tierwesen für sein Research und wissenschaft.
+Er nutzt dafür ein Spiegelartefakt, eine Nähnadel das er im Wald gefunden hat.
+
+Mirador denkt, dass Oko actually Zarkann ist
 
 Lambert wacht immer wieder als er nicht selber auf und ertappt sich dabei
 
