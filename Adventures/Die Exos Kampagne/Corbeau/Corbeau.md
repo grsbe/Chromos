@@ -2,7 +2,7 @@
 
 Gebäude und Dinge die auf jeden Fall existieren:
 
-**Obere Küste**
+### Nord Küste
 Oben: Solaire tempel
 Lumisbaum
 Unten: 
@@ -11,7 +11,7 @@ Felsenklippen
 paar entlegenere Wohnhauser
 kleinere Anlegestellen
 
-**Hafen / Docks** rechts um die Mainstadt herum
+### Hafen / Docks rechts um die Mainstadt herum
 großer Pier für zwei große Boote
 kleiner Pier für kleinere Segelboote
 Anderssolomon haus
@@ -22,7 +22,7 @@ kleiner Pier
 Schiffswerft
 Admin Haus
 
-**Mainstadt**
+### Mainstadt
 Abenteuergilde Pub
 Markthauptplatz
 Ladengegend drum rum
@@ -34,11 +34,14 @@ Felder
 
 Rathaus
 
-**Oberstadt**
+### Oberstadt
  
 
 
-**Auswärts**
+### Außenstadt
+
+
+### Auswärts
 
 Gezeitenruferhöhlen am Strand
 
