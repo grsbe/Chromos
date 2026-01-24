@@ -30,6 +30,10 @@ Die Sturmwand ist jetzt so nah, dass sie alles verschluckt, was hinter ihr liegt
 
 Freddy, bitte beschreibe deinen Charakter und wie er gerade da am Strand steht, mit dem Wissen, dass gerade ein Gott seine gesamte Willenskraft darin kanalisiert dich an einem Stand zu vernichten.
 
+Ein zwei checks um Freddy auszulöschen,
+dann die wahl ob er die Elfen hinter ihm im Ritual schützt und sich opfert
+
+Dann taucht Lambert auf der das sieht
 
 ---
 ## Scene 2: Missionbriefing bei Geldar
