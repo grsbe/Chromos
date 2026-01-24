@@ -44,3 +44,8 @@ Spiegeldimension die 20 Jahre in die Vergangenheit zurück führt dass man da de
 ---
 Magische Items
 Sentinel type item?
+
+
+
+Berg
+Zabaal Moren
