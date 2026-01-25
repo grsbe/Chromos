@@ -1,4 +1,8 @@
 
+Actually Funny kind of useful magic items d100
+https://www.gmbinder.com/share/-L1sGwA6glchlzqUZrhV
+
+
 Funny useless magic
 https://forums.giantitp.com/showthread.php?311144-Dakhem-Uaid-s-Big-Book-of-Useless-Magic-Items
 
