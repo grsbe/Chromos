@@ -14,7 +14,7 @@ Minenzwergchefin - Manistrad Kupferlocke
 ---
 ### Traditionalisten
 
-Gellan Quellwasser
+Gelldar Quellwasser
 
 
 Eda Ohland

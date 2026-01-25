@@ -10,3 +10,9 @@ https://www.reddit.com/r/d100/comments/cyrcci/100_items_for_a_magic_items_catalo
 
 
 
+Funny magic items
+
+Ring of Invisibility
+Can be made to be invisible
+Wand of Sneezing
+Rock of Returning. Schwerer Stein der immer wieder zurückkehrt?

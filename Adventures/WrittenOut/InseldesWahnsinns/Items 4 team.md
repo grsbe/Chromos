@@ -20,7 +20,7 @@ https://5e.tools/items.html#rope%20of%20entanglement_dmg
 https://www.dndspeak.com/2020/08/19/100-mushrooms-and-their-effects/
 
 - [[Useless magical spells.md]]
-	- [[Magische Items Links]]
+	- [[Magische Items]]
 	- Useless: https://theniftynerd.com/general-geekiness/useless-magic-items-dungeons-dragons/
 - Random magische Items die hier rumliegen könnten
 	- 
