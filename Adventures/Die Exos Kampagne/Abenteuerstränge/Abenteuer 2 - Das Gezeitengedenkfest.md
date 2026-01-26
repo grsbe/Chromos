@@ -30,7 +30,9 @@ https://5e.tools/adventure.html#crcotn,1
 
 ### 1. Wettessen
 
+
 ### 2. Magisches Labyrinth
+
 
 ### 3. Schwimmwettrennen
 bei den Gezeitenrufern
@@ -42,6 +44,7 @@ Fleischer
 Goblins
 
 ### 6. Schildkrötenherden
+Miguel
 
 ### 7. Rätsel
 
@@ -58,6 +61,10 @@ Hai crasht in Illusion die Aquaelf erzeugt hat
 
 Raum durch zeigt prähistorische Ruine
 mit Spiegel und Aquaelf vor dem Spiegel der Wünsche, das ein Spiegelartefakt hält
+
+Aquaelf kommuniziert mit remaros, ihr habt zu viel gesehen
+remaros platziert ein mal auf jedem Körper der Party, dass sie verflucht
+
 
 Bossfight mit Arterazitgun die über Spiegel abprallt
 Und Automata die auf seiner Seite kämpfen
