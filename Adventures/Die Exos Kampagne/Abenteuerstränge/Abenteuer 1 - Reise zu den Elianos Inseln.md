@@ -117,13 +117,24 @@ Encouter: Wasser mit Eisfröschen drin https://5e.tools/bestiary.html#giant%20fr
 Das Wasser ist eiskalt: DC 10 oder exaustion für jede Minute
 Klettern: DC 12
 
+
+Intro hier:
+Dunkelheit. Sie ist überall, sie verbindet euch
+
 Links oder rechts:
 
-Links: Stolperdraht mit Eiseskältegift, Fledermäuse
+Links: Kiste mit Eiseskältegift, Fledermäuse
+Die Truhe
+- DC 12 Wisdom (Perception) check finds pin-sized openings in the dragon's mouth that contain a blue powder. The powder can be removed with a successful DC 15 Dexterity check using thieves' tools. A character who fails this check must succeed on a DC 11 Constitution saving throw or contract frigid woe
+- The chest contains the rest of the treasure found by Urgon Wenth—a gilded scroll case covered in a cosmological map of the multiverse (worth 15 gp), a jade statuette of a storm giant (25 gp), a quiver containing six [+1 arrows](https://5e.tools/items.html#%2b1%20arrow_dmg), and a silver ring set with a jasper stone (50 gp). It also holds Hulil's wealth—415 cp, 234 sp, 43 ep, and 112 gp—and a receipt indicating that Hulil sold a blue glass vial to Schogart for 100 gp.
+
+
 Rechts: Banditen bringen Fröschen tricks bei mit Fledermaussnacks
 
 
-Banditcamp und Alter Quaker https://5e.tools/bestiary.html#giant%20toad_mm
+Beide führen into
+
+Banditcamp und Alter Quaker https://5e.tools/bestiary.html#giant%20ice%20toad_tftyp
 Wasserüberquerer
 
 
@@ -155,11 +166,9 @@ Was Hulil weiß
 - Hulil vermutet, dass ihr Leiden durch eines der **blauen Fläschchen** verursacht wurde, die **Tulgi** aus **Pelcs Kuriositäten** gestohlen hat und die ursprünglich von **Urgon Wenth** verkauft wurden.
 - Das Fläschchen war **gesprungen**; die schöne blaue Farbe stammte von einem **dunkelblauen Staub**, der an der Innenseite haftete.
 - Sie ist verzweifelt und will unbedingt Seaton erreichen, bevor die Krankheit ihren tödlichen Verlauf nimmt, in der Hoffnung, die von Tulgi gestohlenen Waren gegen ein Heilmittel eintauschen zu können.
-- Sie hat eine Flasche benutzt um Fallen aufzustellen und die andere an Schogart verkauft
+- Sie hat eine Flasche benutzt um Fallen aufzustellen und die andere an Schogart im Mondkrug verkauft
 
-Die Truhe
-- DC 12 Wisdom (Perception) check finds pin-sized openings in the dragon's mouth that contain a blue powder. The powder can be removed with a successful DC 15 Dexterity check using thieves' tools. A character who fails this check must succeed on a DC 11 Constitution saving throw or contract frigid woe
-- The chest contains the rest of the treasure found by Urgon Wenth—a gilded scroll case covered in a cosmological map of the multiverse (worth 15 gp), a jade statuette of a storm giant (25 gp), a quiver containing six [+1 arrows](https://5e.tools/items.html#%2b1%20arrow_dmg), and a silver ring set with a jasper stone (50 gp). It also holds Hulil's wealth—415 cp, 234 sp, 43 ep, and 112 gp—and a receipt indicating that Hulil sold a blue glass vial to Schogart for 100 gp.
+
 
 
 Scene 3d: Bar
