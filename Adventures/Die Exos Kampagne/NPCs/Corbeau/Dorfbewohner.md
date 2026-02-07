@@ -34,7 +34,7 @@ Sophisticated Orkphilosoph farmer
 ---
 Oberstadt
 
-Dorfmagier Ulf
+Dorfmagier Keledek
 Hat Bibliothek die er Vertraute reinlässt
 Pet Rabe mit drei Augen
 Hat geheimversteck zu diesem einem Turm über den er schmuggelt

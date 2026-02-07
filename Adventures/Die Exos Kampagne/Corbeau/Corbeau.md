@@ -32,7 +32,7 @@ Die Schnappende Schildkröte : Pub
 
 Rathaus
 
-Owelandhaus, magische Artefaktehandel aus Elianos
+Owelandhaus von Solomon, magische Artefaktehandel aus Elianos
 
 Solomonhaus hauptquartier
 

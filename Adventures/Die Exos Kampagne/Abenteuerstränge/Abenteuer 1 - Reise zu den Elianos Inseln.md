@@ -185,23 +185,32 @@ Prinz Eliander auch da?
 ---
 Scene 4: Schiffsfahrt hin
 Morgo Abenteurer Zwergin
+14ac 20hp
++4 1d8+2dmg
 Sie ist im Auftrag für die Prinzessin nach Artefakten zu suchen
 
 coole Npcs die Backstory related sind?
-Ein Gezeitenrufer: Willhelm
+Ein Gezeitenrufer: Willhelm 14hp, 10ac, +3
 Will gamblen, im Dorf aufgewachsen, hat alles in einem Sturm verloren, hat Zuflucht bei den
 
-Arkyron, Aquaelf 
+Arkyron, Aquaelf 100hp 14ac
 1000 Jahre Alt, im Dienste 
 er macht creme brülee, auf der Suche nach blau schimmernden Artefakten
+teleportiert sich im Fight und spammt frostbolt +5 1d8+3dmg
 
-ein Hundemensch, Fineas
+ein Hundemensch, Fineas 10ac
 : Fischen, gehört zu Solomon, sammelt und checkt Ware ab und bringt sie wieder zurück 
+puncht +3 1dmg 12hp
 
-Zwerg: Kabosh 
+Zwerg: Kabosh Frau
+20hp 14ac
++3 1d10+3dmg
 der die Ganze Zeit angry is 
 Will alleine in die WIldnis um sich zu beweisen
 Hat angst vor einer Krake
+
+4 Matrosen, zwei Frauen, eine Navigotorin, ein Captain
+
 
 Secrets:
 Der SpermWal
