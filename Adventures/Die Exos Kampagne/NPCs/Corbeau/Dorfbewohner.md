@@ -3,15 +3,13 @@
 Stadtmitte
 
 Tailor Näher
-Schogart und CoKG: Tyranie und Licht
-
+Schogart und CoKG: Mut und Licht
 
 Schmied
 Zwerg Grimosh
 
-
 Magische Antiquaritäten
-verstorben: Agatha Silbermünze
+verstorben: Agatha Peck
 
 
 Kinder:

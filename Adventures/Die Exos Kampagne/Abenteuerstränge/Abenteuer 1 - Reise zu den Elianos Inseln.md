@@ -174,7 +174,7 @@ Was Hulil weiß
 
 
 
-Scene 3d: Bar
+Scene 3d: Oder wo auch immer die Schogart treffen Mondkrug Bar
 
 Schogart und Familie haben das gekauft und zeigen dann am nächsten Tag symptome. Geldar dankt ihnen und zahlt 100GP und am nächsten morgen frägt er dann nach 200GP für nach elianos reisen um der Sache auf den Grund zu gehen
 
@@ -188,11 +188,20 @@ Morgo Abenteurer Zwergin
 Sie ist im Auftrag für die Prinzessin nach Artefakten zu suchen
 
 coole Npcs die Backstory related sind?
-Ein Gezeitenrufer: Will gamblen
-Lorentz, er macht creme brülee, auf der Suche nach blau schimmernden Artefakten
-ein Hundemensch: Fischen, gehört zu Solomon
-Zwerg der die Ganze Zeit angry is 
+Ein Gezeitenrufer: Willhelm
+Will gamblen, im Dorf aufgewachsen, hat alles in einem Sturm verloren, hat Zuflucht bei den
 
+Arkyron, Aquaelf 
+1000 Jahre Alt, im Dienste 
+er macht creme brülee, auf der Suche nach blau schimmernden Artefakten
+
+ein Hundemensch, Fineas
+: Fischen, gehört zu Solomon, sammelt und checkt Ware ab und bringt sie wieder zurück 
+
+Zwerg: Kabosh 
+der die Ganze Zeit angry is 
+Will alleine in die WIldnis um sich zu beweisen
+Hat angst vor einer Krake
 
 Secrets:
 Der SpermWal

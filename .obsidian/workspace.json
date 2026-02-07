@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Abenteuer 1 - Reise zu den Elianos Inseln"
             }
+          },
+          {
+            "id": "bbba2205ac1a8c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Die Exos Kampagne/Corbeau/Corbeau.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Corbeau"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,34 +184,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2b0fcc3816d0e92c",
+  "active": "bbba2205ac1a8c7f",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/Corbeau/Corbeau.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+    "Adventures/Die Exos Kampagne/NPCs/Havis/Prinz Elliander.md",
+    "Adventures/Die Exos Kampagne/NPCs/Havis/Prinzessin Cyrille.md",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Dorfbewohner.md",
+    "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros/Stratege Aquaelf Arkyron.md",
+    "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros/Vanis Assassinin Tiefling Allie.md",
+    "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros/Vanis Minotaurus Brute Barackius.md",
+    "Adventures/Die Exos Kampagne/NPCs/Havis/König Skotti von Keoland.md",
+    "Adventures/Die Exos Kampagne/PCs/Oko Reborn - Lambert.md",
+    "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch Monk - Leni.md",
+    "Adventures/Die Exos Kampagne/PCs/Keren Dragonborn Paladin - Roman.md",
     "Adventures/Die Exos Kampagne/PCs/Erolith Highelf Cleric Trickster- Freddy.md",
+    "Adventures/Die Exos Kampagne/PCs/Amiryllia Mensch - Steffi.md",
+    "Adventures/Die Exos Kampagne/PCs/Altrik Human Fighter - Jann.md",
+    "Adventures/Die Exos Kampagne/Corbeau/Corbeau.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau Umgebung.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1000 Jahren.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 19,5 Jahren.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Big Secrets.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Session.md",
-    "Adventures/Die Exos Kampagne/PCs/Oko Reborn - Lambert.md",
     "Untitled.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
     "Adventures/Items/Magische Items.md",
     "Adventures/Die Exos Kampagne/Artefakte Overview.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Finalquest - Spiegelwelt.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Badehaus.md",
     "Adventures/Items/Magic Items.md",
-    "Adventures/Items/Tables.md",
-    "Adventures/Items/Useless magical spells.md",
-    "Adventures/Items/Random magische Effekte.md",
-    "Adventures/Items/Egg of unlimited potential.md",
-    "Adventures/Die Exos Kampagne/Flufftext/Corbeau.md",
-    "Adventures/Die Exos Kampagne/Encounter/Baboon.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council.md",
-    "Adventures/Die Exos Kampagne/PCs/Keren Dragonborn Paladin - Roman.md",
-    "Adventures/Die Exos Kampagne/PCs/Altrik Human Fighter - Jann.md",
-    "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch Monk - Leni.md",
-    "Adventures/Die Exos Kampagne/PCs/Amiryllia Mensch - Steffi.md",
     "Adventures/Die Exos Kampagne/Flufftext",
     "Adventures/Die Exos Kampagne/Corbeau",
     "Adventures/Die Exos Kampagne/Encounter",
