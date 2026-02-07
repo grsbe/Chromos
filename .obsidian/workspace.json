@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "38fc784e472b28c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "33e957c3774e475b",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Erolith Highelf Cleric Trickster- Freddy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2b0fcc3816d0e92c",
+  "active": "38fc784e472b28c3",
   "lastOpenFiles": [
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau Umgebung.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1000 Jahren.md",
