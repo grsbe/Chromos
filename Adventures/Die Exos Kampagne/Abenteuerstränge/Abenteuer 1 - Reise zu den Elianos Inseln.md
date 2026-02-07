@@ -188,18 +188,20 @@ Morgo Abenteurer Zwergin
 14ac 20hp
 +4 1d8+2dmg
 Sie ist im Auftrag für die Prinzessin nach Artefakten zu suchen
+Sie und die Abenteurer kennen die eisiges Leid Krankheit, sehr enthusiastisch
 
 coole Npcs die Backstory related sind?
-Ein Gezeitenrufer: Willhelm 14hp, 10ac, +3
-Will gamblen, im Dorf aufgewachsen, hat alles in einem Sturm verloren, hat Zuflucht bei den
+Ein Gezeitenrufer: Mensch Willhelm 14hp, 10ac, +3
+Will gamblen, im Dorf aufgewachsen, hat alles in einem Sturm verloren, hat Zuflucht bei den Gezeitenrufern gefunden
 
 Arkyron, Aquaelf 100hp 14ac
 1000 Jahre Alt, im Dienste 
 er macht creme brülee, auf der Suche nach blau schimmernden Artefakten
 teleportiert sich im Fight und spammt frostbolt +5 1d8+3dmg
 
-ein Hundemensch, Fineas 10ac
+ein Katzenmensch, Fineas 10ac
 : Fischen, gehört zu Solomon, sammelt und checkt Ware ab und bringt sie wieder zurück 
+Liebt Fische
 puncht +3 1dmg 12hp
 
 Zwerg: Kabosh Frau
@@ -213,15 +215,27 @@ Hat angst vor einer Krake
 
 
 Secrets:
-Der SpermWal
+Der Wal Angajuk
+- ist intelligent
+- hat ein kleines Boot auf dem Rücken
+
 Ein Geisterschiff
+- Soll vor 20 Jahren eine Ladung für Solomon geliefert haben und ist verloren gegangen
 Das Badehaus ist verflucht
+- Der Gott Remaros selbst soll einem erscheinen und einen dann heimsuchen
+- 
 Die Reptilien schmuggeln Waffen
+- Schmuggler haben ungewöhnlich viele Waffen in letzter Zeit geliefert und weiter
 Es gibt viel Mehr stürme in letzter Zeit
+
 Exited über das Fest in den nächsten Zwei Wochen
 
-
 Sahuiguin attack?
+https://5e.tools/bestiary.html#sahuagin%20warrior_xmm  5 von denen 16hp 1d4+1 dmg
+https://5e.tools/bestiary.html#sahuagin%20warlock%20of%20uk'otoa_egw kein counter spell
+
+im wasser 1 shark https://5e.tools/bestiary.html#shell%20shark_gos
+
 Treasure im wasser zum angeln
 
 
@@ -230,6 +244,9 @@ Scene 5: Elianos Basiscamp
 
 Morgo zeigt ihnen ein bisschen den ort
 Sie können in Bulabs hütte etwas bleiben
+- Kiste mit rations, a 50-foot silk rope, a blanket, a grappling hook, a miner's pick, and a book titled Impress Potential Lovers with Great Deeds
+
+
 zeigt auf die anderen abenteurer Teams die ihre Expeditionen vorbereiten
 
 
