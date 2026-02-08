@@ -184,7 +184,7 @@ Prinz Eliander auch da?
 
 ---
 Scene 4: Schiffsfahrt hin
-Morgo Abenteurer Zwergin
+Morgo Abenteurer Zwergin kaptinär
 14ac 20hp
 +4 1d8+2dmg
 Sie ist im Auftrag für die Prinzessin nach Artefakten zu suchen
@@ -195,7 +195,7 @@ Ein Gezeitenrufer: Mensch Willhelm 14hp, 10ac, +3
 Will gamblen, im Dorf aufgewachsen, hat alles in einem Sturm verloren, hat Zuflucht bei den Gezeitenrufern gefunden
 
 Arkyron, Aquaelf 100hp 14ac
-1000 Jahre Alt, im Dienste 
+1000 Jahre Alt, im Dienste  Link
 er macht creme brülee, auf der Suche nach blau schimmernden Artefakten
 teleportiert sich im Fight und spammt frostbolt +5 1d8+3dmg
 
@@ -204,6 +204,8 @@ ein Katzenmensch, Fineas 10ac
 Liebt Fische
 puncht +3 1dmg 12hp
 
+
+nope
 Zwerg: Kabosh Frau
 20hp 14ac
 +3 1d10+3dmg
@@ -211,7 +213,10 @@ der die Ganze Zeit angry is
 Will alleine in die WIldnis um sich zu beweisen
 Hat angst vor einer Krake
 
-4 Matrosen, zwei Frauen, eine Navigotorin, ein Captain
+
+2 Matrosen, zwei Frauen, eine Navigotorin, ein Captain
+Elvair
+
 
 
 Secrets:
