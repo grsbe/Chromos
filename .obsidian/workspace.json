@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Artefakte Overview"
             }
+          },
+          {
+            "id": "2b06c0194d8c9db5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5770b4a9053e317c",
+  "active": "2b06c0194d8c9db5",
   "lastOpenFiles": [
     "Adventures/Die Exos Kampagne/Ideen.md",
     "Adventures/Die Exos Kampagne/Gerüchte.md",
