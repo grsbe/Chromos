@@ -3,15 +3,13 @@
 Stadtmitte
 
 Tailor Näher
-Schogart und CoKG: Tyranie und Licht
-
+Schogart und CoKG: Mut und Licht
 
 Schmied
 Zwerg Grimosh
 
-
 Magische Antiquaritäten
-verstorben: Agatha Silbermünze
+verstorben: Agatha Peck
 
 
 Kinder:
@@ -36,7 +34,7 @@ Sophisticated Orkphilosoph farmer
 ---
 Oberstadt
 
-Dorfmagier Ulf
+Dorfmagier Keledek
 Hat Bibliothek die er Vertraute reinlässt
 Pet Rabe mit drei Augen
 Hat geheimversteck zu diesem einem Turm über den er schmuggelt

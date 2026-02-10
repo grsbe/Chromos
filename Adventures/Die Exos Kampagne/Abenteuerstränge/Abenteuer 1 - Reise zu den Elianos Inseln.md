@@ -109,6 +109,7 @@ Secrets: Die Banditen sind angeheuert von der Utolotl Familie die derzeit aus de
 
 
 Scene 3c: Das Banditenlager in der Quakenden Höhle
+Jeder beschreibt eine bestimmte Tätigkeit
 Es ist dunkel und kalt in der Höhle, alle bewohner können im Dunkeln sehen.
 https://open.spotify.com/intl-de/track/7asumQJdW9JXAJUOsNaA77?si=994a50825ade41e5
 Die truppe trackt dahin, nachdem sie sich in der Stadt umgeschaut haben?
@@ -117,15 +118,27 @@ Encouter: Wasser mit Eisfröschen drin https://5e.tools/bestiary.html#giant%20fr
 Das Wasser ist eiskalt: DC 10 oder exaustion für jede Minute
 Klettern: DC 12
 
+
+Intro hier:
+Dunkelheit. Sie ist überall, sie verbindet euch
+
+Geräusche von rechts ein dude kommt, die Leute verstecken sich?
 Links oder rechts:
 
-Links: Stolperdraht mit Eiseskältegift, Fledermäuse
+Links: Kiste mit Eiseskältegift, Fledermäuse, super dunkel
+Die Truhe
+- DC 12 Wisdom (Perception) check finds pin-sized openings in the dragon's mouth that contain a blue powder. The powder can be removed with a successful DC 15 Dexterity check using thieves' tools. A character who fails this check must succeed on a DC 11 Constitution saving throw or contract frigid woe
+- The chest contains the rest of the treasure found by Urgon Wenth—a gilded scroll case covered in a cosmological map of the multiverse (worth 15 gp), a jade statuette of a storm giant (25 gp), a quiver containing six [+1 arrows](https://5e.tools/items.html#%2b1%20arrow_dmg), and a silver ring set with a jasper stone (50 gp). It also holds Hulil's wealth—415 cp, 234 sp, 43 ep, and 112 gp—and a receipt indicating that Hulil sold a blue glass vial to Schogart for 100 gp.
+
+
 Rechts: Banditen bringen Fröschen tricks bei mit Fledermaussnacks
 
 
-Banditcamp und Alter Quaker https://5e.tools/bestiary.html#giant%20toad_mm
-Wasserüberquerer
+Beide führen into
 
+Banditcamp und Alter Quaker https://5e.tools/bestiary.html#giant%20ice%20toad_tftyp
+Wasserüberquerer
+Der alte Quaker chillt im Wasser und kann überzeugt werden die Truppe über das Wasser zu bringen
 
 Hulils Camp:
 - Eine warme Hitzewelle geht von einem gewaltigen Feuer aus, das in der Mitte dieser Höhle brennt; sein Rauch zieht durch einen schmalen steinernen Schornstein nach oben ab. Die Flammen erhellen ein grobes Gemälde eines fünfköpfigen Drachen, das die Nordwand dominiert. Unter dem Wandbild liegt ein ausgerollter Schlafplatz. In der Nähe des knisternden Feuers sitzt ein Zwerg, in einen schweren Mantel gehüllt, auf einer steinernen Truhe neben einem Elfen, dessen Gesicht mit Drachentätowierungen bedeckt ist. Das Gesicht des Zwergen ist von pulsierenden, blau leuchtenden Adern durchzogen.
@@ -154,41 +167,93 @@ Was Hulil weiß
 - Sie weiß nichts Genaues über die Krankheit außer ihren Symptomen, hat aber Gerüchte gehört, dass Entdecker in Elianos manchmal daran erkranken.
 - Hulil vermutet, dass ihr Leiden durch eines der **blauen Fläschchen** verursacht wurde, die **Tulgi** aus **Pelcs Kuriositäten** gestohlen hat und die ursprünglich von **Urgon Wenth** verkauft wurden.
 - Das Fläschchen war **gesprungen**; die schöne blaue Farbe stammte von einem **dunkelblauen Staub**, der an der Innenseite haftete.
+- Sie erklärt nochmal 
 - Sie ist verzweifelt und will unbedingt Seaton erreichen, bevor die Krankheit ihren tödlichen Verlauf nimmt, in der Hoffnung, die von Tulgi gestohlenen Waren gegen ein Heilmittel eintauschen zu können.
-- Sie hat eine Flasche benutzt um Fallen aufzustellen und die andere an Schogart verkauft
-
-Die Truhe
-- DC 12 Wisdom (Perception) check finds pin-sized openings in the dragon's mouth that contain a blue powder. The powder can be removed with a successful DC 15 Dexterity check using thieves' tools. A character who fails this check must succeed on a DC 11 Constitution saving throw or contract frigid woe
-- The chest contains the rest of the treasure found by Urgon Wenth—a gilded scroll case covered in a cosmological map of the multiverse (worth 15 gp), a jade statuette of a storm giant (25 gp), a quiver containing six [+1 arrows](https://5e.tools/items.html#%2b1%20arrow_dmg), and a silver ring set with a jasper stone (50 gp). It also holds Hulil's wealth—415 cp, 234 sp, 43 ep, and 112 gp—and a receipt indicating that Hulil sold a blue glass vial to Schogart for 100 gp.
+- Sie hat eine Flasche benutzt um Fallen aufzustellen und die andere an Schogart im Mondkrug verkauft, der chillt da immer abends
 
 
-Scene 3d: Bar
 
-Schogart und Familie haben das gekauft und zeigen dann am nächsten Tag symptome. Geldar dankt ihnen und zahlt 100GP und am nächsten morgen frägt er dann nach 200GP für nach elianos reisen
+
+Scene 3d: Oder wo auch immer die Schogart treffen Mondkrug Bar
+
+Schogart und Familie haben das gekauft und zeigen dann am nächsten Tag symptome. Geldar dankt ihnen und zahlt 100GP und am nächsten morgen frägt er dann nach 200GP für nach elianos reisen um der Sache auf den Grund zu gehen
+
+Oder er erklärt das wenn sie mit ihm quatschen
+
+Prinz Eliander auch da?
 
 ---
 Scene 4: Schiffsfahrt hin
-Morgo Abenteurer Zwergin
+Morgo Abenteurer Zwergin kaptinär
+14ac 20hp
++4 1d8+2dmg
 Sie ist im Auftrag für die Prinzessin nach Artefakten zu suchen
+Sie und die Abenteurer kennen die eisiges Leid Krankheit, sehr enthusiastisch
+
+coole Npcs die Backstory related sind?
+Ein Gezeitenrufer: Mensch Willhelm 14hp, 10ac, +3
+Will gamblen, im Dorf aufgewachsen, hat alles in einem Sturm verloren, hat Zuflucht bei den Gezeitenrufern gefunden
+
+Arkyron, Aquaelf 100hp 14ac
+1000 Jahre Alt, im Dienste  Link
+er macht creme brülee, auf der Suche nach blau schimmernden Artefakten
+teleportiert sich im Fight und spammt frostbolt +5 1d8+3dmg
+
+ein Katzenmensch, Fineas 10ac
+: Fischen, gehört zu Solomon, sammelt und checkt Ware ab und bringt sie wieder zurück 
+Liebt Fische
+puncht +3 1dmg 12hp
 
 
-Sahuiguin attack / Viking Attack?
+nope
+Zwerg: Kabosh Frau
+20hp 14ac
++3 1d10+3dmg
+der die Ganze Zeit angry is 
+Will alleine in die WIldnis um sich zu beweisen
+Hat angst vor einer Krake
+
+
+2 Matrosen, zwei Frauen, eine Navigotorin, ein Captain
+Elvair
+
+
+
+Secrets:
+Der Wal Angajuk
+- ist intelligent
+- hat ein kleines Boot auf dem Rücken
+
+Ein Geisterschiff
+- Soll vor 20 Jahren eine Ladung für Solomon geliefert haben und ist verloren gegangen
+Das Badehaus ist verflucht
+- Der Gott Remaros selbst soll einem erscheinen und einen dann heimsuchen
+- 
+Die Reptilien schmuggeln Waffen
+- Schmuggler haben ungewöhnlich viele Waffen in letzter Zeit geliefert und weiter
+Es gibt viel Mehr stürme in letzter Zeit
+
+Exited über das Fest in den nächsten Zwei Wochen
+
+Sahuiguin attack?
+https://5e.tools/bestiary.html#sahuagin%20warrior_xmm  5 von denen 16hp 1d4+1 dmg
+https://5e.tools/bestiary.html#sahuagin%20warlock%20of%20uk'otoa_egw kein counter spell
+
+im wasser 1 shark https://5e.tools/bestiary.html#shell%20shark_gos
+
 Treasure im wasser zum angeln
-Wal
+
 
 ---
 Scene 5: Elianos Basiscamp
 
 Morgo zeigt ihnen ein bisschen den ort
 Sie können in Bulabs hütte etwas bleiben
+- Kiste mit rations, a 50-foot silk rope, a blanket, a grappling hook, a miner's pick, and a book titled Impress Potential Lovers with Great Deeds
+
+
 zeigt auf die anderen abenteurer Teams die ihre Expeditionen vorbereiten
 
-Magische Items Verkaufsladen
-Aquaelf-Stratege Arkyron
-violetter Feendrache als Begleiter Dianci, kann teleportieren
-handelt mit Artefakten
-berät zur Reise hin: Drache, der Zwerg ist zur nördlichen Insel gefährlich da Drache
-frägt nach blauen schimmer artefakten
 
 Orvo
 curious and soft-spoken
@@ -200,8 +265,9 @@ enjoys uncovering the secrets of Elianos
 - Salsvault appears to have been an Aeorian lab. Orvo and Urgon explored only three of its chambers before being chased away by animated suits of armor.
 - The dwarves didn’t know what the vials contained.
 - Orvo sold his share of the treasure from Salsvault to the Buyer. Urgon decided to hang onto his share until he returned home to Palebank Village.
+- Der nordweg ist gefährlich wegen einem Drachen
 
-Kleiner Laden für Ausrüstung
+Kleiner Laden für Ausrüstung, und Ankauf für magische Artefakte
 - Warme klamotten
 - Feuerzeug
 - Magische laterne
