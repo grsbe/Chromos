@@ -235,11 +235,13 @@ Es gibt viel Mehr stürme in letzter Zeit
 
 Exited über das Fest in den nächsten Zwei Wochen
 
-Sahuiguin attack?
+Sahuiguin attack!
 https://5e.tools/bestiary.html#sahuagin%20warrior_xmm  5 von denen 16hp 1d4+1 dmg
 https://5e.tools/bestiary.html#sahuagin%20warlock%20of%20uk'otoa_egw kein counter spell
 
 im wasser 1 shark https://5e.tools/bestiary.html#shell%20shark_gos
+
+Ein Scrying Orb von Barakius
 
 Treasure im wasser zum angeln
 
