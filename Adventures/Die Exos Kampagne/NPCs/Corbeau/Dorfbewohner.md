@@ -5,6 +5,8 @@ Stadtmitte
 Tailor Näher
 Schogart und CoKG: Mut und Licht
 
+Anderer Tailor: 5 oberkörperfreie Silas Brüder
+
 Schmied
 Zwerg Grimosh
 
@@ -36,7 +38,7 @@ Oberstadt
 
 Dorfmagier Keledek
 Hat Bibliothek die er Vertraute reinlässt
-Pet Rabe mit drei Augen
+Pet Fee name Shaba
 Hat geheimversteck zu diesem einem Turm über den er schmuggelt
 
 Manistrad Minenbehörde

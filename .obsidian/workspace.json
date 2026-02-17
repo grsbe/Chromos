@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
+                "file": "Adventures/Die Exos Kampagne/NPCs/Corbeau/Dorfbewohner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corbeau vor 1020 Jahren"
+              "title": "Dorfbewohner"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "9739c8fe94864c26",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/PCs/Oko Reborn - Lambert.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
+    "Adventures/Die Exos Kampagne/PCs/Oko Reborn - Lambert.md",
     "conflict-files-obsidian-git.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 20 Jahren.md",
     "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros/Stratege Aquaelf Arkyron.md",
