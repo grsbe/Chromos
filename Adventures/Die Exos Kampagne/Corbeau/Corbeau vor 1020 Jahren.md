@@ -22,3 +22,6 @@ HavaNavahris
 AtheLethariel
 Gromash
 Zakra'arkann
+
+Soleani
+Lalatina
