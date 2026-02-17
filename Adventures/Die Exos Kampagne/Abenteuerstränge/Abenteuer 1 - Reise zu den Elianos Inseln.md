@@ -214,7 +214,7 @@ Will alleine in die WIldnis um sich zu beweisen
 Hat angst vor einer Krake
 
 
-2 Matrosen, zwei Frauen, eine Navigotorin, ein Captain
+2 Matrosen, zwei Frauen, eine Navigotorin Zestani, ein Captain
 Elvair
 
 
