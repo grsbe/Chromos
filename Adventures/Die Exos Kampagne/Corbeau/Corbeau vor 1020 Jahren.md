@@ -14,3 +14,11 @@ Lamberts Erschaffer in seiner unkorrupten Elfenform ist anwesend
 Arkyron ist anwesend als normaler Elf
 
 Elfen widmen sich seit 30000 Jahren 
+
+
+AraNarael
+SinaRanis
+HavaNavahris
+AtheLethariel
+Gromash
+Zakra'arkann
