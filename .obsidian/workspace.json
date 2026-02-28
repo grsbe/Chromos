@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "13e1e8cbc067c26f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Versionshinweise 1.12.4"
-            }
-          },
-          {
             "id": "bbba2205ac1a8c7f",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "Dorfbewohner"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +183,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "13e1e8cbc067c26f",
+  "active": "2b0fcc3816d0e92c",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Dorfbewohner.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
     "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros/Vanis Dragonborn Brute Barackius.md",
@@ -211,7 +199,6 @@
     "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros/Stratege Aquaelf Arkyron.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Dorfbewohner.md",
     "Adventures/Die Exos Kampagne/NPCs/Havis/Prinz Elliander.md",
     "Adventures/Die Exos Kampagne/NPCs/Havis/Prinzessin Cyrille.md",
     "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros/Vanis Assassinin Tiefling Allie.md",

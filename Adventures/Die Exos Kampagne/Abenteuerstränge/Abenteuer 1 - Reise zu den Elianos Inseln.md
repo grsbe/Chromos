@@ -276,12 +276,13 @@ Kleiner Laden für Ausrüstung, und Ankauf für magische Artefakte Miru
 - Schlittschuhe
 
 Laden mit Wolfsschlittenservice
+Shaintung
 
 Andere Abenteuerteams
-Miroslav von der Krone geschickt und zwei weitere
+Miroslav von der Krone geschickt und zwei weitere menschen
 
 Banditengruppe mit Tiamatsymbolen, die überlegen wie sie den Drachen händeln wollen.
-
+ziehen los gerade als die ankommen
 
 
 
@@ -310,6 +311,14 @@ Höhle mit Snowy Owlbear
 
 Wenn die ganz vom Weg abkommen:
 Gruselhütte und Blizzard wird ultra schlimm
+
+
+Szene: Angjajuk https://5e.tools/bestiary.html#sperm%20whale_idrotf
+Verschneite Minihütte, 
+kleiner Pier mit Glocke an einem vertikalen Stab
+- https://5e.tools/bestiary.html#giant%20vulture_mm lockt drei vultures an potentially
+
+Angjajuks Vertrauen
 
 
 ---
