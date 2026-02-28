@@ -202,11 +202,11 @@ teleportiert sich im Fight und spammt frostbolt +5 1d8+3dmg
 ein Katzenmensch, Fineas 10ac
 : Fischen, gehört zu Solomon, sammelt und checkt Ware ab und bringt sie wieder zurück 
 Liebt Fische
-puncht +3 1dmg 12hp
+puncht +3 1dmg 14hp 14ac
 
 
-nope
-Zwerg: Kabosh Frau
+Matrose
+Zwerg: Kabosh
 20hp 14ac
 +3 1d10+3dmg
 der die Ganze Zeit angry is 
@@ -214,21 +214,18 @@ Will alleine in die WIldnis um sich zu beweisen
 Hat angst vor einer Krake
 
 
-2 Matrosen, zwei Frauen, eine Navigotorin Zestani, ein Captain
-Elvair
-
-
+Navigatorin Zestani
+12hm ac12 frostbolt +3 1d8+3
+gust
 
 Secrets:
 Der Wal Angajuk
 - ist intelligent
 - hat ein kleines Boot auf dem Rücken
-
 Ein Geisterschiff
 - Soll vor 20 Jahren eine Ladung für Solomon geliefert haben und ist verloren gegangen
 Das Badehaus ist verflucht
 - Der Gott Remaros selbst soll einem erscheinen und einen dann heimsuchen
-- 
 Die Reptilien schmuggeln Waffen
 - Schmuggler haben ungewöhnlich viele Waffen in letzter Zeit geliefert und weiter
 Es gibt viel Mehr stürme in letzter Zeit
@@ -239,11 +236,12 @@ Sahuiguin attack!
 https://5e.tools/bestiary.html#sahuagin%20warrior_xmm  5 von denen 16hp 1d4+1 dmg
 https://5e.tools/bestiary.html#sahuagin%20warlock%20of%20uk'otoa_egw kein counter spell
 
-im wasser 1 shark https://5e.tools/bestiary.html#shell%20shark_gos
+versuchen wen zu abduckten
+
+im wasser 3 sharks https://5e.tools/bestiary.html#shell%20shark_gos
 
 Ein Scrying Orb von Barakius
 
-Treasure im wasser zum angeln
 
 
 ---
@@ -266,10 +264,10 @@ enjoys uncovering the secrets of Elianos
 - Salsvault is two hundred miles northwest of Syrinlya. Ice mephits are drawn to the magic of something at that location. Orvo and Urgon found the ruin after following one of the creatures.
 - Salsvault appears to have been an Aeorian lab. Orvo and Urgon explored only three of its chambers before being chased away by animated suits of armor.
 - The dwarves didn’t know what the vials contained.
-- Orvo sold his share of the treasure from Salsvault to the Buyer. Urgon decided to hang onto his share until he returned home to Palebank Village.
+- Orvo sold his share of the treasure from Salsvault in the city. Urgon decided to hang onto his share until he returned home to Palebank Village.
 - Der nordweg ist gefährlich wegen einem Drachen
 
-Kleiner Laden für Ausrüstung, und Ankauf für magische Artefakte
+Kleiner Laden für Ausrüstung, und Ankauf für magische Artefakte Miru
 - Warme klamotten
 - Feuerzeug
 - Magische laterne
@@ -278,6 +276,12 @@ Kleiner Laden für Ausrüstung, und Ankauf für magische Artefakte
 - Schlittschuhe
 
 Laden mit Wolfsschlittenservice
+
+Andere Abenteuerteams
+Miroslav von der Krone geschickt und zwei weitere
+
+Banditengruppe mit Tiamatsymbolen, die überlegen wie sie den Drachen händeln wollen.
+
 
 
 
@@ -289,14 +293,15 @@ Eine Insel weiter ins Zentrum rein
 
 
 Direkter Weg:
-Eisdrachin Abyssalia
+Eisdrachin Abyssalia https://5e.tools/bestiary.html#young%20white%20dragon_xmm
 Der Drache sucht leichte Beute, überheblich kommt aber auch nicht an ein Ei heran dass in die Spalten herunter gefallen ist. Wenn die Truppe social no jutsu versucht, überlegt er ob er sie helfen lässt statt sie auszulöschen
+Roman connection
 Wenn die Truppe den Drachen fightet spielt er mit ihnen aber lässt sie irgendwann gehen oder finished sie
 
 
 Either way:
 Boot mit Eistroll und schatz vom Drache
-Glocke mit Awakened Sparm Whale
+Glocke mit Awakened Sparm Whale Angajuk (banditen die davon gehört haben und ihn killen wollen)
 Blizzard
 
 Weg drum rum:
@@ -304,20 +309,24 @@ Blizzard
 Höhle mit Snowy Owlbear
 
 Wenn die ganz vom Weg abkommen:
-Gruselhütte
+Gruselhütte und Blizzard wird ultra schlimm
 
 
 ---
 Scene6b: Im Eislabyrinth
 
+Szenen:
 Gnoll shrine mit Anführerin
+
 eisstatue und Gabu 
 Gabu können in die Wand verschwinden, nur das Symbol ist noch etwa auf der Wand https://5e.tools/bestiary.html#animated%20knife_egw
+
 Drachenei
 
-Ein eingefrorener untoter Hai im Eis
-Eine Schlucht/Gletscherritze die steil hinabgeht
-Verschlossener Laboreingang mit Rätsel plus Schlüssel
+Ein eingefrorene untote Krake im Eis die richtig mad aussieht
+
+Eine Schlucht/Gletscherritze die steil hinabgeht zum labor
+Verschlossener Laboreingang mit Rätsel plus Schlüssel und eis mephits
 
 
 ---
