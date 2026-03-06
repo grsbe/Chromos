@@ -26,6 +26,7 @@ Zakra'arkann untersuchte den Tod.
 Soleani Magie
 Lalatina Teppichweben
 Liliana auf der Felsenspitze am Strand. Beobachtete die Wellen.
+Lunara
 
 Barakius. Sammelte Macht.
 Arkyron studierte Elfen und soziales.

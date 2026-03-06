@@ -233,7 +233,7 @@ Es gibt viel Mehr stürme in letzter Zeit
 Exited über das Fest in den nächsten Zwei Wochen
 
 Sahuiguin attack!
-https://5e.tools/bestiary.html#sahuagin%20warrior_xmm  5 von denen 16hp 1d4+1 dmg
+https://5e.tools/bestiary.html#sahuagin%20warrior_xmm  5 von denen 16hp 1d4+1 dmg zwei waves
 https://5e.tools/bestiary.html#sahuagin%20warlock%20of%20uk'otoa_egw kein counter spell
 
 versuchen wen zu abduckten
@@ -246,6 +246,16 @@ Ein Scrying Orb von Barakius
 
 ---
 Scene 5: Elianos Basiscamp
+
+Das Schiff schiebt sich langsam durch dunkles, kaltes Wasser. Schnee fällt lautlos aus dem grauen Himmel und legt sich auf Deck, Meer und Mäntel gleichermaßen. Der Wind ist scharf und lässt selbst dicke Felle klamm wirken.
+
+Am rande des Horizonts taucht ein in Schnee gehülltes Land auf und wird rasch größer.
+...
+
+Das Dorf besteht aus dicht zusammenstehenden Yurten, ihre runden Formen halb im Schnee versunken. Auf den Filzdächern hat sich eine weiße Schicht gesammelt, aus den Dachöffnungen steigt dünner Rauch in die kalte Luft. Zwischen den Zelten führen festgetretene Pfade durch den Schnee.
+Warm schimmerndes Feuerlicht fällt aus einigen Eingängen und bricht sich im langsam fallenden Schnee.
+In der Stille wirkt die kleine Ansammlung von Jurten wie ein einzelner, warmer Fleck Leben am Rand der eisigen Küste.
+
 
 Morgo zeigt ihnen ein bisschen den ort
 Sie können in Bulabs hütte etwas bleiben

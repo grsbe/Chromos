@@ -18,6 +18,12 @@ Bein ist kind of wieder geheilt aber immer noch depresso
 ---
 Ideen:
 
-Magische Items
-Sprechendes Schwert? Syl
-HUman connection zu zeitreisender Fee? / Gott
+
+Sprechendes Schwert? Sylfonie
+Sie ist eine Fee, windfee die sich damals für den Schmied entschieden hat sich zu opfern um eine Waffe zu schaffen
+
+Human connection zu zeitreisender Fee? / Gott
+
+
+Fähigkeiten:
+Fliegt zurück?
