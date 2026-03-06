@@ -322,19 +322,22 @@ Glocke mit Awakened Sparm Whale Angajuk (banditen die davon gehört haben und ih
 Blizzard
 
 Weg drum rum:
-Blizzard
-Höhle mit Snowy Owlbear
+Blizzard wenn die weiter 
+Höhle mit Snowy Owlbear https://5e.tools/adventure.html#idrotf,12,snowy%20owlbear,0
 
 Wenn die ganz vom Weg abkommen:
 Gruselhütte und Blizzard wird ultra schlimm
 
-
+https://5e.tools/adventure.html#idrotf,12,angajuk's%20bell
 Szene: Angjajuk https://5e.tools/bestiary.html#sperm%20whale_idrotf
 Verschneite Minihütte, 
 kleiner Pier mit Glocke an einem vertikalen Stab
 - https://5e.tools/bestiary.html#giant%20vulture_mm lockt drei vultures an potentially
 
 Angjajuks Vertrauen
+Der Wal kann das Team vor den Berg bringen
+
+Die Tiamat Banditen wollen Angjaguk killen, er trägt ein secret in sich ambergris underheilmittel
 
 
 ---
