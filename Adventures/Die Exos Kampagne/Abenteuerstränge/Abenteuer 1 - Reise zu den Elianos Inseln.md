@@ -259,7 +259,7 @@ In der Stille wirkt die kleine Ansammlung von Jurten wie ein einzelner, warmer F
 
 Morgo zeigt ihnen ein bisschen den ort
 Sie können in Bulabs hütte etwas bleiben
-- Kiste mit rations, a 50-foot silk rope, a blanket, a grappling hook, a miner's pick, and a book titled Impress Potential Lovers with Great Deeds
+- Kiste mit rations, a 50-foot silk rope, a blanket, a grappling hook, a miner's pick, and a book titled Fantastical Beasts natured in Ice, öl flask, feuerzeug
 
 zeigt auf die anderen abenteurer Teams die ihre Expeditionen vorbereiten
 
