@@ -245,7 +245,7 @@ Ein Scrying Orb von Barakius
 
 
 ---
-Scene 5: Elianos Basiscamp
+Scene 5: Elianos Basiscamp Syrinlia
 
 Das Schiff schiebt sich langsam durch dunkles, kaltes Wasser. Schnee fällt lautlos aus dem grauen Himmel und legt sich auf Deck, Meer und Mäntel gleichermaßen. Der Wind ist scharf und lässt selbst dicke Felle klamm wirken.
 
@@ -261,38 +261,42 @@ Morgo zeigt ihnen ein bisschen den ort
 Sie können in Bulabs hütte etwas bleiben
 - Kiste mit rations, a 50-foot silk rope, a blanket, a grappling hook, a miner's pick, and a book titled Impress Potential Lovers with Great Deeds
 
-
 zeigt auf die anderen abenteurer Teams die ihre Expeditionen vorbereiten
 
+Banditengruppe mit Tiamatsymbolen, die überlegen wie sie den Drachen händeln wollen.
+ziehen los gerade als die ankommen
 
-Orvo
+Orvo Zwerg
 curious and soft-spoken
 war zusammen mit Urgon unterwegs
 genuinely interested in the characters’ lives, and asks them lots of questions after inviting them to share his fire
 enjoys uncovering the secrets of Elianos
-- Orvo and Urgon found the blue vials in Salsvault, an Aeorian ruin partially submerged in water in a region of Foren where the glacial ice is thin. Explorers call this region Thin Sheets. Orvo believes the ruin is as well preserved as it is because the structure was reinforced with magic, as were many of Aeor’s buildings that housed hazardous materials or secret projects.
-- Salsvault is two hundred miles northwest of Syrinlya. Ice mephits are drawn to the magic of something at that location. Orvo and Urgon found the ruin after following one of the creatures.
-- Salsvault appears to have been an Aeorian lab. Orvo and Urgon explored only three of its chambers before being chased away by animated suits of armor.
+- Orvo und Urgon haben die beiden blauen Flaschen in Salisvault gefunden, eine Art antikes Labor das halb unter wasser liegt
+- Die Ruine scheint gut erhalten zu sein durch eine Art magisches Siegel
+- because the structure was reinforced with magic, as were many of Aeor’s buildings that housed hazardous materials or secret projects.
+- Salisvault liegt nördlich 50km in den Eiskluften einer Insel im Eis
+- Ice mephits are drawn to the magic of something at that location. Orvo and Urgon found the ruin after following one of the creatures.
+- Salsvault appears to have been an antikes lab. 
+- Orvo and Urgon explored only three of its chambers before being chased away by animated suits of armor.
 - The dwarves didn’t know what the vials contained.
-- Orvo sold his share of the treasure from Salsvault in the city. Urgon decided to hang onto his share until he returned home to Palebank Village.
-- Der nordweg ist gefährlich wegen einem Drachen
+- Orvo sold his share of the treasure from Salisvault here in Syrinlia. Urgon decided to hang onto his share until he returned home.
+- Der nordweg ist gefährlich da sich ein Drache niedergelassen hat
 
 Kleiner Laden für Ausrüstung, und Ankauf für magische Artefakte Miru
 - Warme klamotten
 - Feuerzeug
-- Magische laterne
+- laterns
 - Fishing Poles
 - Rationen
-- Schlittschuhe
+- Schlittschuhe (+10ft in gerader linie auf Ice)
+https://5e.tools/items.html#foxfire%20charm_griffonssaddlebag2
+
 
 Laden mit Wolfsschlittenservice
 Shaintung
 
 Andere Abenteuerteams
 Miroslav von der Krone geschickt und zwei weitere menschen
-
-Banditengruppe mit Tiamatsymbolen, die überlegen wie sie den Drachen händeln wollen.
-ziehen los gerade als die ankommen
 
 
 
@@ -312,6 +316,8 @@ Wenn die Truppe den Drachen fightet spielt er mit ihnen aber lässt sie irgendwa
 
 Either way:
 Boot mit Eistroll und schatz vom Drache
+https://5e.tools/adventure.html#idrotf,12,dark%20duchess
+
 Glocke mit Awakened Sparm Whale Angajuk (banditen die davon gehört haben und ihn killen wollen)
 Blizzard
 
@@ -336,6 +342,7 @@ Scene6b: Im Eislabyrinth
 
 Szenen:
 Gnoll shrine mit Anführerin
+https://5e.tools/adventure.html#idrotf,12,cackling%20chasm
 
 eisstatue und Gabu 
 Gabu können in die Wand verschwinden, nur das Symbol ist noch etwa auf der Wand https://5e.tools/bestiary.html#animated%20knife_egw
