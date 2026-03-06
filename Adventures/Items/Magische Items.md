@@ -20,3 +20,18 @@ Ring of Invisibility
 Can be made to be invisible
 Wand of Sneezing
 Rock of Returning. Schwerer Stein der immer wieder zurückkehrt?
+
+
+
+
+# Usefull Magial Items
+
+Candle of the deep
+Lesser Healing Potions
+Hat of vermin
+Cloak of billowing
+https://5e.tools/items.html#adamantine%20chain%20shirt_xdmg
+Shield of faces
+https://5e.tools/items.html#boots%20of%20the%20winding%20path_efa
+https://5e.tools/items.html#cloak%20of%20protection_xdmg
+https://5e.tools/items.html#clothes%20of%20mending_xdmg
