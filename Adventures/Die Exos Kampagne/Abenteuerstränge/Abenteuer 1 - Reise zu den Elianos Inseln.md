@@ -349,7 +349,7 @@ https://5e.tools/adventure.html#idrotf,12,cackling%20chasm
 
 eisstatue und Gabu 
 Gabu können in die Wand verschwinden, nur das Symbol ist noch etwa auf der Wand https://5e.tools/bestiary.html#animated%20knife_egw
-
+die Gabu verschwinden in einer Höhle wo sie auf treasure und auf das drachenei aufpassen
 Drachenei
 
 Ein eingefrorene untote Krake im Eis die richtig mad aussieht
