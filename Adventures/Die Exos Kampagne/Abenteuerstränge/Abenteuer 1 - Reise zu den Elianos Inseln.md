@@ -350,9 +350,9 @@ https://5e.tools/adventure.html#idrotf,12,cackling%20chasm
 eisstatue und Gabu 
 Gabu können in die Wand verschwinden, nur das Symbol ist noch etwa auf der Wand https://5e.tools/bestiary.html#animated%20knife_egw
 die Gabu verschwinden in einer Höhle wo sie auf treasure und auf das drachenei aufpassen
-Drachenei
+Drachenei oder was anderes? Mithril Armour?
 
-Ein eingefrorene untote Krake im Eis die richtig mad aussieht
+Untote Krake im Eis die versucht die Abenteurer zu snatchen und zu essen
 
 Eine Schlucht/Gletscherritze die steil hinabgeht zum labor
 Verschlossener Laboreingang mit Rätsel plus Schlüssel und eis mephits
@@ -364,6 +364,7 @@ Scene 7: Das Labor
 Untoter Forscher der 
 Irgend ein Selbstzerstörungstimer, escape entweder mit Walunterwasser oder wiederhoch klettern
 
+Kraken endbosss
 
 
 
