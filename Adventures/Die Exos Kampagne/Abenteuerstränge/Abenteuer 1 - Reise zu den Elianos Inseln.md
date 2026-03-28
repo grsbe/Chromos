@@ -329,7 +329,7 @@ Wenn die ganz vom Weg abkommen:
 Gruselhütte und Blizzard wird ultra schlimm
 
 https://5e.tools/adventure.html#idrotf,12,angajuk's%20bell
-Szene: Angjajuk https://5e.tools/bestiary.html#sperm%20whale_idrotf
+Szene: Angjaguk https://5e.tools/bestiary.html#sperm%20whale_idrotf
 Verschneite Minihütte, 
 kleiner Pier mit Glocke an einem vertikalen Stab
 - https://5e.tools/bestiary.html#giant%20vulture_mm lockt drei vultures an potentially
@@ -344,10 +344,12 @@ Die Tiamat Banditen wollen Angjaguk killen, er trägt ein secret in sich ambergr
 Scene6b: Im Eislabyrinth
 
 Szenen:
+CUt:
 Gnoll shrine mit Anführerin
 https://5e.tools/adventure.html#idrotf,12,cackling%20chasm
 
-eisstatue und Gabu 
+
+eisstatuen und Gabu 
 Gabu können in die Wand verschwinden, nur das Symbol ist noch etwa auf der Wand https://5e.tools/bestiary.html#animated%20knife_egw
 die Gabu verschwinden in einer Höhle wo sie auf treasure und auf das drachenei aufpassen
 Drachenei oder was anderes? Mithril Armour?
