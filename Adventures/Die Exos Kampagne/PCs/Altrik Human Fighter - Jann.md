@@ -23,7 +23,9 @@ Sprechendes Schwert? Sylfonie
 Sie ist eine Fee, windfee die sich damals für den Schmied entschieden hat sich zu opfern um eine Waffe zu schaffen
 
 Human connection zu zeitreisender Fee? / Gott
-
+Wenn Jann einen Crit landet meldet sie sich, das schwert wird ganz heiß und unnatürlich leicht
+Du hörst eine Musik im Singen des Schwertes
 
 Fähigkeiten:
 Fliegt zurück?
+Vorpall

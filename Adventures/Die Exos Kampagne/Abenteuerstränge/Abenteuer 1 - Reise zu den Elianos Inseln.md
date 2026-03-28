@@ -363,21 +363,28 @@ Verschlossener Laboreingang mit Rätsel plus Schlüssel und eis mephits
 ---
 Scene 7: Das Labor
 
+Draw - Look at map
 Untoter Forscher der 
 Irgend ein Selbstzerstörungstimer, escape entweder mit Walunterwasser oder wiederhoch klettern
 
 Kraken endbosss
 
 
+Brief im Schreibtisch
+All meine Getreuen sind dahingeschieden: mein Geschlecht, meine Gefährten und meine Knechte. Auch ich selbst bin nicht länger unter den Lebenden. Wäre es nicht meiner raschen Besinnung und meiner Kunst der Nekromantie zu danken, so wäre unser bedeutsames Wirken zu Salsvault längst vereitelt.
 
+Gleichwohl harre ich aus in meiner untoten Gestalt und trachte danach, ein Siechtum zu ersinnen, das selbst die Götter zu befallen vermag.
 
-To whomever finds this:
+Sollte ich vollends dem Vergehen anheimgefallen sein, so flehe ich dich an: Finde mein Laboratorium, ergründe meine Aufzeichnungen und vollende mein Werk.
 
-All my people are dead: my family, my friends, and my workers. I, too, am dead. Were it not for my quick thinking and prowess with necromancy, our important work at Salsvault would be over. I continue to labor in my undead form, trying to find a sickness that can infect the gods themselves. If I have perished, I implore you to find my lab, find my notes, and finish my work. The gods must pay for Himeriavis destruction.
-
+Die Götter sollen Buße tun für die Vernichtung Himeriavis’.
 —Ferol Sal
 
 
+
+Roleplay Ferol Sal
+
+Für Amyryllia relevant: Alles zu Remaros: Gott der Wünsche
 
 ---
 Scene 8: Die Rückkehr
