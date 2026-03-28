@@ -385,6 +385,7 @@ Die Götter sollen Buße tun für die Vernichtung Himeriavis’.
 Roleplay Ferol Sal
 
 Für Amyryllia relevant: Alles zu Remaros: Gott der Wünsche
+Für Oko: Sieht ihn irgendwann als Zarkann: Er hat seinen Zauber als basis benutzt und es hat kind of funktioniert. Wie geht es dir, wie ist die Welt da draussen?
 
 ---
 Scene 8: Die Rückkehr
