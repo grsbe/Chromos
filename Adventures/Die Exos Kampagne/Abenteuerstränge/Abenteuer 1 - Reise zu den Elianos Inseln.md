@@ -344,9 +344,13 @@ Die Tiamat Banditen wollen Angjaguk killen, er trägt ein secret in sich ambergr
 Scene6b: Im Eislabyrinth
 
 Szenen:
-CUt:
-Gnoll shrine mit Anführerin
-https://5e.tools/adventure.html#idrotf,12,cackling%20chasm
+- The party stumbles across the remains of an old camp. Two tents are pitched near a burned out fire pit, with one of the tents having collapsed. Inside each tent are two people, an elf, and a human in the collapsed tent, and a human and a dwarf in the intact one. All four are dead, from apparent hypothermia. Also in the collapsed tent is Some minor loot. From the snow built up over the collapsed tent and the fire pit, this camp has been here for a while; anywhere from a few days, to several years.
+    
+- While exploring the labyrinth, the group finds a hot spring. The pool is full of crystal clear water with steam billowing out of it. On either side of the simply carved stone steps to the spring are statues of Whatever built this labyrinth. The spring is a trap, revealing itself to be a Level appropriate Ooze when entered, with an illusion of steam cast upon it. The illusionary nature of the steam is discovered with an easy Arcana or Investigation check, and the slime with a high Perception or Investigation check.
+    
+- The group, while exploring the labyrinth, finds the passage forward is blocked with thick row after thick row of icicles. These icicles either need to be melted with fire magic, bypassed with teleportation, slipped through with Acrobatics, broken through with Athletics or otherwise passed through in order to continue.
+    
+- The party happens across a Monster native to the labyrinth and its camp. This monster invites the party to stay by its fire, have some hearty soup, and warm up. This monster doesn't like the working conditions within the maze, and while it is bound to stay here through a contract/magic/ect., it has found a loophole in its commands to help those travelling through the maze. There is nothing malicious about this monster, and it may have some information about the nearby areas of the maze it will share in exchange for stories from the outside world.
 
 
 eisstatuen und Gabu 
@@ -356,6 +360,7 @@ Drachenei oder was anderes? Mithril Armour?
 
 Untote Krake im Eis die versucht die Abenteurer zu snatchen und zu essen
 
+eis mephits https://5e.tools/bestiary.html#ice%20mephit_mm
 Eine Schlucht/Gletscherritze die steil hinabgeht zum labor
 Verschlossener Laboreingang mit Rätsel plus Schlüssel und eis mephits
 
