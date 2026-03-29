@@ -346,12 +346,16 @@ Scene6b: Im Eislabyrinth
 Szenen:
 - The party stumbles across the remains of an old camp. Two tents are pitched near a burned out fire pit, with one of the tents having collapsed. Inside each tent are two people, an elf, and a human in the collapsed tent, and a human and a dwarf in the intact one. All four are dead, from apparent hypothermia. Also in the collapsed tent is Some minor loot. From the snow built up over the collapsed tent and the fire pit, this camp has been here for a while; anywhere from a few days, to several years.
     
-- While exploring the labyrinth, the group finds a hot spring. The pool is full of crystal clear water with steam billowing out of it. On either side of the simply carved stone steps to the spring are statues of Whatever built this labyrinth. The spring is a trap, revealing itself to be a Level appropriate Ooze when entered, with an illusion of steam cast upon it. The illusionary nature of the steam is discovered with an easy Arcana or Investigation check, and the slime with a high Perception or Investigation check.
+- While exploring the labyrinth, the group finds a hot spring. The pool is full of crystal clear water with steam billowing out of it. On either side of the simply carved stone steps to the spring are statues of Whatever built this labyrinth. The spring is a trap, revealing itself to be a Level appropriate Ooze when entered, with an illusion of steam cast upon it. The illusionary nature of the steam is discovered with an easy Arcana or Investigation check, and the slime with a high Perception or Investigation check. https://5e.tools/bestiary.html#hexahedrooze_helianasguidetomonsterhunting
     
 - The group, while exploring the labyrinth, finds the passage forward is blocked with thick row after thick row of icicles. These icicles either need to be melted with fire magic, bypassed with teleportation, slipped through with Acrobatics, broken through with Athletics or otherwise passed through in order to continue.
     
 - The party happens across a Monster native to the labyrinth and its camp. This monster invites the party to stay by its fire, have some hearty soup, and warm up. This monster doesn't like the working conditions within the maze, and while it is bound to stay here through a contract/magic/ect., it has found a loophole in its commands to help those travelling through the maze. There is nothing malicious about this monster, and it may have some information about the nearby areas of the maze it will share in exchange for stories from the outside world.
 
+- Ein Gabu stiehlt der Party etwas, z.B. das Amulett von Miguel. DIe Party folgt ihm in eine versteckte Höhle aus jetzt toten Holzresten im Eis.  in der 10 Eisstatuen stehen aus Elfen. Oko fühlt eine seltsame verbundenschaft mit denen. 
+- In der Mitte steht ein Gabu der versucht die Schätze in der Mitte zu verteidigen und mit zu nehmen
+
+Die Banditen lurken am Eingang oder wenn die Truppe versucht da drin zu schlafen
 
 eisstatuen und Gabu 
 Gabu können in die Wand verschwinden, nur das Symbol ist noch etwa auf der Wand https://5e.tools/bestiary.html#animated%20knife_egw
@@ -387,10 +391,10 @@ Die Götter sollen Buße tun für die Vernichtung Himeriavis’.
 
 
 
-Roleplay Ferol Sal
+Roleplay Ferol Sal https://5e.tools/bestiary.html#ferol%20sal_egw aber nur half dmg
 
-Für Amyryllia relevant: Alles zu Remaros: Gott der Wünsche
-Für Oko: Sieht ihn irgendwann als Zarkann: Er hat seinen Zauber als basis benutzt und es hat kind of funktioniert. Wie geht es dir, wie ist die Welt da draussen?
+Für Amyryllia relevant: Alles zu Remaros: Gott der Wünsche. Er spürt das Mal von Remaros an ihr
+Für Oko: Sieht ihn irgendwann als Zarkann: Er hat seinen Zauber als basis benutzt und es hat kind of funktioniert um alle untot zu machen. Wie geht es dir, wie ist die Welt da draussen? 
 
 ---
 Scene 8: Die Rückkehr
@@ -401,3 +405,57 @@ Scene 9 Wiederbasiscamp und Schiffahrt heim
 
 ---
 Daheim ein Fest am nächsten Tag
+
+
+
+
+
+
+
+
+
+
+----
+## Giant Octopus
+
+_Huge beast, unaligned_
+
+---
+
+- **Armor Class** 12 (Natural Armor)
+- **Hit Points** 110 (14d10+42)
+- **Speed** 10 ft., swim 60 ft..
+
+---
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|21 (+5)|15 (+2)|17 (+3)|11 (+0)|10 (+0)|7 (-2)|
+
+---
+
+- **Skills** Deception +4, Perception +6, Stealth +8
+- **Senses** Darkvision 60 Ft., Passive Perception 14
+- **Challenge** 4 (1,800 XP)
+
+---
+
+**_Hold Breath._** While out of water, the octopus can hold its breath for 1 hour.
+
+**_Underwater Camouflage._** The octopus has advantage on Dexterity (Stealth) checks and Deception (Charisma) checks made to impersonate natural terrain or another aquatic creature.
+
+**_Boneless._** The octopus can move through a space as narrow as 1 feet wide without squeezing.
+
+### Actions
+
+**_Multiattack._** The octopus makes two tentacle attacks, one of which it can replace with a use of its fling
+
+**_Tentacles._** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 14). Until this grapple ends, the target is Restrained.
+
+**_Fling._** One creature grappled by the octopus is thrown up to 30 feet.. If a thrown target strikes a solid surface, the target takes 10 (3d6) bludgeoning damage. If the target is thrown at another creature, that creature must succeed on a DC 14 Dexterity saving throw or take the same damage.
+
+**_Blanket (Recharge 5-6, underwater only)._** Each creature in a 15 ft. radius sphere must succeed on a DC 14 Dexterity saving throw or be grappled and pulled up to 5 ft. toward the octopus. Until this grapple ends, the target is Restrained. A creature without a swim speed makes this save at disadvantage.
+
+### Reactions
+
+**_Ink Cloud (1/day)._** As a reaction to being reduced below 55 hit points while underwater, the octopus exhudes a 20-foot-radius cloud of ink around itself. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash or Hide action as a bonus action.
