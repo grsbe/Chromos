@@ -392,13 +392,16 @@ Die Götter sollen Buße tun für die Vernichtung Himeriavis’.
 
 
 Roleplay Ferol Sal https://5e.tools/bestiary.html#ferol%20sal_egw aber nur half dmg
+Ferol Sal wirft funny potions
 
-Für Amyryllia relevant: Alles zu Remaros: Gott der Wünsche. Er spürt das Mal von Remaros an ihr
+Für Amyryllia und Keren relevant: Alles zu Remaros: Gott der Wünsche. Er spürt das Mal von Remaros an ihr
 Für Oko: Sieht ihn irgendwann als Zarkann: Er hat seinen Zauber als basis benutzt und es hat kind of funktioniert um alle untot zu machen. Wie geht es dir, wie ist die Welt da draussen? 
 
 ---
 Scene 8: Die Rückkehr
 Entweder unterwasser oder wieder Drachenszene
+
+Unterwasser Ruinen: Potentielly ein blaues Amulett?
 
 ---
 Scene 9 Wiederbasiscamp und Schiffahrt heim
@@ -416,7 +419,7 @@ Daheim ein Fest am nächsten Tag
 
 
 ----
-## Giant Octopus
+## Giant Octopus (jeff)
 
 _Huge beast, unaligned_
 
