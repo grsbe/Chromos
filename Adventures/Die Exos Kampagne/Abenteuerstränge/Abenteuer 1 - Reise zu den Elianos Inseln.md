@@ -376,6 +376,10 @@ Draw - Look at map
 Untoter Forscher der 
 Irgend ein Selbstzerstörungstimer, escape entweder mit Walunterwasser oder wiederhoch klettern
 
+Notes:
+- Adamantium chainmail
+
+Die Banditen
 Kraken endbosss
 
 
