@@ -415,7 +415,10 @@ Daheim ein Fest am nächsten Tag
 
 
 
+Ferol Sal:
+Throws potions and bickers
 
+- Potion of levitaion
 
 
 
@@ -457,11 +460,11 @@ _Huge beast, unaligned_
 
 **_Multiattack._** The octopus makes two tentacle attacks, one of which it can replace with a use of its fling
 
-**_Tentacles._** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 14). Until this grapple ends, the target is Restrained.
+**_Tentacles._** Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 14). Until this grapple ends, the target is Restrained.
 
 **_Fling._** One creature grappled by the octopus is thrown up to 30 feet.. If a thrown target strikes a solid surface, the target takes 10 (3d6) bludgeoning damage. If the target is thrown at another creature, that creature must succeed on a DC 14 Dexterity saving throw or take the same damage.
 
-**_Blanket (Recharge 5-6, underwater only)._** Each creature in a 15 ft. radius sphere must succeed on a DC 14 Dexterity saving throw or be grappled and pulled up to 5 ft. toward the octopus. Until this grapple ends, the target is Restrained. A creature without a swim speed makes this save at disadvantage.
+**_Blanket (Recharge 5-6)._** Each creature in a 15 ft. radius sphere must succeed on a DC 14 Dexterity saving throw or be grappled and pulled up to 5 ft. toward the octopus. Until this grapple ends, the target is Restrained. A creature without a swim speed makes this save at disadvantage.
 
 ### Reactions
 
