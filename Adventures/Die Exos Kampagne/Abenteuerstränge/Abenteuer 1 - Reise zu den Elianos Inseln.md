@@ -400,12 +400,21 @@ Ferol Sal wirft funny potions
 
 Für Amyryllia und Keren relevant: Alles zu Remaros: Gott der Wünsche. Er spürt das Mal von Remaros an ihr
 Für Oko: Sieht ihn irgendwann als Zarkann: Er hat seinen Zauber als basis benutzt und es hat kind of funktioniert um alle untot zu machen. Wie geht es dir, wie ist die Welt da draussen? 
+Altriks schwert reagiert auf den typen und meint er kennts
 
 ---
 Scene 8: Die Rückkehr
 Entweder unterwasser oder wieder Drachenszene
 
 Unterwasser Ruinen: Potentielly ein blaues Amulett?
+- geschwungene bögen
+- schlamm und farn überdeckt
+- krater der sich durch die ruinen zieht, blaues leuchten in der Tiefe
+- tief in den krater rein -> persuade den wal
+
+blaues leuchten wird stärker bis man ein 
+
+
 
 ---
 Scene 9 Wiederbasiscamp und Schiffahrt heim
@@ -416,9 +425,8 @@ Daheim ein Fest am nächsten Tag
 
 
 Ferol Sal:
-Throws potions and bickers
-
-- Potion of levitaion
+Throws potions and bickers jede runde
+https://larrythedmguy.com/blog/f/badnegative-outcome-wild-magic-surge-table
 
 
 
