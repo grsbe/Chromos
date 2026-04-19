@@ -50,3 +50,14 @@ Bis Lazarus vorbei kam mit seinen Varmpir elfen?
 Remaros vergiftete alle Elfen mit Neid, die Sünden Götter wurden immer stärker und überzogen die Elfen mit Bosheit und macht willen.
 Die Elfen bilden irgendwann eine Rebellion und es kommt zum erbitterten kampf
 Die 
+
+
+
+# Die Geschichte Remaros
+
+Einst war Himaveris ein Reich der Wünsche, eine Oase in einer Welt in der Götter Magnalia dominierten und lebende ihren Forderungen folgen mussten. Remaros ist ein Gott der Wünsche der wollte dass alle Kreaturen Alfines das bekommen was sie wollten. Und die Alfen wertschätzen und liebten ihr Kind. Himaveris war eine Gemeinschaft aus glücklichen Alfen die alles hatten was sie wollten und dem nachgingen wonach ihnen der Sinn stand.
+
+Was tut ein Alf der alles hat was er will? Er verbringt die Ewigkeit mit belanglosigkeiten. Er studiert die Sandkörner am Meer. Prüft die ewig wechselnden Sternbilder Phenets auf Ereignisse in der Zukunft. Organisiert Feste, man kocht.
+Remaros war ein Kind dass auf seine Alfen aufgepasst hat.
+
+Barakius war ein Drachenalf der von Lazarus geflüchtet ist.
