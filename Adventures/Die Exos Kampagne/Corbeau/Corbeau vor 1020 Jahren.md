@@ -88,3 +88,9 @@ Die Nachtschatten sind sehr interessiert an dem Ergebnis dieser Waffe und stiche
 Arkyron ist zwie gespalten. Hochelfen und Barakius stehen treu zu Remaros neuer Gestalt und laden sich voll mit Energie und blitzen und fallen in andere Domains ein um Artefakte zu stehlen.
 
 Es kommt schlussendlich dazu dass Remaros vom Verrat seiner Alfen und Arkyron erfährt und zurückkehrt um Himeriavis auszulöschen.
+
+Es kommt zum Kampf wie in der Cut scene. Die abtrünnigen Alfen lenken Remaros ab und feuern den Bogen mit dem Pfeil auf den Gott.
+
+Im letzten Moment warnt Arkyron den Gott.
+
+Dieser verlangsamt die Zeit bis der Pfeil still steht und Arkyron und Remaros teilen ihre Emotionen.
