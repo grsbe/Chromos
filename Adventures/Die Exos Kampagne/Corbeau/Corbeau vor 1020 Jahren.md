@@ -8,8 +8,7 @@ an der Küste
 Elfen reiten auf Drachen
 Drachen fliegen voll Wonne durch die Luft
 mit riesigen Spinfäden die ein großes Tuch
-
-Freddies Vater ist anwesend
+ n 
 Lamberts Erschaffer in seiner unkorrupten Elfenform ist anwesend
 Arkyron ist anwesend als normaler Elf
 
@@ -77,3 +76,15 @@ Lazaros beginnt damit Remaros zu absorbieren und Remaros wehrt sich verbissen. A
 Doch Remaros war auf immer verändert und unkomplett. Er sah immer noch wie ein Kind aus aber sein Gesicht war gealtert und er hatte jetzt eigene Wünsche. Er will von nun an seine Alfen stark machen und beneidet alles und jeden.
 
 Remaros benutzt seine Realitäts verändernde Magie um sich selber und seine Alfen immerweiter zu verändern während Lazarus' Fluch ihm immer weiter schlechte Dinge einflüstert.
+
+Die Alfen fallen in Depression. Es gibt die, die sich gegen Remaros stellen und die, die ihm treu bleiben.
+Eine Gruppe an Dunkenalfen sammelt sich in allen Ecken der Welt die sich gegen die Götter stellen wollen und selber über die Welt herrschen wollen. Die Nachtschatten.
+
+Ein Vertreter dieser Organisation taucht auch in Himeravis auf und unterstützt und überzeugt Arkyron und seine Getreuen nach einer Waffe zu forschen die Remaros und andere Götter aufhalten kann.
+
+Diese Waffe besteht ultimativ aus einem magischen Bogen in den eine Fee sich einbauen hat lassen und einem Pfeil der in der Lage ist Götter zu versiegeln.
+Die Nachtschatten sind sehr interessiert an dem Ergebnis dieser Waffe und sticheln ebenfalls Remaros weiter danach an böse zu werden.
+
+Arkyron ist zwie gespalten. Hochelfen und Barakius stehen treu zu Remaros neuer Gestalt und laden sich voll mit Energie und blitzen und fallen in andere Domains ein um Artefakte zu stehlen.
+
+Es kommt schlussendlich dazu dass Remaros vom Verrat seiner Alfen und Arkyron erfährt und zurückkehrt um Himeriavis auszulöschen.
