@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+                "file": "Adventures/Items/Magische Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abenteuer 1 - Reise zu den Elianos Inseln"
+              "title": "Magische Items"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Dorfbewohner"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,15 +198,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2b0fcc3816d0e92c",
+  "active": "f5c907de293a2c77",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+    "Adventures/Items/Magische Items.md",
+    "Adventures/Die Exos Kampagne/PCs/Keren Dragonborn Paladin - Roman.md",
     "Yllmagnalia/Phantheon/Das alte Pantheon.md",
     "Yllmagnalia/Phantheon/Die neuen Götter.md",
     "Yllmagnalia/Abgründe und Aufstiege.md",
     "Yllmagnalia/Mechaniken/Rassen in Mythandras.md",
-    "Adventures/Items/Magische Items.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
-    "Adventures/Die Exos Kampagne/PCs/Keren Dragonborn Paladin - Roman.md",
     "Adventures/Items/Egg of unlimited potential.md",
     "Adventures/Items/Tables.md",
     "Adventures/Items/Useless magical spells.md",
