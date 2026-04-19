@@ -422,9 +422,12 @@ blaues leuchten wird stärker bis man einen Stein rausfischt
 
 ---
 In der Vision
-
+Weniger ein Stein als mehr eine Scheibe
 Ziel: Die Party soll folgendes lernen: Remaros ist nicht versiegelt oder tot oder replaced. Er hat sich in eine Spiegel dimension zurück gezogen
 
+
+Ende: Die Vision löst sich langsam auf und die Party kann mit dem Fragment von Remaros direkt sehen.
+Ein Kind in einer Reflexion hinter einem Spiegel.
 
 ---
 Scene 9 Wiederbasiscamp und Schiffahrt heim

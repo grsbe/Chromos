@@ -59,5 +59,11 @@ Einst war Himaveris ein Reich der Wünsche, eine Oase in einer Welt in der Gött
 
 Was tut ein Alf der alles hat was er will? Er verbringt die Ewigkeit mit belanglosigkeiten. Er studiert die Sandkörner am Meer. Prüft die ewig wechselnden Sternbilder Phenets auf Ereignisse in der Zukunft. Organisiert Feste, man kocht.
 Remaros war ein Kind dass auf seine Alfen aufgepasst hat.
+Arkyron war essentiell für das Wohl von Himeriavis. Remaros hat Arkyron vertraut und der Alf hat ihn bei Wünschen beraten.
+Kind-Remaros versteht die Intention hinter wünschen aber versteht nicht unbedingt emotionen.
 
-Barakius war ein Drachenalf der von Lazarus geflüchtet ist.
+Barakius war ein Drachenalf der von Lazarus um sein Leben geflüchtet ist.
+Er hatte keine Wahl, man muss kämpfe gewinnen oder sterben und seine Deadline lief aus.
+Er floh zu Remaros und wünschte sich unermessliche Macht, die Macht Lazarus selbst aufzuhalten.
+
+Remaros war im Zwiegespalt. Er will sich nicht einmischen aber er kann auch keine Wünsche abschlagen.
