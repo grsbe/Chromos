@@ -420,7 +420,10 @@ blaues leuchten wird stärker bis man einen Stein rausfischt
 -> Cut into vision
 
 
+---
+In der Vision
 
+Ziel: Die Party soll folgendes lernen: Remaros ist nicht versiegelt oder tot oder replaced. Er hat sich in eine Spiegel dimension zurück gezogen
 
 
 ---

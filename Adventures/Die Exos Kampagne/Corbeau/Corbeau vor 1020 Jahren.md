@@ -38,7 +38,9 @@ Arkyron war der König der Prinz Anführer von Corbeau. Es gab nicht wirklich ei
 Die Elfen waren endlos. Die Zeit ging vorwärts doch sie nahm die Elfen nicht mit. Die Elfen hatten die Ewigkeit um belanglosigkeiten zu vollbringen.
 Einige studierten die Art wie Pflanzen wuchsen. Andere studieren die Wellen. Magie. Sammelten Wissen. Tierfreunde. Züchteten Wesen. Einige Kartographierten sandkörner am Strand. Oder stellten sich
 
-und Barakius sammelte Stärke und Macht.
+und Barakius ein Diener von Lazarus dem Pride und Intrigen Gott sammelte Stärke und Macht und gelangt in das Reich der Wünsche und wünscht sich kraft und macht und verspricht dafür dem Gott teil seiner Gemeinschaft zu sein.
+
+Remaros ist hier literally ein Kind und wie ein Kind
 
 Elfen reisten umher.
 Götter durchliefen das Land und formten es nach ihrem Willen. Exos

@@ -15,7 +15,7 @@ lässt wünsche sich erfüllen
 Assassine Wasserelf will die ermorden oder das Amulett klauen
 
 3
-Assassine Wasserelf hat einen
+Assassine Tiefling hat einen
 erlaubt es sich zu verkleiden
 
 4
@@ -26,7 +26,7 @@ Erlaubt Fleisch und DNA grafting
 
 5
 Die Entführte Echsen Prinzessin trug eins, das jetzt der Brute Aqua Elf hat
-Erlaubt, dass leute einen als mächtig wahrnehmen
+Erlaubt, dass leute einen als mit viel Aura und Charisma wahrnehmen
 
 6
 Eins liegt im Geisterpiratenschiff
