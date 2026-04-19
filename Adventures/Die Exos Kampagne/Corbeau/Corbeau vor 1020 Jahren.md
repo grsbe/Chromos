@@ -94,3 +94,7 @@ Es kommt zum Kampf wie in der Cut scene. Die abtrünnigen Alfen lenken Remaros a
 Im letzten Moment warnt Arkyron den Gott.
 
 Dieser verlangsamt die Zeit bis der Pfeil still steht und Arkyron und Remaros teilen ihre Emotionen.
+
+Remaros wird vom Pfeil getroffen aber kann den Pfeil deflektieren und er fliegt weiter in die Ferne. Der Sturm weicht langsam und zeigt überall Risse. Die Nachtschatten fliegen auf und hoch in die Luft und tethern mit schwarzer magie durch seine Ritzen durch.
+
+Remaros erzeugt ein Portal in eine Spiegelwelt hinter sich und teilt sich und rettet einen Teil in den Spiegel. Er nimmt alle Elfen die er erwischen mit in seine Spiegel dimension mit.
