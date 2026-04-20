@@ -4,91 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "969f672016fc37d6",
+        "id": "ba07923da8c2486d",
         "type": "tabs",
         "children": [
           {
-            "id": "2b0fcc3816d0e92c",
+            "id": "2b06c0194d8c9db5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
+                "file": "Adventures/Die Exos Kampagne/Artefakte Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corbeau vor 1020 Jahren"
-            }
-          },
-          {
-            "id": "19480ff996a4e290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abenteuer 1 - Reise zu den Elianos Inseln"
-            }
-          },
-          {
-            "id": "eb93f2060fc8f0f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yllmagnalia/Phantheon/Die neuen Götter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Die neuen Götter"
-            }
-          },
-          {
-            "id": "74aa2fd6da43eebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yllmagnalia/Phantheon/Das alte Pantheon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Das alte Pantheon"
-            }
-          },
-          {
-            "id": "f5c907de293a2c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Enemy Statblocks/Jeff.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jeff"
-            }
-          },
-          {
-            "id": "bbba2205ac1a8c7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Die Exos Kampagne/NPCs/Corbeau/Dorfbewohner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dorfbewohner"
+              "title": "Artefakte Overview"
             }
           }
         ]
@@ -114,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
+              "title": "Files"
             }
           },
           {
@@ -148,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 522.5
   },
   "right": {
     "id": "5974fc7ffe9d18dc",
@@ -226,53 +156,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2b0fcc3816d0e92c",
+  "active": "2b06c0194d8c9db5",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+    "Adventures/Die Exos Kampagne/Artefakte Overview.md",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Dorfbewohner.md",
+    "Adventures/Enemy Statblocks/Jeff.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
-    "Yllmagnalia/Phantheon/Die neuen Götter.md",
-    "Yllmagnalia/Phantheon/Das alte Pantheon.md",
-    "Adventures/Organisations/Amazin.md",
-    "Adventures/Organisations/Polus magier gilde der Zukunft.md",
-    "Adventures/WrittenOut/InseldesWahnsinns/Items 4 team.md",
-    "Adventures/WrittenOut/InseldesWahnsinns/Insel des Wahnsinns.md",
-    "Adventures/WrittenOut/InseldesWahnsinns/Dschungel Encounter.md",
-    "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
-    "Adventures/WrittenOut/Timeloop/Outline.md",
-    "Books/Soras 1.md",
-    "Books/Soras 2.md",
-    "Books/Stories to write.md",
-    "Books/Satzgemälde 1.md",
-    "Books/Immerscheingarten 1.md",
-    "Books/Das Ende.md",
-    "Books/Das Ende 1.md",
-    "Books/Haven 1.md",
-    "Books/Mawstone.md",
-    "Haven/Amaterasu.md",
-    "Pics/pictest.md",
-    "Pics/Pasted image 20240804010822.png",
-    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
-    "Session 0.md",
-    "Adventures/Moral dilemma.md",
-    "Adventures/Ideenschmiede Seeds.md",
-    "Adventures/Ideas Mythandras.md",
+    "Adventures/Die Exos Kampagne/PCs/Oko Reborn - Lambert.md",
+    "conflict-files-obsidian-git.md",
+    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 20 Jahren.md",
+    "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros/Stratege Aquaelf Arkyron.md",
+    "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros/Vanis Dragonborn Brute Barackius.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Session.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Big Secrets.md",
+    "Adventures/Die Exos Kampagne/Ideen.md",
+    "Adventures/Die Exos Kampagne/Gerüchte.md",
+    "Adventures/Die Exos Kampagne/Factions.md",
+    "Adventures/Die Exos Kampagne/Encounter Ideen.md",
+    "Adventures/Die Exos Kampagne/Anschließende Abenteuer.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Campaign.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Finalquest - Spiegelwelt.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Sidequest - Die Prinzessin und ihr Ball.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Badehaus.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Die Gezeitenrufer.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Piratenprinzen.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Das Geisterschiff.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Das Dreadwoodartefakt.md",
     "Adventures/Die Exos Kampagne/Flufftext",
-    "Adventures/Die Exos Kampagne/Corbeau",
     "Adventures/Die Exos Kampagne/Encounter",
     "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros",
+    "Adventures/Die Exos Kampagne/Corbeau",
     "Yllmagnalia/Exos/Va'Nis",
     "Yllmagnalia/Exos/Sidaris",
     "Yllmagnalia/Exos/Sosoni",
@@ -285,6 +213,8 @@
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Mythandras/Mythandras.excalidraw.svg",
+    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
+    "Pics/Pasted image 20240804010822.png",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
     "Haven/HavenMap.svg",
     "Untitled.canvas"
