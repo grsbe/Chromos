@@ -98,3 +98,5 @@ Dieser verlangsamt die Zeit bis der Pfeil still steht und Arkyron und Remaros te
 Remaros wird vom Pfeil getroffen aber kann den Pfeil deflektieren und er fliegt weiter in die Ferne. Der Sturm weicht langsam und zeigt überall Risse. Die Nachtschatten fliegen auf und hoch in die Luft und tethern mit schwarzer magie durch seine Ritzen durch.
 
 Remaros erzeugt ein Portal in eine Spiegelwelt hinter sich und teilt sich und rettet einen Teil in den Spiegel. Er nimmt alle Elfen die er erwischen mit in seine Spiegel dimension mit.
+
+Dann zerbricht der Spiegel finally in 11 kleine blaue Spiegelfragmente

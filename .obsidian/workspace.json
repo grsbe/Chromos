@@ -91,7 +91,8 @@
               "title": "Dorfbewohner"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,10 +240,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2b0fcc3816d0e92c",
+  "active": "19480ff996a4e290",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
     "Yllmagnalia/Phantheon/Die neuen Götter.md",
     "Yllmagnalia/Phantheon/Das alte Pantheon.md",
     "Adventures/Organisations/Amazin.md",
