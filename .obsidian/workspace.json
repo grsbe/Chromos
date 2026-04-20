@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "fe241baea593919e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "eb93f2060fc8f0f4",
             "type": "leaf",
             "state": {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,10 +254,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "19480ff996a4e290",
+  "active": "fe241baea593919e",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+    "conflict-files-obsidian-git.md",
+    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
     "Yllmagnalia/Phantheon/Die neuen Götter.md",
     "Yllmagnalia/Phantheon/Das alte Pantheon.md",
     "Adventures/Organisations/Amazin.md",
@@ -269,7 +284,6 @@
     "Session 0.md",
     "Adventures/Moral dilemma.md",
     "Adventures/Ideenschmiede Seeds.md",
-    "Adventures/Ideas Mythandras.md",
     "Adventures/Die Exos Kampagne/Flufftext",
     "Adventures/Die Exos Kampagne/Corbeau",
     "Adventures/Die Exos Kampagne/Encounter",
