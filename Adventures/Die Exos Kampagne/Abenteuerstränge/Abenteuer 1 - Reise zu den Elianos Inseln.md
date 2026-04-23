@@ -417,7 +417,10 @@ Unterwasser Ruinen: Potentielly ein blaues Amulett?
 - tief in den krater rein -> persuade den wal
 
 blaues leuchten wird stärker bis man einen Stein rausfischt
--> Cut into vision
+-> Cut into vision (überlege wie mehr interactive)
+Wellen kommen
+Ein haus mit einem Spiegel wo ein weinendes Kind drin liegt
+
 
 
 ---
@@ -426,8 +429,16 @@ Weniger ein Stein als mehr eine Scheibe
 Ziel: Die Party soll folgendes lernen: Remaros ist nicht versiegelt oder tot oder replaced. Er hat sich in eine Spiegel dimension zurück gezogen
 
 
-Ende: Die Vision löst sich langsam auf und die Party kann mit dem Fragment von Remaros direkt sehen.
+Ende: Die Vision löst sich langsam auf und die Party kann mit dem Fragment von Remaros direkt Reden. 
 Ein Kind in einer Reflexion hinter einem Spiegel.
+- Meinst du auch Götter verdienen eine zweite Chance?
+- Er wollte das nicht
+- Wenn du dir eine Sache im Leben wünschen könntest, was wäre es
+- Dürfen Götter auch Wünsche haben
+
+
+Andere Sachen zum Anschauen: Der Bogen, die Nachtelfen, der Krater
+
 
 ---
 Scene 9 Wiederbasiscamp und Schiffahrt heim
