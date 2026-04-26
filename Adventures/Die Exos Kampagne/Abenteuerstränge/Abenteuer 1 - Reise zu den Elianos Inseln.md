@@ -458,6 +458,8 @@ Arkyron kehrt über das Arterazit Portal unter dem Solaire Tempel zurück.
 
 Wenn die Party die Elianos Umgebung besichtigen will:
 5% Chance auf Drachen sichtung
+https://5e.tools/bestiary.html#coldlight%20walker_idrotf 3 davon, halbes leben, halber dmg
+
 
 Abenteurer werden überwältigt von angreifenden Viechern
 
