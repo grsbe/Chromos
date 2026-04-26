@@ -451,7 +451,7 @@ Andere Sachen zum Anschauen: Der Bogen: Liegt gebrochen am Stand
 
 
 ---
-Scene 9 Wiederbasiscamp
+Scene 9 ums camp rum?
 
 Der Wal bringt die Truppe zurück. Will aber nicht so nah heran.
 Arkyron kehrt über das Arterazit Portal unter dem Solaire Tempel zurück. 
@@ -465,6 +465,11 @@ https://5e.tools/bestiary.html#coldlight%20walker_idrotf 3 davon, halbes leben, 
 3 [Abenteurer](https://5e.tools/bestiary.html#scout_xmm) (einer liegt am boden uncounsois, Sebastien, Alfred, Eleanor) werden überwältigt von angreifenden [Gnolls](https://5e.tools/bestiary.html#gnoll_mm,scaled:1) amk besten 8 Stück
 und waren stuck im Blizzard
 Sind im auftrag der Krone unterwegs
+
+Die Hütte?
+
+---
+Im camp
 
 ---
  und Schiffahrt heim
