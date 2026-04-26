@@ -451,19 +451,24 @@ Andere Sachen zum Anschauen: Der Bogen: Liegt gebrochen am Stand
 
 
 ---
-Scene 9 Wiederbasiscamp und Schiffahrt heim
+Scene 9 Wiederbasiscamp
 
 Der Wal bringt die Truppe zurück. Will aber nicht so nah heran.
 Arkyron kehrt über das Arterazit Portal unter dem Solaire Tempel zurück. 
 
 Wenn die Party die Elianos Umgebung besichtigen will:
-5% Chance auf Drachen sichtung
+5% Chance auf Drachen sichtung 
+
+Cold light walkers
 https://5e.tools/bestiary.html#coldlight%20walker_idrotf 3 davon, halbes leben, halber dmg
 
-
-Abenteurer werden überwältigt von angreifenden Viechern
+3 [Abenteurer](https://5e.tools/bestiary.html#scout_xmm) (einer liegt am boden uncounsois, Sebastien, Alfred, Eleanor) werden überwältigt von angreifenden [Gnolls](https://5e.tools/bestiary.html#gnoll_mm,scaled:1) amk besten 8 Stück
+und waren stuck im Blizzard
+Sind im auftrag der Krone unterwegs
 
 ---
+ und Schiffahrt heim
+
 Daheim ein Fest am nächsten Tag
 
 
