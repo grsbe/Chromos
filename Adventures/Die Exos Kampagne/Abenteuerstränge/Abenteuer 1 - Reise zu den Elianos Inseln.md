@@ -466,7 +466,10 @@ https://5e.tools/bestiary.html#coldlight%20walker_idrotf 3 davon, halbes leben, 
 und waren stuck im Blizzard
 Sind im auftrag der Krone unterwegs
 
-Die Hütte?
+Black hut
+Ein Wissenschaftler der sich mit dem schweren Schneestürmen im Norden beschäftigt hat und Arterazit will die Schneestürme aufhalten aus PaRis
+
+
 
 ---
 Im camp
