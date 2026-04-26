@@ -4,6 +4,8 @@ Gebäude und Dinge die auf jeden Fall existieren:
 
 ### Nord Küste
 Oben: Solaire tempel
+- Unter dem Tempel ist ein Arterazit portal für Paris Leute
+
 Lumisbaum
 Friedhof
 

@@ -428,20 +428,38 @@ In der Vision
 Weniger ein Stein als mehr eine Scheibe
 Ziel: Die Party soll folgendes lernen: Remaros ist nicht versiegelt oder tot oder replaced. Er hat sich in eine Spiegel dimension zurück gezogen
 
+	Die Nachtelfen merken dass die Welle kommt und sagen irgendwas richtung sie sollten jetzt abhauen. Einer der Nachtelfen sieht aus wie Oko (Zarkann)
 
-Ende: Die Vision löst sich langsam auf und die Party kann mit dem Fragment von Remaros direkt Reden. 
-Ein Kind in einer Reflexion hinter einem Spiegel.
+Die Party steht am Strand. Der schreckliche Sturm besteht und eine riesige Welle rauscht heran.
+Am Strand liegen die reglosen Elfen.
+Ein Krater zieht sich durch die Siedlung hinter dem Dorf und füllt sich mit Wasser.
+Ein Haus wurde durch den Krater enzwei geschlagen.
+In der Ferne seht ihr mehrere riesige Bäume.
+Ein Pfad führt weg zur Siedlung vom Strand aus.
+
+Ein weiteres Haus steht in unmittelbarer Nähe mit einem Spiegel drinnen.
+Ein weinendes Kind in einer Reflexion hinter einem Spiegel. Das Kind trägt eine weiße nasse Tunika.
+- Der Gott will nur gelobt werden oder Vergebung bekommen.
 - Meinst du auch Götter verdienen eine zweite Chance?
 - Er wollte das nicht
 - Wenn du dir eine Sache im Leben wünschen könntest, was wäre es
 - Dürfen Götter auch Wünsche haben
+- Ihr wisst wo ihr mich finden könnt
 
 
-Andere Sachen zum Anschauen: Der Bogen, die Nachtelfen, der Krater
+Andere Sachen zum Anschauen: Der Bogen: Liegt gebrochen am Stand
 
 
 ---
 Scene 9 Wiederbasiscamp und Schiffahrt heim
+
+Der Wal bringt die Truppe zurück. Will aber nicht so nah heran.
+Arkyron kehrt über das Arterazit Portal unter dem Solaire Tempel zurück. 
+
+Wenn die Party die Elianos Umgebung besichtigen will:
+5% Chance auf Drachen sichtung
+
+Abenteurer werden überwältigt von angreifenden Viechern
 
 ---
 Daheim ein Fest am nächsten Tag
