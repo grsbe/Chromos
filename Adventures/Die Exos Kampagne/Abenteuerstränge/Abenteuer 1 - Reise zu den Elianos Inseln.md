@@ -462,12 +462,15 @@ Wenn die Party die Elianos Umgebung besichtigen will:
 Cold light walkers
 https://5e.tools/bestiary.html#coldlight%20walker_idrotf 3 davon, halbes leben, halber dmg
 
+https://5e.tools/bestiary.html#ogre_xmm 2 davon + https://5e.tools/bestiary.html#saber-toothed%20tiger_xmm 2 davon?
+Sylfonie 
+
 3 [Abenteurer](https://5e.tools/bestiary.html#scout_xmm) (einer liegt am boden uncounsois, Sebastien, Alfred, Eleanor) werden überwältigt von angreifenden [Gnolls](https://5e.tools/bestiary.html#gnoll_mm,scaled:1) amk besten 8 Stück
 und waren stuck im Blizzard
 Sind im auftrag der Krone unterwegs
 
 Black hut
-Ein Wissenschaftler der sich mit dem schweren Schneestürmen im Norden beschäftigt hat und Arterazit will die Schneestürme aufhalten aus PaRis
+Ein Wissenschaftler der sich mit dem schweren Schneestürmen im Norden beschäftigt hat und Arterazit will die Schneestürme aufhalten aus PaRis dient einem Gott der Wissenschaft 
 
 
 
