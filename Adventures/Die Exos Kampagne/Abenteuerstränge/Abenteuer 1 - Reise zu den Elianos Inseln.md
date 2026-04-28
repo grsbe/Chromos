@@ -417,7 +417,10 @@ Unterwasser Ruinen: Potentielly ein blaues Amulett?
 - tief in den krater rein -> persuade den wal
 
 blaues leuchten wird stärker bis man einen Stein rausfischt
--> Cut into vision
+-> Cut into vision (überlege wie mehr interactive)
+Wellen kommen
+Ein haus mit einem Spiegel wo ein weinendes Kind drin liegt
+
 
 
 ---
@@ -425,14 +428,55 @@ In der Vision
 Weniger ein Stein als mehr eine Scheibe
 Ziel: Die Party soll folgendes lernen: Remaros ist nicht versiegelt oder tot oder replaced. Er hat sich in eine Spiegel dimension zurück gezogen
 
+	Die Nachtelfen merken dass die Welle kommt und sagen irgendwas richtung sie sollten jetzt abhauen. Einer der Nachtelfen sieht aus wie Oko (Zarkann)
 
-Ende: Die Vision löst sich langsam auf und die Party kann mit dem Fragment von Remaros direkt sehen.
-Ein Kind in einer Reflexion hinter einem Spiegel.
+Die Party steht am Strand. Der schreckliche Sturm besteht und eine riesige Welle rauscht heran.
+Am Strand liegen die reglosen Elfen.
+Ein Krater zieht sich durch die Siedlung hinter dem Dorf und füllt sich mit Wasser.
+Ein Haus wurde durch den Krater enzwei geschlagen.
+In der Ferne seht ihr mehrere riesige Bäume.
+Ein Pfad führt weg zur Siedlung vom Strand aus.
+
+Ein weiteres Haus steht in unmittelbarer Nähe mit einem Spiegel drinnen.
+Ein weinendes Kind in einer Reflexion hinter einem Spiegel. Das Kind trägt eine weiße nasse Tunika.
+- Der Gott will nur gelobt werden oder Vergebung bekommen.
+- Meinst du auch Götter verdienen eine zweite Chance?
+- Er wollte das nicht
+- Wenn du dir eine Sache im Leben wünschen könntest, was wäre es
+- Dürfen Götter auch Wünsche haben
+- Ihr wisst wo ihr mich finden könnt
+
+
+Andere Sachen zum Anschauen: Der Bogen: Liegt gebrochen am Stand
+
 
 ---
-Scene 9 Wiederbasiscamp und Schiffahrt heim
+Scene 9 ums camp rum?
+
+Der Wal bringt die Truppe zurück. Will aber nicht so nah heran.
+Arkyron kehrt über das Arterazit Portal unter dem Solaire Tempel zurück. 
+
+Wenn die Party die Elianos Umgebung besichtigen will:
+5% Chance auf Drachen sichtung 
+
+Cold light walkers
+https://5e.tools/bestiary.html#coldlight%20walker_idrotf 3 davon, halbes leben, halber dmg
+
+3 [Abenteurer](https://5e.tools/bestiary.html#scout_xmm) (einer liegt am boden uncounsois, Sebastien, Alfred, Eleanor) werden überwältigt von angreifenden [Gnolls](https://5e.tools/bestiary.html#gnoll_mm,scaled:1) amk besten 8 Stück
+und waren stuck im Blizzard
+Sind im auftrag der Krone unterwegs
+
+Black hut
+Ein Wissenschaftler der sich mit dem schweren Schneestürmen im Norden beschäftigt hat und Arterazit will die Schneestürme aufhalten aus PaRis
+
+
 
 ---
+Im camp
+
+---
+ und Schiffahrt heim
+
 Daheim ein Fest am nächsten Tag
 
 

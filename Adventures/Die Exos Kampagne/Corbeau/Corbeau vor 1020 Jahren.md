@@ -95,6 +95,13 @@ Im letzten Moment warnt Arkyron den Gott.
 
 Dieser verlangsamt die Zeit bis der Pfeil still steht und Arkyron und Remaros teilen ihre Emotionen.
 
-Remaros wird vom Pfeil getroffen aber kann den Pfeil deflektieren und er fliegt weiter in die Ferne. Der Sturm weicht langsam und zeigt überall Risse. Die Nachtschatten fliegen auf und hoch in die Luft und tethern mit schwarzer magie durch seine Ritzen durch.
+Remaros wird vom Pfeil getroffen aber kann den Pfeil deflektieren und er fliegt weiter in die Ferne.
+Das deflektieren erzeugt eine unfassbare schockwelle.
+Der Körper von Remaros ist schlagartig von Eis überzogen und 
 
-Remaros erzeugt ein Portal in eine Spiegelwelt hinter sich und teilt sich und rettet einen Teil in den Spiegel. Er nimmt alle Elfen die er erwischen mit in seine Spiegel dimension mit.
+Der Sturm weicht langsam und zeigt überall Risse. Eine riesige Welle strömt aus der Ferne heran. Die Nachtschatten fliegen auf und hoch in die Luft und tethern mit schwarzer magie durch seine Ritzen durch.
+
+Ein Fragment aus dem Sturmtitanen fliegt heraus, eine Art strahlende silhouette in Kind gestalt. Er breitet die hände aus und schiebt gegen die Welt bis sie bricht und sich ein Portal bildet das aussieht wie ein Spiegel. Plötzlich nehmen alle Hochelfen ihre Hände an den Kopf in puren Schmerzen bis sie reglos zu boden sacken. Aus jedem dieser Elfen fliegt etwas scheinendes mit in das Portal hinein.
+Ein Dunkel gekleideter Elf wirft einen Feuerball auf das Portal und mit einem dritten Knall zerberst der Spiegel in dem er erst blau wird und dann in 11 blaue kleine Kritallshards zerbricht die in alle Richtungen sprengen.
+
+Eines davon trifft den Nachtelfen und teilt ihn in zwei und kracht direkt in die Stadt, der Rest fliegt in alle Richtungen.
