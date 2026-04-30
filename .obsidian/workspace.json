@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ba07923da8c2486d",
+        "id": "969f672016fc37d6",
         "type": "tabs",
         "children": [
           {
-            "id": "2b06c0194d8c9db5",
+            "id": "2b0fcc3816d0e92c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yllmagnalia/Phantheon/Das alte Pantheon.md",
+                "file": "Adventures/Items/Magische Items to give to the Party.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das alte Pantheon"
+              "title": "Magische Items to give to the Party"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 522.5
+    "width": 425.5
   },
   "right": {
     "id": "5974fc7ffe9d18dc",
@@ -169,38 +169,40 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2b06c0194d8c9db5",
+  "active": "2b0fcc3816d0e92c",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
-    "Adventures/Die Exos Kampagne/Artefakte Overview.md",
-    "conflict-files-obsidian-git.md",
     "Adventures/Items/Magische Items to give to the Party.md",
+    "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch Monk - Leni.md",
+    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
+    "Adventures/Die Exos Kampagne/PCs/Amiryllia Mensch - Steffi.md",
+    "Adventures/Die Exos Kampagne/PCs/Altrik Human Fighter - Jann.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+    "Adventures/Die Exos Kampagne/Corbeau/Corbeau.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Dorfbewohner.md",
     "Adventures/Enemy Statblocks/Jeff.md",
-    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
-    "Adventures/Die Exos Kampagne/PCs/Oko Reborn - Lambert.md",
-    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 20 Jahren.md",
-    "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros/Stratege Aquaelf Arkyron.md",
-    "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros/Vanis Dragonborn Brute Barackius.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Session.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Big Secrets.md",
-    "Adventures/Die Exos Kampagne/Ideen.md",
-    "Adventures/Die Exos Kampagne/Gerüchte.md",
-    "Adventures/Die Exos Kampagne/Factions.md",
-    "Adventures/Die Exos Kampagne/Encounter Ideen.md",
-    "Adventures/Die Exos Kampagne/Anschließende Abenteuer.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Campaign.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Finalquest - Spiegelwelt.md",
+    "Yllmagnalia/Phantheon/Das alte Pantheon.md",
+    "Adventures/Die Exos Kampagne/Artefakte Overview.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Sidequest - Die Prinzessin und ihr Ball.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Badehaus.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Die Gezeitenrufer.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Piratenprinzen.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Das Geisterschiff.md",
+    "Yllmagnalia/Phantheon/Die neuen Götter.md",
+    "conflict-files-obsidian-git.md",
+    "Adventures/Organisations/Amazin.md",
+    "Adventures/Organisations/Polus magier gilde der Zukunft.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Items 4 team.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Insel des Wahnsinns.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Dschungel Encounter.md",
+    "Adventures/WrittenOut/InseldesWahnsinns/Die Insel des Wahnsinns oder Dad Man tell no tails.md",
+    "Adventures/WrittenOut/Timeloop/Outline.md",
+    "Books/Soras 1.md",
+    "Books/Soras 2.md",
+    "Books/Stories to write.md",
+    "Books/Satzgemälde 1.md",
+    "Books/Immerscheingarten 1.md",
+    "Pics/Pasted image 20240804010822.png",
+    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Adventures/Die Exos Kampagne/Flufftext",
+    "Adventures/Die Exos Kampagne/Corbeau",
     "Adventures/Die Exos Kampagne/Encounter",
     "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros",
-    "Adventures/Die Exos Kampagne/Corbeau",
     "Yllmagnalia/Exos/Va'Nis",
     "Yllmagnalia/Exos/Sidaris",
     "Yllmagnalia/Exos/Sosoni",
@@ -213,8 +215,6 @@
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Mythandras/Mythandras.excalidraw.svg",
-    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
-    "Pics/Pasted image 20240804010822.png",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
     "Haven/HavenMap.svg",
     "Untitled.canvas"
