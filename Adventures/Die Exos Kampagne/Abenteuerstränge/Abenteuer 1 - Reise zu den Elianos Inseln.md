@@ -428,7 +428,7 @@ In der Vision
 Weniger ein Stein als mehr eine Scheibe
 Ziel: Die Party soll folgendes lernen: Remaros ist nicht versiegelt oder tot oder replaced. Er hat sich in eine Spiegel dimension zurück gezogen
 
-	Die Nachtelfen merken dass die Welle kommt und sagen irgendwas richtung sie sollten jetzt abhauen. Einer der Nachtelfen sieht aus wie Oko (Zarkann)
+Die Nachtelfen merken dass die Welle kommt und sagen irgendwas richtung sie sollten jetzt abhauen. Einer der Nachtelfen sieht aus wie Oko (Zarkann)
 
 Die Party steht am Strand. Der schreckliche Sturm besteht und eine riesige Welle rauscht heran.
 Am Strand liegen die reglosen Elfen.
@@ -439,6 +439,7 @@ Ein Pfad führt weg zur Siedlung vom Strand aus.
 
 Ein weiteres Haus steht in unmittelbarer Nähe mit einem Spiegel drinnen.
 Ein weinendes Kind in einer Reflexion hinter einem Spiegel. Das Kind trägt eine weiße nasse Tunika.
+- Sag mir Sterblicher, was ist dein innerster Wunsch?
 - Der Gott will nur gelobt werden oder Vergebung bekommen.
 - Meinst du auch Götter verdienen eine zweite Chance?
 - Er wollte das nicht
@@ -463,7 +464,7 @@ Cold light walkers
 https://5e.tools/bestiary.html#coldlight%20walker_idrotf 3 davon, halbes leben, halber dmg
 
 https://5e.tools/bestiary.html#ogre_xmm 2 davon + https://5e.tools/bestiary.html#saber-toothed%20tiger_xmm 2 davon?
-Sylfonie 
+Sylfonie -> Warnt vor Fernangriff
 
 3 [Abenteurer](https://5e.tools/bestiary.html#scout_xmm) (einer liegt am boden uncounsois, Sebastien, Alfred, Eleanor) werden überwältigt von angreifenden [Gnolls](https://5e.tools/bestiary.html#gnoll_mm,scaled:1) amk besten 8 Stück
 und waren stuck im Blizzard
@@ -472,7 +473,8 @@ Sind im auftrag der Krone unterwegs
 Black hut
 Ein Wissenschaftler der sich mit dem schweren Schneestürmen im Norden beschäftigt hat und Arterazit will die Schneestürme aufhalten aus PaRis dient einem Gott der Wissenschaft 
 
-
+-- Generelle Secrets:
+Nach Norden oder ins Zentrum wirds
 
 ---
 Im camp
