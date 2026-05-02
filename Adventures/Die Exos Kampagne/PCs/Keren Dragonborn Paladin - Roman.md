@@ -16,4 +16,9 @@ Das Alte dorf hatte einen Drachenschrein aber die Drachen sind nicht aufgetaucht
 
 Inzwischen erwachsen nimmt der PC aufgaben überall an um Geld zu verdienen
 
-Magische Items
+---
+Rache Eid
+
+Hat sich verbunden mit einem Rache Eid
+
+Rache Gott -> Wrath? Oder Pride?
