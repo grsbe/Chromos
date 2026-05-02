@@ -471,16 +471,50 @@ und waren stuck im Blizzard
 Sind im auftrag der Krone unterwegs
 
 Black hut
-Ein Wissenschaftler der sich mit dem schweren Schneestürmen im Norden beschäftigt hat und Arterazit will die Schneestürme aufhalten aus PaRis dient einem Gott der Wissenschaft 
+Ein Wissenschaftler der sich mit dem schweren Schneestürmen im Norden beschäftigt hat und Arterazit will die Schneestürme aufhalten aus PaRis dient einem Gott der Wissenschaft Nagaburo
 
 -- Generelle Secrets:
 Nach Norden oder ins Zentrum wirds
 
 ---
 Im camp
+Orvo nimmt das nächste Schiff und ist krank geworden
 
 ---
- und Schiffahrt heim
+und Schiffahrt heim
+Orvo: Interessiert ob sie eine Lösung gefunden haben
+
+Morgo Kapitänin
+
+Fineas: Katzenmensch, hat ne Menge Ladung
+Wurde als Weise von Solomon aufgenommen und hat das Händler tradework gelernt
+
+Ein Gezeitenrufer: Mensch Willhelm 14hp, 10ac, +3
+Will gamblen, im Dorf aufgewachsen, hat alles in einem Sturm verloren, hat Zuflucht bei den Gezeitenrufern gefunden
+
+Neu: Sebastien, (Alfred, ) 
+Aus Keoland Secret Service, hat Amyrillia schon mal gesehen
+Eleanor
+
+
+
+
+Fragen die Leute stellen könnten:
+- Wie seit ihr Abenteuer, wo seid ihr her, erzählt eine Geschichte
+#### Rumours / Geschichten:
+Ein Geisterschiff
+- Soll vor 20 Jahren eine Ladung für Solomon geliefert haben und ist verloren gegangen
+Das Badehaus ist verflucht
+- Der Gott Remaros selbst soll einem erscheinen und einen dann heimsuchen
+Die Reptilien schmuggeln Waffen
+- Schmuggler haben ungewöhnlich viele Waffen in letzter Zeit geliefert und weiter
+Es gibt viel Mehr stürme in letzter Zeitb 
+Exited über das Fest in den nächsten Zwei Wochen
+
+Ein Sturm und Sahuagin Attack
+https://5e.tools/bestiary.html#sahuagin%20champion_gos 1x3 
+https://5e.tools/bestiary.html#sahuagin%20coral%20smasher_gos 4x1
+Haie im Wasser und ein [Scrying Orb](https://5e.tools/bestiary.html#clockwork%20observer_kftgv) mit Händen 
 
 Daheim ein Fest am nächsten Tag
 

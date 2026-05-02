@@ -86,7 +86,7 @@ Niike, Hexe der Rache im Laurelinwald
 
 Lazaros Vampirgott des Stolzes auferstanden
 
-Rasmos im oberen Berg
+Rasmos im oberen Berg Angst
 
 
 ### Gebrochene Götter
