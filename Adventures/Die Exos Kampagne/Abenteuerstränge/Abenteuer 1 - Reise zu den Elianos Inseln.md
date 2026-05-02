@@ -457,13 +457,15 @@ Scene 9 ums camp rum?
 Der Wal bringt die Truppe zurück. Will aber nicht so nah heran.
 Arkyron kehrt über das Arterazit Portal unter dem Solaire Tempel zurück. 
 
+https://5e.tools/trapshazards.html#blizzard_idrotf Blizzard sign
+
 Wenn die Party die Elianos Umgebung besichtigen will:
 5% Chance auf Drachen sichtung 
 
 Cold light walkers
 https://5e.tools/bestiary.html#coldlight%20walker_idrotf 3 davon, halbes leben, halber dmg
 
-https://5e.tools/bestiary.html#ogre_xmm 2x2 davon + https://5e.tools/bestiary.html#saber-toothed%20tiger_xmm 2x2 davon?
+https://5e.tools/bestiary.html#ogre_xmm 2x2 davon + https://5e.tools/bestiary.html#saber-toothed%20tiger_xmm 1x2 davon?
 Sylfonie -> Warnt vor Fernangriff
 
 3 [Abenteurer](https://5e.tools/bestiary.html#scout_xmm) (einer liegt am boden uncounsois, Sebastien, Alfred, Eleanor) werden überwältigt 
@@ -480,7 +482,8 @@ Ein Wissenschaftler der sich mit dem schweren Schneestürmen im Norden beschäft
 Nach Norden oder ins Zentrum wirds
 
 ---
-Im camp
+Im camp, etwas eingeschneit und Leute schippen schnee
+Boot wird frei gehaun
 Orvo nimmt das nächste Schiff und ist krank geworden
 
 Shophändler
@@ -499,11 +502,13 @@ Ein Gezeitenrufer: Mensch Willhelm 14hp, 10ac, +3
 Will gamblen, im Dorf aufgewachsen, hat alles in einem Sturm verloren, hat Zuflucht bei den Gezeitenrufern gefunden
 
 Neu: Sebastien, (Alfred, ) 
-Aus Keoland Secret Service, hat Amyrillia schon mal gesehen
+Aus Keoland Secret Service, hat Amyrillia gefühlt schon mal gesehen aber kann sich nicht genau erinenern
 Eleanor
+Keoland Secret Service
 
+Maya: Mensch Matrosin
 
-
+Kabosh erster maat
 
 Fragen die Leute stellen könnten:
 - Wie seit ihr Abenteuer, wo seid ihr her, erzählt eine Geschichte
