@@ -4,6 +4,9 @@
 
 Artefakte:
 
+0
+Eins findet die Party in Elianos (transportiert einen in die Spiegelwelt in die man sich wünscht)
+
 1
 Eins liegt unter der Stadt in der Höhle der Ahnen in der versteckten Höhle hinter dem Spiegel im Spiegelbild
 (gewährt den Wunsch der weg findung aber nimmt einem kraft ab um dahin zu gehen)
@@ -50,8 +53,7 @@ im Moor hat eine moorschlange oder der Drache? eins gegessen und ist dadurch rie
 10
 Eins hat der Stratege bereits (gewährt den wunsch der teleportation über spiegel)
 
-11
-und eins findet die Party in Elianos (transportiert einen in die Spiegelwelt in die man sich wünscht)
+
 
 ---
 
