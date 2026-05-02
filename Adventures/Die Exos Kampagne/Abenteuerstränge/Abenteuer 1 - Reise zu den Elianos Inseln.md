@@ -463,10 +463,13 @@ Wenn die Party die Elianos Umgebung besichtigen will:
 Cold light walkers
 https://5e.tools/bestiary.html#coldlight%20walker_idrotf 3 davon, halbes leben, halber dmg
 
-https://5e.tools/bestiary.html#ogre_xmm 2 davon + https://5e.tools/bestiary.html#saber-toothed%20tiger_xmm 2 davon?
+https://5e.tools/bestiary.html#ogre_xmm 2x2 davon + https://5e.tools/bestiary.html#saber-toothed%20tiger_xmm 2x2 davon?
 Sylfonie -> Warnt vor Fernangriff
 
-3 [Abenteurer](https://5e.tools/bestiary.html#scout_xmm) (einer liegt am boden uncounsois, Sebastien, Alfred, Eleanor) werden überwältigt von angreifenden [Gnolls](https://5e.tools/bestiary.html#gnoll_mm,scaled:1) amk besten 8 Stück
+3 [Abenteurer](https://5e.tools/bestiary.html#scout_xmm) (einer liegt am boden uncounsois, Sebastien, Alfred, Eleanor) werden überwältigt 
+
+Blizzard bläst in eine Richtung und macht eis schaden
+
 und waren stuck im Blizzard
 Sind im auftrag der Krone unterwegs
 
@@ -480,11 +483,14 @@ Nach Norden oder ins Zentrum wirds
 Im camp
 Orvo nimmt das nächste Schiff und ist krank geworden
 
+Shophändler
+
 ---
 und Schiffahrt heim
 Orvo: Interessiert ob sie eine Lösung gefunden haben
 
 Morgo Kapitänin
+Will heim nach Alaara
 
 Fineas: Katzenmensch, hat ne Menge Ladung
 Wurde als Weise von Solomon aufgenommen und hat das Händler tradework gelernt
