@@ -495,7 +495,7 @@ Orvo: Interessiert ob sie eine Lösung gefunden haben
 Morgo Kapitänin
 Will heim nach Alaara
 
-Fineas: Katzenmensch, hat ne Menge Ladung
+Fineas: Katzenmensch, hat ne Menge Ladung -> Leni
 Wurde als Weise von Solomon aufgenommen und hat das Händler tradework gelernt
 
 Ein Gezeitenrufer: Mensch Willhelm 14hp, 10ac, +3
@@ -506,9 +506,11 @@ Aus Keoland Secret Service, hat Amyrillia gefühlt schon mal gesehen aber kann s
 Eleanor
 Keoland Secret Service
 
-Maya: Mensch Matrosin
+Maya und Riya: Unabhängige Abenteurerin mit ner Menge Schätzen mit denen die Heim wollen um sie zu verkaufen
 
-Kabosh erster maat
+Kabosh zwerg erster maat
+
+
 
 Fragen die Leute stellen könnten:
 - Wie seit ihr Abenteuer, wo seid ihr her, erzählt eine Geschichte
