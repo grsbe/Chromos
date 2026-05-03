@@ -501,7 +501,7 @@ Wurde als Weise von Solomon aufgenommen und hat das Händler tradework gelernt
 Ein Gezeitenrufer: Mensch Willhelm 14hp, 10ac, +3
 Will gamblen, im Dorf aufgewachsen, hat alles in einem Sturm verloren, hat Zuflucht bei den Gezeitenrufern gefunden
 
-Neu: Sebastien, (Alfred, ) 
+Neu: Sebastien, (Alfred, ) geh richtig ins Klischee
 Aus Keoland Secret Service, hat Amyrillia gefühlt schon mal gesehen aber kann sich nicht genau erinenern
 Eleanor
 Keoland Secret Service
