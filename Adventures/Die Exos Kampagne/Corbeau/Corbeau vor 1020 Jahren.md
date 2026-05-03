@@ -89,7 +89,9 @@ Arkyron ist zwie gespalten. Hochelfen und Barakius stehen treu zu Remaros neuer 
 
 Es kommt schlussendlich dazu dass Remaros vom Verrat seiner Alfen und Arkyron erfährt und zurückkehrt um Himeriavis auszulöschen.
 
+---
 Es kommt zum Kampf wie in der Cut scene. Die abtrünnigen Alfen lenken Remaros ab und feuern den Bogen mit dem Pfeil auf den Gott.
+Der Bogen kracht beim Abschuss
 
 Im letzten Moment warnt Arkyron den Gott.
 
