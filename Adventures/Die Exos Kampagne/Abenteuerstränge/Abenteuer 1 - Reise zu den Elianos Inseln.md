@@ -394,7 +394,6 @@ Die Götter sollen Buße tun für die Vernichtung Himeriavis’.
 —Ferol Sal
 
 
-
 Roleplay Ferol Sal https://5e.tools/bestiary.html#ferol%20sal_egw aber nur half dmg
 Ferol Sal wirft funny potions
 
