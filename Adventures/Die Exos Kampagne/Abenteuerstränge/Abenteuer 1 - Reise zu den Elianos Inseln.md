@@ -532,7 +532,13 @@ Daheim ein Fest am nächsten Tag
 
 
 
+THINGS TO PREP:
 
+Activities und events in der Stadt selbst
+Gruppen in der Stadt, signiert mit einzelnen NPCs
+Das Fest selbst und alle Attraktionen (mit NPcs idealerweise) -> Aurora
+
+Thinking about follow up events in der Stadt
 
 
 
