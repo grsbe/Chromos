@@ -16,12 +16,10 @@ Referenzier die Geschichte von der Stadt irdendwie
 
 Wahrsagerzelt
 
-Tempel der Wassergötter
+Remaros Anhänger
 (Free Cookies?)
 
-Marschgötter tempel
-
-Mushroom testing stand in a back alley, rennt weg wenn er von der polizia gesehen wird
+Mushroom testing stand in a back alley Miguel, rennt weg wenn er von der polizia gesehen wird
 
 ---
 https://5e.tools/adventure.html#crcotn,1
@@ -47,6 +45,8 @@ Goblins
 Miguel
 
 ### 7. Rätsel
+
+https://www.reddit.com/r/DnDBehindTheScreen/comments/iim2y1/gambling_and_festival_games/
 
 
 
