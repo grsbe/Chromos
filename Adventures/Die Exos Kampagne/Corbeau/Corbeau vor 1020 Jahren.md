@@ -20,7 +20,7 @@ SinaRanis Schwert
 HavaNavahris kleidung
 AtheLethariel wissen aller Art
 Gromash kartografierte Sandkörner
-Zakra'arkann untersuchte den Tod.
+Zakra'arkann untersuchte den Tod aber war ein Nachtelf der den Niedergang der Götter wünschte
 
 Soleani Magie
 Lalatina Teppichweben

@@ -11,7 +11,7 @@ Schmied
 Zwerg Grimosh
 
 Magische Antiquaritäten
-verstorben: Agatha Peck
+verstorben: Agatha Peck, Alice Peck macht jetzt den Laden eine Hasenfrau
 
 
 Kinder:
