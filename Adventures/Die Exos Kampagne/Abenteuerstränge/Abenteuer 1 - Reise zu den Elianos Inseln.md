@@ -506,6 +506,9 @@ Eleanor
 Keoland Secret Service
 
 Maya und Riya: Unabhängige Abenteurerin mit ner Menge Schätzen mit denen die Heim wollen um sie zu verkaufen
+Riya: Zwerg sagt kein Wort sondern nur Mimic und Gestik und Geräusche. Ist tatsächlich stumm. 
+Maya: Hasenohrenm
+
 
 Kabosh zwerg erster maat
 
@@ -529,6 +532,9 @@ https://5e.tools/bestiary.html#sahuagin%20coral%20smasher_gos 4x1
 Haie im Wasser und ein [Scrying Orb](https://5e.tools/bestiary.html#clockwork%20observer_kftgv) mit Händen 
 
 Daheim ein Fest am nächsten Tag
+
+
+
 
 
 

@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Abenteuer 2 - Das Gezeitengedenkfest"
             }
+          },
+          {
+            "id": "11db2024362d4286",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://5e.tools/adventure.html#crcotn,1,j1%3a%20best%20pies%20in%20the%20jumble",
+                "title": "A Fateful Competition - Critical Role: Call of the Netherdeep - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "A Fateful Competition - Critical Role: Call of the Netherdeep - 5etools"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,16 +200,16 @@
   },
   "active": "9a1841c5789b3b29",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3 - Die gruselige Hütte.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+    "Adventures/Items/Magische Items to give to the Party.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3 - Die gruselige Hütte.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 20 Jahren.md",
     "Adventures/Die Exos Kampagne/Artefakte Overview.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Dorfbewohner.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
-    "Adventures/Items/Magische Items to give to the Party.md",
     "Adventures/Mechanics/Fishing.md",
     "Adventures/Die Exos Kampagne/Encounter Ideen.md",
     "Yllmagnalia/Phantheon/Das alte Pantheon.md",
