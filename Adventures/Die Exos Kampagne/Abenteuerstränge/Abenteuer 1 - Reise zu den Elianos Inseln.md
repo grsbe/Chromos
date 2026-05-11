@@ -528,6 +528,7 @@ Exited über das Fest in den nächsten Zwei Wochen
 
 Ein Sturm und Sahuagin Attack
 https://5e.tools/bestiary.html#sahuagin%20champion_gos 1x3 
+https://5e.tools/bestiary.html#sahuagin%20warlock%20of%20uk'otoa_egw 1x3
 https://5e.tools/bestiary.html#sahuagin%20coral%20smasher_gos 4x1
 Haie im Wasser und ein [Scrying Orb](https://5e.tools/bestiary.html#clockwork%20observer_kftgv) mit Händen 
 
