@@ -9,13 +9,12 @@ Prinz Eliander will einen Außenposten auf einer Insel aufbauen die schwer mit d
 Eda Die Minen fangen an Silber zu produzieren aber es gibt ungute Gerüchte über seltsame Ruinen tief unterirdisch mit seltsamen inschriften ebenso kehren Minenzwerge komplett verrückt an die Oberfläche 
 
 Solomon sucht nach mehr magischen Navigatoren
-Allie beschützt Solomon und hält ausschau nach 
+Allie beschützt Solomon und hält ausschau nach blauen shards
 
-
-Geldar möchte das Fest eröffnen und die Bi Jährliche unterwasser Jagt starten
-
+Geldar möchte das Fest eröffnen und die 10 Jährliche unterwasser Jagt starten
 
 Cyrille schleicht sich aus der Stradt und versucht ihre magie abseits der Stadt zu kontrollieren und ist verzweifelt daran (irgendwelche Explosionsn)
+
 
 Mirador gelingt die Fusion :
 Bär Motte
