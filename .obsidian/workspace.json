@@ -42,11 +42,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://5e.tools/adventure.html#crcotn,1,j1%3a%20best%20pies%20in%20the%20jumble",
-                "title": "A Fateful Competition - Critical Role: Call of the Netherdeep - 5etools",
-                "mode": "webview"
+                "title": "Adventure - 5etools",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "A Fateful Competition - Critical Role: Call of the Netherdeep - 5etools"
+              "title": "Adventure - 5etools"
             }
           }
         ],
@@ -259,11 +259,11 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://5e.tools/trapshazards.html#strong%20wind_xdmg",
-                    "title": "Strong Wind - 5etools",
-                    "mode": "webview"
+                    "title": "Traps & Hazards - 5etools",
+                    "mode": "blank"
                   },
                   "icon": "globe-2",
-                  "title": "Strong Wind - 5etools"
+                  "title": "Traps & Hazards - 5etools"
                 }
               },
               {
@@ -282,9 +282,9 @@
         ],
         "direction": "vertical",
         "x": 66,
-        "y": 195,
+        "y": 194,
         "width": 1068,
-        "height": 1150,
+        "height": 1154,
         "maximize": false,
         "zoom": 0
       }
