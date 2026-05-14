@@ -15,6 +15,8 @@ Geldar möchte das Fest eröffnen und die 10 Jährliche unterwasser Jagt starten
 
 Cyrille schleicht sich aus der Stradt und versucht ihre magie abseits der Stadt zu kontrollieren und ist verzweifelt daran (irgendwelche Explosionsn)
 
+Die Schweine Familie liegt im Solaris Tempel
+
 
 Mirador gelingt die Fusion :
 Bär Motte
@@ -33,15 +35,39 @@ Labrador Banshee
 
 Goals: Lern die Leute und die Stadt kennen
 
+NPCs der Stadt:
+
+Gezeitenrufer:
+Narnia stoisch anmutig ihrer Mission verschrieben beschützend, 
+Wilhelm bisschen crazy gambler,
+Cat süß kann man nix abschlagen lieb cookie scout
+
+Arbeitende in der Stadt:
+Die Schweine Familie, stellen klamotten her
+Silas Brüder 5 oberkörper dudes. 5 Brüder aus Soras
+Köchin Agatha Silberlöffel: Abenteurerin die immer gekocht hat
+
+
+Solaris Tempel:
+Vesper, glatzenbart der main Guy, stumm zuhörend
+Peregrinus, blond
+Jeramiah, gesprächiger und happy aber das licht
+
+w,Lacrimosa blond blau heilend
+Clementia, schwarzhaarig glaubend
+
+
+
 Referenzier die Geschichte von der Stadt irdendwie
 
 ---
 
 ### Extra Attraktionen / Orte
 
-Wahrsagerzelt
+Wahrsagerzelt Narnia?
 
-Remaros Anhänger
+Remaros Anhänger 
+Willhelm, Cat süßes Catgirl die als weise aufgenommen wurde 
 (Free Cookies?)
 
 Mushroom und Potion testing stand in a back alley Miguel, rennt weg wenn er von der polizia gesehen wird
