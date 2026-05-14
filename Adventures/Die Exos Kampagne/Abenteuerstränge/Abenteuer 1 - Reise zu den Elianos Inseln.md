@@ -489,7 +489,7 @@ Shophändler
 
 ---
 und Schiffahrt heim
-Orvo: Interessiert ob sie eine Lösung gefunden haben
+
 
 Morgo Kapitänin
 Will heim nach Alaara

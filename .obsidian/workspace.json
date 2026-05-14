@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
+                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abenteuer 2 - Das Gezeitengedenkfest"
+              "title": "Abenteuer 1 - Reise zu den Elianos Inseln"
+            }
+          },
+          {
+            "id": "605642bff0e1bd07",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://5e.tools/bestiary.html#clockwork%20observer_kftgv",
+                "title": "Clockwork Observer - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Clockwork Observer - 5etools"
             }
           },
           {
@@ -201,6 +215,7 @@
   "active": "9a1841c5789b3b29",
   "lastOpenFiles": [
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
     "Yllmagnalia/Exos/Händlerküste/Ha'vis.md",
     "Yllmagnalia/Exos/Polaris/Polis Polaris.md",
@@ -216,7 +231,6 @@
     "Yllmagnalia/Tailenis/Tailenis.md",
     "Yllmagnalia/Tailenis/Helos.md",
     "Adventures/Die Exos Kampagne/Corbeau/Havis.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
     "Adventures/Items/Magische Items to give to the Party.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3 - Die gruselige Hütte.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 20 Jahren.md",
