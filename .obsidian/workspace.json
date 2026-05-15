@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Corbeau vor 1020 Jahren"
-            }
-          },
-          {
-            "id": "9a1841c5789b3b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
                 "mode": "source",
                 "source": false
@@ -36,35 +22,20 @@
             }
           },
           {
-            "id": "605642bff0e1bd07",
+            "id": "9a1841c5789b3b29",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://5e.tools/bestiary.html#clockwork%20observer_kftgv",
-                "title": "Clockwork Observer - 5etools",
-                "mode": "webview"
+                "file": "Adventures/Mechanics/Fishing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Clockwork Observer - 5etools"
-            }
-          },
-          {
-            "id": "11db2024362d4286",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://5e.tools/adventure.html#crcotn,1,j1%3a%20best%20pies%20in%20the%20jumble",
-                "title": "A Fateful Competition - Critical Role: Call of the Netherdeep - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "A Fateful Competition - Critical Role: Call of the Netherdeep - 5etools"
+              "icon": "lucide-file",
+              "title": "Fishing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,11 +183,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9a1841c5789b3b29",
+  "active": "2b0fcc3816d0e92c",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
+    "Adventures/Items/Magische Items to give to the Party.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
+    "Adventures/Mechanics/Fishing.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
     "Yllmagnalia/Exos/Händlerküste/Ha'vis.md",
     "Yllmagnalia/Exos/Polaris/Polis Polaris.md",
     "Yllmagnalia/Exos/Händlerküste/Natya.md",
@@ -231,14 +204,12 @@
     "Yllmagnalia/Tailenis/Tailenis.md",
     "Yllmagnalia/Tailenis/Helos.md",
     "Adventures/Die Exos Kampagne/Corbeau/Havis.md",
-    "Adventures/Items/Magische Items to give to the Party.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3 - Die gruselige Hütte.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 20 Jahren.md",
     "Adventures/Die Exos Kampagne/Artefakte Overview.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Dorfbewohner.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau.md",
-    "Adventures/Mechanics/Fishing.md",
     "Adventures/Die Exos Kampagne/Encounter Ideen.md",
     "Yllmagnalia/Phantheon/Das alte Pantheon.md",
     "Pics/Pasted image 20240804010822.png",
