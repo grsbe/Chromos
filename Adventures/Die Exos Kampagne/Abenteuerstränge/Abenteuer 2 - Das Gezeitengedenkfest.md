@@ -176,3 +176,15 @@ Bossfight mit Arterazitgun die über Spiegel abprallt
 Und Automata die auf seiner Seite kämpfen
 er escaped in den Spiegel 
 Spiegel mit Vision die erklärt
+
+
+
+Endboss fight:
+Ritual zauber rätsel fight
+
+In der Mitte das Artefakt das die Remaros Scheibe versiegelt hält.
+Darum mehrere Artefakte die dazu da sind mit einem Ritual Zauber das Artefakt freizulegen
+Es gibt hohe Explosionsgefahr wenn das Ritual schief geht.
+Arkyron schießt mit einer Gun
+
+
