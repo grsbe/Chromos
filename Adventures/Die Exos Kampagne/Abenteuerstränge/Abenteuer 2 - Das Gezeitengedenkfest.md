@@ -38,7 +38,8 @@ Goals: Lern die Leute und die Stadt kennen
 NPCs der Stadt:
 
 Gezeitenrufer:
-Narnia stoisch anmutig ihrer Mission verschrieben beschützend, 
+Narnia stoisch anmutig ihrer Mission verschrieben beschützend, Narnia findet Remaros male auf allen
+
 Wilhelm bisschen crazy gambler,
 Cat süß kann man nix abschlagen lieb cookie scout
 
@@ -64,7 +65,7 @@ Referenzier die Geschichte von der Stadt irdendwie
 
 ### Extra Attraktionen / Orte
 
-Wahrsagerzelt Narnia?
+Wahrsagerzelt Narnia? Remaros Mal?
 
 Remaros Anhänger 
 Willhelm, Cat süßes Catgirl die als weise aufgenommen wurde 
