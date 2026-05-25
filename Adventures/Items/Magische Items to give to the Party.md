@@ -6,8 +6,6 @@
 https://dnd5e.wikidot.com/wondrous-items:amulet-of-the-devout
 
 #### Oko: 
-
-
 Bag of holding!!
 
 #### Nymeria:

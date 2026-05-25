@@ -30,6 +30,13 @@ Chamäleon + Stier
 Pfau + Mimic
 Labrador Banshee
 
+---
+Infos die in der Session Leute wissen:
+
+Das Badehaus ist verflucht
+Am Rande vom Terrorwald wurde ein furchtbares Wesen entdeckts
+Eine Große Menge an Waffen wird geschmuggelt. Irgend etwas braut sich zusammen
+
 
 ---
 
@@ -75,6 +82,9 @@ Peregrinus, blond gesprächiger und happy aber das licht
 
 w,Lacrimosa blond blau heilend
 Clementia, schwarzhaarig glaubend
+
+Infos:
+Rechts im ersten Raum sind die Schweine untergebracht: Schogart
 
 ---
 

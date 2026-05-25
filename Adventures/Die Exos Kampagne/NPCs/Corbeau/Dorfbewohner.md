@@ -3,7 +3,8 @@
 Stadtmitte
 
 Tailor Näher
-Schogart und CoKG: Mut und Licht
+Schogart und Betty: Mut und Licht
+Gute Seele, wollen nur das beste, machen witze, die Kinder sind up to no good
 
 Anderer Tailor: 5 oberkörperfreie Silas Brüder
 
@@ -29,9 +30,12 @@ Bescdhweren sich über die Soldaten in der Stadt und die Silbermine, oder altern
 
 
 Abenteurer:
-Miguel der tollpatschige Abenteurer, spanischer Akzent
+Miguel spanischer Akzent, verkauft funny mushrooms
 
-Sophisticated Orkphilosoph farmer
+Sophisticated Riesiger Ork Philosoph farmer Jeremiah
+- Der Weg ist das Ziel
+- Man muss die dinge wachsen lassen
+- 
 
 ---
 Oberstadt
@@ -48,7 +52,10 @@ Prinzessin Cyrille
 ---
 Unterstadt
 
-Pub:
+Pub: Leerer Fang
+
+
+Alchemist / Heiler: Ablack, shady typ will 
 
 
 
