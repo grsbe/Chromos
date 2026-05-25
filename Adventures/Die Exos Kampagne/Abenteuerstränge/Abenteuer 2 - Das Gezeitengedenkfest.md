@@ -48,7 +48,7 @@ Gezeitenrufer:
 Narnia stoisch anmutig ihrer Mission verschrieben beschützend, Narnia findet Remaros male auf allen
 
 Wilhelm bisschen crazy gambler,
-Cat süß kann man nix abschlagen lieb cookie scout
+Cat süß kann man nix abschlagen lieb cookie scout, arbeitet bei solomon in der Küche
 
 Arbeitende in der Stadt:
 Die Schweine Familie, stellen klamotten her
