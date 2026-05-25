@@ -49,17 +49,32 @@ Silas Brüder 5 oberkörper dudes. 5 Brüder aus Soras
 Köchin Agatha Silberlöffel: Abenteurerin die immer gekocht hat
 
 
-Solaris Tempel:
-Vesper, glatzenbart der main Guy, stumm zuhörend
-Peregrinus, blond
-Jeramiah, gesprächiger und happy aber das licht
 
-w,Lacrimosa blond blau heilend
-Clementia, schwarzhaarig glaubend
 
 
 
 Referenzier die Geschichte von der Stadt irdendwie
+
+---
+Solaris Tempel
+
+weißer marmorartiger stein, der nicht ganz zum stadt bild passt
+erhoben auf einem hügel
+vorne zwei kleinere Türme, hinten einen höheren
+hoche eicherne Türe
+Gang in eine gerundete Halle
+Buntes Glas im Dach und in den Wänden erzeugt schillernde regenbogen muster überall an den Wänden
+Das Glas ist so eingebaut dass es sich am ende des Schiffes auf eine Weiße Statue bündelt, von Solaire, der eine edle Tunika trägt und ein schwert empor hält auf dem sich der Regenbogen schiller konzentriert
+Er trägt eine königliche Mine und eine Art Krone aus Licht
+Eine Art verbundenheut erfüllt euch mit ihm
+
+
+Solaris Tempel:
+Vesper, glatzenbart der main Guy, stumm zuhörend (sieht Freddies amulett)
+Peregrinus, blond gesprächiger und happy aber das licht
+
+w,Lacrimosa blond blau heilend
+Clementia, schwarzhaarig glaubend
 
 ---
 
