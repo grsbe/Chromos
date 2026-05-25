@@ -62,8 +62,10 @@ Köchin Agatha Silberlöffel: Abenteurerin die immer gekocht hat
 
 Referenzier die Geschichte von der Stadt irdendwie
 
+## Possible Szenen
+
 ---
-Solaris Tempel
+**Solaris Tempel**
 
 weißer marmorartiger stein, der nicht ganz zum stadt bild passt
 erhoben auf einem hügel
@@ -86,9 +88,33 @@ Clementia, schwarzhaarig glaubend
 Infos:
 Rechts im ersten Raum sind die Schweine untergebracht: Schogart
 
+
+---
+**Wahrsagerzelt**
+
+Maribel Tiefblick, Gezeitenruferin
+**Rolle:** Blinde Prophetin der Gezeitenrufer  
+**Herkunft:** Ehemaliger Navigator  
+**Ziel:** Herausfinden, ob Remaros wirklich spricht — oder ob etwas anderes die Träume sendet.  
+**Auftreten:** Ruhig, poetisch, leicht unheimlich, aber freundlich.  
+**Redet über:** Windrichtungen, Sterne, Stimmen im Regen, die Form von Wünschen.  
+**Warum die Party ihn mögen könnte:** Er behandelt ihre inneren Konflikte ernst und gibt gute, rätselhafte Hinweise.  
+**Hook:** Odran sagt einem Charakter einen Wunsch voraus, den dieser nie laut ausgesprochen hat.
+
 ---
 
 ### Extra Attraktionen / Orte
+
+#### Getränke
+*Hafenwasser*
+Rum, Apfelsaft, ein Spritzer Zitrone, bisschen Ginger Beer.  
+Schmeckt gefährlich harmlos. Wird in Emaille-Bechern serviert.
+*Der Nasse Stiefel*
+Dunkles Bier mit einem Schuss Kräuterlikör.  
+Nur für Leute, die schon mal „das Meer respektiert“ gesagt haben.
+*Möwenschrei*
+Wodka, Grapefruit, Salzrand, Sprudel.  
+Sauer, frisch, laut. Nach zwei davon lacht man über Netze.
 
 Wahrsagerzelt Narnia? Remaros Mal?
 
