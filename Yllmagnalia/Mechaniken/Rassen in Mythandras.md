@@ -8,15 +8,15 @@
 
 ## Göttergebundene Rassen
 
-| Rasse             | Alf            | Herkunft      |
-| ----------------- | -------------- | ------------- |
-| MagieloseMenschen | Stolz/Ambition | Exos          |
-| Elfen             | Lust/Harmonie  | Milis         |
-| Zwerge            | Gier           | Exos          |
-| Aquatics          | Neid           | Nixis         |
-| Daimon/Tieflinge  | Wut            | Azsh          |
-| Tiermenschen      | Jagd           | Lycan / Nixis |
-| Riesen, Vielarme  | Völlerei       | Myxia         |
+| Rasse                    | Alf            | Herkunft      |
+| ------------------------ | -------------- | ------------- |
+| MagieloseMenschen        | Stolz/Ambition | Exos          |
+| Elfen                    | Lust/Harmonie  | Milis         |
+| Zwerge                   | Gier           | Exos          |
+| Aquatics                 | Neid           | Nixis         |
+| Daimon/Tieflinge Drachen | Wut            | Azsh          |
+| Tiermenschen             | Jagd           | Lycan / Nixis |
+| Riesen, Vielarme         | Völlerei       | Myxia         |
 
 
 ## Himmels Rassen

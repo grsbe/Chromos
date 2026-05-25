@@ -65,6 +65,33 @@ Referenzier die Geschichte von der Stadt irdendwie
 ## Possible Szenen
 
 ---
+Ansprache am Markt von Geldar
+
+**„Freunde, Nachbarn, Gäste von nah und fern — willkommen zum Gezeitengedenkfest von Corbeau.**
+
+Heute kommen wir nicht nur zusammen, um zu essen, zu trinken, zu singen und die Lichter über dem Wasser zu sehen. Wir kommen zusammen, weil wir wissen: Ein Dorf am Meer lebt nicht nur von denen, die heute hier stehen.
+
+Es lebt auch von denen, die vor uns Netze ausgeworfen haben. Von denen, die diese Stege gebaut, diese Häuser gehalten, diese Kinder großgezogen und diese Küste verteidigt haben. Von denen, die das Meer genommen hat. Von denen, die Krankheit, Alter, Krieg oder Unglück von unserer Seite gerissen haben.
+
+Wir denken an Urgon, ein Urgestein unserer Gemeinschaft, dessen Neugierde auf magie und geschichte unermesslich war. Wir denken an die Kinder Alaric und Leandra die seit mehreren Wochen als verschwunden gelten. Wir werden nicht aufhören nach euch zu suchen. Wir denken an Agatha Pelc die den ältesten Antiquariatenladen in Corbeau geleitet hat. Wir denken an Sestani, Orwen, Cedric, Theom, Gorak Elara, Lurian, Liora, Tulgi, Borin und all die anderen dessen Namen mir nicht weitergeleitet wurden aber die wir mit uns in unseren Herzen tragen.
+
+Wir nennen sie nicht verloren. Nicht heute.
+
+Denn solange wir ihre Namen sprechen, solange wir ihre Geschichten erzählen, solange wir einen Platz an unseren Tischen, in unseren Liedern und in unseren Herzen für sie lassen — sind sie nicht fort. Sie gehen mit uns. Sie trinken mit uns. Sie feiern mit uns.
+
+Darum gedenken wir heute der Toten nicht in Stille allein, sondern auch mit Wärme, mit Lachen, mit Musik und mit vollen Bechern. Denn sie hätten gewollt, dass Corbeau weiterlebt.
+
+Hebt also eure Kerzen, eure Gläser und eure Herzen.
+
+Für die, die vor uns kamen.  
+
+Hiermit eröffne ich das Gezeitengedenkfest.“**
+
+
+Das Fest geht den ganzen heutigen Tag, und alle Getränke gehen auf mich!
+Schnappt euch ein Festvalticket wenn ihr noch keins habt und besucht die Stände. Die Gruppe die am besten über alle Spielstände abschneidet hat heute Abend die Chance am Ahnenrennen auf der Ahneninsel teilzunehmen!!
+
+---
 **Solaris Tempel**
 
 weißer marmorartiger stein, der nicht ganz zum stadt bild passt
@@ -73,8 +100,8 @@ vorne zwei kleinere Türme, hinten einen höheren
 hoche eicherne Türe
 Gang in eine gerundete Halle
 Buntes Glas im Dach und in den Wänden erzeugt schillernde regenbogen muster überall an den Wänden
-Das Glas ist so eingebaut dass es sich am ende des Schiffes auf eine Weiße Statue bündelt, von Solaire, der eine edle Tunika trägt und ein schwert empor hält auf dem sich der Regenbogen schiller konzentriert
-Er trägt eine königliche Mine und eine Art Krone aus Licht
+Das Glas ist so eingebaut dass es sich am ende des Schiffes auf eine Weiße Statue bündelt, von Solaire, die eine edle Tunika trägt und ein schwert empor hält auf dem sich der Regenbogen schiller konzentriert
+Sie trägt eine königliche Mine und eine Art Krone aus Licht
 Eine Art verbundenheut erfüllt euch mit ihm
 
 
@@ -119,10 +146,11 @@ Sauer, frisch, laut. Nach zwei davon lacht man über Netze.
 Wahrsagerzelt Narnia? Remaros Mal?
 
 Remaros Anhänger 
-Willhelm, Cat süßes Catgirl die als weise aufgenommen wurde 
-(Free Cookies?)
+Willhelm, 
+Cat süßes Catgirl die als weise aufgenommen wurde 
+(Free Cookies?) ist außerdem ein Geistermedium
 
-Mushroom und Potion testing stand in a back alley Miguel, rennt weg wenn er von der polizia gesehen wird
+Mushroom und Potion testing stand in a back alley Miguel, rennt weg wenn er von der wache gesehen wird
 
 ---
 https://5e.tools/adventure.html#crcotn,1
@@ -130,9 +158,11 @@ https://5e.tools/adventure.html#crcotn,1
 
 
 ### 1. Wettessen
-[Agathe Silverspoon](https://5e.tools/bestiary.html#agathe%20silverspoon_crcotn) is a chaotic good [orc](https://5e.tools/bestiary.html#orc_mm) who moves from counter to counter, deftly slicing a variety of cooked and spiced meats, then folding them into piecrusts that she places into the oven behind her.
+Agathe Silberlöffel ist Köchin der Solomon Fischfabriken und Kantine und hat sich einen Spaß gemacht unmengen an FischKuchen zuzubereiten
 
-Agathe gestures toward the raised platform next to her cooking station, where three people are already seated: a cocky male [drow](https://5e.tools/bestiary.html#drow_mm) flexing his muscles, pointing at people in the gathering crowd and winking; a female halfling (use the [thug](https://5e.tools/bestiary.html#thug_mm) stat block), sitting very still with a smirk on her face; and a young male human, scanning the crowd as if looking for someone. This individual is [Irvan Wastewalker (tier 1)](https://5e.tools/bestiary.html#irvan%20wastewalker%20\(tier%201\)_crcotn), whose stat block appears in [appendix A](https://5e.tools/adventure.html#crcotn,8). These contestants have the following modifiers to their Constitution checks and saving throws, which come into play during the pie-eating contest:
+Der Stand ist bei den Solomon Lagerhallen.
+
+Agathe gestures toward the raised platform next to her cooking station, where three people are already seated: a cocky male [drow](https://5e.tools/bestiary.html#drow_mm) flexing his muscles, pointing at people in the gathering crowd and winking; a female halfling (use the [thug](https://5e.tools/bestiary.html#thug_mm) stat block), sitting very still with a smirk on her face; and a young male human
 
 - Male Drow: +0
 - Female Halfling: +2
@@ -148,23 +178,67 @@ Treasure. Each winner of this contest receives a tin [medal of the meat pie](h
 Win or lose, a character can't compete in this contest again until they complete a long rest.
 
 ### 2. Magisches Labyrinth
+The way to win is to study the maze from the outside, and then follow the only correct path to the exit in one shot. If a creature reaches a dead end, the judge—a lawful neutral [aarakocra](https://5e.tools/bestiary.html#aarakocra_mm) named Sharpwatch—swoops down and plucks them from the maze.
 
+[Maggie Keeneyes (tier 1)](https://5e.tools/bestiary.html#maggie%20keeneyes%20\(tier%201\)_crcotn), whose stat block appears in [appendix A](https://5e.tools/adventure.html#crcotn,8), has figured out the solution to the maze, but the ogre's size keeps her from entering the maze. She wants her friend, a goblin named [Dermot Wurder (tier 1)](https://5e.tools/bestiary.html#dermot%20wurder%20\(tier%201\)_crcotn), whose stat block also appears in [appendix A](https://5e.tools/adventure.html#crcotn,8), to go in her place. Dermot, however, is convinced that even with her instructions, he will come to a dead end.
+
+Studying the Maze. A character can study the maze from the outside and make a DC 14 Intelligence (Investigation) check. If this check succeeds, the character has advantage on the check made to navigate the maze.
+
+Entering the Maze. It costs 3 sp to participate in this challenge. When a character enters the maze, they must make a DC 14 Wisdom (Survival) check to try to find the correct path. On a success, the character traverses the maze in one shot and emerges victorious on the other side.
+
+On a failed check, the character gets lost and ends up in one of the maze's dead ends. A lost character can make a DC 18 Dexterity (Stealth) check to try to backtrack quickly out of the dead end, avoiding Sharpwatch's notice on a success; the character can then make another Wisdom (Survival) check to navigate the maze. If either of these checks is a failure, Sharpwatch swoops down and plucks the character from the maze, depositing them outside.
+
+A character can try the maze as many times as they would like, paying the 3 sp entrance fee each time.
 
 ### 3. Schwimmwettrennen
+The game is refereed by 
 
 
-### 4. Armwrestling
-The victor in this contest, and the defending champion of the event, is Maryl Bronzefang, a lawful neutral, orc [gladiator](https://5e.tools/bestiary.html#gladiator_mm). A native of Jigow serving in Bazzoxan's Aurora Watch, she was given leave to return home for the festival. She is flanked by two compatriots, both female drow [veterans](https://5e.tools/bestiary.html#veteran_mm) clad in chitinous splint armor. A quiet male goblin [commoner](https://5e.tools/bestiary.html#commoner_mm)—Vars, the owner of the butcher shop—sits off to the side, managing the wagers made by onlookers.
 
-Entering this contest is free, though bystanders can talk to Vars to place bets on the participants.
+Ayo and Galsariad exchange a few terse words before Ayo motions toward the pier. A character who eavesdrops on them can make a DC 14 Wisdom (Perception) check. On a success, the character learns that the drow offered to cast a [longstrider](https://5e.tools/spells.html#longstrider_phb) spell on the genasi, but she declined; she wants to win on her own.
 
-Maryl Bronzefang competes only against the best, and to challenge her, a character must first defeat one of her drow companions. Maryl returns to the table after at least one character has accomplished this, casting a challenging grin at the victor and inviting them to try their luck against her. The first character to defeat Maryl receives a challenge from Maggie. Otherwise, Maggie challenges Maryl after all other contestants fall by the wayside. These nonplayer characters have the following modifiers to their Strength checks, which come into play during the arm-wrestling contest:
+Participating in the Challenge. Entering this contest costs 5 sp. The goal of this challenge is to swim upstream through the rushing waters of the Ifolon to reach a rusted spear sticking out of a rotten wooden post, then bring the spear back to the dock.
 
-- Maggie Keeneyes: +4
-- Maryl Bronzefang: +4
-- Female Drow: +3
+Only one of the characters can participate in this challenge. If multiple characters from the party want to take part, anyone after the first must make a DC 14 Charisma (Deception) check. A character who succeeds on this check can compete; those who fail the check are ejected from the pier by Omo.
+
+Other than Ayo, the contestants are a lanky male orc [scout](https://5e.tools/bestiary.html#scout_mm), a broad-shouldered female human [thug](https://5e.tools/bestiary.html#thug_mm), and a surly male [goblin](https://5e.tools/bestiary.html#goblin_mm). These nonplayer characters have the following modifiers to their Strength (Athletics) checks, which come into play during the swimming contest:
+
+- Ayo Jabe: +4
+    
+- Male Orc: +0
+    
+- Female Human: +2
+    
+- Male Goblin: -1
     
 
+Race for the Spear. On Omo's mark, the contestants plunge into the water and begin swimming. Competitors roll initiative when they dive into the water, with all participants expected to use the [Dash](https://5e.tools/actions.html#dash_phb) action every round. Any contestant who moves more than 30 feet on their turn must make a DC 13 Strength (Athletics) check at the end of that turn. On a failed check, the contestant gains 1 level of [exhaustion](https://5e.tools/conditionsdiseases.html#exhaustion_phb) and is pushed 15 feet downstream as they are pummeled by the current.
+
+The distance from the pier to the spear is 75 feet, and it takes an action to wrench the spear free. A character can pull the spear out of another contestant's hands by swimming to within 5 feet of them and succeeding on a Strength check with a DC equal to 10 + the other contestant's Strength modifier. Whoever returns the spear to Omo is the winner.
+
+Danger from Below. After the spear is pulled from the rotten post, two Ifolon striped sharks (use the [reef shark](https://5e.tools/bestiary.html#reef%20shark_mm) stat block) emerge from the depths of the river. Characters who have a passive Wisdom (Perception) score of 13 or higher notice the water churning more severely as the sharks, riled up by the antics of the swimmers, rise to feed.
+
+Roll initiative for the sharks. They attack contest participants indiscriminately, interested in scoring what they think is an easy meal. A shark tries to flee when it has been reduced to 11 hit points or fewer. Ayo doesn't waste time fighting the sharks; her only goal is to reach the finish line (with the spear, if she isn't already holding it). The other contestants in the water try to fend off the sharks.
+
+Meeting Ayo and Galsariad. Prior to the challenge, Ayo is focused on the race and politely brushes off any attempt at conversation. Once the characters are safe and sound on the pier after the race, she and Galsariad approach them.
+
+Rival Impressions. Ayo is impressed more by courage and determination than by success. If a character participated in the contest but failed to recover the spear, she claps that character on the shoulder with a crooked grin on her face and says, "I've never seen anyone give it their all like that before. 'Cept for myself, I mean." She goes on to tell the character that she has assembled an adventuring party, and that she'd like to introduce everyone after the festival's closing ceremony at sundown.
+
+Ayo looks poorly on a character who broke the rules of the contest to participate. Galsariad, however, quietly smiles and inclines his head at that character, impressed by their cunning.
+
+Treasure. Omo awards the winner a [medal of the conch](https://5e.tools/items.html#medal%20of%20the%20conch_crcotn) (see [appendix B](https://5e.tools/adventure.html#crcotn,9)) made of sea glass that has been magically crafted into the shape of a conch shell.
+
+### 4. Armwrestling
+The victor in this contest, and the defending champion of the event, is Maryl Bronzezahn, a lawful neutral, orc [gladiator](https://5e.tools/bestiary.html#gladiator_mm). 
+Sie ist teil der Wache von Corbeau und macht sich lustig über Teilnehmer die versuchen sie zu schlagen.
+
+Entering this contest is free, man kann aber Wetten bei Vars daneben abschließen.
+
+Maryl Bronzezahn competes only against the best, and to challenge her, a character must first defeat one of her companions. Maryl returns to the table after at least one character has accomplished this, casting a challenging grin at the victor and inviting them to try their luck against her. The first character to defeat Maryl receives a challenge from Maggie. Otherwise, Maggie challenges Maryl after all other contestants fall by the wayside. These nonplayer characters have the following modifiers to their Strength checks, which come into play during the arm-wrestling contest:
+
+- Maryl Bronzezahn: +4
+- Random Balazhar: +3
+    
 Contest Rules. In any arm-wrestling match, have both contestants make a Strength (Athletics) check with a DC equal to 10 + the other contestant's Strength modifier. If one contestant succeeds and the other fails, the one who succeeded wins the match. Repeat the checks as needed until one contestant fails and the other succeeds.
 
 A character who loses a match and wants to try again must first succeed on a DC 15 Charisma (Deception or Persuasion) check. On a failed check, the character is laughed away by the crowd. If a character loses to the same foe twice, that contestant declines any further challenges from that character.
@@ -173,11 +247,25 @@ Betting. A character can place a bet with Vars by handing him 5 sp and declarin
 
 Treasure. Vars hands anyone who bests Maryl and Maggie a [medal of muscle](https://5e.tools/items.html#medal%20of%20muscle_crcotn) (see [appendix B](https://5e.tools/adventure.html#crcotn,9)) made of ebony and shaped like a flexing arm. If one stares at it for long enough, the muscles appear to bulge.
 
-### 5. Reisfarmen
-Goblins
+### 5. Sumpfknollenfarmen
+Beetle und Zac, zwei Gnome die Farmer sind beim Solairefeld
+
+Harvesting the Rice. A team of two is required to participate in this contest, and there is no entry fee. If a character needs a partner, When a team enters the contest, they are asked to designate which is the cutter (who cuts the stalks down) and which is the gatherer (who gathers the stalks and prepares them for drying). Zag provides the cutter with a sickle before Beetle directs the teams to the paddies and asks them to await the signal to start.
+
+Each team is responsible for a 20-foot-long, 5-foot-wide strip of a paddy. On Beetle's signal, the teams race to successfully harvest their strip. Aside from the characters, two other teams are competing in this race: an imposing female [orc](https://5e.tools/bestiary.html#orc_mm) and her rambunctious son (who uses the [commoner](https://5e.tools/bestiary.html#commoner_mm) stat block); and a pair of [drow](https://5e.tools/bestiary.html#drow_mm) siblings, who wear broad-brimmed straw hats and constantly bicker with each other. These teams have the following modifiers to their Strength (Athletics) and Dexterity (Sleight of Hand) checks, which come into play during the contest:
+
+Orc Team. Athletics +3, Sleight of Hand +0
+
+Drow Team. Athletics +0, Sleight of Hand +2
+
+At the end of each minute, each team's cutter must make a DC 11 Strength (Athletics) check; on a success, the cutter clears a 5-foot-square section of their paddy. Once a section has been cleared, the team's gatherer must spend 1 minute trying to gather and bundle the shorn rice, doing so with a successful DC 11 Dexterity (Sleight of Hand) check; a failed check causes the team's cutter to make their next Strength (Athletics) check with disadvantage, as the gatherer's bundling work gets in the way. The first team to clear and bundle the rice from all four 5-foot squares of their strip of paddy wins (ties are possible).
+
+Treasure. Beetle and Zag award each member of the winning team a copper [medal of the wetlands](https://5e.tools/items.html#medal%20of%20the%20wetlands_crcotn) (see [appendix B](https://5e.tools/adventure.html#crcotn,9)) engraved with a sheaf of rice, hung on a necklace woven of reeds.
 
 ### 6. Schweine Herden
 **Catch the Greased Pig**
+
+Organisator ist Jeremiah auf dem Feld vor dem Solaire Tempel. Dad Orc vibes
 - 1cp per try
 - Contestant begins inside a 25x25 pigsty with a greased pig
 - Contestant must capture (grapple) the pig and hold it for five seconds
@@ -185,26 +273,9 @@ Goblins
 - Combat initiative for contestant and pig
 - The pig will always move up to its full speed on it turn, then ready movement to move away if the contestant comes within 10 feet
 - Pig has advantage on grapple checks
-
-### 7. Gambling
-**Three Dragon Ante**
-
-- Players ante in (set ante or rising bids)
-    
-- All players roll a d12; reveal to DM but otherwise keep secret
-    
-- Round of betting & contested Insight vs Deception checks (DM narrates the gamblers' "tells" for successful Insight checks, but shouldn't reveal the actual hand; e.g., "He's trying hard to keep a straight face, but his firmly suppressed smile tells you he might be sitting on a good hand.")
-- All players roll another d12 as above
-- Round of betting & contested Insight vs Deception checks
-- All players rolls a final d12 as above
-- Final Round of betting & contested Insight vs Deception checks
-- Winner takes the pot
-- Three 1s is the best hand (called Three Dragons), followed by three 12s, three 11s, three 10s, etc. 
-- A pair of 12s is the best pair hand, down to a pair of 1s
-- If no pairs or threeways, highest sum wins
-
-
-https://www.reddit.com/r/DnDBehindTheScreen/comments/iim2y1/gambling_and_festival_games/
+Reward:
+[medal of the horizonback](https://5e.tools/items.html#medal%20of%20the%20horizonback_crcotn)
+### 7. Rätselraten
 
 
 

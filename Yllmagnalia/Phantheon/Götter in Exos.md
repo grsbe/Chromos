@@ -18,7 +18,7 @@ Der Gott der in SiRis chillt. Steht für den Kampf und die Ehre. Illanus hat nic
 Corvus. 
 Der Gott der Freiheit und Trickserei. Corvus erscheint Abenteurern oft als Rabe. Niemand weiß wirklich welche Ziele er hat.
 
-Reha. 
+Rea. 
 Löwengöttin der Jagd.
 
 Lura und Arul. Mondgötter
@@ -56,8 +56,6 @@ Göttin der Familie und des Gebens und Nehmens und der Pflanzen. Diese Göttin w
 Narzine. 
 Göttin des Feuers, des Verbrennens und des Egos.
 
-
-
 Kraboshtagrosh. Zwergengott der Erschaffung.  
 Simbeshgrosh. Zwergengott der Instandhaltung  
 Shgrabugrosh. Zwergengott der Zerstörung.
@@ -82,7 +80,7 @@ Eith, Gott der Einheit, Zersplitterter machtloser Gott,
 
 Nayuta, auferstandene Menschengott der Unterwerfung und Dominanz
 
-Niike, Hexe der Rache im Laurelinwald
+Niike, 
 
 Lazaros Vampirgott des Stolzes auferstanden
 

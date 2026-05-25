@@ -3,7 +3,7 @@
 Stadtmitte
 
 Tailor Näher
-Schogart und Betty: Mut und Licht
+Schogart und Ursa: Mut und Licht tiefling kinder
 Gute Seele, wollen nur das beste, machen witze, die Kinder sind up to no good
 
 Anderer Tailor: 5 oberkörperfreie Silas Brüder

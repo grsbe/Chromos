@@ -37,11 +37,13 @@ Die Alten Götter werden sehr selten direkt angebetet, es ist schwierig eine Ver
 | Gott                           | Domain                      | Symbol | Origin                                   | Champion | Erkennung Funktion                                                            |
 | ------------------------------ | --------------------------- | ------ | ---------------------------------------- | -------- | ----------------------------------------------------------------------------- |
 | Corvus Trix, Gott der Freiheit | Trickery, Twilight          | Raben  | Auferstandener Alf nach dem Cataclysmus, | Nox      |                                                                               |
-| Solaire, Gott des Lichts       | Light                       |        | Sterblicher auferstandener Mensch        | Artemet  | Weiße Roben, Assistieren Gerechtigkeit Verträge, Wahrheit, das Böse bekämpfen |
+| Solaire, Göttin des Lichts     | Light                       |        | Sterblicher auferstandener Mensch        | Artemet  | Weiße Roben, Assistieren Gerechtigkeit Verträge, Wahrheit, das Böse bekämpfen |
 | Ilanus                         | Kampf/Ehre                  |        | Auferstandener Alf nach dem Cataclysmus, | Exos     | Gelangweilter Alf in Siris, der ultimative Arenakämpfe organisiert            |
 | Mielle                         | Mut, Hoffnung und Vertrauen |        | Sterbliche Halfling, auferstanden        | Nym      | Abenteuergilde                                                                |
 | Remaros                        | Sturm                       |        |                                          |          |                                                                               |
 | Lazarus                        |                             |        |                                          |          |                                                                               |
+| Niike                          |                             |        |                                          |          |                                                                               |
+|                                |                             |        |                                          |          |                                                                               |
 |                                |                             |        |                                          |          |                                                                               |
 
 ## Unangesehne Götter von Exos
