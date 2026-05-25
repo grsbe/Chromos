@@ -128,6 +128,16 @@ Maribel Tiefblick, Gezeitenruferin
 **Warum die Party ihn mögen könnte:** Er behandelt ihre inneren Konflikte ernst und gibt gute, rätselhafte Hinweise.  
 **Hook:** Odran sagt einem Charakter einen Wunsch voraus, den dieser nie laut ausgesprochen hat.
 
+
+---
+Das Badehaus
+eher für die Reichen
+Weiblich und Männlich getrennt, mehr für die Rich leute
+
+man fühlt sich extra schön wenn man sich im spiegel anschaut und sonst immer hässlicher woanders.
+Dinge rückwärts sagen um mit dem Spiegel zu kommunizieren
+
+
 ---
 
 ### Extra Attraktionen / Orte
@@ -151,6 +161,16 @@ Cat süßes Catgirl die als weise aufgenommen wurde
 (Free Cookies?) ist außerdem ein Geistermedium
 
 Mushroom und Potion testing stand in a back alley Miguel, rennt weg wenn er von der wache gesehen wird
+
+Gegner auf die, die Party stoßen kann:
+
+Orvo der Zwerg
+Fineas der Katzenmensch
+Aya (die Prinzessin)
+Eleanor
+Viola die Archeologische Elfe
+Elaren der Elf (Arkyron)
+Tieflingkind Stolz
 
 ---
 https://5e.tools/adventure.html#crcotn,1
@@ -177,10 +197,16 @@ Treasure. Each winner of this contest receives a tin [medal of the meat pie](h
 
 Win or lose, a character can't compete in this contest again until they complete a long rest.
 
-### 2. Magisches Labyrinth
-The way to win is to study the maze from the outside, and then follow the only correct path to the exit in one shot. If a creature reaches a dead end, the judge—a lawful neutral [aarakocra](https://5e.tools/bestiary.html#aarakocra_mm) named Sharpwatch—swoops down and plucks them from the maze.
+### 2. Labyrinth
+Wird geleitet von Minenzwergen 
+Jessa Ruß die Sprengmeistering
+Edrick hohlauge schmuggler
+Mauro der auf dem Kran
 
-[Maggie Keeneyes (tier 1)](https://5e.tools/bestiary.html#maggie%20keeneyes%20\(tier%201\)_crcotn), whose stat block appears in [appendix A](https://5e.tools/adventure.html#crcotn,8), has figured out the solution to the maze, but the ogre's size keeps her from entering the maze. She wants her friend, a goblin named [Dermot Wurder (tier 1)](https://5e.tools/bestiary.html#dermot%20wurder%20\(tier%201\)_crcotn), whose stat block also appears in [appendix A](https://5e.tools/adventure.html#crcotn,8), to go in her place. Dermot, however, is convinced that even with her instructions, he will come to a dead end.
+The way to win is to study the maze from the outside, and then follow the only correct path to the exit in one shot. If a creature reaches a dead end, the judge—a lawful neutral zwerg named Sharpwatch—swoops down and plucks them from the maze über eine lustige Kran konstruktion.
+
+Das ganze ist kind of eine Attraktion um potentielle begeisterung fpür duie Minen zu erzeugen
+
 
 Studying the Maze. A character can study the maze from the outside and make a DC 14 Intelligence (Investigation) check. If this check succeeds, the character has advantage on the check made to navigate the maze.
 
@@ -189,21 +215,18 @@ Entering the Maze. It costs 3 sp to participate in this challenge. When a charac
 On a failed check, the character gets lost and ends up in one of the maze's dead ends. A lost character can make a DC 18 Dexterity (Stealth) check to try to backtrack quickly out of the dead end, avoiding Sharpwatch's notice on a success; the character can then make another Wisdom (Survival) check to navigate the maze. If either of these checks is a failure, Sharpwatch swoops down and plucks the character from the maze, depositing them outside.
 
 A character can try the maze as many times as they would like, paying the 3 sp entrance fee each time.
-
+Treasure. Characters who complete the maze are awarded a [medal of the maze](https://5e.tools/items.html#medal%20of%20the%20maze_crcotn) (see [appendix B](https://5e.tools/adventure.html#crcotn,9)) made of smooth driftwood, hung on a piece of rough twine. A labyrinthine pattern has been carved into the front of the medal.
 ### 3. Schwimmwettrennen
-The game is refereed by 
+The game is refereed by Wachen der Krone von Prinz Eliander. Es findet sich auch Sebastien hier wieder. Adrien Valecourt
 
-
-
-Ayo and Galsariad exchange a few terse words before Ayo motions toward the pier. A character who eavesdrops on them can make a DC 14 Wisdom (Perception) check. On a success, the character learns that the drow offered to cast a [longstrider](https://5e.tools/spells.html#longstrider_phb) spell on the genasi, but she declined; she wants to win on her own.
 
 Participating in the Challenge. Entering this contest costs 5 sp. The goal of this challenge is to swim upstream through the rushing waters of the Ifolon to reach a rusted spear sticking out of a rotten wooden post, then bring the spear back to the dock.
 
 Only one of the characters can participate in this challenge. If multiple characters from the party want to take part, anyone after the first must make a DC 14 Charisma (Deception) check. A character who succeeds on this check can compete; those who fail the check are ejected from the pier by Omo.
 
-Other than Ayo, the contestants are a lanky male orc [scout](https://5e.tools/bestiary.html#scout_mm), a broad-shouldered female human [thug](https://5e.tools/bestiary.html#thug_mm), and a surly male [goblin](https://5e.tools/bestiary.html#goblin_mm). These nonplayer characters have the following modifiers to their Strength (Athletics) checks, which come into play during the swimming contest:
+Other than Aya, the contestants are a lanky male orc [scout](https://5e.tools/bestiary.html#scout_mm), a broad-shouldered female human [thug](https://5e.tools/bestiary.html#thug_mm), and a surly male [goblin](https://5e.tools/bestiary.html#goblin_mm). These nonplayer characters have the following modifiers to their Strength (Athletics) checks, which come into play during the swimming contest:
 
-- Ayo Jabe: +4
+- Aya (die Prinzessin): +4
     
 - Male Orc: +0
     
@@ -231,6 +254,7 @@ Treasure. Omo awards the winner a [medal of the conch](https://5e.tools/items.ht
 ### 4. Armwrestling
 The victor in this contest, and the defending champion of the event, is Maryl Bronzezahn, a lawful neutral, orc [gladiator](https://5e.tools/bestiary.html#gladiator_mm). 
 Sie ist teil der Wache von Corbeau und macht sich lustig über Teilnehmer die versuchen sie zu schlagen.
+Das ganze findet am Fluss bei der Wache statt.
 
 Entering this contest is free, man kann aber Wetten bei Vars daneben abschließen.
 
@@ -277,7 +301,19 @@ Reward:
 [medal of the horizonback](https://5e.tools/items.html#medal%20of%20the%20horizonback_crcotn)
 ### 7. Rätselraten
 
+Eda Ohland chillt am Hafen und genießt den Trubel
+Jorin Hale assistent
 
+Ein Halbling wurde umgebracht
+
+Der Mensch sagt, der Drow habe ihn getötet.  
+Der Drow behauptet, der Zwerg wäre es gewesen.  
+Der Elf schwört, er sei es nicht gewesen.  
+Der Zwerg meint, der Mensch lügt!  
+  
+Wer war es, wenn nur einer die Wahrheit sagt ? Elf
+
+Treasure. If a character answers the riddle correctly, Elder Colbu Kaz awards that character a [medal of wit](https://5e.tools/items.html#medal%20of%20wit_crcotn) (see [appendix B](https://5e.tools/adventure.html#crcotn,9)), which is sculpted and painted to look like the head of a fox.
 
 ---
 Jagd nach unten in der Unterwasserhöhle

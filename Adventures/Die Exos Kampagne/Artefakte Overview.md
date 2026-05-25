@@ -9,7 +9,7 @@ Eins findet die Party in Elianos (transportiert einen in die Spiegelwelt in die 
 
 1
 Eins liegt unter der Stadt in der Höhle der Ahnen in der versteckten Höhle hinter dem Spiegel im Spiegelbild, Arkyron findet das vor der Truppe und Konfrontation findet statt
-(zeigt jedem seinen inneren Wunsch. Ist aber nicht unbedingt der innere Wunsch, tut aber so)
+(zeigt jedem seinen inneren Wunsch. Ist aber nicht unbedingt der innere Wunsch, tut aber so, zeigt die richtung der anderen Artefakte, das Centerstück)
 
 2
 Die Schwester des Prinzen Cyrille trägt ein Artefakt um den Hals

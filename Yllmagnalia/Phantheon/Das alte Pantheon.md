@@ -70,7 +70,7 @@ Folgende Alfen repräsentieren Exos auf der Welt:
 | Jagd       | Rexos   |         |          |        |
 | Kampf/Ehre | Ilanus  |         |          |        |
 | Angst      | Rasmos  |         |          |        |
-| Wut/Rache  | Niike   |         | 7        |        |
+| Wut/Rache  | Tiamat  |         | 7        |        |
 | Neid/Sturm | Remaros |         | 7        |        |
 
 ## Liebe
