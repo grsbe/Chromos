@@ -68,6 +68,9 @@ Referenzier die Geschichte von der Stadt irdendwie
 ---
 Ansprache am Markt von Geldar
 
+Es stehen auf einem Podium:
+Geldar, Eda, Solomon himself und ein Tiefling namens Allie
+
 **„Freunde, Nachbarn, Gäste von nah und fern — willkommen zum Gezeitengedenkfest von Corbeau.**
 
 Heute kommen wir nicht nur zusammen, um zu essen, zu trinken, zu singen und die Lichter über dem Wasser zu sehen. Wir kommen zusammen, weil wir wissen: Ein Dorf am Meer lebt nicht nur von denen, die heute hier stehen.
@@ -172,7 +175,7 @@ Eleanor
 Viola die Archeologische Elfe
 Elaren der Elf (Arkyron)
 Tieflingkind Stolz
-Einer der Silarbrüder
+Einer der Silasbrüder
 Cat
 
 ---

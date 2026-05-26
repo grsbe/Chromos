@@ -24,4 +24,4 @@ Eda Ohland
 
 
 Anders Solomon hält eher zu eda und Gellan
-
+Allie Schicksal

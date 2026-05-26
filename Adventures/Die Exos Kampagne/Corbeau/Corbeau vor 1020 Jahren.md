@@ -17,7 +17,7 @@ Elfen widmen sich seit 30000 Jahren
 Miguel Scherze
 AraNariel Tiere 
 SinaRanis Schwert
-HavaNavahris kleidung
+Himeriavis kleidung
 AtheLethariel wissen aller Art
 Gromash kartografierte Sandkörner
 Zakra'arkann untersuchte den Tod aber war ein Nachtelf der den Niedergang der Götter wünschte
