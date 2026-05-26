@@ -40,7 +40,7 @@ Sophisticated Riesiger Ork Philosoph farmer Jeremiah
 ---
 Oberstadt
 
-Dorfmagier Keledek
+Dorfmagier Keledek der sturmgraue
 Hat Bibliothek die er Vertraute reinlässt
 Pet Fee name Shaba
 Hat geheimversteck zu diesem einem Turm über den er schmuggelt
@@ -55,7 +55,7 @@ Unterstadt
 Pub: Leerer Fang
 
 
-Alchemist / Heiler: Ablack, shady typ will 
+Alchemist / Heiler: Ogrin Silberblatt, shady typ will 
 
 
 
