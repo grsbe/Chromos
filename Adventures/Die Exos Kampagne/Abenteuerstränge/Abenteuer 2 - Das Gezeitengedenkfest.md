@@ -172,6 +172,8 @@ Eleanor
 Viola die Archeologische Elfe
 Elaren der Elf (Arkyron)
 Tieflingkind Stolz
+Einer der Silarbrüder
+Cat
 
 ---
 https://5e.tools/adventure.html#crcotn,1
