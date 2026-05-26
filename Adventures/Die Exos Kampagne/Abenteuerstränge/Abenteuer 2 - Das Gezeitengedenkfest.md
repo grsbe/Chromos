@@ -113,7 +113,7 @@ Solaris Tempel:
 Vesper, glatzenbart der main Guy, stumm zuhörend (sieht Freddies amulett)
 Peregrinus, blond gesprächiger und happy aber das licht
 
-w,Lacrimosa blond blau heilend
+w,Lacrimosa blond blau heilend 
 Clementia, schwarzhaarig glaubend
 
 Infos:
