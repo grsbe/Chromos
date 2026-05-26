@@ -56,7 +56,8 @@ Silas Brüder 5 oberkörper dudes. 5 Brüder aus Soras
 Köchin Agatha Silberlöffel: Abenteurerin die immer gekocht hat
 
 
-
+Schmugglerin beim leeren Fang
+Alena Flutkuss heartthrob
 
 
 
@@ -136,7 +137,7 @@ Weiblich und Männlich getrennt, mehr für die Rich leute
 
 man fühlt sich extra schön wenn man sich im spiegel anschaut und sonst immer hässlicher woanders.
 Dinge rückwärts sagen um mit dem Spiegel zu kommunizieren
-
+Öffnet einen Ort an den man sich wünscht, wie cocain bis die vision vorbei ist
 
 ---
 
