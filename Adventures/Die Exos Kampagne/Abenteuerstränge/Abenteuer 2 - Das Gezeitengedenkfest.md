@@ -343,11 +343,14 @@ er escaped in den Spiegel
 Spiegel mit Vision die erklärt
 
 
+---
 
 Endboss fight:
 Ritual zauber rätsel fight
 
 In der Mitte das Artefakt das die Remaros Scheibe versiegelt hält.
+Eine Art magische zylinder hülle um einen Podest auf dem der Spiegel liegt.
+
 Darum mehrere Artefakte die dazu da sind mit einem Ritual Zauber das Artefakt freizulegen
 Es gibt hohe Explosionsgefahr wenn das Ritual schief geht.
 Arkyron schießt mit einer Gun
