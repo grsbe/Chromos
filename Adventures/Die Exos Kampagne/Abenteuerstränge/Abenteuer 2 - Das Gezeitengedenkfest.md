@@ -37,6 +37,10 @@ Das Badehaus ist verflucht
 Am Rande vom Terrorwald wurde ein furchtbares Wesen entdeckts
 Eine Große Menge an Waffen wird geschmuggelt. Irgend etwas braut sich zusammen
 
+Das Endevent wird ein Underwater cave schwimm wettbewerb sein, der Preis ein Bag of holding!!
+
+[Frigid Water](https://5e.tools/trapshazards.html#frigid%20water_xdmg)
+https://5e.tools/trapshazards.html#suffocation_xphb
 
 ---
 
