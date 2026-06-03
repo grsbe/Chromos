@@ -227,7 +227,7 @@ On a failed check, the character gets lost and ends up in one of the maze's dead
 A character can try the maze as many times as they would like, paying the 3 sp entrance fee each time.
 Treasure. Characters who complete the maze are awarded a [medal of the maze](https://5e.tools/items.html#medal%20of%20the%20maze_crcotn) (see [appendix B](https://5e.tools/adventure.html#crcotn,9)) made of smooth driftwood, hung on a piece of rough twine. A labyrinthine pattern has been carved into the front of the medal.
 ### 3. Schwimmwettrennen
-The game is refereed by Wachen der Krone von Prinz Eliander. Es findet sich auch Sebastien hier wieder. Adrien Valecourt
+The game is refereed by Wachen der Krone von Prinz Eliander. Es findet sich auch Sebastien hier wieder. Adrein ist auch hier. 
 
 
 Participating in the Challenge. Entering this contest costs 5 sp. The goal of this challenge is to swim upstream through the rushing waters of the Ifolon to reach a rusted spear sticking out of a rotten wooden post, then bring the spear back to the dock.
@@ -327,6 +327,12 @@ Treasure. If a character answers the riddle correctly, Elder Colbu Kaz awards th
 
 ---
 Jagd nach unten in der Unterwasserhöhle
+
+Es beginnt eine Prozession die zur Ahnenhöhle führt über die Landzunge, Geldar erklärt die Regeln. 
+Es sollen sich drei dreier Teams bilden
+Es treten außerdem Aya (Prinzessin), Elaren/Riya und Viola
+Aya diskutiert heftig mit Adrien, dass sie teilnehmen darf.
+
 
 bis zu Hai, der das Amulett trägt
 Aquaelf competiert mit

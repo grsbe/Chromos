@@ -111,3 +111,7 @@ Ein Fragment aus dem Sturmtitanen fliegt heraus, eine Art strahlende silhouette 
 Ein Dunkel gekleideter Elf wirft einen Feuerball auf das Portal und mit einem dritten Knall zerberst der Spiegel in dem er erst blau wird und dann in 11 blaue kleine Kritallshards zerbricht die in alle Richtungen sprengen.
 
 Eines davon trifft den Nachtelfen und teilt ihn in zwei und kracht direkt in die Stadt, der Rest fliegt in alle Richtungen.
+
+
+1000 Jahre später bricht das Siegel leicht als Tiamat ein stück freikommt.
+Arkyron und Remaros überlegen wie sie ihn zurück bringen können.
