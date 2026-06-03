@@ -4,3 +4,6 @@ Sie hat ein Spiegelartefakt als Amulett, dass versucht sie zu übernehmen. Ihre 
 Das Artefakt dämmt ihre Magie indirekt, da sie konstant magische Energie aufbraucht um sie vor den Effekten des Amuletts zu schützen.
 
 SIe trägt einen Ifriten in sich
+
+
+Limara
