@@ -39,8 +39,6 @@ Eine Große Menge an Waffen wird geschmuggelt. Irgend etwas braut sich zusammen
 
 Das Endevent wird ein Underwater cave schwimm wettbewerb sein, der Preis ein Bag of holding!!
 
-[Frigid Water](https://5e.tools/trapshazards.html#frigid%20water_xdmg)
-https://5e.tools/trapshazards.html#suffocation_xphb
 
 ---
 
@@ -178,9 +176,12 @@ Aya (die Prinzessin)
 Eleanor
 Viola die Archeologische Elfe
 Elaren der Elf (Arkyron)
-Tieflingkind Stolz
+Tieflingkind Stolz im auftrag von Keoland und Tiamat
 Einer der Silasbrüder
 Cat
+Alena Flutkuss
+Tarek Sturmdolch
+Jorik Krähenblick
 
 ---
 https://5e.tools/adventure.html#crcotn,1
@@ -328,14 +329,62 @@ Treasure. If a character answers the riddle correctly, Elder Colbu Kaz awards th
 ---
 Jagd nach unten in der Unterwasserhöhle
 
-Es beginnt eine Prozession die zur Ahnenhöhle führt über die Landzunge, Geldar erklärt die Regeln. 
-Es sollen sich drei dreier Teams bilden
-Es treten außerdem Aya (Prinzessin), Elaren/Riya und Viola
-Aya diskutiert heftig mit Adrien, dass sie teilnehmen darf.
-
-
 bis zu Hai, der das Amulett trägt
-Aquaelf competiert mit
+
+https://5e.tools/adventure.html#crcotn,1,the%20emerald%20grotto
+
+Es beginnt eine Prozession die zur Ahnenhöhle führt über die Landzunge, Geldar erklärt die Regeln. 
+
+[Frigid Water](https://5e.tools/trapshazards.html#frigid%20water_xdmg)
+https://5e.tools/trapshazards.html#suffocation_xphb
+
+Es sollen sich drei dreier Teams bilden
+Es treten außerdem Aya (Prinzessin), Elaren/Riya und Viola, Stolz?
+Aya diskutiert heftig mit Adrien, dass sie teilnehmen darf, eventually darf sie nicht außer jemand greift ein.
+
+
+
+Der Eingang führt in eine Höhle tief hinab 15feet hoch höhlen, 5 feet hoch in den Tunneln, das meiste ist unterwasser.
+
+Elaren schwimmt davon, sein team verdutzt hinter her aber halb so schnell
+
+ABC1: Turns(1) (Überwasser)
+Der Tunnel endet in einer Sackgasse mit einem pool voll eiskaltem Wasser.
+Perception: Unter dem wasser befindet sich ein below sea level tunnel
+
+ABC2: Seetang (Unterwasser)
+Dem Tunnel folgend werden die schwimmenden von seetang aufgehalten.
+Athletics 13: 1 Turn, sonst 2
+
+ABC3: Fork
+Der unterwassertunnel spaltet sich in drei tunnel die weiter führen
+Turns: 1, 2 wenn sie nicht sofort einen wählen
+Perception 13: A leuchtet, B kommt wasserstrom dunkel, C
+
+A4: Geisteralgen (leuchten)
+Dex 12 save: Fails: restrained und d6 dmg und ein turn
+Althletics 13: Man kommt wieder frei und schwimmt weiter
+Turns: 2 + 1 restrained turns
+A5:
+Octopus und luft
+
+B4: Gegenstrom
+athl 15: Dagegen anschwimmen, sonst stuck
+1 + 1 turn für jeden Fail
+B5: Öffnet sich in eine höhle mit Luft. Die Höhle vibriert durch einen fernen kampf? Steine fallen runder aus der Cavern
+Dex save 14: 3d6 dmg halved on success
+Investigation 12: Finde den exit 1 sonst 2
+
+C4: Sackgasse
+Perception / Survival 13 : Finde eastern wall versteckten eingang
+Höhle die abgesucht wird: Findet potion of healing
+
+C5: Piranyass und luft
+
+ABC6: Klau jew eins aus dem nicht benutzten Tunnel
+
+ABC7: Alle führen in die selbe mond erschienene höhle
+mit einem Hai
 
 unten angekommen, Hai bekämpfen Amulett bekommen
 Hai crasht in Illusion die Aquaelf erzeugt hat
