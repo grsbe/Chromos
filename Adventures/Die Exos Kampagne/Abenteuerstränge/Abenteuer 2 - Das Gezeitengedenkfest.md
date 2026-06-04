@@ -2,8 +2,15 @@
 ---
 Start:
 
-3 Leute Bar Szene
+3 Leute Bar Szene:
 
+Possible NPCs: Viola, Alena, Tarek
+- Wer seid ihr, ich hab euch hier noch nicht gesehen
+- erzähl mir eine Geschichte die du erlebt hast
+- erzähl mir etwas über dich
+
+Die anderen drei gehen aus der Bibliothek
+-> kriegen den Zettel mit der Schrift übersetzung
 
 ---
 
@@ -47,9 +54,9 @@ Infos die in der Session Leute wissen:
 Das Badehaus ist verflucht
 Am Rande vom Terrorwald wurde ein furchtbares Wesen entdeckts
 Eine Große Menge an Waffen wird geschmuggelt. Irgend etwas braut sich zusammen
-
 Das Endevent wird ein Underwater cave schwimm wettbewerb sein, der Preis ein Bag of holding!!
 
+---
 
 ---
 
@@ -147,7 +154,7 @@ Maribel Tiefblick, Gezeitenruferin
 
 
 ---
-Das Badehaus
+**Das Badehaus**
 eher für die Reichen
 Weiblich und Männlich getrennt, mehr für die Rich leute
 
@@ -170,6 +177,20 @@ Nur für Leute, die schon mal „das Meer respektiert“ gesagt haben.
 Wodka, Grapefruit, Salzrand, Sprudel.  
 Sauer, frisch, laut. Nach zwei davon lacht man über Netze.
 
+#### Essen:
+*Salzkrusten-Fischspieße*
+Kleine Stücke weißer Fisch, auf Holzspieße gesteckt, mit grobem Salz, Kräutern und Zitrone geröstet.  
+**Festdetail:** Kinder streiten darum, wer den knusprigsten Rand bekommt.
+*Krabbenküchlein*
+Flache, knusprige Küchlein aus Krabbenfleisch, Kartoffel, Lauch und Pfeffer.  
+**Gut für Tavernen:** Werden mit saurer Remoulade oder Senfcreme serviert.
+*Sumpfknollentaschen*
+
+*Erinnerungsbrote*
+Kleine runde Brote, in die vor dem Backen der Anfangsbuchstabe eines Verstorbenen gedrückt wird.  
+**Brauch:** Man isst sie nicht allein, sondern teilt sie mit jemandem und erzählt eine Erinnerung.
+
+
 Wahrsagerzelt Narnia? Remaros Mal?
 
 Remaros Anhänger 
@@ -177,22 +198,38 @@ Willhelm,
 Cat süßes Catgirl die als weise aufgenommen wurde 
 (Free Cookies?) ist außerdem ein Geistermedium
 
+
+### Random events
+Ein Wahrsagerzelt
+
 Mushroom und Potion testing stand in a back alley Miguel, rennt weg wenn er von der wache gesehen wird
 
-Gegner auf die, die Party stoßen kann:
+Sir Cedrick führt Personen schranke und durchsuche durch -> Waffenschmuggel
+
+Cat verteilt Cookies
+
+Mut und Licht spielen mit anderen Kindern Aalfang, und werden auf die Abenteurer aufmerksam und weisen die anderen Kinder auf sie als Helden hin.
+Mut steht vorne mit einer Zahnlücke. Licht ist eher zurückhaltend.
+
+
+
+---
+
+Leute auf die, die Party stoßen kann:
 
 Orvo der Zwerg
 Fineas der Katzenmensch
 Aya (die Prinzessin)
 Eleanor
-Viola die Archeologische Elfe
+Viola die Archeologische Elfe (hat ein Tatoo von Lethariel)
 Elaren der Elf (Arkyron)
 Tieflingkind Stolz im auftrag von Keoland und Tiamat
-Einer der Silasbrüder
-Cat
-Alena Flutkuss
-Tarek Sturmdolch
-Jorik Krähenblick
+Einer der Silasbrüder (Just here to have fun)
+Cat (Katzenmädchen, Gezeitenruferin)
+Alena Flutkuss (Frau) Schmugglerin findet alles und kennt die richtigen Leute
+Tarek Sturmdolch (Ein Zwerg in der Garde)
+Jorik Krähenblick (Ein Elf Abenteurer auf der Suche nach Arbeit)
+Ein Utolottl Bandit Ork names Tork Bork (Auf der Suche nach möglicher Beute)
 
 ---
 https://5e.tools/adventure.html#crcotn,1
@@ -344,7 +381,12 @@ bis zu Hai, der das Amulett trägt
 
 https://5e.tools/adventure.html#crcotn,1,the%20emerald%20grotto
 
-Es beginnt eine Prozession die zur Ahnenhöhle führt über die Landzunge, Geldar erklärt die Regeln. 
+Es beginnt eine Laternen Prozession die zur Ahnenhöhle führt über die Landzunge, 
+
+Geldar erklärt die Regeln und erklärt sich mächtig beeindruckt.
+	Mächtige Krieger, brillante Strategen, ihr habt uns mit euren Kraftakten, eurem scharfsinnigen Witz und euren robusten Mägen beeindruckt. Doch das Hauptereignis steht, wie ihr wisst, noch bevor. Nur zwei Teams werden ausgewählt, um in der finalen Herausforderung anzutreten — einem Rennen durch die Smaragdgrotte, in deren Tiefen der größte Preis wartet!
+	
+
 
 [Frigid Water](https://5e.tools/trapshazards.html#frigid%20water_xdmg)
 https://5e.tools/trapshazards.html#suffocation_xphb

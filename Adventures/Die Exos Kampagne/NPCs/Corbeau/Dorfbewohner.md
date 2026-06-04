@@ -49,6 +49,7 @@ Alchemist / Heiler: Ogrin Silberblatt (Eisenberg), shady typ will
 
 
 Alena Flutkuss: Schmuggler findet alles
+Hat eine Oma um die sie sich kümmert und versucht Kinder von der Straße zu kriegen
 
 
 
