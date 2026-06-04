@@ -1,4 +1,15 @@
 
+---
+Start:
+
+3 Leute Bar Szene
+
+
+---
+
+
+
+
 Generelles:
 
 Die Eisstatuen sind jetzt in einer von Solomons Fisch Lagerhallen
