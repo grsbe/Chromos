@@ -211,7 +211,52 @@ Cat verteilt Cookies
 Mut und Licht spielen mit anderen Kindern Aalfang, und werden auf die Abenteurer aufmerksam und weisen die anderen Kinder auf sie als Helden hin.
 Mut steht vorne mit einer Zahnlücke. Licht ist eher zurückhaltend.
 
+Möwen stürzen sich einen Essensstand
 
+Random Getränke und Essen
+
+Laternen stand wo man eine Kerze für einen Toten anzünden kann
+
+Betrunkene beschweren sich über die Scheinheiligkeit des Fests. Heute denken wir an die Toten und morgen vergessen wir sie wieder. Was eine Schande
+(fehlende Kinder, auf dem nach hause weg zu den wäldern des Terrorwalds als mutprobe, bei den Klippen entführt von Miradore)
+
+Erwachsene suchen ihr Kind Mina
+
+ *Spiel Krabbenkrone*
+**Art:** Krabbenrennen  
+**Einsatz:** 1–5 Kupfer, Muschelmarken oder ein Getränk  
+**Ablauf:** Drei bis sechs Krabben werden in einen Sandkreis gesetzt. Wer zuerst den äußeren Ring erreicht, gewinnt.
+**W20-Regel:**  
+Jeder setzt auf eine Krabbe. Würfle W20 für jede Krabbe. Höchster Wurf gewinnt.
+**Chaos bei einer 1:** Krabbe gräbt sich ein.  
+**Chaos bei einer 20:** Krabbe kneift den Spielleiter des Rennens und wird Publikumsliebling.
+
+*Spiel Ebbe oder Flut*
+**Art:** Münzwurf / Würfelspiel  
+**Einsatz:** Beliebt bei Fischern und Kindern, aber auch bei Betrunkenen  
+**Ablauf:** Der Dealer wirft zwei Münzen oder zwei W6.
+
+**Variante mit W6:**  
+Vorher wählen: **Ebbe** oder **Flut**.
+
+- **Ebbe:** Summe 2–6 gewinnt.
+- **Flut:** Summe 8–12 gewinnt.
+- **7:** „Stillwasser“ — der Einsatz bleibt liegen und die nächste Runde zählt doppelt.
+
+**Warum es Spaß macht:** Schnell, laut, leicht unfair wirkend.
+
+**Typischer Ruf:**
+
+> „Ebbe nimmt, Flut bringt!“
+
+
+**NPC-Moment:**  
+Alena Flutkuss wettet nie auf die größte Krabbe. Sie sagt:
+
+> „Groß gewinnt selten. Hungrig gewinnt.“
+
+
+Würfel um möglichst nah an 13 zu kommen, 1 kann als 7 zählen
 
 ---
 
@@ -243,9 +288,9 @@ Der Stand ist bei den Solomon Lagerhallen.
 
 Agathe gestures toward the raised platform next to her cooking station, where three people are already seated: a cocky male [drow](https://5e.tools/bestiary.html#drow_mm) flexing his muscles, pointing at people in the gathering crowd and winking; a female halfling (use the [thug](https://5e.tools/bestiary.html#thug_mm) stat block), sitting very still with a smirk on her face; and a young male human
 
-- Male Drow: +0
-- Female Halfling: +2
-- Irvan Wastewalker: +1 on checks, +3 on saving throws
+- Tork Bork: +2
+- Fineas: +0
+- Orvo: +1 on checks, +3 on saving throws
     
 
 Putting Away the Pies. It costs 5 sp to enter this contest. On Agathe's signal, everyone seated at the platform can begin eating. The pies taste great, the meat seasoned to perfection and the crusts light and fluffy. Of course, there's not much chance to savor the flavor of the pies when the goal is to put away as many of them as possible.
@@ -275,6 +320,8 @@ On a failed check, the character gets lost and ends up in one of the maze's dead
 
 A character can try the maze as many times as they would like, paying the 3 sp entrance fee each time.
 Treasure. Characters who complete the maze are awarded a [medal of the maze](https://5e.tools/items.html#medal%20of%20the%20maze_crcotn) (see [appendix B](https://5e.tools/adventure.html#crcotn,9)) made of smooth driftwood, hung on a piece of rough twine. A labyrinthine pattern has been carved into the front of the medal.
+
+Wer ist hier noch? Viola und Eleanor
 ### 3. Schwimmwettrennen
 The game is refereed by Wachen der Krone von Prinz Eliander. Es findet sich auch Sebastien hier wieder. Adrein ist auch hier. 
 
@@ -283,15 +330,12 @@ Participating in the Challenge. Entering this contest costs 5 sp. The goal of th
 
 Only one of the characters can participate in this challenge. If multiple characters from the party want to take part, anyone after the first must make a DC 14 Charisma (Deception) check. A character who succeeds on this check can compete; those who fail the check are ejected from the pier by Omo.
 
-Other than Aya, the contestants are a lanky male orc [scout](https://5e.tools/bestiary.html#scout_mm), a broad-shouldered female human [thug](https://5e.tools/bestiary.html#thug_mm), and a surly male [goblin](https://5e.tools/bestiary.html#goblin_mm). These nonplayer characters have the following modifiers to their Strength (Athletics) checks, which come into play during the swimming contest:
+Other than Aya,  These nonplayer characters have the following modifiers to their Strength (Athletics) checks, which come into play during the swimming contest:
 
-- Aya (die Prinzessin): +4
-    
-- Male Orc: +0
-    
-- Female Human: +2
-    
-- Male Goblin: -1
+- Aya (die Prinzessin): +2
+- Silasbruder: +0
+- Eleanor: +2
+- Elaren: +4
     
 
 Race for the Spear. On Omo's mark, the contestants plunge into the water and begin swimming. Competitors roll initiative when they dive into the water, with all participants expected to use the [Dash](https://5e.tools/actions.html#dash_phb) action every round. Any contestant who moves more than 30 feet on their turn must make a DC 13 Strength (Athletics) check at the end of that turn. On a failed check, the contestant gains 1 level of [exhaustion](https://5e.tools/conditionsdiseases.html#exhaustion_phb) and is pushed 15 feet downstream as they are pummeled by the current.
@@ -320,7 +364,9 @@ Entering this contest is free, man kann aber Wetten bei Vars daneben abschließe
 Maryl Bronzezahn competes only against the best, and to challenge her, a character must first defeat one of her companions. Maryl returns to the table after at least one character has accomplished this, casting a challenging grin at the victor and inviting them to try their luck against her. The first character to defeat Maryl receives a challenge from Maggie. Otherwise, Maggie challenges Maryl after all other contestants fall by the wayside. These nonplayer characters have the following modifiers to their Strength checks, which come into play during the arm-wrestling contest:
 
 - Maryl Bronzezahn: +4
-- Random Balazhar: +3
+- Tarek: +3
+- Jorek: 2
+- Stolz: 0
     
 Contest Rules. In any arm-wrestling match, have both contestants make a Strength (Athletics) check with a DC equal to 10 + the other contestant's Strength modifier. If one contestant succeeds and the other fails, the one who succeeded wins the match. Repeat the checks as needed until one contestant fails and the other succeeds.
 
@@ -337,9 +383,9 @@ Harvesting the Rice. A team of two is required to participate in this contest, a
 
 Each team is responsible for a 20-foot-long, 5-foot-wide strip of a paddy. On Beetle's signal, the teams race to successfully harvest their strip. Aside from the characters, two other teams are competing in this race: an imposing female [orc](https://5e.tools/bestiary.html#orc_mm) and her rambunctious son (who uses the [commoner](https://5e.tools/bestiary.html#commoner_mm) stat block); and a pair of [drow](https://5e.tools/bestiary.html#drow_mm) siblings, who wear broad-brimmed straw hats and constantly bicker with each other. These teams have the following modifiers to their Strength (Athletics) and Dexterity (Sleight of Hand) checks, which come into play during the contest:
 
-Orc Team. Athletics +3, Sleight of Hand +0
+Ork Team Tork Bork und Tarek/Jorik/Silas. Athletics +3, Sleight of Hand +0
 
-Drow Team. Athletics +0, Sleight of Hand +2
+Alena und Viola Team. Athletics +0, Sleight of Hand +2
 
 At the end of each minute, each team's cutter must make a DC 11 Strength (Athletics) check; on a success, the cutter clears a 5-foot-square section of their paddy. Once a section has been cleared, the team's gatherer must spend 1 minute trying to gather and bundle the shorn rice, doing so with a successful DC 11 Dexterity (Sleight of Hand) check; a failed check causes the team's cutter to make their next Strength (Athletics) check with disadvantage, as the gatherer's bundling work gets in the way. The first team to clear and bundle the rice from all four 5-foot squares of their strip of paddy wins (ties are possible).
 
@@ -358,10 +404,15 @@ Organisator ist Jeremiah auf dem Feld vor dem Solaire Tempel. Dad Orc vibes
 - Pig has advantage on grapple checks
 Reward:
 [medal of the horizonback](https://5e.tools/items.html#medal%20of%20the%20horizonback_crcotn)
+
+Hier chillt Jorik und Aya schaut sich das ganze belustigt an
+
 ### 7. Rätselraten
 
 Eda Ohland chillt am Hafen und genießt den Trubel
 Jorin Hale assistent
+
+Cat und Viola chillen hier
 
 Ein Halbling wurde umgebracht
 
