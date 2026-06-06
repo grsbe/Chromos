@@ -143,7 +143,7 @@ Rechts im ersten Raum sind die Schweine untergebracht: Schogart
 ---
 **Wahrsagerzelt**
 
-Maribel Tiefblick, Gezeitenruferin
+Maribel Tiefblick, Gezeitenruferin 
 **Rolle:** Blinde Prophetin der Gezeitenrufer  
 **Herkunft:** Ehemaliger Navigator  
 **Ziel:** Herausfinden, ob Remaros wirklich spricht — oder ob etwas anderes die Träume sendet.  
@@ -333,9 +333,10 @@ Only one of the characters can participate in this challenge. If multiple charac
 Other than Aya,  These nonplayer characters have the following modifiers to their Strength (Athletics) checks, which come into play during the swimming contest:
 
 - Aya (die Prinzessin): +2
-- Silasbruder: +0
 - Eleanor: +2
-- Elaren: +4
+- 
+- Riya: +3
+- Silasbruder: +0
     
 
 Race for the Spear. On Omo's mark, the contestants plunge into the water and begin swimming. Competitors roll initiative when they dive into the water, with all participants expected to use the [Dash](https://5e.tools/actions.html#dash_phb) action every round. Any contestant who moves more than 30 feet on their turn must make a DC 13 Strength (Athletics) check at the end of that turn. On a failed check, the contestant gains 1 level of [exhaustion](https://5e.tools/conditionsdiseases.html#exhaustion_phb) and is pushed 15 feet downstream as they are pummeled by the current.
@@ -416,11 +417,13 @@ Cat und Viola chillen hier
 
 Ein Halbling wurde umgebracht
 
-Der Mensch sagt, der Drow habe ihn getötet.  
-Der Drow behauptet, der Zwerg wäre es gewesen.  
+Der Mensch sagt, der Ork habe ihn getötet.  
+Der Ork behauptet, der Zwerg wäre es gewesen.  
 Der Elf schwört, er sei es nicht gewesen.  
 Der Zwerg meint, der Mensch lügt!  
-  
+
+Zwerg sagt die Wahrheit
+
 Wer war es, wenn nur einer die Wahrheit sagt ? Elf
 
 Treasure. If a character answers the riddle correctly, Elder Colbu Kaz awards that character a [medal of wit](https://5e.tools/items.html#medal%20of%20wit_crcotn) (see [appendix B](https://5e.tools/adventure.html#crcotn,9)), which is sculpted and painted to look like the head of a fox.
