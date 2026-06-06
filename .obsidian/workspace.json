@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "56859f94433e570e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://5e.tools/bestiary.html#reef%20shark_mm",
+                "title": "Reef Shark - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Reef Shark - 5etools"
+            }
+          },
+          {
             "id": "e158b2d3a3500aec",
             "type": "leaf",
             "state": {
@@ -199,8 +213,8 @@
   },
   "active": "3f09a6715c554e49",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Artefaktquest - Das Dreadwoodartefakt.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Dorfbewohner.md",

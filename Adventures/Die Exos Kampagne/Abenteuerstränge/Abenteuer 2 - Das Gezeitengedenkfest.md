@@ -366,14 +366,14 @@ Maryl Bronzezahn competes only against the best, and to challenge her, a charact
 
 - Maryl Bronzezahn: +4
 - Tarek: +3
-- Jorek: 2
-- Stolz: 0
+- Tork
+- Alena: 0
     
 Contest Rules. In any arm-wrestling match, have both contestants make a Strength (Athletics) check with a DC equal to 10 + the other contestant's Strength modifier. If one contestant succeeds and the other fails, the one who succeeded wins the match. Repeat the checks as needed until one contestant fails and the other succeeds.
 
 A character who loses a match and wants to try again must first succeed on a DC 15 Charisma (Deception or Persuasion) check. On a failed check, the character is laughed away by the crowd. If a character loses to the same foe twice, that contestant declines any further challenges from that character.
 
-Betting. A character can place a bet with Vars by handing him 5 sp and declaring who they think will win the next match. A character whose choice wins the match receives 9 sp, and Vars pockets 1 sp.
+Betting. A character can place a bet with Waya by handing him 5 sp and declaring who they think will win the next match. A character whose choice wins the match receives 9 sp, and Vars pockets 1 sp.
 
 Treasure. Vars hands anyone who bests Maryl and Maggie a [medal of muscle](https://5e.tools/items.html#medal%20of%20muscle_crcotn) (see [appendix B](https://5e.tools/adventure.html#crcotn,9)) made of ebony and shaped like a flexing arm. If one stares at it for long enough, the muscles appear to bulge.
 
