@@ -129,5 +129,15 @@ Wünsche werden erfüllt indem sich die Elfen etwas wünschen.
 Vom Baum fliegt eine Art leuchtendes Blatt/Feuer, dass sich Remaros dem annimmt?
 Wie Laternen die durch die Luft fliegen#
 
-Irgendwann wir die Party gecrashed von einem Barakius
+Irgendwann wir die Party gecrashed von einem Barakius der halbtot mit seiner toten frau auftaucht
+
+
+### Diskussion über Barakius
+Arkyron führt eine Disskussionsrunde
+
+
+### Escape von 
+
+
+### 
 
