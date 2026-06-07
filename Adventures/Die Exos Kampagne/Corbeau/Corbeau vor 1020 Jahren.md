@@ -115,3 +115,19 @@ Eines davon trifft den Nachtelfen und teilt ihn in zwei und kracht direkt in die
 
 1000 Jahre später bricht das Siegel leicht als Tiamat ein stück freikommt.
 Arkyron und Remaros überlegen wie sie ihn zurück bringen können.
+
+
+
+### Das Fest der Wünsche
+
+Alle 10 Jahre treffen sich alle Elfen um ihre Erkenntisse miteinander zu teilen
+- Die sind teilweise super belanglos
+Remaros erfüllt Wünsche die er für angemessen hält
+Arkyron stellt sicher dass es allen gut geht.
+
+Wünsche werden erfüllt indem sich die Elfen etwas wünschen.
+Vom Baum fliegt eine Art leuchtendes Blatt/Feuer, dass sich Remaros dem annimmt?
+Wie Laternen die durch die Luft fliegen#
+
+Irgendwann wir die Party gecrashed von einem Barakius
+
