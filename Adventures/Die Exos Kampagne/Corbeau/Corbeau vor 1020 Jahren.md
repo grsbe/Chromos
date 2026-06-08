@@ -142,5 +142,12 @@ Arkyron führt eine Disskussionsrunde
 ### Aufbruch nach Lazarus
 
 
+### Irgendwas mit Tiamat
 
+
+### Diskussion mit den Nachtelfen um ihn zu besiegen
+
+
+### Corbeau vor 20 Jahren; ein schrecklicher Sturm
+Badehaus shard
 
