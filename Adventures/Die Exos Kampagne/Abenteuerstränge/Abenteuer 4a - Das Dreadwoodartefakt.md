@@ -1,7 +1,7 @@
 
 
 Mirador wohnt hier und die Party muss in den Wald und das Artefakt finden
-In seinem Endbossfight erwacht er immer wieder aus Lamberts kopien.
+Mirador hält Oko erst für Zarkann
 
 Die Party muss einen Weg finden um Lambert vor dem Einfluss Miradors zu beschützen.
 
@@ -35,3 +35,10 @@ kann verfluchte Hütte hier wieder verwenden
 Schau in Abenteuern nach
 verwunschener Weg mit schrecklichen Kreaturen
 Weg hinein ist nicht weg hinaus
+
+
+
+Eine Hag
+
+
+Ein verwunschenes Haus
