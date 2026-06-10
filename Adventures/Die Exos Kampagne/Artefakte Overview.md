@@ -4,14 +4,14 @@
 
 Artefakte:
 
-0
+0 x
 Eins findet die Party in Elianos (transportiert einen in die Spiegelwelt in die man sich wünscht)
 
-1
+1 x
 Eins liegt unter der Stadt in der Höhle der Ahnen in der versteckten Höhle hinter dem Spiegel im Spiegelbild, Arkyron findet das vor der Truppe und Konfrontation findet statt
 (zeigt jedem seinen inneren Wunsch. Ist aber nicht unbedingt der innere Wunsch, tut aber so, zeigt die richtung der anderen Artefakte, das Centerstück)
 
-2
+2 x Das Center stück
 Die Schwester des Prinzen Cyrille trägt ein Artefakt um den Hals
 Das Artefakt stammt aus dem entfernten Thailenis 
 (nimmt einem irre viel kraft ab aber gibt einem glück)
@@ -33,7 +33,7 @@ Mirador sollte eigentlich Oko für zarkann aufbewahren und verstecken aber er ha
 Er hat zarkanns wunsch nach macht und unsterblichkeit mit einem dorfjungen kombiniert der nur gemeinsamkeit etc wollte.
 
 10
-Eins hat der Stratege Arkyron bereits (gewährt den wunsch der teleportation über spiegel)
+~~Eins hat der Stratege Arkyron bereits (gewährt den wunsch der teleportation über spiegel)~~
 
 5
 Die Entführte Echsen Prinzessin trug eins, das jetzt der Brute Aqua Elf hat
