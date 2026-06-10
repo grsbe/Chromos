@@ -14,12 +14,13 @@ Arkyron ist anwesend als normaler Elf
 
 Elfen widmen sich seit 30000 Jahren 
 
-Miguel Scherze
+Gonga Scherze
 AraNariel Tiere 
-SinaRanis Schwert
-Himeriavis kleidung
-AtheLethariel wissen aller Art
+SinaRanis Metallkunst
+Hime kleidung
+Athel wissen aller Art
 Gromash kartografierte Sandkörner
+
 Zakra'arkann untersuchte den Tod aber war ein Nachtelf der den Niedergang der Götter wünschte
 
 Soleani Magie
