@@ -3,9 +3,9 @@
 Heute
 
 Vor 1 Jahr: Der Terrorwald greift an und klaut Kinder unter anderem Oko wird entführt
-
+ BarakiusArkyron,  entkommen
 Vor 20Jahren: Der Supersturm, Nymerias Dad Kampf, Amyrillia wird geboren, 
-Arkyron, Allie und Barakius entkommen
+Allie killt
 
 vor 200: Solaire erklimmt den Berg und rettet Exos
 vor 210: Exos wird von Goblins und vielarmigen überrannt

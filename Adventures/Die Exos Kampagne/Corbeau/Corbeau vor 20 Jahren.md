@@ -4,6 +4,7 @@ Lenis Eltern verteidigen ihr Kind
 Die Mutter wird tötlich verwundet
 Der Vater gewinnt und lamentiert auf der Brücke
 
-Arkyron, Barakius entkommen der Spiegeldimension
+Lenis Dad hat das Spiegelfragment gefunden und getoucht und es hat Remaros etwas in die Welt gelassen.
+Nachtelfen sind auch hier unterwegs.
 
 Allie killt Solomons Mutter als Vanis Agent
