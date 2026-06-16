@@ -44,7 +44,7 @@ Rehkrokodil
 Mantis + Kaninchen
 Schnecke + Gepard
 Chamäleon + Stier
-Ein Stahl stier
+Stahl Pferd
 
 Pfau + Mimic
 Labrador Banshee
