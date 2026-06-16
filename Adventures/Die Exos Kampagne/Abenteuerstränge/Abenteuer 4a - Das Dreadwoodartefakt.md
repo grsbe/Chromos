@@ -8,15 +8,11 @@ Die Party muss einen Weg finden um Lambert vor dem Einfluss Miradors zu beschüt
 
 
 ---
-Brotkrumen
+Brotkrumen / Hooks
 Bargespräche über schreckliche Wesen
 Guards meinen immer wieder kommen Kreaturen raus
 
 
-
-
-
----
 1.Side quest
 Captain Ariel führt Erkundung in den Wald um mehr über die Kreaturen heraus zu finden
 führt die Truppe in den Wald hinein und ist super tollpatschig und tritt in jede Falle
@@ -24,6 +20,14 @@ führt die Truppe in den Wald hinein und ist super tollpatschig und tritt in jed
 
 2.Quest
 Kinder werden entführt, systematisch
+-> Cat ist gone? Um ihre Eltern wieder zu finden? (die von den Fischmenschen
+Licht und Mut wollen eine Mut probe machen
+
+Cyrille sucht hilfe bei den hags? )
+
+
+---
+
 
 ---
 Karte, 
@@ -36,6 +40,7 @@ Schau in Abenteuern nach
 verwunschener Weg mit schrecklichen Kreaturen
 Weg hinein ist nicht weg hinaus
 
+Labyrithartig
 
 
 ---
