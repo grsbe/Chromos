@@ -53,3 +53,17 @@ Ein verwunschenes Haus mit zwei wuselnden grannies
 Eine Lichtung die nicht aufhört also eine pocket dimension monster
 
 Eine endlose mansion
+
+
+
+
+---
+
+Main Encounters
+
+
+Ein Haus mit dem Mädchen das sich alles Wünschen konnte über eine Scherbe von Remaros vor 250 Jahren, das immer mehr untergegangen ist.
+
+Das Haus mit den beiden Hags
+
+Der verwunschene Wald selber
