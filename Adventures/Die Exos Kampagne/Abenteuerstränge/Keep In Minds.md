@@ -14,5 +14,16 @@ gib npcs topics zum reden und denk nach was die actually machen wollen, cheeky o
 
 
 
+# Grundsätzliche Ideen Geheimnisse
 
-Mach Mirador zum Bösewicht hinter allem
+Mach Mirador zum Bösewicht hinter allem der volle Drahtzieher
+Er will: Die Macht von Remaros. Niewieder schwach werden
+
+Vor 20 Jahren aus der Silbermine entkommen durch ein Portal aus der Spiegelwelt heraus
+
+Die Villa war leer und im Zentrum war Oko in einem Sarg und 
+
+Arkyron ist vor 3 Jahren
+
+
+Badehaus: Spiegelwelt der Vergangenheit -> Lass die Vergangenheit die Spieler haunten
