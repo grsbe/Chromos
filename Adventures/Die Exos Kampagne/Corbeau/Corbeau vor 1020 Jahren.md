@@ -62,17 +62,17 @@ Remaros war ein Kind dass auf seine Alfen aufgepasst hat.
 Arkyron war essentiell für das Wohl von Himeriavis. Remaros hat Arkyron vertraut und der Alf hat ihn bei Wünschen beraten.
 Kind-Remaros versteht die Intention hinter wünschen aber versteht nicht unbedingt emotionen.
 
-Barakius war ein Drachenalf der von Lazarus um sein Leben geflüchtet ist.
+Mirador war ein Elf der von Lazarus um sein Leben geflüchtet ist.
 Er hatte keine Wahl, man muss kämpfe gewinnen oder sterben und seine Deadline lief aus.
 Er floh zu Remaros und wünschte sich unermessliche Macht, die Macht Lazarus selbst aufzuhalten.
 
 Remaros war im Zwiegespalt. Er will sich nicht einmischen aber er kann auch keine Wünsche abschlagen. Arkyron rät ihm Barakius erst mal zu verstecken. Aber Barakius trägt unendlichen Hass auf das System von Lazarus. Seine Freunde und Geliebte sterben er kann nicht hier bleiben.
 
-Remaros geht gegen den Rat von Arkyron und reist mit Barakius zu Lazaros. Ohne den Alfen bei sich Bescheid zu sagen.
+Remaros geht gegen den Rat von Arkyron und reist mit Mirador zu Lazaros. Ohne den Alfen bei sich Bescheid zu sagen.
 
 Remaros stellt sich Lazaros und sehr schnell entbrennt ein fürchterlicher emotionaler, mentaler und physischer Kampf. Lazaros taunted Remaros mit unmöglichen Wünschen seiner Alfen die alle nur Leben wollen und bricht ihn langsam während Remaros versucht alle zu retten.
 
-Lazaros beginnt damit Remaros zu absorbieren und Remaros wehrt sich verbissen. Arkyron und seine elite Elfen schaffen es eventually einzubrechen und mit Remaros und Barakius aus Lazaros Domain zu entkommen.
+Lazaros beginnt damit Remaros zu absorbieren und Remaros wehrt sich verbissen. Arkyron und seine elite Elfen schaffen es eventually einzubrechen und mit Remaros und Mirador aus Lazaros Domain zu entkommen.
 
 Doch Remaros war auf immer verändert und unkomplett. Er sah immer noch wie ein Kind aus aber sein Gesicht war gealtert und er hatte jetzt eigene Wünsche. Er will von nun an seine Alfen stark machen und beneidet alles und jeden.
 
@@ -81,12 +81,12 @@ Remaros benutzt seine Realitäts verändernde Magie um sich selber und seine Alf
 Die Alfen fallen in Depression. Es gibt die, die sich gegen Remaros stellen und die, die ihm treu bleiben.
 Eine Gruppe an Dunkenalfen sammelt sich in allen Ecken der Welt die sich gegen die Götter stellen wollen und selber über die Welt herrschen wollen. Die Nachtschatten.
 
-Ein Vertreter dieser Organisation taucht auch in Himeravis auf und unterstützt und überzeugt Arkyron und seine Getreuen nach einer Waffe zu forschen die Remaros und andere Götter aufhalten kann.
+Ein Vertreter dieser Organisation Zarkann taucht auch in Himeravis auf und unterstützt und überzeugt Arkyron und seine Getreuen nach einer Waffe zu forschen die Remaros und andere Götter aufhalten kann.
 
 Diese Waffe besteht ultimativ aus einem magischen Bogen in den eine Fee sich einbauen hat lassen und einem Pfeil der in der Lage ist Götter zu versiegeln.
 Die Nachtschatten sind sehr interessiert an dem Ergebnis dieser Waffe und sticheln ebenfalls Remaros weiter danach an böse zu werden.
 
-Arkyron ist zwie gespalten. Hochelfen und Barakius stehen treu zu Remaros neuer Gestalt und laden sich voll mit Energie und blitzen und fallen in andere Domains ein um Artefakte zu stehlen.
+Arkyron ist zwie gespalten. Hochelfen und Mirador stehen treu zu Remaros neuer Gestalt und laden sich voll mit Energie und blitzen und fallen in andere Domains ein um Artefakte zu stehlen.
 
 Es kommt schlussendlich dazu dass Remaros vom Verrat seiner Alfen und Arkyron erfährt und zurückkehrt um Himeriavis auszulöschen.
 
@@ -133,7 +133,7 @@ Wie Laternen die durch die Luft fliegen#
 Irgendwann wir die Party gecrashed von einem Barakius der halbtot mit seiner toten frau auftaucht
 
 
-### Diskussion über Barakius
+### Diskussion über Mirador
 Arkyron führt eine Disskussionsrunde
 
 

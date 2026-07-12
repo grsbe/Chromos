@@ -1,3 +1,3 @@
 
-Cyrille hat so viel Magie reingepumt dass Remaros ein Portal offen halten konnte,
-genug um Arkyron und Barakius durch zu lassen.
+Cyrille hat so viel Magie reingepumpt dass Remaros ein Portal offen halten konnte,
+genug um Arkyron durch zu lassen.
