@@ -1,3 +1,12 @@
+#### Alena.
+Schmugglerin. Händlerin. Cocky, flirty. Macht sich gern lustig. Hat eine gute Seele.
+Wurde als Kind vergiftet von den Haggrannies. Sie hat dann extrem geschwächelt. Dann haben ihre Eltern sie zu den Hags gebracht. Die Hags haben sie geheilt aber einen Preis von den Eltern verlangt. Alena war geheilt aber ihre Eltern wurden recht schnell sehr krank bis sie verstorben sind. Am selben tag.
+Alena ist von einer Oma Maria großgezogen worden die ihre Familie im Sturm vor 20 Jahren umgekommen ist.
+Alena hält sich mit Schmugglerei und Konnections über wasser und beschützt die Kinder des Dorfes im Geheimen und lässt sie auch aufgaben machen.
+- Alena: Rendezvous (am nächsten Tag) Sie will flirten, sie will aber vorallem dass die Truppe nach zwei Kindern (Sofie und Timotee) ausschau halten die seit 3 Tagen verschwunden sind. (Mutprobe um am Wasserfall zu springen abends, dann ein glitzern im Wald und in den Wald rein.
+
+
+
 
 ---
 Stadtmitte
