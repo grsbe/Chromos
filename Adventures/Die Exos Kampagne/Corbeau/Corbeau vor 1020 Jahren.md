@@ -18,7 +18,7 @@ Gonga Scherze
 AraNariel Tiere 
 SinaRanis Metallkunst
 Hime kleidung
-Athel wissen aller Art
+
 Gromash kartografierte Sandkörner
 
 Zakra'arkann untersuchte den Tod aber war ein Nachtelf der den Niedergang der Götter wünschte
