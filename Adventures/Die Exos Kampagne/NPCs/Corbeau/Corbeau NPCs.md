@@ -5,7 +5,25 @@ Alena ist von einer Oma Maria großgezogen worden die ihre Familie im Sturm vor 
 Alena hält sich mit Schmugglerei und Konnections über wasser und beschützt die Kinder des Dorfes im Geheimen und lässt sie auch aufgaben machen.
 - Alena: Rendezvous (am nächsten Tag) Sie will flirten, sie will aber vorallem dass die Truppe nach zwei Kindern (Sofie und Timotee) ausschau halten die seit 3 Tagen verschwunden sind. (Mutprobe um am Wasserfall zu springen abends, dann ein glitzern im Wald und in den Wald rein.
 
+#### Viola
 
+
+#### Cat
+
+
+
+#### Grimosh Schmied
+
+Alice Peck Anitiquaritäten
+
+Silas Brüder Kleidung
+
+Schogart, Ursa, Mut und Licht
+
+#### Jeremiah Farmer
+Weiser dad Ork
+
+#### Keledek der sturmgraue, magier im Dorf
 
 
 ---

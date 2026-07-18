@@ -5,7 +5,7 @@
 
 
 Prinz Elliander
-Prinzessin Cyrille
+
 
 Minenzwergchefin - Manistrad Kupferlocke
 

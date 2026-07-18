@@ -11,6 +11,6 @@ Wird von den Elfen normal nicht gern gesehen
 
 Irgendwas mit dem Erbe der Elfen, Ursprung der Elfen
 
-Freddies Dad hat damals mit gekämpft
+Freddies Dad hat damals mit gekämpft und ist ein Nachtelf
 
 Elfen heißt Harmonie
