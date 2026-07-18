@@ -11,3 +11,4 @@ Erolith: Der Ort wo er seinen Gott nach einem Streit mit seinem Dad kennengelern
 Keren: Das Dorf in dem seine Familie umgebracht wird
 Nymeria: Ihr dad
 Altrick: Die Szene mit dem Pfeil
+Oko: Spricht mit Oko und Zarkann
