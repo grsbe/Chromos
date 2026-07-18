@@ -6,7 +6,7 @@ Alena hält sich mit Schmugglerei und Konnections über wasser und beschützt di
 - Alena: Rendezvous (am nächsten Tag) Sie will flirten, sie will aber vorallem dass die Truppe nach zwei Kindern (Sofie und Timotee) ausschau halten die seit 3 Tagen verschwunden sind. (Mutprobe um am Wasserfall zu springen abends, dann ein glitzern im Wald und in den Wald rein.
 
 #### Viola
-
+Betet auch 
 
 #### Cat
 
@@ -18,20 +18,22 @@ Alice Peck Anitiquaritäten
 
 Silas Brüder Kleidung
 
-Schogart, Ursa, Mut und Licht
+#### Schogart, Ursa, Mut und Licht
+Mut und Licht tiefling kinder
+Gute Seele, wollen nur das beste, machen witze, die Kinder sind up to no good
 
 #### Jeremiah Farmer
 Weiser dad Ork
 
 #### Keledek der sturmgraue, magier im Dorf
-
+Pet Fee name Shaba
+Hat geheimversteck zu diesem einem Turm über den er schmuggelt
 
 ---
 Stadtmitte
 
 Tailor Näher
-Schogart und Ursa: Mut und Licht tiefling kinder
-Gute Seele, wollen nur das beste, machen witze, die Kinder sind up to no good
+Schogart und Ursa: 
 
 Anderer Tailor: 5 oberkörperfreie Silas Brüder
 
@@ -55,8 +57,7 @@ Oberstadt
 
 Dorfmagier Keledek der sturmgraue
 Hat Bibliothek die er Vertraute reinlässt
-Pet Fee name Shaba
-Hat geheimversteck zu diesem einem Turm über den er schmuggelt
+
 
 Manistrad Minenbehörde
 
