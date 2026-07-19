@@ -13,48 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Lazaros selbst.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lazaros selbst"
-            }
-          },
-          {
-            "id": "6e51d1ebfcc426c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Die Exos Kampagne/NPCs/Corbeau/Corbeau NPCs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Corbeau NPCs"
-            }
-          },
-          {
-            "id": "8f6df49cccb6dd63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abenteuer 2 - Das Gezeitengedenkfest"
-            }
-          },
-          {
-            "id": "658845c22011fe18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
                 "mode": "source",
                 "source": false
@@ -62,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Abenteuer 2b - Das Wunschfest"
             }
-          },
-          {
-            "id": "93b1d41f93b461c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Corbeau vor 1020 Jahren"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 522.5
   },
   "right": {
     "id": "5974fc7ffe9d18dc",
@@ -220,45 +163,43 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "webpage-html-export:Export as HTML": false
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "658845c22011fe18",
+  "active": "8afdd969a513bc65",
   "lastOpenFiles": [
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer XX - Badehaus.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwoodartefakt.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Corbeau NPCs.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Gezeitenrufer.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2.5 - Notes.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren/Feen.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren/Alfen.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Terrorwald NPCs.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren",
-    "Adventures/Die Exos Kampagne/Corbeau/Corbeau.md",
-    "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch Monk - Leni.md",
-    "Yllmagnalia/Phantheon/Das alte Pantheon.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Keep In Minds.md",
-    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1020 Jahren.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Vanir Assassinin Tiefling Allie Schicksal.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Mirador.md",
-    "Adventures/Die Exos Kampagne/NPCs/Havis/König Skotti von Keoland.md",
-    "Adventures/Die Exos Kampagne/NPCs/Havis/Prinz Elliander.md",
-    "Adventures/Die Exos Kampagne/NPCs/Havis/Prinzessin Cyrille.md",
-    "Adventures/Die Exos Kampagne/PCs/Erolith Highelf Cleric Trickster- Freddy.md",
-    "Adventures/Die Exos Kampagne/PCs/Oko Reborn - Lambert.md",
-    "Adventures/Die Exos Kampagne/Corbeau/Zeitstrang.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Lazaros selbst.md",
-    "Adventures/Ideas Mythandras.md",
-    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Terrorwald NPCs.md",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Corbeau NPCs.md",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren/Alfen.md",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren/Feen.md",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
+    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 20 Jahren.md",
+    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1 Jahr.md",
+    "Adventures/Die Exos Kampagne/Corbeau/Corbeau Umgebung.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwoodartefakt.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2.5 - Notes.md",
+    "Yllmagnalia/Phantheon/Das alte Pantheon.md",
+    "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Vanis Assassinin Tiefling Allie Schicksal.md",
+    "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Stratege Aquaelf Arkyron.md",
+    "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Dragonborn Brute Barackius.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros",
     "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.svg",
+    "Adventures/Die Exos Kampagne/Corbeau/Zeitstrang.md",
+    "Adventures/Die Exos Kampagne/Corbeau/Havis.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer XX10 - Aufbruch nach Havis.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer XX - Sturminsel.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1.5 zum Gezeitengedenkfestg.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
     "Adventures/Die Exos Kampagne/Flufftext",
     "Adventures/Die Exos Kampagne/Encounter",
     "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros",
@@ -273,6 +214,7 @@
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Mythandras/Mythandras.excalidraw.svg",
+    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics/Pasted image 20240804010822.png",
     "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
     "Untitled.canvas"
