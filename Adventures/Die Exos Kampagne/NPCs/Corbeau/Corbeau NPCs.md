@@ -73,7 +73,7 @@ Unterstadt
 Pub: Leerer Fang
 
 
-Alchemist / Heiler: Ogrin Silberblatt (Eisenberg), shady typ will 
+Alchemist / Heiler: Ogrin Silberblatt (Eisenberg), zwerg shady typ will 
 
 
 Alena Flutkuss: Schmuggler findet alles
