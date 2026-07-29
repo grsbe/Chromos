@@ -25,3 +25,5 @@ Geister encounter:
 1 Banshee https://5e.tools/bestiary.html#banshee_xmm,scaled:5
 5 Weeping angels
 
+Banditen encounter:
+https://5e.tools/bestiary.html#bandit%20captain_xmm
