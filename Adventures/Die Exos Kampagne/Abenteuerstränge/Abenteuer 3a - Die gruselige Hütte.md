@@ -33,8 +33,10 @@ Ein Lockvogel (Nolan) liegt gefesselt im 1.stock
 
 
 Geister encounter:
-1 Banshee https://5e.tools/bestiary.html#banshee_xmm,scaled:5
-5 Weeping angels
+1 Banshee https://5e.tools/bestiary.html#banshee_xmm,scaled:5 aber mit ghost ability
+4 Weeping angels
+die weeping angels readien ihren attack bis niemand sie ansieht
+
 
 Banditen encounter:
 1 https://5e.tools/bestiary.html#bandit%20captain_xmm
