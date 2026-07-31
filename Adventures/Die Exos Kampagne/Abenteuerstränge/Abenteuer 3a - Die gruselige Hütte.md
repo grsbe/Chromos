@@ -1,4 +1,9 @@
 
+Zwergen Namen
+**Klassisch:** Balin, Dwalin, Thorin, Gimli, Bofur, Bombur, Durin  
+**Männlich:** Brumli, Fargan, Grimbart, Kupferbart, Steinhelm, Torgrim  
+**Weiblich:** Brynja, Eira, Freyda, Hilda, Runa, Thora, Ylva  
+**Lustig:** Knubbel, Brummel, Fusselbart, Glitzerhacke, Krümel, Mumpitz
 
 Eliander:
 Wir haben Utolotl Banditen in der Nähe des heimgesuchten Hauses im Norden an der Küste gesehen.
@@ -20,6 +25,7 @@ Die Banditen verstecken sich im Keller hinter der geheimen wand
 Die Banditen schmuggeln waffen an othokent die Reptilienvolkskönigin kaufen möchte
 Die Banditen haben ein Schiff namens Meeresgeist, dass anlegt um Waren aufzuladen / abzuladen
 Ein Lockvogel (Nolan) liegt gefesselt im 1.stock
+Die Banditen kochen immer wieder erdbeer kuchen um sich zu schützen
 
 - Die Tochter Annabelle wächst als Kind wohlhabender Küstenhändler auf.
 - Sie besitzt starke, unkontrollierbare Zerstörungsmagie.
@@ -28,16 +34,16 @@ Ein Lockvogel (Nolan) liegt gefesselt im 1.stock
 - Seine neue Frau Elizabet fürchtet das Mädchen und leidet darunter, dass ihr Mann in der Vergangenheit gefangen bleibt.
 - Sie verschließt sich der Tochter gegenüber und behandelt sie zunehmend grausam.
 - Das Mädchen wird bis zu ihrem siebzehnten Lebensjahr in einem Zimmer eingesperrt.
-- Zu ihrem siebzehnten Geburtstag erhält sie nur eine einzelne Kerze.
-- Die Stiefmutter engagiert heimlich Banditen, um die Tochter und den Vater zu töten, damit die Stiefmutter sein Vermögen erhält.
-- Die Banditen bedrohen den Vater und die Stiefmutter befehlt seinen Tod.
-- Das Mädchen bricht aus, als die Banditen ihn angreifen, entfesselt sie ihre Magie.
-- Der Ausbruch tötet die Banditen, die Stiefmutter, die Bediensteten und ihren Vater der sie verwirrt anschaut.
-- Sie wird erneut zur Mörderin ihrer eigenen Familie, obwohl sie diesmal nur jemanden beschützen wollte.
-- Sie kann ihren Zauber nicht kontrollieren und wird langsam zur Banshee und töten alles lebende
+- Stiefmutter und Demiere kriegen ein Baby
+- Zu ihrem siebzehnten Geburtstag vor 20 Jahren 
+- Die Stiefmutter macht Erdbeerkuchen
+- Die Familie versucht zaghaft zu feiern und wieder glücklich zu sein.
+- Die Welle überkommt die Welt und Soldaten von Havis brechen ein und durchsuchen das Haus
+- Ein Soldat schlägt den Vater als er sich wehrt
+- Sie kann ihren Zauber nicht kontrollieren und wird langsam zur Banshee und töte alles lebende im Haus, diener baby und angreifer
 
 
-
+Ned: Spy https://5e.tools/bestiary.html#spy_mm
 Geister encounter:
 1 Banshee https://5e.tools/bestiary.html#banshee_xmm,scaled:5 aber mit ghost ability
 4 Weeping angels 
