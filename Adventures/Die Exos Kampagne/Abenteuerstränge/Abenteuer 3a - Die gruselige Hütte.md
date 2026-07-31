@@ -42,6 +42,29 @@ Die Banditen kochen immer wieder erdbeer kuchen um sich zu schützen
 - Ein Soldat schlägt den Vater als er sich wehrt
 - Sie kann ihren Zauber nicht kontrollieren und wird langsam zur Banshee und töte alles lebende im Haus, diener baby und angreifer
 
+Annabelles Zimmer:
+Schloss an der Tür
+Der Raum ist unberührt.
+**Ein kalter Luftzug**, der nur in ihrem Zimmer spürbar ist.
+Verkrustete Blut spur an der TÜr
+**Strichlisten an der Wand**, mit denen sie Tage oder Jahre gezählt hat.
+**Ein kleiner Spiegel mit Sprung**, in dem sie sich kaum noch ansah.
+**Verbrannte Stellen an Möbeln**, klein und alt — Spuren früherer Ausbrüche.
+**Ein Gebets- oder Tagebuch**, in dem sie immer wieder um Vergebung bittet.
+Regal:
+**Ein kleines Holzpferd oder Segelschiff**, passend zur Händlerfamilie.**Ein Kinderbuch mit Märchen**, an manchen Stellen mit Tintenklecksen oder angekohlten Seiten.**Ein altes Familienporträt**, auf dem Mutter Helene noch lebt. **Muscheln, Seeglas und kleine Küstenfundstücke**, die ihr Vater ihr brachte.- 
+**Viele ungeöffnete oder nur halb geöffnete Geschenke**, fein verpackt, aus verschiedenen Jahren.
+- **Kleider in verschiedenen Größen**, sorgfältig aufbewahrt, obwohl sie sie nie draußen tragen durfte.
+- **Ein teurer Schmuckkasten**, innen fast leer, weil ihr Geschenke gegeben wurden, aber keine Freiheit.
+- **Ein Kaufmanns-Kompass**, vielleicht mit eingraviertem: _„Für meine Annabelle.“_
+- **Ein Stapel Bücher**, jedes mit einer kurzen Widmung des Vaters.
+Bett:
+**Eine alte Stoffpuppe** mit geflicktem Arm, sehr abgenutzt vom vielen Festhalten.
+
+Tisch:
+**Eine einzige Kerze**,  geisterhaft immer wieder aufflackernd.
+Ein Notizheft mit Schuldsätzen und Kontrollübungen
+kleines selbstgemachtes Geschenk fürs Baby für Emi, selbst gestrickte puppe
 
 Ned: Spy https://5e.tools/bestiary.html#spy_mm
 Seine Story. er ist abenteurer und wollte nach Corbeau, wurde von einem Sturm überrascht und hat Zuflucht gesucht. Er wurde in der Küche von hinten bewusstlos geschlagen.
