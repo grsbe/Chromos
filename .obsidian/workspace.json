@@ -25,14 +25,14 @@
             "id": "7cfd2938b4d95224",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://5e.tools/bestiary.html#scout_xmm",
-                "title": "Scout - 5etools",
-                "mode": "webview"
+                "file": "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch Monk - Leni.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Scout - 5etools"
+              "icon": "lucide-file",
+              "title": "Nymeria Mensch Monk - Leni"
             }
           }
         ]
@@ -55,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Dateiexplorer"
@@ -92,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 366.5
   },
   "right": {
     "id": "5974fc7ffe9d18dc",
@@ -186,13 +188,14 @@
   },
   "active": "8afdd969a513bc65",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch Monk - Leni.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
     "Pics/009-02-01-chapter-2.webp",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Pics/pictest.md",
     "Pics/Pasted image 20240804010822.png",
     "Adventures/Die Exos Kampagne/Flufftext/Untitled.md",
     "Adventures/Die Exos Kampagne/Flufftext/Corbeau.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
     "009-02-01-chapter-2.webp",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
     "Adventures/Die Exos Kampagne/NPCs/Elianos/Drache.md",
@@ -231,7 +234,6 @@
     "Adventures/Die Exos Kampagne/Maps/Elianos.svg",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
-    "Mythandras/Mythandras.excalidraw.svg",
     "Untitled.canvas"
   ]
 }
