@@ -44,6 +44,13 @@ Die Banditen kochen immer wieder erdbeer kuchen um sich zu schützen
 
 
 Ned: Spy https://5e.tools/bestiary.html#spy_mm
+Seine Story. er ist abenteurer und wollte nach Corbeau, wurde von einem Sturm überrascht und hat Zuflucht gesucht. Er wurde in der Küche von hinten bewusstlos geschlagen.
+Er meint es spukt hier und wir sollten so schnell wie möglich raus.
+Seine Kleidung liegt in 17
+(Er ist ein Lockvogel der Banditen. Eine Kerze liegt bei ihm mit einem pentagram drunter.)
+Er hat gift d4 extra poison dmg.
+
+
 Geister encounter:
 1 Banshee https://5e.tools/bestiary.html#banshee_xmm,scaled:5 aber mit ghost ability
 4 Weeping angels 
