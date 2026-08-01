@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
+                "file": "Yllmagnalia/Phantheon/Die neuen Götter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abenteuer 3a - Die gruselige Hütte"
+              "title": "Die neuen Götter"
             }
           },
           {
-            "id": "a4841604504a9017",
+            "id": "7cfd2938b4d95224",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
+                "file": "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch Monk - Leni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Council NPCs"
+              "title": "Nymeria Mensch Monk - Leni"
             }
           }
         ]
@@ -55,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Dateiexplorer"
@@ -92,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 366.5
   },
   "right": {
     "id": "5974fc7ffe9d18dc",
@@ -186,38 +188,40 @@
   },
   "active": "8afdd969a513bc65",
   "lastOpenFiles": [
-    "Pics/009-02-01-chapter-2.webp",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Corbeau NPCs.md",
+    "Yllmagnalia/Phantheon/Das alte Pantheon.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3c - Infiltatrion der Sahuaguin, Bekämpfung der Basis.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwood.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
-    "conflict-files-obsidian-git.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwood.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1.5 zum Gezeitengedenkfestg.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2.5 - Notes.md",
+    "Adventures/Die Exos Kampagne/PCs/Nymeria Mensch Monk - Leni.md",
+    "Pics/009-02-01-chapter-2.webp",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
+    "Pics/pictest.md",
+    "Pics/Pasted image 20240804010822.png",
+    "Adventures/Die Exos Kampagne/Flufftext/Untitled.md",
+    "Adventures/Die Exos Kampagne/Flufftext/Corbeau.md",
+    "009-02-01-chapter-2.webp",
     "Adventures/Die Exos Kampagne/NPCs/Elianos/Drache.md",
     "Adventures/Die Exos Kampagne/NPCs/Elianos",
-    "009-02-01-chapter-2.webp",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1.5 zum Gezeitengedenkfestg.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren/Feen.md",
-    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 20 Jahren.md",
-    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1 Jahr.md",
-    "Adventures/Die Exos Kampagne/Corbeau/Corbeau Umgebung.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren/Alfen.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Keep In Minds.md",
-    "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Vanir Assassinin Tiefling Allie Schicksal.md",
-    "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Mirador.md",
-    "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Lazaros selbst.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Terrorwald NPCs.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwoodartefakt.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2.5 - Notes.md",
-    "Yllmagnalia/Phantheon/Das alte Pantheon.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Vanis Assassinin Tiefling Allie Schicksal.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Stratege Aquaelf Arkyron.md",
+    "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Dragonborn Brute Barackius.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros",
     "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.svg",
+    "Adventures/Die Exos Kampagne/Corbeau/Zeitstrang.md",
+    "Adventures/Die Exos Kampagne/Corbeau/Havis.md",
+    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1 Jahr.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Keep In Minds.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer XX10 - Aufbruch nach Havis.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer XX - Sturminsel.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1 - Reise zu den Elianos Inseln.md",
+    "Adventures/Die Exos Kampagne/Artefakte Overview.md",
+    "conflict-files-obsidian-git.md",
     "Adventures/Die Exos Kampagne/Flufftext",
     "Adventures/Die Exos Kampagne/Encounter",
     "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros",
@@ -230,7 +234,6 @@
     "Adventures/Die Exos Kampagne/Maps/Elianos.svg",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
-    "Mythandras/Mythandras.excalidraw.svg",
     "Untitled.canvas"
   ]
 }
