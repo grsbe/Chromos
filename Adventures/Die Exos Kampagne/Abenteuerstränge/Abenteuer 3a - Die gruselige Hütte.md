@@ -27,6 +27,7 @@ Die Banditen haben ein Schiff namens Meeresgeist, dass anlegt um Waren aufzulade
 Ein Lockvogel (Nolan) liegt gefesselt im 1.stock
 Die Banditen kochen immer wieder erdbeer kuchen um sich zu schützen
 
+Delabret
 - Die Tochter Annabelle wächst als Kind wohlhabender Küstenhändler auf.
 - Sie besitzt starke, unkontrollierbare Zerstörungsmagie.
 - Bei einem magischen Ausbruch tötet sie versehentlich ihre Mutter Helene die ihr Erdbeerkuchen verboten hat
