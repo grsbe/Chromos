@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
+                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abenteuer 2b - Das Wunschfest"
+              "title": "Abenteuer 3a - Die gruselige Hütte"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Council NPCs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +198,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a4841604504a9017",
+  "active": "8afdd969a513bc65",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
     "conflict-files-obsidian-git.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
@@ -217,13 +218,11 @@
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1 Jahr.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau Umgebung.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren/Alfen.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Keep In Minds.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Vanir Assassinin Tiefling Allie Schicksal.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Mirador.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Lazaros selbst.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Terrorwald NPCs.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwoodartefakt.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2.5 - Notes.md",
