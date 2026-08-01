@@ -36,18 +36,7 @@ Cyrille schleicht sich aus der Stradt und versucht ihre magie abseits der Stadt 
 Die Schweine Familie liegt im Solaris Tempel
 
 
-Mirador gelingt die Fusion :
-Bär Motte
-Falke Maulwurf
-Wolfschaf
-Rehkrokodil
-Mantis + Kaninchen
-Schnecke + Gepard
-Chamäleon + Stier
-Stahl Pferd
 
-Pfau + Mimic
-Labrador Banshee
 
 ---
 Infos die in der Session Leute wissen:

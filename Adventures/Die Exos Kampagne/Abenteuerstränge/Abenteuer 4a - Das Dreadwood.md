@@ -20,7 +20,7 @@ führt die Truppe in den Wald hinein und ist super tollpatschig und tritt in jed
 
 2.Quest
 Kinder werden entführt, systematisch
--> Cat ist gone? Um ihre Eltern wieder zu finden? (die von den Fischmenschen
+-> Cat ist gone? Um ihre Eltern wieder zu finden? (die von den Fischmenschen gekillt wurde)
 Licht und Mut wollen eine Mut probe machen
 
 Cyrille sucht hilfe bei den hags? )
@@ -68,14 +68,27 @@ Ein toter Geist der seine Freundin im Wald verloren aht und sie auf ewig sucht (
 
 Ein Haus mit dem Mädchen das sich alles Wünschen konnte über eine Scherbe von Remaros vor 250 Jahren, das immer mehr untergegangen ist.
 
-Das Haus mit den beiden Hags
+Das Haus mit den beiden Hags Isabelle Anetta
 
-
-
-
-
-Der verwunschene Wald selber
+Der verwunschene Wald selber (Bewegende Bäume)
 
 
 
 Im Zentrum die Mansion mit Mirador der eine Armee erschafft mit riesiger Anzahl an Käfigen
+
+
+
+
+Miradors verknüpfungen
+
+Bär Motte
+Falke Maulwurf
+Wolfschaf
+Rehkrokodil
+Mantis + Kaninchen
+Schnecke + Gepard
+Chamäleon + Stier
+Stahl Pferd
+
+Pfau + Mimic
+Labrador Banshee

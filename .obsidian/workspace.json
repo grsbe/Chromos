@@ -39,16 +39,32 @@
             "id": "a4841604504a9017",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png"
+                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea"
+              "icon": "lucide-file",
+              "title": "Abenteuer 3a - Die gruselige Hütte"
+            }
+          },
+          {
+            "id": "3cbdfbd1641c1f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,9 +213,18 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8c96e1ae972210f5",
+  "active": "3cbdfbd1641c1f31",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
+    "conflict-files-obsidian-git.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
+    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Corbeau NPCs.md",
+    "Pics/009-02-01-chapter-2.webp",
+    "Adventures/Die Exos Kampagne/NPCs/Elianos/Drache.md",
+    "Adventures/Die Exos Kampagne/NPCs/Elianos",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwood.md",
+    "009-02-01-chapter-2.webp",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1.5 zum Gezeitengedenkfestg.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren/Feen.md",
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 20 Jahren.md",
@@ -207,14 +232,12 @@
     "Adventures/Die Exos Kampagne/Corbeau/Corbeau Umgebung.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren/Alfen.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
-    "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Keep In Minds.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Vanir Assassinin Tiefling Allie Schicksal.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Mirador.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Lazaros selbst.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Terrorwald NPCs.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Corbeau NPCs.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwoodartefakt.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2.5 - Notes.md",
@@ -225,9 +248,6 @@
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros",
     "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.svg",
     "Adventures/Die Exos Kampagne/Corbeau/Zeitstrang.md",
-    "Adventures/Die Exos Kampagne/Corbeau/Havis.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer XX10 - Aufbruch nach Havis.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer XX - Sturminsel.md",
     "Adventures/Die Exos Kampagne/Flufftext",
     "Adventures/Die Exos Kampagne/Encounter",
     "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros",
@@ -235,15 +255,12 @@
     "Yllmagnalia/Exos/Va'Nis",
     "Yllmagnalia/Exos/Sidaris",
     "Yllmagnalia/Exos/Sosoni",
-    "Yllmagnalia/Exos/Polaris",
     "Yllmagnalia/Exos/Exoskarte.excalidraw.svg",
     "Yllmagnalia/Magnialia.excalidraw.svg",
     "Adventures/Die Exos Kampagne/Maps/Elianos.svg",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Mythandras/Mythandras.excalidraw.svg",
-    "Pics/Pasted image 20240804010822.png",
-    "Adventures/Enemy Statblocks/DisplacerKitten.jpg",
     "Untitled.canvas"
   ]
 }
