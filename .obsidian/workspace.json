@@ -11,14 +11,12 @@
             "id": "8afdd969a513bc65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Keep In Minds.md",
-                "mode": "source",
-                "source": false
+                "file": "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.svg"
               },
-              "icon": "lucide-file",
-              "title": "Keep In Minds"
+              "icon": "lucide-image",
+              "title": "Drawing 2026-01-13 13.24.15.excalidraw"
             }
           },
           {
@@ -188,9 +186,13 @@
   },
   "active": "8afdd969a513bc65",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.md",
+    "Adventures/Die Exos Kampagne/Maps/Elianos.svg",
+    "Adventures/Die Exos Kampagne/Maps/Elianos.md",
+    "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.svg",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Keep In Minds.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwood.md",
     "Yllmagnalia/Phantheon/Das alte Pantheon.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Keep In Minds.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Campaign.md",
     "Yllmagnalia/Phantheon/Götter in Exos.md",
     "Yllmagnalia/Phantheon/Die neuen Götter.md",
@@ -217,11 +219,7 @@
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Stratege Aquaelf Arkyron.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Dragonborn Brute Barackius.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros",
-    "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.svg",
     "Adventures/Die Exos Kampagne/Corbeau/Zeitstrang.md",
-    "Adventures/Die Exos Kampagne/Corbeau/Havis.md",
-    "Adventures/Die Exos Kampagne/Corbeau/Corbeau vor 1 Jahr.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer XX10 - Aufbruch nach Havis.md",
     "Adventures/Die Exos Kampagne/Flufftext",
     "Adventures/Die Exos Kampagne/Encounter",
     "Adventures/Die Exos Kampagne/NPCs/Vanis or Remaros",
@@ -231,7 +229,6 @@
     "Yllmagnalia/Exos/Sosoni",
     "Yllmagnalia/Exos/Exoskarte.excalidraw.svg",
     "Yllmagnalia/Magnialia.excalidraw.svg",
-    "Adventures/Die Exos Kampagne/Maps/Elianos.svg",
     "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
     "Mythandras/Exos/Exoskarte.excalidraw.svg",
     "Untitled.canvas"

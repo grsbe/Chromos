@@ -21,7 +21,7 @@ Eisenberg probiert das serum zu analysieren.
 # Plan
 
 People doing stuff:
-Arkyron
+Arkyron kennt cyrillia, sucht die shards
 Allie brief an 
 Mirador
 Geldar, Eda
@@ -30,9 +30,12 @@ Elliander und co
 
 Erkunde das Dreadwood
 Cyrilles Ball, Allie Kill
+Fischmensch attack
+Dreadwood attack
 
-
-Finde die restlichen shards: Mirador, Badehaus, 
+Finde die restlichen shards: 
+Badehaus, LizardPrinzessin-> Fischgott
+Mirador, Allie Arkyron
 
 Szenen:
 Königsbruder nördlich
