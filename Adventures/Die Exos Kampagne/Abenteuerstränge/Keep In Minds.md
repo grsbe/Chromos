@@ -22,7 +22,7 @@ Eisenberg probiert das serum zu analysieren.
 
 People doing stuff:
 Arkyron
-Allie
+Allie brief an 
 Mirador
 Geldar, Eda
 Elliander und co
@@ -50,4 +50,6 @@ Die Villa war leer und im Zentrum war Oko in einem Sarg und
 Arkyron ist vor 3 Jahren
 
 
+# Encouter ideen
 
+jemand ist unsichtbar
