@@ -15,7 +15,27 @@ interessante szenarien
 actions in scenes, gib
 gib npcs topics zum reden und denk nach was die actually machen wollen, cheeky oder eigen sein
 
+Eisenberg probiert das serum zu analysieren.
 
+
+# Plan
+
+People doing stuff:
+Arkyron
+Allie
+Mirador
+Geldar, Eda
+Elliander und co
+
+
+Erkunde das Dreadwood
+Cyrilles Ball, Allie Kill
+
+
+Finde die restlichen shards: Mirador, Badehaus, 
+
+Szenen:
+Königsbruder nördlich
 
 
 # Grundsätzliche Ideen Geheimnisse
