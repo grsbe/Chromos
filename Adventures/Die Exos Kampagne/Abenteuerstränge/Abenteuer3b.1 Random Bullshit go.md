@@ -27,6 +27,13 @@ Raben über einem sumpfloch die schreie von abenteurern wieder holen
 die beiden hags
  GABU
 Ein grab mit mehr info 
+Goblin child
+
+
+Völker im Terror wald:
+Goblins, die sind voll scared vor dem Wald
+Corrupted Feen
+
 
 Wald halb in der Geisterwelt?
 
