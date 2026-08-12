@@ -25,7 +25,8 @@ Der Wald wieder holt sich zwischen verschiedenen Lichtungen bis man die richtige
 ein gestalten wandler der so tut als ob er in eine Falle ist
 Raben über einem sumpfloch die schreie von abenteurern wieder holen
 die beiden hags
- 
+ GABU
+Ein grab mit mehr info 
 
 Wald halb in der Geisterwelt?
 
