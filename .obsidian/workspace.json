@@ -11,12 +11,28 @@
             "id": "8afdd969a513bc65",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.svg"
+                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Drawing 2026-01-13 13.24.15.excalidraw"
+              "icon": "lucide-file",
+              "title": "Abenteuer 3a - Die gruselige Hütte"
+            }
+          },
+          {
+            "id": "324b470f4a78ef79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer3b.1 Random Bullshit go.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abenteuer3b.1 Random Bullshit go"
             }
           },
           {
@@ -33,7 +49,8 @@
               "title": "Nymeria Mensch Monk - Leni"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,12 +201,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8afdd969a513bc65",
+  "active": "324b470f4a78ef79",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer3b.1 Random Bullshit go.md",
+    "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.svg",
     "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.md",
     "Adventures/Die Exos Kampagne/Maps/Elianos.svg",
     "Adventures/Die Exos Kampagne/Maps/Elianos.md",
-    "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.svg",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Keep In Minds.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwood.md",
     "Yllmagnalia/Phantheon/Das alte Pantheon.md",
@@ -197,7 +216,6 @@
     "Yllmagnalia/Phantheon/Götter in Exos.md",
     "Yllmagnalia/Phantheon/Die neuen Götter.md",
     "Adventures/Die Exos Kampagne/PCs/Erolith Highelf Cleric Trickster- Freddy.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 1.5 zum Gezeitengedenkfestg.md",
