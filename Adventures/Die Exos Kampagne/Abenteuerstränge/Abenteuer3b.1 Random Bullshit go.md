@@ -33,7 +33,9 @@ Goblin child
 Völker im Terror wald:
 Goblins, die sind voll scared vor dem Wald
 Corrupted Feen
+Kiste im Sumpf
 
+Mimic bank
 
 Wald halb in der Geisterwelt?
 
