@@ -257,7 +257,7 @@ Fineas der Katzenmensch
 Aya (die Prinzessin)
 Eleanor
 Viola die Archeologische Elfe (hat ein Tatoo von Lethariel)
-Elaren der Elf (Arkyron)
+Riya der Elf (Arkyron)
 Tieflingkind Stolz im auftrag von Keoland und Tiamat
 Einer der Silasbrüder (Just here to have fun)
 Cat (Katzenmädchen, Gezeitenruferin)

@@ -32,7 +32,7 @@ die beiden hags
  GABU
 Ein grab mit mehr info 
 Goblin child
-
+Ewige Lichtung
 
 Völker im Terror wald:
 Goblins, die sind voll scared vor dem Wald
