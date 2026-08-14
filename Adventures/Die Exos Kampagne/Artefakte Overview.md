@@ -36,7 +36,7 @@ Er hat zarkanns wunsch nach macht und unsterblichkeit mit einem dorfjungen kombi
 ~~Eins hat der Stratege Arkyron bereits (gewährt den wunsch der teleportation über spiegel)~~
 
 5
-Die Entführte Echsen Prinzessin trug eins, das jetzt der Brute Aqua Elf hat
+Die Entführte Echsen Prinzessin trug eins, das jetzt der Sahuagin halbgott hat
 Erlaubt, dass leute einen als mit viel Aura und Charisma wahrnehmen
 (wunsch groß zu erscheinen aber lässt einem im spiegel hässlich erscheinen)
 
