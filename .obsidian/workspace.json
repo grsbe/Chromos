@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8afdd969a513bc65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abenteuer 3a - Die gruselige Hütte"
-            }
-          },
-          {
             "id": "324b470f4a78ef79",
             "type": "leaf",
             "state": {
@@ -77,8 +63,7 @@
               "title": "Nymeria Mensch Monk - Leni"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,8 +214,9 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "2a23787f2fac3529",
+  "active": "324b470f4a78ef79",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Artefakte Overview.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Prep Session.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer3b.1 Random Bullshit go.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
@@ -264,7 +250,6 @@
     "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Vanis Assassinin Tiefling Allie Schicksal.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Stratege Aquaelf Arkyron.md",
-    "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Dragonborn Brute Barackius.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros",
     "Adventures/Die Exos Kampagne/Flufftext",
     "Adventures/Die Exos Kampagne/Encounter",
