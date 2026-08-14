@@ -34,6 +34,8 @@ Ein grab mit mehr info
 Goblin child
 Ewige Lichtung
 
+https://www.dndspeak.com/2018/11/03/100-scary-forest-encounters/
+
 Völker im Terror wald:
 Goblins, die sind voll scared vor dem Wald
 Corrupted Feen
