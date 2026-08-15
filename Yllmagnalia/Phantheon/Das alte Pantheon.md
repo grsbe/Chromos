@@ -64,14 +64,14 @@ Exos steht als Gott für Stolz, Macht, Kraft, Kampf, Wut und Angst.
 
 Folgende Alfen repräsentieren Exos auf der Welt:
 
-| Aspekt     | Name    | Element | Religion | Domain |
-| ---------- | ------- | ------- | -------- | ------ |
-| Stolz/     | Lazaros |         | 7        |        |
-| Jagd       | Rexos   |         |          |        |
-| Kampf/Ehre | Ilanus  |         |          |        |
-| Angst      | Rasmos  |         |          |        |
-| Wut/Rache  | Tiamat  |         | 7        |        |
-| Neid/Sturm | Remaros |         | 7        |        |
+| Aspekt     | Name    | Element | Religion           | Domain |
+| ---------- | ------- | ------- | ------------------ | ------ |
+| Stolz/     | Lazaros |         | 7                  |        |
+| Jagd       | Rexos   |         |                    |        |
+| Kampf/Ehre | Ilanus  |         |                    |        |
+| Angst      | Rasmos  |         |                    |        |
+| Wut/Rache  | Tiamat  |         | 7 teil von lazaros |        |
+| Neid/Sturm | Remaros |         | 7                  |        |
 
 ## Liebe
 

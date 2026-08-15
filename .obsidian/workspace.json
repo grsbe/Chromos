@@ -54,11 +54,25 @@
               "type": "webviewer",
               "state": {
                 "url": "https://5e.tools/bestiary.html#hobgoblin_mm",
-                "title": "Hobgoblin - 5etools",
+                "title": "Bestiary - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Hobgoblin - 5etools"
+              "title": "Bestiary - 5etools"
+            }
+          },
+          {
+            "id": "9a54585d4f4fb825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           },
           {
@@ -90,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,8 +255,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "74a3f98ad550f294",
+  "active": "9a54585d4f4fb825",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Pics/cb7c8615-f866-45a8-b007-883339deee5e.png",
+    "Pics/aaaa0fa4-5773-4b9c-bd28-2ea872201dd5.png",
+    "Pics/69db5409-413a-421a-927b-aabfc76e3854.png",
+    "Adventures/Enemy Statblocks/Mothbear.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3b.1 Random Bullshit go.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
     "Pics/009-02-01-chapter-2.webp",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
@@ -250,7 +270,6 @@
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3c - Infiltatrion der Sahuaguin, Bekämpfung der Basis.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwood.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
-    "conflict-files-obsidian-git.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
     "Adventures/Die Exos Kampagne/NPCs/Elianos/Drache.md",
@@ -271,8 +290,6 @@
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwoodartefakt.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2.5 - Notes.md",
     "Yllmagnalia/Phantheon/Das alte Pantheon.md",
-    "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Vanis Assassinin Tiefling Allie Schicksal.md",
-    "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros/Stratege Aquaelf Arkyron.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros",
     "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.svg",
     "Adventures/Die Exos Kampagne/Flufftext",
@@ -285,9 +302,6 @@
     "Yllmagnalia/Exos/Exoskarte.excalidraw.svg",
     "Yllmagnalia/Magnialia.excalidraw.svg",
     "Adventures/Die Exos Kampagne/Maps/Elianos.svg",
-    "Taijima/Cores/Drawing 2024-06-16 20.44.39.excalidraw.svg",
-    "Mythandras/Exos/Exoskarte.excalidraw.svg",
-    "Mythandras/Mythandras.excalidraw.svg",
     "Untitled.canvas"
   ]
 }

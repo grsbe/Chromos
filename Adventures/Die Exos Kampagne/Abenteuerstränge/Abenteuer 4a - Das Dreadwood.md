@@ -68,7 +68,7 @@ Ein toter Geist der seine Freundin im Wald verloren aht und sie auf ewig sucht (
 
 Ein Haus mit dem Mädchen das sich alles Wünschen konnte über eine Scherbe von Remaros vor 250 Jahren, das immer mehr untergegangen ist.
 
-Das Haus mit den beiden Hags Isabelle Anetta
+Das Haus mit den beiden Hags Gertrude und Hildegaart
 
 Der verwunschene Wald selber (Bewegende Bäume)
 
