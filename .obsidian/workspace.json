@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
+                "file": "Adventures/Mechanics/Fishing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abenteuer 3a - Die gruselige Hütte"
+              "title": "Fishing"
+            }
+          },
+          {
+            "id": "06f91cb4bc2dccc9",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.reddit.com/r/d100/comments/kpqfhg/lets_build_magical_plantsherbs_and_their_effects/?solution=6f1dd4317423a3786f1dd4317423a378&js_challenge=1&token=7afd7253fec22262ff1c52b1703fe9ecceb810a3ec64e7e1052d590c32f6f56b&jsc_orig_r=&chainedPosts=t3_cjnrex",
+                "title": "[Lets Build] Magical Plants/Herbs and Their Effects : r/d100",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "[Lets Build] Magical Plants/Herbs and Their Effects : r/d100"
+            }
+          },
+          {
+            "id": "81e37fb7e304c51f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://perchance.org/fish-species",
+                "title": "Random Fish Species Generator",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Random Fish Species Generator"
             }
           },
           {
@@ -91,7 +119,8 @@
               "title": "Council NPCs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,19 +271,20 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8afdd969a513bc65",
+  "active": "06f91cb4bc2dccc9",
   "lastOpenFiles": [
+    "Adventures/Mechanics/Fishing.md",
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Corbeau NPCs.md",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3b - Reptilien.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3b.1 Random Bullshit go.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
     "conflict-files-obsidian-git.md",
     "Pics/cb7c8615-f866-45a8-b007-883339deee5e.png",
     "Pics/aaaa0fa4-5773-4b9c-bd28-2ea872201dd5.png",
     "Pics/69db5409-413a-421a-927b-aabfc76e3854.png",
     "Adventures/Enemy Statblocks/Mothbear.md",
     "Pics/009-02-01-chapter-2.webp",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Corbeau NPCs.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3c - Infiltatrion der Sahuaguin, Bekämpfung der Basis.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwood.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
@@ -277,7 +307,6 @@
     "Adventures/Die Exos Kampagne/NPCs/Corbeau vor 1000 Jahren",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwoodartefakt.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2.5 - Notes.md",
-    "Yllmagnalia/Phantheon/Das alte Pantheon.md",
     "Adventures/Die Exos Kampagne/NPCs/Lazarus or Remaros",
     "Adventures/Die Exos Kampagne/Maps/Drawing 2026-01-13 13.24.15.excalidraw.svg",
     "Adventures/Die Exos Kampagne/Flufftext",
