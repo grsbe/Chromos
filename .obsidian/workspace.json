@@ -22,6 +22,60 @@
             }
           },
           {
+            "id": "74a3f98ad550f294",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Versionshinweise 1.13.4"
+            }
+          },
+          {
+            "id": "47d695005d4918eb",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://5e.tools/bestiary.html#scout_xmm",
+                "title": "Scout - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Scout - 5etools"
+            }
+          },
+          {
+            "id": "a861a0eca8fdd797",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://5e.tools/bestiary.html#hobgoblin_mm",
+                "title": "Hobgoblin - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Hobgoblin - 5etools"
+            }
+          },
+          {
+            "id": "71663070d9d7fd03",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://5e.tools/bestiary.html#bandit%20captain_xmm",
+                "title": "Bandit Captain - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Bandit Captain - 5etools"
+            }
+          },
+          {
             "id": "a4841604504a9017",
             "type": "leaf",
             "state": {
@@ -35,7 +89,8 @@
               "title": "Council NPCs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +110,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Dateiexplorer"
@@ -184,12 +241,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8afdd969a513bc65",
+  "active": "74a3f98ad550f294",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
     "Pics/009-02-01-chapter-2.webp",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Corbeau NPCs.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3c - Infiltatrion der Sahuaguin, Bekämpfung der Basis.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwood.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
