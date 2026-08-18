@@ -60,8 +60,10 @@ Träume
 
 Hags, Vampir und Necro bewachen jew einen Eingang zu den Ruinen die dann zur Main Villa führen
 
+Hags haben ganz viele Leute zu Tieren verwandelt mit dem Versprechen, wenn sie machen was die Hag sagt, dann werden sie zurück verwandelt
+
 Miguel hat false confidence, er wird manipuliert von den hags
 
 sneaky wesen
 fighter wesen
-kafige wo eine Armee herangezüchtet wird in den ruinen
+kafige wo eine Armee herangezüchtet wird in den ruinen 
