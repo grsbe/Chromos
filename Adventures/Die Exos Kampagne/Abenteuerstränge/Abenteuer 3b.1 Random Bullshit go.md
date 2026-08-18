@@ -61,3 +61,7 @@ Träume
 Hags, Vampir und Necro bewachen jew einen Eingang zu den Ruinen die dann zur Main Villa führen
 
 Miguel hat false confidence, er wird manipuliert von den hags
+
+sneaky wesen
+fighter wesen
+kafige wo eine Armee herangezüchtet wird in den ruinen
