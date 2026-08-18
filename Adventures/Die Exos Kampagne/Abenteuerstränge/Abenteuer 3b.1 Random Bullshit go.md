@@ -45,3 +45,19 @@ Mimic bank
 
 Wald halb in der Geisterwelt?
 
+
+
+
+---
+Ideen für den Terror wald:
+
+Alles Ruinen
+tiefer ruinen komplex
+Völker die da drin eingesperrt sind.
+Im Zentrum das Labyrinth
+
+Träume
+
+Hags, Vampir und Necro bewachen jew einen Eingang zu den Ruinen die dann zur Main Villa führen
+
+Miguel hat false confidence, er wird manipuliert von den hags

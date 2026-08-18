@@ -4,123 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8e1e10f7bd3347ab",
+        "id": "a0b52e264cbaffaf",
         "type": "tabs",
         "children": [
           {
-            "id": "8afdd969a513bc65",
+            "id": "096dbdbed97371b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Mechanics/Fishing.md",
+                "file": "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3b.1 Random Bullshit go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fishing"
-            }
-          },
-          {
-            "id": "06f91cb4bc2dccc9",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.reddit.com/r/d100/comments/kpqfhg/lets_build_magical_plantsherbs_and_their_effects/?solution=7362a14e2d80be317362a14e2d80be31&js_challenge=1&token=7afd7253fec22262ff1c52b1703fe9ec47c5c1037675281405619a818abcff4b&jsc_orig_r=&solution=6f1dd4317423a3786f1dd4317423a378&js_challenge=1&token=7afd7253fec22262ff1c52b1703fe9ecceb810a3ec64e7e1052d590c32f6f56b&jsc_orig_r=&chainedPosts=t3_cjnrex",
-                "title": "[Lets Build] Magical Plants/Herbs and Their Effects : r/d100",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "[Lets Build] Magical Plants/Herbs and Their Effects : r/d100"
-            }
-          },
-          {
-            "id": "81e37fb7e304c51f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://perchance.org/fish-species",
-                "title": "Random Fish Species Generator",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Random Fish Species Generator"
-            }
-          },
-          {
-            "id": "9da73ad878db9228",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.dandwiki.com/wiki/Grog_of_Substantial_Whimsy_(3.5e_Equipment)",
-                "title": "Grog of Substantial Whimsy (3.5e Equipment) - D&D Wiki",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Grog of Substantial Whimsy (3.5e Equipment) - D&D Wiki"
-            }
-          },
-          {
-            "id": "47d695005d4918eb",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://5e.tools/bestiary.html#scout_xmm",
-                "title": "Scout - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Scout - 5etools"
-            }
-          },
-          {
-            "id": "a861a0eca8fdd797",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://5e.tools/bestiary.html#hobgoblin_mm",
-                "title": "Hobgoblin - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Hobgoblin - 5etools"
-            }
-          },
-          {
-            "id": "71663070d9d7fd03",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://5e.tools/bestiary.html#bandit%20captain_xmm",
-                "title": "Bandit Captain - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Bandit Captain - 5etools"
-            }
-          },
-          {
-            "id": "a4841604504a9017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Council NPCs"
+              "title": "Abenteuer 3b.1 Random Bullshit go"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,12 +172,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "06f91cb4bc2dccc9",
+  "active": "096dbdbed97371b6",
   "lastOpenFiles": [
+    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwood.md",
     "Adventures/Mechanics/Fishing.md",
+    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3a - Die gruselige Hütte.md",
     "Adventures/Die Exos Kampagne/NPCs/Corbeau/Corbeau NPCs.md",
-    "Adventures/Die Exos Kampagne/NPCs/Corbeau/Council NPCs.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3b - Reptilien.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3b.1 Random Bullshit go.md",
     "conflict-files-obsidian-git.md",
@@ -286,7 +188,6 @@
     "Adventures/Enemy Statblocks/Mothbear.md",
     "Pics/009-02-01-chapter-2.webp",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 3c - Infiltatrion der Sahuaguin, Bekämpfung der Basis.md",
-    "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 4a - Das Dreadwood.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2b - Das Wunschfest.md",
     "Adventures/Die Exos Kampagne/Abenteuerstränge/Abenteuer 2 - Das Gezeitengedenkfest.md",
     "Pics/elven_festival_around_huge_tree_arching_into_the_heavens_0f570c31-6313-4ce6-ad6b-0f018f3c5bea.png",
