@@ -71,3 +71,5 @@ kafige wo eine Armee herangezüchtet wird in den ruinen
 
 
 corvus surprise appearance
+
+leute werden infected
