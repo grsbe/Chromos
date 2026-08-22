@@ -72,4 +72,8 @@ kafige wo eine Armee herangezüchtet wird in den ruinen
 
 corvus surprise appearance
 
-leute werden infected
+leute werden infected und zu werjackals
+
+sylfonie spricht über den sinn des lebens mit altric
+
+Allie plant den Super streit zw Eliander und Geldar. Das Spukhaus gehört indirekt Geldar
