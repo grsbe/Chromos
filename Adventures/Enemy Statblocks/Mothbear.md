@@ -1,13 +1,13 @@
 
 _Large monstrosity, neutral evil_
 
-**Armor Class** 15 (natural armor)  
+**Armor Class** 16 (natural armor)  
 **Hit Points** 114 (12d10 + 48)  
 **Speed** 40 ft., climb 20 ft., fly 40 ft.
 
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|20 (+5)|14 (+2)|18 (+4)|5 (−3)|14 (+2)|8 (−1)|
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 20 (+5) | 14 (+2) | 18 (+4) | 5 (−3) | 14 (+2) | 8 (−1) |
 
 **Saving Throws** Str +8, Con +7, Wis +5  
 **Skills** Perception +5, Stealth +5  
