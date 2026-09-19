@@ -77,3 +77,5 @@ leute werden infected und zu werjackals
 sylfonie spricht über den sinn des lebens mit altric
 
 Allie plant den Super streit zw Eliander und Geldar. Das Spukhaus gehört indirekt Geldar
+
+Irgendein link zu cat
