@@ -67,7 +67,7 @@ Miguel hat false confidence, er wird manipuliert von den hags
 sneaky wesen
 fighter wesen
 kafige wo eine Armee herangezüchtet wird in den ruinen 
-
+inquisotor wesen aufpasser
 
 
 corvus surprise appearance
