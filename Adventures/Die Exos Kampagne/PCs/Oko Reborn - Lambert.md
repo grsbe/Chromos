@@ -19,7 +19,7 @@ Entweder hat ein Ratlingsservantin Lambert hinausgeschafft oder wer anders
 Zarkann ist Master von Mirador?
 Irgendwas mit Memories
 
-
+Wurde von Mirador mit einem Jungen Oko fusioniert als Experiment um Zugang zu seiner Magie zu erlangen und Kommando
 
 
 
