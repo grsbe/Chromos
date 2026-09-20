@@ -94,8 +94,10 @@ Pfau + Mimic
 Labrador Banshee
 
 
+Unterirdisch
 
-
+https://5e.tools/bestiary.html#minotaur%20infiltrator_bmt
+https://5e.tools/bestiary.html#jackalwere_xmm
 
 
 We can play a little game. You can choose- something to be given to you, you give something, or have something taken from you. Then, I’ll reveal what it is. And if you don’t like it, you can change to another! If all of you do that, I will give you the child
