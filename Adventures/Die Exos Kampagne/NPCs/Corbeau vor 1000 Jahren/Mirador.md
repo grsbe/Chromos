@@ -6,3 +6,12 @@ Erst trieb er seine Alfen zur Perfektion. Erschaffe das perfekte Haus. Perfekte 
 Schließlich schlug ein Alf namens Barakius die Spiele vor. Duelle um den Tod für all diejenigen die der Perfektion nicht würdig waren. 
 
 Plötzlich wurde die Disziplin der Tempelarchitektur zum Schlachtfeld. Die Erschaffung von Kunst zur Arena. Die Ausübung von Magie zum Überlebenskampf.
+
+Alfen wurden beauftragt die perfekten Spiele zu entwerfen. Komplexe duelle und schlachten bis in den Tod.
+Er ließ einen Turm bauen in den alle unwürdigen Alfen gebracht wurden wer oben ankam war wieder frei und durfte ihr Handwerk wieder aufnahm. Auf der letzten Etage gab es nur noch den schmerzvollen Tod der Verzweiflung. Es war nicht möglich aufzusteigen ohne dass jemand abstieg.
+
+Jeder Etage war noch schlimmer als die andere. Hungerskampf. Sozialer niedergang.
+
+Miradors Handwerk waren Spielzeug. Aber es gab kein perfektes Spielzeug. Es war hoffnungslos. Es präsentierte und baute und überlegte und landete sofort in der Untersten Ebene. Jeden Tag ein Kampf ums überleben.
+
+Er zog Daimons an mit denen er Pakte schuf die ihm sein Überleben sicherten und starke magische Magie ermöglichten.
