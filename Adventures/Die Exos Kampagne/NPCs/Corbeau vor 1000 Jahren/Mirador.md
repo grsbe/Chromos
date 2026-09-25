@@ -12,6 +12,12 @@ Er ließ einen Turm bauen in den alle unwürdigen Alfen gebracht wurden wer oben
 
 Jeder Etage war noch schlimmer als die andere. Hungerskampf. Sozialer niedergang.
 
+Lazaros nutzte die Teufel um die Elfen anzutreiben und zu kontrollieren. Die nahmen wiederum Pakte zum Schutz der Alfen an zu ihrem Vorteil.
+
 Miradors Handwerk waren Spielzeug. Aber es gab kein perfektes Spielzeug. Es war hoffnungslos. Es präsentierte und baute und überlegte und landete sofort in der Untersten Ebene. Jeden Tag ein Kampf ums überleben.
 
 Er zog Daimons an mit denen er Pakte schuf die ihm sein Überleben sicherten und starke magische Magie ermöglichten.
+
+Alleine wäre er längst zusammengebrochen und gestorben. Er traf ein Elfenmädchen, dem Schicksal verdammt zu sterben und beschützte es.
+
+Sie wären beide beinahe zusammen entkommen, aber schon im Schutz von Remaros starb sie immer noch.
