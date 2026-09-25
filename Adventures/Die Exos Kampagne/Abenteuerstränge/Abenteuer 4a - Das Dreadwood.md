@@ -49,17 +49,18 @@ Labyrithartig
 
 Eine Hag
 Ein verwunschenes Haus mit zwei wuselnden grannies
-
 Eine Lichtung die nicht aufhört also eine pocket dimension monster
-
 Eine endlose mansion
+
+
+
 
 
 
 
 ---
 
-Main Encounters
+Encounter Ideen
 
 
 Im wald:
@@ -68,15 +69,13 @@ Ein toter Geist der seine Freundin im Wald verloren aht und sie auf ewig sucht (
 
 Ein Haus mit dem Mädchen das sich alles Wünschen konnte über eine Scherbe von Remaros vor 250 Jahren, das immer mehr untergegangen ist.
 
-Das Haus mit den beiden Hags Gertrude und Hildegaart
+Das Haus mit den 3 Hags Gertrude und Hildegaart
 
 Der verwunschene Wald selber (Bewegende Bäume)
 
 
 
 Im Zentrum die Mansion mit Mirador der eine Armee erschafft mit riesiger Anzahl an Käfigen
-
-
 
 
 Miradors verknüpfungen
@@ -99,6 +98,18 @@ Unterirdisch
 https://5e.tools/bestiary.html#minotaur%20infiltrator_bmt
 https://5e.tools/bestiary.html#jackalwere_xmm
 
+---
+
+Wald Encounter:
+
+Ein korrumpierte Fee die Sylfonie wieder erkennt
+
+
+
+---
+
+
+Die 3 Hags
 
 We can play a little game. You can choose- something to be given to you, you give something, or have something taken from you. Then, I’ll reveal what it is. And if you don’t like it, you can change to another! If all of you do that, I will give you the child
 

@@ -57,7 +57,7 @@ Mirador war ein Elf der von Lazarus um sein Leben geflüchtet ist.
 Er hatte keine Wahl, man muss kämpfe gewinnen oder sterben und seine Deadline lief aus.
 Er floh zu Remaros und wünschte sich unermessliche Macht, die Macht Lazarus selbst aufzuhalten.
 
-Remaros war im Zwiegespalt. Er will sich nicht einmischen aber er kann auch keine Wünsche abschlagen. Arkyron rät ihm Barakius erst mal zu verstecken. Aber Barakius trägt unendlichen Hass auf das System von Lazarus. Seine Freunde und Geliebte sterben er kann nicht hier bleiben.
+Remaros war im Zwiegespalt. Er will sich nicht einmischen aber er kann auch keine Wünsche abschlagen. Arkyron rät ihm Mirador erst mal zu verstecken. Aber Mirador trägt unendlichen Hass auf das System von Lazarus. Seine Freunde und Geliebte sterben er kann nicht hier bleiben.
 
 Remaros geht gegen den Rat von Arkyron und reist mit Mirador zu Lazaros. Ohne den Alfen bei sich Bescheid zu sagen.
 
@@ -105,9 +105,15 @@ Ein Dunkel gekleideter Elf wirft einen Feuerball auf das Portal und mit einem dr
 Eines davon trifft den Nachtelfen und teilt ihn in zwei und kracht direkt in die Stadt, der Rest fliegt in alle Richtungen.
 
 
-1000 Jahre später bricht das Siegel leicht als Tiamat ein stück freikommt.
-Arkyron und Remaros überlegen wie sie ihn zurück bringen können.
+1000 Jahre später bricht das Siegel leicht als Tiamat unter Havis ein stück freikommt.
 
+Mirador entkommt in der Silbermine nach 1000 Jahre Folter in der Spiegelwelt, jeder Tag ein Überlebenskampf
+
+Arkyron entkommt aus Cyrilles Shard mit einem Fragment Remaros, gefangen in einem Drachling
+Er hilft Cyrille mit ihrer Magie und sie bleibt dafür stumm über 
+
+Arkyron und Remaros überlegen wie sie ihn voll zurück bringen können.
+Erst wollen sie selbst die shards sammeln jetzt lassen sie es die truppe machen.
 
 
 ### Das Fest der Wünsche
@@ -121,4 +127,4 @@ Wünsche werden erfüllt indem sich die Elfen etwas wünschen.
 Vom Baum fliegt eine Art leuchtendes Blatt/Feuer, dass sich Remaros dem annimmt?
 Wie Laternen die durch die Luft fliegen#
 
-Irgendwann wir die Party gecrashed von einem Barakius der halbtot mit seiner toten frau auftaucht
+Irgendwann wir die Party gecrashed von einem Mirador der halbtot mit seiner tochter auftaucht
