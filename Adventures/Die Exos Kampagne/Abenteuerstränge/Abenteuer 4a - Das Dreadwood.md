@@ -104,6 +104,9 @@ Wald Encounter:
 
 Ein korrumpierte Fee die Sylfonie wieder erkennt
 
+Krähen von Mirador
+
+Die Hände von Zarkann lol Oko
 
 
 ---
