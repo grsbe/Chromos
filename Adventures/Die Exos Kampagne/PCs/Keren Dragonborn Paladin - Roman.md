@@ -22,3 +22,7 @@ Rache Eid
 Hat sich verbunden mit einem Rache Eid
 
 Rache Gott -> Wrath? Oder Pride?
+
+
+SChwur:
+Ungerechtigkeiten nicht ungesühnt zu lassen um Leute vor jeglichem Bösen zu beschützen
