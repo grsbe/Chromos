@@ -115,6 +115,10 @@ Die viel zu netten Tiere
 ---
 
 
+Hag items
+
+https://www.reddit.com/r/d100/comments/ho10cp/lets_complete_d100_items_in_a_hags_hut/
+
 Die 3 Hags
 
 We can play a little game. You can choose- something to be given to you, you give something, or have something taken from you. Then, I’ll reveal what it is. And if you don’t like it, you can change to another! If all of you do that, I will give you the child
