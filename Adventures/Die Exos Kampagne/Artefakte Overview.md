@@ -1,4 +1,18 @@
- 
+
+Effekt, Dinge die man sich continuirlich wünscht gehen halbwegs in erfüllung solange man sie bei sich trägt
+
+Liste und wo
+1 Elianos unter wasser, hat die Party
+2 Ahnenhöhle, hat die Party
+3 Cyrilles, bei cyrille, kommt aus Tailenis
+4 Mirador, in Miradors Burg, trägt er bei sich
+5 Narnia, die Gezeitenrufer
+6 Das Geisterschiff trägt eins
+7 Sahuaginboss hat eins
+8 Arkyron hat eins, in Corbeau?
+9 Das Badehaus
+
+
 
 ### Quests
 
@@ -9,7 +23,7 @@ Eins findet die Party in Elianos (transportiert einen in die Spiegelwelt in die 
 
 1 x
 Eins liegt unter der Stadt in der Höhle der Ahnen in der versteckten Höhle hinter dem Spiegel im Spiegelbild, Arkyron findet das vor der Truppe und Konfrontation findet statt
-(zeigt jedem seinen inneren Wunsch. Ist aber nicht unbedingt der innere Wunsch, tut aber so, zeigt die richtung der anderen Artefakte, das Centerstück)
+(zeigt jedem seinen inneren Wunsch.)
 
 2 x Das Center stück
 Die Schwester des Prinzen Cyrille trägt ein Artefakt um den Hals
@@ -33,10 +47,10 @@ Mirador sollte eigentlich Oko für zarkann aufbewahren und verstecken aber er ha
 Er hat zarkanns wunsch nach macht und unsterblichkeit mit einem dorfjungen kombiniert der nur gemeinsamkeit etc wollte.
 
 10
-~~Eins hat der Stratege Arkyron bereits (gewährt den wunsch der teleportation über spiegel)~~
+Eins hat Arkyron?
 
 5
-Die Entführte Echsen Prinzessin trug eins, das jetzt der Sahuagin halbgott hat
+Die Entführte Echsen Prinzessin trug eins, das jetzt der Sahuagin halbgott hat und nutzt
 Erlaubt, dass leute einen als mit viel Aura und Charisma wahrnehmen
 (wunsch groß zu erscheinen aber lässt einem im spiegel hässlich erscheinen)
 
@@ -49,10 +63,7 @@ Eins liegt im Geisterpiratenschiff
 hält Leute am Leben aber neidisch
 (gewährt den Wunsch nicht zu altern aber nicht wertzuschätzehn)
 
-7
-Sturmoutpost
-can not resist wünsch äußerungen
-(macht dass beim Schlafen Träume entstehen mit dem was sich die Person wünscht. Erzeugt starke Sehnsucht danach und macht dass es Leuten schwierig ist diese Wünsche abzuschlagen)
+
 
 8
 Badehaus Spiegel
@@ -62,4 +73,11 @@ Nachts stärker.
 (gewährt den Weg in eine Spiegelwelt?)
 
 
+
+
+
+7
+Sturmoutpost
+can not resist wünsch äußerungen
+(macht dass beim Schlafen Träume entstehen mit dem was sich die Person wünscht. Erzeugt starke Sehnsucht danach und macht dass es Leuten schwierig ist diese Wünsche abzuschlagen)
 

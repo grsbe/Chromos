@@ -115,24 +115,25 @@ Die viel zu netten Tiere
 ---
 
 
+Hag items
+
+https://www.reddit.com/r/d100/comments/ho10cp/lets_complete_d100_items_in_a_hags_hut/
+
 Die 3 Hags
 
 We can play a little game. You can choose- something to be given to you, you give something, or have something taken from you. Then, I’ll reveal what it is. And if you don’t like it, you can change to another! If all of you do that, I will give you the child
 
 
-### The decks
-
-
-|1d6|A Green Hag Trades Its Knowledge For...|
-|---|---|
-|1|A bargainer's memories of a loved one.|
-|2|The cauldron of a rival hag.|
-|3|A favor to be redeemed when the hag wishes.|
-|4|A flower from a hidden Feywild garden.|
-|5|A gift given freely by a yugoloth.|
-|6|A vial filled with a ruler's tears.|
-
 **YOU — the errand** (d10)
+
+Du gibst den Brief an Eliander, ohne reinzuschauen und ohne dass er es weiß
+Du gibst Narnia diesen Dolch. In sein Herz
+Du gibst diesen Kristall an einen Fischer am Hafen mit flammendem rotem haar
+Du gibst diese Locke an Alena
+Du gibst mir eine angenehme Unterkunft wenn ich Corbeau besuche
+Du gibst mir einen Kuss auf die Stirn
+Du gibst Cat diesen Ring, ohne dass sie es weiß
+DU gibst mir eine einstündige Massage
 
 1. You give the baron this apple. _(She does not say what it does. It may do nothing at all.)_
 2. You give the miller's boy this dagger, in his belly.
@@ -147,6 +148,11 @@ We can play a little game. You can choose- something to be given to you, you giv
 
 **GIVE — the gift** (d10)
 
+Bekomst ein magisches Auge von mir
+Einen Traum von mir, jeden Monat einmal
+Einen Freund fürs leben
+Eine Erinnerung deiner Wahl zurück
+
 1. A love of books — you cannot resist reading anything put in front of you. _(Pair with #4 above and watch the table's faces.)_
 2. An answer to any one question, delivered when she pleases. Truthfulness not included.
 3. A necklace for you to wear. A Hag's Eye. It does not come off.
@@ -159,6 +165,16 @@ We can play a little game. You can choose- something to be given to you, you giv
 10. A child, someday, with your eyes.
 
 **TAKE — the price** (d10)
+
+Deine Magie
+Dein Schwert
+Deinen Geruchssinn
+Deinen letzten Atemzug
+Reflection
+Dein Lachen
+Dein Blut, jeden Neumond
+Deine spitze Zunge
+Deine Erinnerungen deiner Kindheit
 
 1. Your ability to kill. Enemies that should die drop to 1 hp instead.
 2. Your last breath. Disadvantage on death saves. _(Softer than two-strikes and still terrifying.)_
