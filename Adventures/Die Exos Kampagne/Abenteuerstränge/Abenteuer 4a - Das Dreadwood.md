@@ -152,6 +152,12 @@ Bekomst ein magisches Auge von mir
 Einen Traum von mir, jeden Monat einmal
 Einen Freund fürs leben
 Eine Erinnerung deiner Wahl zurück
+Diesen magischen ring
+Amulet
+Ein 
+
+Erinnerung an deine Mutter
+
 
 1. A love of books — you cannot resist reading anything put in front of you. _(Pair with #4 above and watch the table's faces.)_
 2. An answer to any one question, delivered when she pleases. Truthfulness not included.
