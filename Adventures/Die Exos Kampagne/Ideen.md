@@ -8,7 +8,7 @@ Mirador liegt in dieser Wanne und hat die größere Menge seines Körpers geopft
 Die Hexe ist an Mirador gefesselt, ist aber die einzige die ihn nicht akzeptiert.
 Viola ist auch Lethariel Anhänger
 
-Cooler Hexen fight mit der einen Hexe auf der Seite des Teams, komplexes Terrain und verschiedene Gegner. Halb im ethereal. Kinder retten.
+Cooler Hexen fight mit der einen Hexe auf der Seite des Teams, komplexes Terrain und verschiedene Gegner. Halb im ethereal. Kinder retten. Mottenbär spawnt
 
 
 
