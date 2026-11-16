@@ -1,5 +1,14 @@
 
 
+Anführerin der Gezeitenrufer wurde assasiniert von Allie
+-> Ich brauch verschiedene Verdächtige: Geldar. Eliander. Die Hexe. Arkyron
+Hexe will Brief an Eliander der ihm Hinweis auf illegalen Besitz von Geldar bringt, dafür unterstützt die die Truppe. Sie will die Seele der anderen beiden Hexen einfangen.
+
+Mirador liegt in dieser Wanne und hat die größere Menge seines Körpers geopftert für Kräfte
+Die Hexe ist an Mirador gefesselt, ist aber die einzige die ihn nicht akzeptiert.
+Viola ist auch Lethariel Anhänger
+
+Cooler Hexen fight mit der einen Hexe auf der Seite des Teams, komplexes Terrain und verschiedene Gegner. Halb im ethereal. Kinder retten.
 
 
 
