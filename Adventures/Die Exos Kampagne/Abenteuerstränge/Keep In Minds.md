@@ -1,7 +1,11 @@
 
 Keren schuldet Fineas etwas
 
-Alena hat ein Date
+Alena hat ein Date und es fehlen drei kinder
+
+Arkyron ist frei am herum laufen
+
+Mirador will so schnell wie möglich angreifen
 
 
 
@@ -11,7 +15,30 @@ interessante szenarien
 actions in scenes, gib
 gib npcs topics zum reden und denk nach was die actually machen wollen, cheeky oder eigen sein
 
+Eisenberg probiert das serum zu analysieren.
 
+
+# Plan
+
+People doing stuff:
+Arkyron kennt cyrillia, sucht die shards
+Allie brief an 
+Mirador
+Geldar, Eda
+Elliander und co
+
+
+Erkunde das Dreadwood
+Cyrilles Ball, Allie Kill
+Fischmensch attack
+Dreadwood attack
+
+Finde die restlichen shards: 
+Badehaus, LizardPrinzessin-> Fischgott
+Mirador, Allie Arkyron
+
+Szenen:
+Königsbruder nördlich
 
 
 # Grundsätzliche Ideen Geheimnisse
@@ -26,4 +53,6 @@ Die Villa war leer und im Zentrum war Oko in einem Sarg und
 Arkyron ist vor 3 Jahren
 
 
+# Encouter ideen
 
+jemand ist unsichtbar

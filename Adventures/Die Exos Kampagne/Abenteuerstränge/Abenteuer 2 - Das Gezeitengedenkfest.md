@@ -36,18 +36,7 @@ Cyrille schleicht sich aus der Stradt und versucht ihre magie abseits der Stadt 
 Die Schweine Familie liegt im Solaris Tempel
 
 
-Mirador gelingt die Fusion :
-Bär Motte
-Falke Maulwurf
-Wolfschaf
-Rehkrokodil
-Mantis + Kaninchen
-Schnecke + Gepard
-Chamäleon + Stier
-Stahl Pferd
 
-Pfau + Mimic
-Labrador Banshee
 
 ---
 Infos die in der Session Leute wissen:
@@ -268,7 +257,7 @@ Fineas der Katzenmensch
 Aya (die Prinzessin)
 Eleanor
 Viola die Archeologische Elfe (hat ein Tatoo von Lethariel)
-Elaren der Elf (Arkyron)
+Riya der Elf (Arkyron)
 Tieflingkind Stolz im auftrag von Keoland und Tiamat
 Einer der Silasbrüder (Just here to have fun)
 Cat (Katzenmädchen, Gezeitenruferin)
