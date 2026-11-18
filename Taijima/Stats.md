@@ -1,6 +1,6 @@
 
 Strength
-Agility
+Dexterity
 Vitality
 
 Intelligence

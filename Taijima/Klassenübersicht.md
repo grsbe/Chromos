@@ -22,7 +22,7 @@ Gameloop: Shadow/Invis, Stalk, Hit, Run, Apply debuffs, kill enemy specialists o
 Sidegameloop: Gather Herbs, Poisons, Curses to enchant or apply
 Telegraphed Attacks: Invul dodge into shadows or Parrys, extreme high movement
 
-## Controller
+## Controller/Lighthouse
 Paths: Enchanter, Atillery
 Main Mechanic: Buffing/Debuffing/Information
 Damage:
@@ -32,9 +32,9 @@ Utility:
 - Buffs on reaction
 - Massive situational Debuffs
 - Information about Area/Enemies/Light
-Gameloop: Keep Range, Coordinate Team with Buffs and Shields
+Gameloop: Keep Range, Coordinate Team with Buffs and Shields, collect info
 Sidegameloop: Collect library books to craft combined spells
-Telegraphed Attacks: Invul dodge into shadows, extreme high movement
+Telegraphed Attacks: teleport, extreme high conditional movement
 
 ## Tank
 Paths: Warden, Diver
